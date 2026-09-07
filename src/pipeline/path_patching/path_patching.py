@@ -1,14 +1,20 @@
+import os
+import json
+import argparse
 import torch as t
 from torch import Tensor
 from collections import defaultdict
-from jaxtyping import Float, Int
-from typing import Callable
+from jaxtyping import Bool, Float, Int
+from typing import Callable, Literal
 from tqdm.auto import tqdm
+import einops
+import numpy
 import functools
 from functools import partial
 from itertools import product
 
 from transformer_lens import ActivationCache, HookedTransformer, utils
+from transformer_lens.components import MLP, Embed, LayerNorm, Unembed
 from transformer_lens.hook_points import HookPoint
 
 from metrics import task_vocab_prob_mass
