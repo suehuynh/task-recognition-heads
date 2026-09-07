@@ -11,8 +11,12 @@ import pickle
 import numpy as np
 import torch
 from transformer_lens import HookedTransformer
+import argparse
 
-from scoring import maps_scores_for_layer
+from utils.build_prompts import (
+    _load_dataset, create_instruction_prompts, create_few_shot_prompts,
+)
+from scoring import maps_scores_for_layer, expand_task_term_token_ids
 
 torch.set_grad_enabled(False)
 
@@ -78,3 +82,76 @@ def save_maps_scores(maps_scores: np.ndarray, save_root: str, model_name: str,
         pickle.dump(maps_scores, f)
     print(f"Saved MAPS scores to {save_path}")
     return save_path
+
+def build_correct_prompts(prompt_type, template_key, d_name, dataset_folder,
+                           behavior_path, project_root):
+    """Returns the list of prompt strings, filtered down to correct_index only."""
+    correct_index = load_behavior_correct_index(behavior_path, d_name, template_key)
+
+    if prompt_type == "EP":
+        prompts, answers, _ = create_few_shot_prompts(
+            d_name, n_shot=int(template_key), dataset_folder=dataset_folder,
+            delimiter=";", q_bos=" ", a_bos=" ", qa_delimiter=":",
+        )
+    elif prompt_type == "IP":
+        with open(os.path.join(project_root, "datasets", "dataset_info", "instruction_dict.json")) as f:
+            instruction_dict = json.load(f)
+        dataset = _load_dataset(d_name, dataset_folder)
+        prompts, answers = create_instruction_prompts(dataset, instruction_dict[d_name][str(template_key)])
+    else:
+        raise ValueError(f"prompt_type {prompt_type} not supported")
+
+    # Both create_* functions preserve dataset order 1:1 (index i <-> dataset item i),
+    # so correct_index (positions from check_correctness on this same `prompts` list
+    # during behavior_variance.py) can index directly into `prompts` here.
+    correct_prompts = [prompts[i] for i in correct_index]
+    print(f"{prompt_type} template {template_key}: {len(correct_prompts)}/{len(prompts)} correct prompts")
+    return correct_prompts
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model_name", type=str, required=True)
+    parser.add_argument("--d_name", type=str, required=True)
+    parser.add_argument("--prompt_type", type=str, required=True, choices=["EP", "IP"])
+    parser.add_argument("--template_key", type=str, required=True,
+        help="EP: n_shot as string e.g. '5'. IP: instruction index as string e.g. '2'.")
+    parser.add_argument("--save_root", type=str, default="output")
+    parser.add_argument("--project_root", type=str, default="")
+    parser.add_argument("--dataset_folder", type=str, default="datasets/abstractive")
+    parser.add_argument("--batch_size", type=int, default=20)
+    parser.add_argument("--k", type=int, default=20)
+    parser.add_argument("--n_match", type=int, default=1)
+    parser.add_argument("--dtype", type=str, default="float32",
+        choices=["float32", "float16", "bfloat16"])
+    args = parser.parse_args()
+
+    dtype = getattr(torch, args.dtype)
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    model_short_name = args.model_name.split("/")[-1]
+
+    print("Loading model...")
+    model = HookedTransformer.from_pretrained(args.model_name, device=device, dtype=dtype)
+
+    with open(os.path.join(args.project_root, "datasets", "dataset_info", "task_relation_dict.json")) as f:
+        task_relation_dict = json.load(f)
+    task_term_token_ids = expand_task_term_token_ids(model, task_relation_dict[args.d_name])
+    print(f"Task terms {task_relation_dict[args.d_name]} -> {len(task_term_token_ids)} token variants")
+
+    behavior_file = "EP_vary_n_shot_behavior.json" if args.prompt_type == "EP" else "IP_vary_n_inst_behavior.json"
+    behavior_path = os.path.join(args.save_root, model_short_name, "across_tasks", "Behavior", behavior_file)
+
+    correct_prompts = build_correct_prompts(
+        args.prompt_type, args.template_key, args.d_name, args.dataset_folder,
+        behavior_path, args.project_root,
+    )
+
+    maps_scores = identify_lexical_task_heads(
+        model, correct_prompts, task_term_token_ids,
+        k=args.k, n_match=args.n_match, batch_size=args.batch_size,
+    )
+    save_maps_scores(
+        maps_scores, save_root=args.save_root, model_name=model_short_name,
+        d_name=args.d_name, prompt_type=args.prompt_type,
+        template_key=args.template_key, k=args.k, n_match=args.n_match,
+    )
