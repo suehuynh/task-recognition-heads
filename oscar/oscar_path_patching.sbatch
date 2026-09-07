@@ -39,7 +39,8 @@ for TASK in "${TASKS[@]}"; do
         --threshold "$THRESHOLD" \
         --pp_prompt_index "$PP_PROMPT_INDEX" \
         --receiver_input q \
-        --metric l2_norm_rel lprr \
+        --receiver_key ep_heads \
+        --metric l2_norm_rel l2_norm_abs lprr \
         --exp_size 50 \
         --batch_size 8
 done
