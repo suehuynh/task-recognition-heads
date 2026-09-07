@@ -8,3 +8,4 @@ typing
 transformers
 transformer_lens
 nnsight
+plotly
