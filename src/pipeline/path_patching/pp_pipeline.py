@@ -7,7 +7,7 @@ import pickle
 from transformer_lens import HookedTransformer
 
 from utils.build_prompts import create_few_shot_prompts, create_task_corrupt_prompts
-from metrics import l2_norm_rel, l2_norm_abs, lprr
+from metrics import l2_norm_rel, l2_norm_abs
 from path_patching import (
     get_path_patch_head_to_heads,
     get_path_patch_head_to_LTH_vocab,
