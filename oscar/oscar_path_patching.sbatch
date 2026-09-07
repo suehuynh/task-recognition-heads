@@ -24,7 +24,7 @@ MODEL="meta-llama/Llama-3.2-1B-Instruct"
 TASKS=("country-capital")
 
 K=20                 
-THRESHOLD=0.1      
+THRESHOLD=0.2      
 PP_PROMPT_INDEX=10
 
 for TASK in "${TASKS[@]}"; do
@@ -40,7 +40,7 @@ for TASK in "${TASKS[@]}"; do
         --pp_prompt_index "$PP_PROMPT_INDEX" \
         --receiver_input q \
         --receiver_key ep_heads \
-        --metric l2_norm_rel l2_norm_abs lprr \
-        --exp_size 50 \
-        --batch_size 8
+        --metric l2_norm_abs lprr \
+        --exp_size 25 \
+        --batch_size 16
 done
