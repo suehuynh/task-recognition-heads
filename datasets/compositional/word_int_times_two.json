@@ -1,0 +1,4002 @@
+[
+    {
+        "input": "five hundred and forty-five",
+        "output": "1090"
+    },
+    {
+        "input": "nine hundred and twenty-seven",
+        "output": "1854"
+    },
+    {
+        "input": "four hundred and ninety-six",
+        "output": "992"
+    },
+    {
+        "input": "seventy-eight",
+        "output": "156"
+    },
+    {
+        "input": "four hundred and forty-six",
+        "output": "892"
+    },
+    {
+        "input": "seven hundred and two",
+        "output": "1404"
+    },
+    {
+        "input": "two hundred and seventeen",
+        "output": "434"
+    },
+    {
+        "input": "six hundred and seventy-three",
+        "output": "1346"
+    },
+    {
+        "input": "four hundred and fifty-two",
+        "output": "904"
+    },
+    {
+        "input": "one hundred and eighty-five",
+        "output": "370"
+    },
+    {
+        "input": "one hundred and sixty",
+        "output": "320"
+    },
+    {
+        "input": "eight hundred and six",
+        "output": "1612"
+    },
+    {
+        "input": "six hundred and forty-two",
+        "output": "1284"
+    },
+    {
+        "input": "one hundred and fifty-nine",
+        "output": "318"
+    },
+    {
+        "input": "three hundred and eighty-six",
+        "output": "772"
+    },
+    {
+        "input": "three hundred and sixteen",
+        "output": "632"
+    },
+    {
+        "input": "sixty-seven",
+        "output": "134"
+    },
+    {
+        "input": "two hundred and twenty-six",
+        "output": "452"
+    },
+    {
+        "input": "eight hundred and eighty-two",
+        "output": "1764"
+    },
+    {
+        "input": "four hundred and thirty",
+        "output": "860"
+    },
+    {
+        "input": "two hundred and five",
+        "output": "410"
+    },
+    {
+        "input": "four hundred and sixty-one",
+        "output": "922"
+    },
+    {
+        "input": "eight hundred and sixty-seven",
+        "output": "1734"
+    },
+    {
+        "input": "ninety-eight",
+        "output": "196"
+    },
+    {
+        "input": "seven hundred and twenty-two",
+        "output": "1444"
+    },
+    {
+        "input": "eight hundred and forty-one",
+        "output": "1682"
+    },
+    {
+        "input": "one hundred and one",
+        "output": "202"
+    },
+    {
+        "input": "two hundred and fifty-eight",
+        "output": "516"
+    },
+    {
+        "input": "zero",
+        "output": "0"
+    },
+    {
+        "input": "eight hundred and two",
+        "output": "1604"
+    },
+    {
+        "input": "eight hundred and ninety-three",
+        "output": "1786"
+    },
+    {
+        "input": "seven hundred and eighty-one",
+        "output": "1562"
+    },
+    {
+        "input": "six hundred and ninety-seven",
+        "output": "1394"
+    },
+    {
+        "input": "seven hundred and forty-four",
+        "output": "1488"
+    },
+    {
+        "input": "five hundred and seventeen",
+        "output": "1034"
+    },
+    {
+        "input": "seven hundred and eighty-three",
+        "output": "1566"
+    },
+    {
+        "input": "six hundred and eighty-six",
+        "output": "1372"
+    },
+    {
+        "input": "three hundred and sixty-six",
+        "output": "732"
+    },
+    {
+        "input": "seven hundred and five",
+        "output": "1410"
+    },
+    {
+        "input": "three hundred and fifty-one",
+        "output": "702"
+    },
+    {
+        "input": "nine hundred and sixty-six",
+        "output": "1932"
+    },
+    {
+        "input": "six hundred and seventy-four",
+        "output": "1348"
+    },
+    {
+        "input": "one hundred and eighty-six",
+        "output": "372"
+    },
+    {
+        "input": "nine hundred and fifty",
+        "output": "1900"
+    },
+    {
+        "input": "two hundred and eighty-five",
+        "output": "570"
+    },
+    {
+        "input": "eighty-seven",
+        "output": "174"
+    },
+    {
+        "input": "six hundred and ninety-three",
+        "output": "1386"
+    },
+    {
+        "input": "five hundred and thirty-four",
+        "output": "1068"
+    },
+    {
+        "input": "six hundred and two",
+        "output": "1204"
+    },
+    {
+        "input": "four hundred and seventy-one",
+        "output": "942"
+    },
+    {
+        "input": "two hundred and seventy-four",
+        "output": "548"
+    },
+    {
+        "input": "three hundred and twenty-seven",
+        "output": "654"
+    },
+    {
+        "input": "one hundred and ninety-two",
+        "output": "384"
+    },
+    {
+        "input": "nine hundred and eighty-six",
+        "output": "1972"
+    },
+    {
+        "input": "one hundred and thirty-four",
+        "output": "268"
+    },
+    {
+        "input": "one hundred and thirty-six",
+        "output": "272"
+    },
+    {
+        "input": "two hundred and thirty-two",
+        "output": "464"
+    },
+    {
+        "input": "one hundred and seventy-four",
+        "output": "348"
+    },
+    {
+        "input": "four hundred and forty-five",
+        "output": "890"
+    },
+    {
+        "input": "nine hundred and thirty-seven",
+        "output": "1874"
+    },
+    {
+        "input": "five hundred and ninety",
+        "output": "1180"
+    },
+    {
+        "input": "six hundred and twenty-five",
+        "output": "1250"
+    },
+    {
+        "input": "five hundred and ninety-eight",
+        "output": "1196"
+    },
+    {
+        "input": "one hundred and twenty-nine",
+        "output": "258"
+    },
+    {
+        "input": "one hundred and forty-three",
+        "output": "286"
+    },
+    {
+        "input": "six hundred and fifty-three",
+        "output": "1306"
+    },
+    {
+        "input": "three hundred and seventy-four",
+        "output": "748"
+    },
+    {
+        "input": "eight hundred and sixty-five",
+        "output": "1730"
+    },
+    {
+        "input": "four hundred and seven",
+        "output": "814"
+    },
+    {
+        "input": "seven hundred and forty-six",
+        "output": "1492"
+    },
+    {
+        "input": "six hundred and ninety-eight",
+        "output": "1396"
+    },
+    {
+        "input": "two hundred and fifty-two",
+        "output": "504"
+    },
+    {
+        "input": "nine hundred and seventy-one",
+        "output": "1942"
+    },
+    {
+        "input": "nine hundred and forty-two",
+        "output": "1884"
+    },
+    {
+        "input": "eighty-four",
+        "output": "168"
+    },
+    {
+        "input": "eight hundred and eighty-one",
+        "output": "1762"
+    },
+    {
+        "input": "three hundred and seventy-six",
+        "output": "752"
+    },
+    {
+        "input": "two hundred and four",
+        "output": "408"
+    },
+    {
+        "input": "two hundred and six",
+        "output": "412"
+    },
+    {
+        "input": "three hundred and fifty-three",
+        "output": "706"
+    },
+    {
+        "input": "four hundred and five",
+        "output": "810"
+    },
+    {
+        "input": "forty-six",
+        "output": "92"
+    },
+    {
+        "input": "two hundred and eighty-six",
+        "output": "572"
+    },
+    {
+        "input": "nine hundred and ninety-nine",
+        "output": "1998"
+    },
+    {
+        "input": "four hundred and sixty-five",
+        "output": "930"
+    },
+    {
+        "input": "one hundred and forty-nine",
+        "output": "298"
+    },
+    {
+        "input": "five hundred and eighteen",
+        "output": "1036"
+    },
+    {
+        "input": "five hundred and thirty-nine",
+        "output": "1078"
+    },
+    {
+        "input": "one hundred and seventy-one",
+        "output": "342"
+    },
+    {
+        "input": "seven hundred and thirty-five",
+        "output": "1470"
+    },
+    {
+        "input": "six hundred and forty-nine",
+        "output": "1298"
+    },
+    {
+        "input": "one hundred and seventy-eight",
+        "output": "356"
+    },
+    {
+        "input": "four hundred and eight",
+        "output": "816"
+    },
+    {
+        "input": "nine hundred and seventy",
+        "output": "1940"
+    },
+    {
+        "input": "seven hundred and thirty-seven",
+        "output": "1474"
+    },
+    {
+        "input": "two hundred and ten",
+        "output": "420"
+    },
+    {
+        "input": "nine hundred and three",
+        "output": "1806"
+    },
+    {
+        "input": "three hundred and one",
+        "output": "602"
+    },
+    {
+        "input": "three hundred and five",
+        "output": "610"
+    },
+    {
+        "input": "eight hundred and eighty-nine",
+        "output": "1778"
+    },
+    {
+        "input": "seven hundred and seventy-seven",
+        "output": "1554"
+    },
+    {
+        "input": "nine hundred and seventy-nine",
+        "output": "1958"
+    },
+    {
+        "input": "six hundred and thirty-one",
+        "output": "1262"
+    },
+    {
+        "input": "thirty-three",
+        "output": "66"
+    },
+    {
+        "input": "one hundred and eighteen",
+        "output": "236"
+    },
+    {
+        "input": "seven hundred and eight",
+        "output": "1416"
+    },
+    {
+        "input": "seven hundred and sixteen",
+        "output": "1432"
+    },
+    {
+        "input": "ninety-six",
+        "output": "192"
+    },
+    {
+        "input": "four hundred and eleven",
+        "output": "822"
+    },
+    {
+        "input": "seven hundred",
+        "output": "1400"
+    },
+    {
+        "input": "nine hundred and fifteen",
+        "output": "1830"
+    },
+    {
+        "input": "five hundred and forty-six",
+        "output": "1092"
+    },
+    {
+        "input": "four hundred and eighty-seven",
+        "output": "974"
+    },
+    {
+        "input": "seventy-two",
+        "output": "144"
+    },
+    {
+        "input": "four hundred and ninety-four",
+        "output": "988"
+    },
+    {
+        "input": "eight hundred and eighty-five",
+        "output": "1770"
+    },
+    {
+        "input": "seven hundred and sixty-six",
+        "output": "1532"
+    },
+    {
+        "input": "four hundred and forty-nine",
+        "output": "898"
+    },
+    {
+        "input": "four hundred and thirty-eight",
+        "output": "876"
+    },
+    {
+        "input": "nine hundred and eighty-seven",
+        "output": "1974"
+    },
+    {
+        "input": "eight hundred and sixteen",
+        "output": "1632"
+    },
+    {
+        "input": "nine hundred and ninety-four",
+        "output": "1988"
+    },
+    {
+        "input": "six hundred and thirty-seven",
+        "output": "1274"
+    },
+    {
+        "input": "two hundred and ninety-one",
+        "output": "582"
+    },
+    {
+        "input": "nine hundred and fifty-eight",
+        "output": "1916"
+    },
+    {
+        "input": "two hundred and eighty-three",
+        "output": "566"
+    },
+    {
+        "input": "three hundred and twenty-two",
+        "output": "644"
+    },
+    {
+        "input": "five hundred and seventy-six",
+        "output": "1152"
+    },
+    {
+        "input": "nine hundred and ninety-two",
+        "output": "1984"
+    },
+    {
+        "input": "two hundred and thirty-one",
+        "output": "462"
+    },
+    {
+        "input": "seven hundred and fifty-six",
+        "output": "1512"
+    },
+    {
+        "input": "four hundred and seventy-three",
+        "output": "946"
+    },
+    {
+        "input": "one hundred and thirty-three",
+        "output": "266"
+    },
+    {
+        "input": "nine hundred and seventy-three",
+        "output": "1946"
+    },
+    {
+        "input": "seventy-five",
+        "output": "150"
+    },
+    {
+        "input": "two hundred and eighty",
+        "output": "560"
+    },
+    {
+        "input": "six hundred and ten",
+        "output": "1220"
+    },
+    {
+        "input": "four hundred and ninety-two",
+        "output": "984"
+    },
+    {
+        "input": "nine hundred and sixty-one",
+        "output": "1922"
+    },
+    {
+        "input": "one hundred and fifty-one",
+        "output": "302"
+    },
+    {
+        "input": "nine hundred and twelve",
+        "output": "1824"
+    },
+    {
+        "input": "nine hundred and thirty-one",
+        "output": "1862"
+    },
+    {
+        "input": "one hundred and sixty-seven",
+        "output": "334"
+    },
+    {
+        "input": "seven hundred and eleven",
+        "output": "1422"
+    },
+    {
+        "input": "four hundred and thirty-seven",
+        "output": "874"
+    },
+    {
+        "input": "three hundred and nineteen",
+        "output": "638"
+    },
+    {
+        "input": "nine hundred and sixty-five",
+        "output": "1930"
+    },
+    {
+        "input": "five hundred and thirty-two",
+        "output": "1064"
+    },
+    {
+        "input": "seven hundred and thirty-two",
+        "output": "1464"
+    },
+    {
+        "input": "thirty-two",
+        "output": "64"
+    },
+    {
+        "input": "four hundred and eighty-five",
+        "output": "970"
+    },
+    {
+        "input": "one hundred and thirty-five",
+        "output": "270"
+    },
+    {
+        "input": "six hundred and thirty",
+        "output": "1260"
+    },
+    {
+        "input": "nine hundred and sixty-four",
+        "output": "1928"
+    },
+    {
+        "input": "three hundred and twenty-four",
+        "output": "648"
+    },
+    {
+        "input": "sixty-eight",
+        "output": "136"
+    },
+    {
+        "input": "one hundred and nine",
+        "output": "218"
+    },
+    {
+        "input": "nine hundred and fifty-four",
+        "output": "1908"
+    },
+    {
+        "input": "five hundred and six",
+        "output": "1012"
+    },
+    {
+        "input": "nine hundred and ninety-six",
+        "output": "1992"
+    },
+    {
+        "input": "two hundred and two",
+        "output": "404"
+    },
+    {
+        "input": "nine hundred and fourteen",
+        "output": "1828"
+    },
+    {
+        "input": "two hundred and ninety-nine",
+        "output": "598"
+    },
+    {
+        "input": "one hundred and seventy-five",
+        "output": "350"
+    },
+    {
+        "input": "two hundred and forty-one",
+        "output": "482"
+    },
+    {
+        "input": "seven hundred and ninety-five",
+        "output": "1590"
+    },
+    {
+        "input": "six hundred and sixty-six",
+        "output": "1332"
+    },
+    {
+        "input": "six hundred and fifty-one",
+        "output": "1302"
+    },
+    {
+        "input": "one hundred and ninety-three",
+        "output": "386"
+    },
+    {
+        "input": "six hundred and twelve",
+        "output": "1224"
+    },
+    {
+        "input": "three hundred and seventy-eight",
+        "output": "756"
+    },
+    {
+        "input": "six hundred and forty-eight",
+        "output": "1296"
+    },
+    {
+        "input": "three hundred and nine",
+        "output": "618"
+    },
+    {
+        "input": "two hundred and twenty-two",
+        "output": "444"
+    },
+    {
+        "input": "five hundred and ninety-seven",
+        "output": "1194"
+    },
+    {
+        "input": "two hundred and forty",
+        "output": "480"
+    },
+    {
+        "input": "nine hundred and four",
+        "output": "1808"
+    },
+    {
+        "input": "six hundred and fourteen",
+        "output": "1228"
+    },
+    {
+        "input": "four hundred",
+        "output": "800"
+    },
+    {
+        "input": "eighty-five",
+        "output": "170"
+    },
+    {
+        "input": "eight hundred and thirty-four",
+        "output": "1668"
+    },
+    {
+        "input": "four hundred and forty-one",
+        "output": "882"
+    },
+    {
+        "input": "eight hundred and twenty-four",
+        "output": "1648"
+    },
+    {
+        "input": "five hundred and seven",
+        "output": "1014"
+    },
+    {
+        "input": "one hundred and forty",
+        "output": "280"
+    },
+    {
+        "input": "two hundred and twenty",
+        "output": "440"
+    },
+    {
+        "input": "eight hundred and seventy-three",
+        "output": "1746"
+    },
+    {
+        "input": "four hundred and four",
+        "output": "808"
+    },
+    {
+        "input": "seven hundred and ninety-one",
+        "output": "1582"
+    },
+    {
+        "input": "seven hundred and eighty-five",
+        "output": "1570"
+    },
+    {
+        "input": "three hundred and thirty-four",
+        "output": "668"
+    },
+    {
+        "input": "five hundred and eighty-one",
+        "output": "1162"
+    },
+    {
+        "input": "nine hundred",
+        "output": "1800"
+    },
+    {
+        "input": "one hundred and eighty-four",
+        "output": "368"
+    },
+    {
+        "input": "thirty-five",
+        "output": "70"
+    },
+    {
+        "input": "seven hundred and ninety-six",
+        "output": "1592"
+    },
+    {
+        "input": "three hundred and fifty-nine",
+        "output": "718"
+    },
+    {
+        "input": "nine hundred and thirty-four",
+        "output": "1868"
+    },
+    {
+        "input": "four hundred and sixty-seven",
+        "output": "934"
+    },
+    {
+        "input": "five hundred and twenty-eight",
+        "output": "1056"
+    },
+    {
+        "input": "one hundred and eighty-one",
+        "output": "362"
+    },
+    {
+        "input": "seven hundred and seventy-eight",
+        "output": "1556"
+    },
+    {
+        "input": "one hundred and eighty-eight",
+        "output": "376"
+    },
+    {
+        "input": "twenty-nine",
+        "output": "58"
+    },
+    {
+        "input": "four hundred and ninety-nine",
+        "output": "998"
+    },
+    {
+        "input": "three hundred and thirty-two",
+        "output": "664"
+    },
+    {
+        "input": "ninety-nine",
+        "output": "198"
+    },
+    {
+        "input": "five hundred and forty-nine",
+        "output": "1098"
+    },
+    {
+        "input": "eight hundred",
+        "output": "1600"
+    },
+    {
+        "input": "two hundred and nine",
+        "output": "418"
+    },
+    {
+        "input": "four hundred and twenty-five",
+        "output": "850"
+    },
+    {
+        "input": "six",
+        "output": "12"
+    },
+    {
+        "input": "seven hundred and sixty-two",
+        "output": "1524"
+    },
+    {
+        "input": "one hundred and four",
+        "output": "208"
+    },
+    {
+        "input": "nine hundred and sixty-nine",
+        "output": "1938"
+    },
+    {
+        "input": "four hundred and sixty-eight",
+        "output": "936"
+    },
+    {
+        "input": "thirty-nine",
+        "output": "78"
+    },
+    {
+        "input": "forty-nine",
+        "output": "98"
+    },
+    {
+        "input": "three hundred and six",
+        "output": "612"
+    },
+    {
+        "input": "eight",
+        "output": "16"
+    },
+    {
+        "input": "twelve",
+        "output": "24"
+    },
+    {
+        "input": "seven hundred and eighty-four",
+        "output": "1568"
+    },
+    {
+        "input": "three hundred and ten",
+        "output": "620"
+    },
+    {
+        "input": "six hundred and fifty-seven",
+        "output": "1314"
+    },
+    {
+        "input": "two hundred and twenty-eight",
+        "output": "456"
+    },
+    {
+        "input": "four hundred and thirty-nine",
+        "output": "878"
+    },
+    {
+        "input": "six hundred and sixty-nine",
+        "output": "1338"
+    },
+    {
+        "input": "four hundred and forty-seven",
+        "output": "894"
+    },
+    {
+        "input": "nine hundred and forty-five",
+        "output": "1890"
+    },
+    {
+        "input": "eight hundred and nine",
+        "output": "1618"
+    },
+    {
+        "input": "nine hundred and sixty-eight",
+        "output": "1936"
+    },
+    {
+        "input": "four hundred and forty-two",
+        "output": "884"
+    },
+    {
+        "input": "six hundred and eleven",
+        "output": "1222"
+    },
+    {
+        "input": "seven hundred and ninety-two",
+        "output": "1584"
+    },
+    {
+        "input": "five hundred and ninety-nine",
+        "output": "1198"
+    },
+    {
+        "input": "three hundred and seventy-seven",
+        "output": "754"
+    },
+    {
+        "input": "fifty-eight",
+        "output": "116"
+    },
+    {
+        "input": "six hundred and thirty-two",
+        "output": "1264"
+    },
+    {
+        "input": "three hundred and four",
+        "output": "608"
+    },
+    {
+        "input": "three hundred and thirty-one",
+        "output": "662"
+    },
+    {
+        "input": "nine hundred and fifty-three",
+        "output": "1906"
+    },
+    {
+        "input": "eight hundred and ninety-nine",
+        "output": "1798"
+    },
+    {
+        "input": "nine hundred and thirty-six",
+        "output": "1872"
+    },
+    {
+        "input": "two hundred and sixty-nine",
+        "output": "538"
+    },
+    {
+        "input": "five hundred and eleven",
+        "output": "1022"
+    },
+    {
+        "input": "two hundred and eighty-eight",
+        "output": "576"
+    },
+    {
+        "input": "eight hundred and fifteen",
+        "output": "1630"
+    },
+    {
+        "input": "nine hundred and thirty-three",
+        "output": "1866"
+    },
+    {
+        "input": "one hundred and forty-two",
+        "output": "284"
+    },
+    {
+        "input": "two hundred and twelve",
+        "output": "424"
+    },
+    {
+        "input": "six hundred and sixty-seven",
+        "output": "1334"
+    },
+    {
+        "input": "sixty-six",
+        "output": "132"
+    },
+    {
+        "input": "five hundred and forty-three",
+        "output": "1086"
+    },
+    {
+        "input": "three hundred and twenty-five",
+        "output": "650"
+    },
+    {
+        "input": "nine hundred and forty-three",
+        "output": "1886"
+    },
+    {
+        "input": "nine hundred and five",
+        "output": "1810"
+    },
+    {
+        "input": "one hundred and twenty-seven",
+        "output": "254"
+    },
+    {
+        "input": "eight hundred and ninety-four",
+        "output": "1788"
+    },
+    {
+        "input": "six hundred and thirty-four",
+        "output": "1268"
+    },
+    {
+        "input": "six hundred and seventy-seven",
+        "output": "1354"
+    },
+    {
+        "input": "six hundred and sixty-four",
+        "output": "1328"
+    },
+    {
+        "input": "eight hundred and twenty-one",
+        "output": "1642"
+    },
+    {
+        "input": "five hundred and thirty",
+        "output": "1060"
+    },
+    {
+        "input": "seven hundred and twenty-five",
+        "output": "1450"
+    },
+    {
+        "input": "nine hundred and twenty",
+        "output": "1840"
+    },
+    {
+        "input": "eight hundred and seventy-seven",
+        "output": "1754"
+    },
+    {
+        "input": "six hundred and ninety-four",
+        "output": "1388"
+    },
+    {
+        "input": "six hundred and nineteen",
+        "output": "1238"
+    },
+    {
+        "input": "three hundred and forty-nine",
+        "output": "698"
+    },
+    {
+        "input": "four hundred and sixty",
+        "output": "920"
+    },
+    {
+        "input": "six hundred and four",
+        "output": "1208"
+    },
+    {
+        "input": "two hundred and ninety-seven",
+        "output": "594"
+    },
+    {
+        "input": "three hundred and forty",
+        "output": "680"
+    },
+    {
+        "input": "five hundred and seventy-eight",
+        "output": "1156"
+    },
+    {
+        "input": "three hundred and ninety-seven",
+        "output": "794"
+    },
+    {
+        "input": "eight hundred and eleven",
+        "output": "1622"
+    },
+    {
+        "input": "seven hundred and sixty-four",
+        "output": "1528"
+    },
+    {
+        "input": "five hundred and sixty-six",
+        "output": "1132"
+    },
+    {
+        "input": "ninety-two",
+        "output": "184"
+    },
+    {
+        "input": "three",
+        "output": "6"
+    },
+    {
+        "input": "three hundred and sixty-three",
+        "output": "726"
+    },
+    {
+        "input": "two hundred and fifty-six",
+        "output": "512"
+    },
+    {
+        "input": "seven hundred and seven",
+        "output": "1414"
+    },
+    {
+        "input": "two hundred and forty-six",
+        "output": "492"
+    },
+    {
+        "input": "one hundred and twenty-two",
+        "output": "244"
+    },
+    {
+        "input": "seven hundred and forty",
+        "output": "1480"
+    },
+    {
+        "input": "six hundred and eighty-one",
+        "output": "1362"
+    },
+    {
+        "input": "three hundred and sixty-seven",
+        "output": "734"
+    },
+    {
+        "input": "nine hundred and twenty-nine",
+        "output": "1858"
+    },
+    {
+        "input": "seven hundred and sixty",
+        "output": "1520"
+    },
+    {
+        "input": "two hundred and thirty-eight",
+        "output": "476"
+    },
+    {
+        "input": "three hundred and eleven",
+        "output": "622"
+    },
+    {
+        "input": "four hundred and ninety-three",
+        "output": "986"
+    },
+    {
+        "input": "six hundred and fifty-nine",
+        "output": "1318"
+    },
+    {
+        "input": "seven hundred and seventy-nine",
+        "output": "1558"
+    },
+    {
+        "input": "three hundred and ninety-four",
+        "output": "788"
+    },
+    {
+        "input": "three hundred and seventy-five",
+        "output": "750"
+    },
+    {
+        "input": "six hundred and fifteen",
+        "output": "1230"
+    },
+    {
+        "input": "three hundred and forty-two",
+        "output": "684"
+    },
+    {
+        "input": "two hundred and seventy-six",
+        "output": "552"
+    },
+    {
+        "input": "eight hundred and thirty-nine",
+        "output": "1678"
+    },
+    {
+        "input": "seven hundred and ninety-eight",
+        "output": "1596"
+    },
+    {
+        "input": "eight hundred and one",
+        "output": "1602"
+    },
+    {
+        "input": "seven hundred and forty-eight",
+        "output": "1496"
+    },
+    {
+        "input": "four hundred and seventy-four",
+        "output": "948"
+    },
+    {
+        "input": "twenty-six",
+        "output": "52"
+    },
+    {
+        "input": "nine hundred and eighty-two",
+        "output": "1964"
+    },
+    {
+        "input": "forty-one",
+        "output": "82"
+    },
+    {
+        "input": "eight hundred and eighty-four",
+        "output": "1768"
+    },
+    {
+        "input": "nine hundred and eleven",
+        "output": "1822"
+    },
+    {
+        "input": "four hundred and sixty-two",
+        "output": "924"
+    },
+    {
+        "input": "six hundred and seventy-five",
+        "output": "1350"
+    },
+    {
+        "input": "nine hundred and eighty-four",
+        "output": "1968"
+    },
+    {
+        "input": "one hundred and forty-five",
+        "output": "290"
+    },
+    {
+        "input": "two hundred and sixty",
+        "output": "520"
+    },
+    {
+        "input": "two hundred and eighty-two",
+        "output": "564"
+    },
+    {
+        "input": "four hundred and sixty-six",
+        "output": "932"
+    },
+    {
+        "input": "six hundred and ninety-nine",
+        "output": "1398"
+    },
+    {
+        "input": "two hundred and seventy-eight",
+        "output": "556"
+    },
+    {
+        "input": "five hundred and seventy-seven",
+        "output": "1154"
+    },
+    {
+        "input": "nineteen",
+        "output": "38"
+    },
+    {
+        "input": "two hundred and seventy-seven",
+        "output": "554"
+    },
+    {
+        "input": "nine hundred and eighty-eight",
+        "output": "1976"
+    },
+    {
+        "input": "one hundred and fifty-six",
+        "output": "312"
+    },
+    {
+        "input": "five hundred and one",
+        "output": "1002"
+    },
+    {
+        "input": "eight hundred and seventy",
+        "output": "1740"
+    },
+    {
+        "input": "four hundred and fifty-nine",
+        "output": "918"
+    },
+    {
+        "input": "seven hundred and fifty-four",
+        "output": "1508"
+    },
+    {
+        "input": "five hundred and twenty-nine",
+        "output": "1058"
+    },
+    {
+        "input": "three hundred and eighty-seven",
+        "output": "774"
+    },
+    {
+        "input": "seven hundred and ninety-three",
+        "output": "1586"
+    },
+    {
+        "input": "three hundred and forty-one",
+        "output": "682"
+    },
+    {
+        "input": "one hundred and sixty-one",
+        "output": "322"
+    },
+    {
+        "input": "eight hundred and forty-five",
+        "output": "1690"
+    },
+    {
+        "input": "five hundred and thirty-eight",
+        "output": "1076"
+    },
+    {
+        "input": "nine hundred and sixty-two",
+        "output": "1924"
+    },
+    {
+        "input": "two hundred and forty-three",
+        "output": "486"
+    },
+    {
+        "input": "one hundred and forty-one",
+        "output": "282"
+    },
+    {
+        "input": "three hundred and sixty-eight",
+        "output": "736"
+    },
+    {
+        "input": "nine hundred and ninety-five",
+        "output": "1990"
+    },
+    {
+        "input": "three hundred and eighty-two",
+        "output": "764"
+    },
+    {
+        "input": "two hundred and eighty-seven",
+        "output": "574"
+    },
+    {
+        "input": "five hundred and twenty-five",
+        "output": "1050"
+    },
+    {
+        "input": "eight hundred and thirty",
+        "output": "1660"
+    },
+    {
+        "input": "two hundred and fifty-nine",
+        "output": "518"
+    },
+    {
+        "input": "six hundred and eighty-seven",
+        "output": "1374"
+    },
+    {
+        "input": "five hundred and twenty-two",
+        "output": "1044"
+    },
+    {
+        "input": "five hundred and ninety-six",
+        "output": "1192"
+    },
+    {
+        "input": "five hundred and twenty-seven",
+        "output": "1054"
+    },
+    {
+        "input": "two hundred and sixty-six",
+        "output": "532"
+    },
+    {
+        "input": "six hundred and sixty-three",
+        "output": "1326"
+    },
+    {
+        "input": "seven hundred and fifty-three",
+        "output": "1506"
+    },
+    {
+        "input": "nine hundred and fifty-one",
+        "output": "1902"
+    },
+    {
+        "input": "six hundred and fifty-eight",
+        "output": "1316"
+    },
+    {
+        "input": "six hundred and sixty-two",
+        "output": "1324"
+    },
+    {
+        "input": "seven hundred and three",
+        "output": "1406"
+    },
+    {
+        "input": "six hundred and twenty-two",
+        "output": "1244"
+    },
+    {
+        "input": "three hundred and two",
+        "output": "604"
+    },
+    {
+        "input": "eight hundred and fifty-three",
+        "output": "1706"
+    },
+    {
+        "input": "one hundred and ninety-four",
+        "output": "388"
+    },
+    {
+        "input": "one hundred and eighty-seven",
+        "output": "374"
+    },
+    {
+        "input": "five hundred and forty-four",
+        "output": "1088"
+    },
+    {
+        "input": "one hundred and twenty-five",
+        "output": "250"
+    },
+    {
+        "input": "two hundred and seventy-nine",
+        "output": "558"
+    },
+    {
+        "input": "ninety-five",
+        "output": "190"
+    },
+    {
+        "input": "three hundred and fifty-five",
+        "output": "710"
+    },
+    {
+        "input": "seven hundred and twenty-seven",
+        "output": "1454"
+    },
+    {
+        "input": "five hundred and seventy-nine",
+        "output": "1158"
+    },
+    {
+        "input": "two hundred and fifty-three",
+        "output": "506"
+    },
+    {
+        "input": "seven hundred and thirty-one",
+        "output": "1462"
+    },
+    {
+        "input": "seven hundred and seventy-six",
+        "output": "1552"
+    },
+    {
+        "input": "seven hundred and forty-two",
+        "output": "1484"
+    },
+    {
+        "input": "four hundred and twenty-eight",
+        "output": "856"
+    },
+    {
+        "input": "eight hundred and fifty-five",
+        "output": "1710"
+    },
+    {
+        "input": "one hundred and nineteen",
+        "output": "238"
+    },
+    {
+        "input": "four hundred and ninety-seven",
+        "output": "994"
+    },
+    {
+        "input": "two hundred and eighty-one",
+        "output": "562"
+    },
+    {
+        "input": "nine hundred and thirty-nine",
+        "output": "1878"
+    },
+    {
+        "input": "thirty",
+        "output": "60"
+    },
+    {
+        "input": "seven hundred and fifty-two",
+        "output": "1504"
+    },
+    {
+        "input": "nine hundred and one",
+        "output": "1802"
+    },
+    {
+        "input": "seventeen",
+        "output": "34"
+    },
+    {
+        "input": "eight hundred and thirty-one",
+        "output": "1662"
+    },
+    {
+        "input": "four hundred and forty-four",
+        "output": "888"
+    },
+    {
+        "input": "twenty-one",
+        "output": "42"
+    },
+    {
+        "input": "eight hundred and thirteen",
+        "output": "1626"
+    },
+    {
+        "input": "four hundred and thirty-one",
+        "output": "862"
+    },
+    {
+        "input": "ninety-four",
+        "output": "188"
+    },
+    {
+        "input": "three hundred and forty-five",
+        "output": "690"
+    },
+    {
+        "input": "three hundred and ninety-five",
+        "output": "790"
+    },
+    {
+        "input": "three hundred and ninety-two",
+        "output": "784"
+    },
+    {
+        "input": "four hundred and nineteen",
+        "output": "838"
+    },
+    {
+        "input": "twenty-three",
+        "output": "46"
+    },
+    {
+        "input": "eight hundred and forty-seven",
+        "output": "1694"
+    },
+    {
+        "input": "thirty-seven",
+        "output": "74"
+    },
+    {
+        "input": "two hundred and ninety",
+        "output": "580"
+    },
+    {
+        "input": "six hundred and thirty-six",
+        "output": "1272"
+    },
+    {
+        "input": "nine hundred and seventy-seven",
+        "output": "1954"
+    },
+    {
+        "input": "seventy-nine",
+        "output": "158"
+    },
+    {
+        "input": "three hundred and thirty-nine",
+        "output": "678"
+    },
+    {
+        "input": "one hundred and sixty-six",
+        "output": "332"
+    },
+    {
+        "input": "eight hundred and seventeen",
+        "output": "1634"
+    },
+    {
+        "input": "three hundred and forty-seven",
+        "output": "694"
+    },
+    {
+        "input": "three hundred and ninety-nine",
+        "output": "798"
+    },
+    {
+        "input": "fifty-six",
+        "output": "112"
+    },
+    {
+        "input": "seven hundred and eighteen",
+        "output": "1436"
+    },
+    {
+        "input": "one hundred and sixty-eight",
+        "output": "336"
+    },
+    {
+        "input": "one hundred and ninety-six",
+        "output": "392"
+    },
+    {
+        "input": "four hundred and twenty-four",
+        "output": "848"
+    },
+    {
+        "input": "one hundred and forty-six",
+        "output": "292"
+    },
+    {
+        "input": "nine hundred and seventy-eight",
+        "output": "1956"
+    },
+    {
+        "input": "seven hundred and fourteen",
+        "output": "1428"
+    },
+    {
+        "input": "four hundred and twenty-seven",
+        "output": "854"
+    },
+    {
+        "input": "twenty-two",
+        "output": "44"
+    },
+    {
+        "input": "four hundred and fifteen",
+        "output": "830"
+    },
+    {
+        "input": "three hundred and seven",
+        "output": "614"
+    },
+    {
+        "input": "five hundred and fifty-nine",
+        "output": "1118"
+    },
+    {
+        "input": "one hundred and sixty-two",
+        "output": "324"
+    },
+    {
+        "input": "five hundred and eighty-six",
+        "output": "1172"
+    },
+    {
+        "input": "six hundred and forty-five",
+        "output": "1290"
+    },
+    {
+        "input": "six hundred and ninety-two",
+        "output": "1384"
+    },
+    {
+        "input": "five hundred and ninety-three",
+        "output": "1186"
+    },
+    {
+        "input": "five hundred and sixty-one",
+        "output": "1122"
+    },
+    {
+        "input": "nine hundred and sixteen",
+        "output": "1832"
+    },
+    {
+        "input": "one hundred and seven",
+        "output": "214"
+    },
+    {
+        "input": "twenty-five",
+        "output": "50"
+    },
+    {
+        "input": "six hundred and seventy",
+        "output": "1340"
+    },
+    {
+        "input": "eight hundred and fourteen",
+        "output": "1628"
+    },
+    {
+        "input": "five hundred and twelve",
+        "output": "1024"
+    },
+    {
+        "input": "four hundred and eighty-three",
+        "output": "966"
+    },
+    {
+        "input": "eight hundred and seventy-six",
+        "output": "1752"
+    },
+    {
+        "input": "four hundred and ten",
+        "output": "820"
+    },
+    {
+        "input": "seven hundred and twenty-one",
+        "output": "1442"
+    },
+    {
+        "input": "eight hundred and forty-two",
+        "output": "1684"
+    },
+    {
+        "input": "eight hundred and eight",
+        "output": "1616"
+    },
+    {
+        "input": "five hundred and seventy-four",
+        "output": "1148"
+    },
+    {
+        "input": "five hundred and fifty-three",
+        "output": "1106"
+    },
+    {
+        "input": "six hundred and three",
+        "output": "1206"
+    },
+    {
+        "input": "nine hundred and eight",
+        "output": "1816"
+    },
+    {
+        "input": "five hundred and ninety-two",
+        "output": "1184"
+    },
+    {
+        "input": "two hundred and thirty-four",
+        "output": "468"
+    },
+    {
+        "input": "five hundred and ninety-four",
+        "output": "1188"
+    },
+    {
+        "input": "eight hundred and three",
+        "output": "1606"
+    },
+    {
+        "input": "nine hundred and forty-four",
+        "output": "1888"
+    },
+    {
+        "input": "seven hundred and sixty-three",
+        "output": "1526"
+    },
+    {
+        "input": "one hundred and sixteen",
+        "output": "232"
+    },
+    {
+        "input": "three hundred and fourteen",
+        "output": "628"
+    },
+    {
+        "input": "two hundred and forty-seven",
+        "output": "494"
+    },
+    {
+        "input": "six hundred and eighty-two",
+        "output": "1364"
+    },
+    {
+        "input": "six hundred and eighty-eight",
+        "output": "1376"
+    },
+    {
+        "input": "two hundred and fourteen",
+        "output": "428"
+    },
+    {
+        "input": "seven hundred and twelve",
+        "output": "1424"
+    },
+    {
+        "input": "two hundred and three",
+        "output": "406"
+    },
+    {
+        "input": "three hundred and twenty-nine",
+        "output": "658"
+    },
+    {
+        "input": "six hundred and eight",
+        "output": "1216"
+    },
+    {
+        "input": "two hundred and seven",
+        "output": "414"
+    },
+    {
+        "input": "six hundred and forty-seven",
+        "output": "1294"
+    },
+    {
+        "input": "four hundred and ninety-five",
+        "output": "990"
+    },
+    {
+        "input": "five hundred and fourteen",
+        "output": "1028"
+    },
+    {
+        "input": "eight hundred and forty-nine",
+        "output": "1698"
+    },
+    {
+        "input": "six hundred and eighteen",
+        "output": "1236"
+    },
+    {
+        "input": "two hundred and thirteen",
+        "output": "426"
+    },
+    {
+        "input": "nine hundred and nineteen",
+        "output": "1838"
+    },
+    {
+        "input": "one hundred and three",
+        "output": "206"
+    },
+    {
+        "input": "three hundred and seventy-two",
+        "output": "744"
+    },
+    {
+        "input": "seven hundred and fifty-seven",
+        "output": "1514"
+    },
+    {
+        "input": "four",
+        "output": "8"
+    },
+    {
+        "input": "eight hundred and forty-six",
+        "output": "1692"
+    },
+    {
+        "input": "two hundred and thirty-seven",
+        "output": "474"
+    },
+    {
+        "input": "eight hundred and sixty-eight",
+        "output": "1736"
+    },
+    {
+        "input": "seven hundred and twenty-four",
+        "output": "1448"
+    },
+    {
+        "input": "eight hundred and twenty",
+        "output": "1640"
+    },
+    {
+        "input": "fifty-two",
+        "output": "104"
+    },
+    {
+        "input": "one hundred and seventy-seven",
+        "output": "354"
+    },
+    {
+        "input": "two hundred and sixty-five",
+        "output": "530"
+    },
+    {
+        "input": "eight hundred and twenty-three",
+        "output": "1646"
+    },
+    {
+        "input": "one hundred and fourteen",
+        "output": "228"
+    },
+    {
+        "input": "nine hundred and forty-seven",
+        "output": "1894"
+    },
+    {
+        "input": "one hundred and thirty-seven",
+        "output": "274"
+    },
+    {
+        "input": "eight hundred and forty-three",
+        "output": "1686"
+    },
+    {
+        "input": "three hundred and seventy",
+        "output": "740"
+    },
+    {
+        "input": "one hundred and eight",
+        "output": "216"
+    },
+    {
+        "input": "five hundred and thirty-six",
+        "output": "1072"
+    },
+    {
+        "input": "six hundred and sixty-eight",
+        "output": "1336"
+    },
+    {
+        "input": "eight hundred and thirty-eight",
+        "output": "1676"
+    },
+    {
+        "input": "three hundred and eighty-nine",
+        "output": "778"
+    },
+    {
+        "input": "eight hundred and forty-four",
+        "output": "1688"
+    },
+    {
+        "input": "two hundred and fifty-four",
+        "output": "508"
+    },
+    {
+        "input": "five hundred and sixty-nine",
+        "output": "1138"
+    },
+    {
+        "input": "three hundred and eighty-four",
+        "output": "768"
+    },
+    {
+        "input": "five hundred and eighty-five",
+        "output": "1170"
+    },
+    {
+        "input": "seven hundred and eighty-two",
+        "output": "1564"
+    },
+    {
+        "input": "nine hundred and twenty-six",
+        "output": "1852"
+    },
+    {
+        "input": "seven hundred and thirteen",
+        "output": "1426"
+    },
+    {
+        "input": "four hundred and sixty-three",
+        "output": "926"
+    },
+    {
+        "input": "one hundred and fifty-two",
+        "output": "304"
+    },
+    {
+        "input": "seven hundred and forty-one",
+        "output": "1482"
+    },
+    {
+        "input": "nine hundred and fifty-nine",
+        "output": "1918"
+    },
+    {
+        "input": "nine hundred and forty-one",
+        "output": "1882"
+    },
+    {
+        "input": "four hundred and forty-three",
+        "output": "886"
+    },
+    {
+        "input": "two hundred and fifteen",
+        "output": "430"
+    },
+    {
+        "input": "seven hundred and twenty-six",
+        "output": "1452"
+    },
+    {
+        "input": "three hundred and fifteen",
+        "output": "630"
+    },
+    {
+        "input": "seventy",
+        "output": "140"
+    },
+    {
+        "input": "five hundred and sixty-eight",
+        "output": "1136"
+    },
+    {
+        "input": "three hundred and twenty-three",
+        "output": "646"
+    },
+    {
+        "input": "four hundred and one",
+        "output": "802"
+    },
+    {
+        "input": "four hundred and seventy-six",
+        "output": "952"
+    },
+    {
+        "input": "four hundred and thirty-four",
+        "output": "868"
+    },
+    {
+        "input": "fifty-nine",
+        "output": "118"
+    },
+    {
+        "input": "five hundred and fifty-seven",
+        "output": "1114"
+    },
+    {
+        "input": "five hundred and four",
+        "output": "1008"
+    },
+    {
+        "input": "sixty-nine",
+        "output": "138"
+    },
+    {
+        "input": "three hundred and forty-eight",
+        "output": "696"
+    },
+    {
+        "input": "ninety-seven",
+        "output": "194"
+    },
+    {
+        "input": "seven hundred and ninety-seven",
+        "output": "1594"
+    },
+    {
+        "input": "six hundred and seventy-eight",
+        "output": "1356"
+    },
+    {
+        "input": "seven hundred and ten",
+        "output": "1420"
+    },
+    {
+        "input": "seven hundred and sixty-seven",
+        "output": "1534"
+    },
+    {
+        "input": "nine hundred and forty-eight",
+        "output": "1896"
+    },
+    {
+        "input": "eighty",
+        "output": "160"
+    },
+    {
+        "input": "three hundred and fifty-eight",
+        "output": "716"
+    },
+    {
+        "input": "nine hundred and twenty-eight",
+        "output": "1856"
+    },
+    {
+        "input": "two hundred and sixty-seven",
+        "output": "534"
+    },
+    {
+        "input": "seven hundred and twenty",
+        "output": "1440"
+    },
+    {
+        "input": "eight hundred and ninety",
+        "output": "1780"
+    },
+    {
+        "input": "thirteen",
+        "output": "26"
+    },
+    {
+        "input": "eight hundred and forty-eight",
+        "output": "1696"
+    },
+    {
+        "input": "five hundred and sixty-seven",
+        "output": "1134"
+    },
+    {
+        "input": "forty-three",
+        "output": "86"
+    },
+    {
+        "input": "four hundred and sixteen",
+        "output": "832"
+    },
+    {
+        "input": "eight hundred and eighty-eight",
+        "output": "1776"
+    },
+    {
+        "input": "three hundred and thirteen",
+        "output": "626"
+    },
+    {
+        "input": "five hundred and nineteen",
+        "output": "1038"
+    },
+    {
+        "input": "five",
+        "output": "10"
+    },
+    {
+        "input": "six hundred and fifty-six",
+        "output": "1312"
+    },
+    {
+        "input": "one hundred and ten",
+        "output": "220"
+    },
+    {
+        "input": "nine hundred and six",
+        "output": "1812"
+    },
+    {
+        "input": "five hundred and ninety-one",
+        "output": "1182"
+    },
+    {
+        "input": "four hundred and fifty-eight",
+        "output": "916"
+    },
+    {
+        "input": "two hundred and sixty-one",
+        "output": "522"
+    },
+    {
+        "input": "nine hundred and twenty-two",
+        "output": "1844"
+    },
+    {
+        "input": "eight hundred and twenty-nine",
+        "output": "1658"
+    },
+    {
+        "input": "five hundred and forty-eight",
+        "output": "1096"
+    },
+    {
+        "input": "nine hundred and thirty-five",
+        "output": "1870"
+    },
+    {
+        "input": "one hundred and forty-seven",
+        "output": "294"
+    },
+    {
+        "input": "five hundred and twenty-four",
+        "output": "1048"
+    },
+    {
+        "input": "eight hundred and ninety-two",
+        "output": "1784"
+    },
+    {
+        "input": "nine hundred and ninety-one",
+        "output": "1982"
+    },
+    {
+        "input": "six hundred and seventy-nine",
+        "output": "1358"
+    },
+    {
+        "input": "eighty-three",
+        "output": "166"
+    },
+    {
+        "input": "fifty",
+        "output": "100"
+    },
+    {
+        "input": "nine hundred and ninety",
+        "output": "1980"
+    },
+    {
+        "input": "seven hundred and one",
+        "output": "1402"
+    },
+    {
+        "input": "one hundred and sixty-five",
+        "output": "330"
+    },
+    {
+        "input": "five hundred and eighty-three",
+        "output": "1166"
+    },
+    {
+        "input": "four hundred and fifty-four",
+        "output": "908"
+    },
+    {
+        "input": "four hundred and eighty-nine",
+        "output": "978"
+    },
+    {
+        "input": "five hundred and twenty-one",
+        "output": "1042"
+    },
+    {
+        "input": "nine hundred and thirteen",
+        "output": "1826"
+    },
+    {
+        "input": "three hundred and three",
+        "output": "606"
+    },
+    {
+        "input": "four hundred and forty-eight",
+        "output": "896"
+    },
+    {
+        "input": "three hundred and thirty",
+        "output": "660"
+    },
+    {
+        "input": "seven hundred and nine",
+        "output": "1418"
+    },
+    {
+        "input": "nine hundred and fifty-five",
+        "output": "1910"
+    },
+    {
+        "input": "four hundred and twelve",
+        "output": "824"
+    },
+    {
+        "input": "four hundred and fifty-one",
+        "output": "902"
+    },
+    {
+        "input": "nine",
+        "output": "18"
+    },
+    {
+        "input": "five hundred and fifty-eight",
+        "output": "1116"
+    },
+    {
+        "input": "seven hundred and nineteen",
+        "output": "1438"
+    },
+    {
+        "input": "nine hundred and sixty-three",
+        "output": "1926"
+    },
+    {
+        "input": "ten",
+        "output": "20"
+    },
+    {
+        "input": "four hundred and eighty-two",
+        "output": "964"
+    },
+    {
+        "input": "seventy-four",
+        "output": "148"
+    },
+    {
+        "input": "seven hundred and twenty-three",
+        "output": "1446"
+    },
+    {
+        "input": "two hundred and twenty-seven",
+        "output": "454"
+    },
+    {
+        "input": "two hundred and eighty-nine",
+        "output": "578"
+    },
+    {
+        "input": "eight hundred and thirty-two",
+        "output": "1664"
+    },
+    {
+        "input": "seven hundred and eighty-nine",
+        "output": "1578"
+    },
+    {
+        "input": "seven hundred and fifty-eight",
+        "output": "1516"
+    },
+    {
+        "input": "seven hundred and ninety",
+        "output": "1580"
+    },
+    {
+        "input": "seven hundred and eighty",
+        "output": "1560"
+    },
+    {
+        "input": "sixty-four",
+        "output": "128"
+    },
+    {
+        "input": "five hundred and thirty-five",
+        "output": "1070"
+    },
+    {
+        "input": "three hundred and ninety",
+        "output": "780"
+    },
+    {
+        "input": "fifty-seven",
+        "output": "114"
+    },
+    {
+        "input": "seventy-one",
+        "output": "142"
+    },
+    {
+        "input": "two hundred and forty-eight",
+        "output": "496"
+    },
+    {
+        "input": "eight hundred and four",
+        "output": "1608"
+    },
+    {
+        "input": "eight hundred and ninety-seven",
+        "output": "1794"
+    },
+    {
+        "input": "thirty-one",
+        "output": "62"
+    },
+    {
+        "input": "six hundred and ninety-five",
+        "output": "1390"
+    },
+    {
+        "input": "seven hundred and thirty",
+        "output": "1460"
+    },
+    {
+        "input": "two hundred and thirty-three",
+        "output": "466"
+    },
+    {
+        "input": "four hundred and eighty-six",
+        "output": "972"
+    },
+    {
+        "input": "five hundred and three",
+        "output": "1006"
+    },
+    {
+        "input": "eight hundred and twenty-eight",
+        "output": "1656"
+    },
+    {
+        "input": "seventy-three",
+        "output": "146"
+    },
+    {
+        "input": "seven hundred and thirty-three",
+        "output": "1466"
+    },
+    {
+        "input": "four hundred and seventy-eight",
+        "output": "956"
+    },
+    {
+        "input": "one hundred and twenty-one",
+        "output": "242"
+    },
+    {
+        "input": "three hundred and fifty-two",
+        "output": "704"
+    },
+    {
+        "input": "eight hundred and thirty-five",
+        "output": "1670"
+    },
+    {
+        "input": "one hundred and fifty-seven",
+        "output": "314"
+    },
+    {
+        "input": "two hundred and eleven",
+        "output": "422"
+    },
+    {
+        "input": "nine hundred and seventy-two",
+        "output": "1944"
+    },
+    {
+        "input": "two hundred and twenty-nine",
+        "output": "458"
+    },
+    {
+        "input": "eight hundred and fifty-nine",
+        "output": "1718"
+    },
+    {
+        "input": "eight hundred and fifty-two",
+        "output": "1704"
+    },
+    {
+        "input": "three hundred and sixty",
+        "output": "720"
+    },
+    {
+        "input": "four hundred and twenty-six",
+        "output": "852"
+    },
+    {
+        "input": "thirty-six",
+        "output": "72"
+    },
+    {
+        "input": "six hundred and ninety-six",
+        "output": "1392"
+    },
+    {
+        "input": "six hundred and six",
+        "output": "1212"
+    },
+    {
+        "input": "three hundred and fifty-seven",
+        "output": "714"
+    },
+    {
+        "input": "two hundred and forty-nine",
+        "output": "498"
+    },
+    {
+        "input": "seven hundred and twenty-eight",
+        "output": "1456"
+    },
+    {
+        "input": "one hundred and thirty-eight",
+        "output": "276"
+    },
+    {
+        "input": "three hundred and eight",
+        "output": "616"
+    },
+    {
+        "input": "six hundred and thirty-eight",
+        "output": "1276"
+    },
+    {
+        "input": "three hundred",
+        "output": "600"
+    },
+    {
+        "input": "nine hundred and seventeen",
+        "output": "1834"
+    },
+    {
+        "input": "four hundred and nine",
+        "output": "818"
+    },
+    {
+        "input": "eight hundred and sixty-two",
+        "output": "1724"
+    },
+    {
+        "input": "five hundred and fifty-six",
+        "output": "1112"
+    },
+    {
+        "input": "four hundred and seventy-two",
+        "output": "944"
+    },
+    {
+        "input": "one hundred and eighty-three",
+        "output": "366"
+    },
+    {
+        "input": "three hundred and twelve",
+        "output": "624"
+    },
+    {
+        "input": "nine hundred and ninety-seven",
+        "output": "1994"
+    },
+    {
+        "input": "one hundred and thirty-one",
+        "output": "262"
+    },
+    {
+        "input": "one hundred and twenty-eight",
+        "output": "256"
+    },
+    {
+        "input": "two",
+        "output": "4"
+    },
+    {
+        "input": "seven hundred and twenty-nine",
+        "output": "1458"
+    },
+    {
+        "input": "six hundred and twenty-one",
+        "output": "1242"
+    },
+    {
+        "input": "two hundred and fifty",
+        "output": "500"
+    },
+    {
+        "input": "seven hundred and fifty",
+        "output": "1500"
+    },
+    {
+        "input": "seventy-seven",
+        "output": "154"
+    },
+    {
+        "input": "eight hundred and eighty-seven",
+        "output": "1774"
+    },
+    {
+        "input": "twenty-four",
+        "output": "48"
+    },
+    {
+        "input": "one hundred and ninety-eight",
+        "output": "396"
+    },
+    {
+        "input": "five hundred and forty",
+        "output": "1080"
+    },
+    {
+        "input": "seven hundred and forty-seven",
+        "output": "1494"
+    },
+    {
+        "input": "three hundred and thirty-five",
+        "output": "670"
+    },
+    {
+        "input": "six hundred and sixty-five",
+        "output": "1330"
+    },
+    {
+        "input": "six hundred and fifty-five",
+        "output": "1310"
+    },
+    {
+        "input": "one hundred and sixty-three",
+        "output": "326"
+    },
+    {
+        "input": "two hundred and ninety-two",
+        "output": "584"
+    },
+    {
+        "input": "eight hundred and fifty-eight",
+        "output": "1716"
+    },
+    {
+        "input": "two hundred and twenty-three",
+        "output": "446"
+    },
+    {
+        "input": "two hundred and sixty-three",
+        "output": "526"
+    },
+    {
+        "input": "eighty-eight",
+        "output": "176"
+    },
+    {
+        "input": "eighteen",
+        "output": "36"
+    },
+    {
+        "input": "six hundred and fifty-four",
+        "output": "1308"
+    },
+    {
+        "input": "one hundred and thirteen",
+        "output": "226"
+    },
+    {
+        "input": "two hundred and ninety-three",
+        "output": "586"
+    },
+    {
+        "input": "five hundred and thirteen",
+        "output": "1026"
+    },
+    {
+        "input": "nine hundred and seventy-six",
+        "output": "1952"
+    },
+    {
+        "input": "fifty-three",
+        "output": "106"
+    },
+    {
+        "input": "six hundred and one",
+        "output": "1202"
+    },
+    {
+        "input": "one hundred and ninety",
+        "output": "380"
+    },
+    {
+        "input": "eight hundred and seventy-one",
+        "output": "1742"
+    },
+    {
+        "input": "nine hundred and thirty-two",
+        "output": "1864"
+    },
+    {
+        "input": "two hundred and seventy-three",
+        "output": "546"
+    },
+    {
+        "input": "two hundred and seventy-one",
+        "output": "542"
+    },
+    {
+        "input": "seven",
+        "output": "14"
+    },
+    {
+        "input": "one hundred",
+        "output": "200"
+    },
+    {
+        "input": "four hundred and seventy-nine",
+        "output": "958"
+    },
+    {
+        "input": "two hundred and sixty-two",
+        "output": "524"
+    },
+    {
+        "input": "seven hundred and sixty-nine",
+        "output": "1538"
+    },
+    {
+        "input": "six hundred",
+        "output": "1200"
+    },
+    {
+        "input": "five hundred and forty-seven",
+        "output": "1094"
+    },
+    {
+        "input": "eight hundred and fifty",
+        "output": "1700"
+    },
+    {
+        "input": "one hundred and twenty",
+        "output": "240"
+    },
+    {
+        "input": "four hundred and sixty-nine",
+        "output": "938"
+    },
+    {
+        "input": "eighty-one",
+        "output": "162"
+    },
+    {
+        "input": "two hundred and thirty",
+        "output": "460"
+    },
+    {
+        "input": "four hundred and seventy-five",
+        "output": "950"
+    },
+    {
+        "input": "one hundred and sixty-nine",
+        "output": "338"
+    },
+    {
+        "input": "seven hundred and eighty-seven",
+        "output": "1574"
+    },
+    {
+        "input": "one hundred and thirty-nine",
+        "output": "278"
+    },
+    {
+        "input": "twenty-eight",
+        "output": "56"
+    },
+    {
+        "input": "five hundred and fifty-four",
+        "output": "1108"
+    },
+    {
+        "input": "four hundred and fifty-three",
+        "output": "906"
+    },
+    {
+        "input": "five hundred and thirty-one",
+        "output": "1062"
+    },
+    {
+        "input": "nine hundred and forty",
+        "output": "1880"
+    },
+    {
+        "input": "six hundred and twenty",
+        "output": "1240"
+    },
+    {
+        "input": "seven hundred and sixty-eight",
+        "output": "1536"
+    },
+    {
+        "input": "three hundred and thirty-eight",
+        "output": "676"
+    },
+    {
+        "input": "six hundred and thirty-five",
+        "output": "1270"
+    },
+    {
+        "input": "three hundred and eighty-one",
+        "output": "762"
+    },
+    {
+        "input": "two hundred and sixteen",
+        "output": "432"
+    },
+    {
+        "input": "one hundred and fifty-four",
+        "output": "308"
+    },
+    {
+        "input": "six hundred and seventy-two",
+        "output": "1344"
+    },
+    {
+        "input": "nine hundred and ninety-eight",
+        "output": "1996"
+    },
+    {
+        "input": "five hundred and seventy-two",
+        "output": "1144"
+    },
+    {
+        "input": "four hundred and three",
+        "output": "806"
+    },
+    {
+        "input": "one hundred and fifty",
+        "output": "300"
+    },
+    {
+        "input": "three hundred and seventy-one",
+        "output": "742"
+    },
+    {
+        "input": "eight hundred and thirty-three",
+        "output": "1666"
+    },
+    {
+        "input": "nine hundred and seventy-four",
+        "output": "1948"
+    },
+    {
+        "input": "thirty-eight",
+        "output": "76"
+    },
+    {
+        "input": "six hundred and forty-six",
+        "output": "1292"
+    },
+    {
+        "input": "three hundred and thirty-six",
+        "output": "672"
+    },
+    {
+        "input": "three hundred and sixty-five",
+        "output": "730"
+    },
+    {
+        "input": "five hundred and eighty-seven",
+        "output": "1174"
+    },
+    {
+        "input": "two hundred and seventy-five",
+        "output": "550"
+    },
+    {
+        "input": "five hundred and five",
+        "output": "1010"
+    },
+    {
+        "input": "seven hundred and fifty-nine",
+        "output": "1518"
+    },
+    {
+        "input": "three hundred and eighty-eight",
+        "output": "776"
+    },
+    {
+        "input": "three hundred and forty-six",
+        "output": "692"
+    },
+    {
+        "input": "fifty-four",
+        "output": "108"
+    },
+    {
+        "input": "one hundred and seventy",
+        "output": "340"
+    },
+    {
+        "input": "fourteen",
+        "output": "28"
+    },
+    {
+        "input": "six hundred and nine",
+        "output": "1218"
+    },
+    {
+        "input": "nine hundred and twenty-four",
+        "output": "1848"
+    },
+    {
+        "input": "one hundred and sixty-four",
+        "output": "328"
+    },
+    {
+        "input": "two hundred and eighty-four",
+        "output": "568"
+    },
+    {
+        "input": "nine hundred and eighty-one",
+        "output": "1962"
+    },
+    {
+        "input": "twenty",
+        "output": "40"
+    },
+    {
+        "input": "eight hundred and seventy-eight",
+        "output": "1756"
+    },
+    {
+        "input": "six hundred and twenty-seven",
+        "output": "1254"
+    },
+    {
+        "input": "two hundred and forty-four",
+        "output": "488"
+    },
+    {
+        "input": "three hundred and eighty",
+        "output": "760"
+    },
+    {
+        "input": "one hundred and twenty-six",
+        "output": "252"
+    },
+    {
+        "input": "three hundred and ninety-three",
+        "output": "786"
+    },
+    {
+        "input": "nine hundred and ninety-three",
+        "output": "1986"
+    },
+    {
+        "input": "three hundred and forty-three",
+        "output": "686"
+    },
+    {
+        "input": "eight hundred and ten",
+        "output": "1620"
+    },
+    {
+        "input": "eight hundred and twenty-six",
+        "output": "1652"
+    },
+    {
+        "input": "eight hundred and seventy-nine",
+        "output": "1758"
+    },
+    {
+        "input": "five hundred and forty-one",
+        "output": "1082"
+    },
+    {
+        "input": "eighty-two",
+        "output": "164"
+    },
+    {
+        "input": "one hundred and ninety-one",
+        "output": "382"
+    },
+    {
+        "input": "four hundred and thirty-two",
+        "output": "864"
+    },
+    {
+        "input": "eight hundred and seventy-five",
+        "output": "1750"
+    },
+    {
+        "input": "five hundred and sixty-five",
+        "output": "1130"
+    },
+    {
+        "input": "nine hundred and thirty",
+        "output": "1860"
+    },
+    {
+        "input": "eight hundred and fifty-seven",
+        "output": "1714"
+    },
+    {
+        "input": "four hundred and ninety-one",
+        "output": "982"
+    },
+    {
+        "input": "six hundred and forty-four",
+        "output": "1288"
+    },
+    {
+        "input": "one hundred and ninety-nine",
+        "output": "398"
+    },
+    {
+        "input": "nine hundred and fifty-two",
+        "output": "1904"
+    },
+    {
+        "input": "seven hundred and fifty-one",
+        "output": "1502"
+    },
+    {
+        "input": "two hundred and thirty-nine",
+        "output": "478"
+    },
+    {
+        "input": "one hundred and fifty-five",
+        "output": "310"
+    },
+    {
+        "input": "three hundred and ninety-eight",
+        "output": "796"
+    },
+    {
+        "input": "seven hundred and thirty-eight",
+        "output": "1476"
+    },
+    {
+        "input": "one hundred and seventy-nine",
+        "output": "358"
+    },
+    {
+        "input": "one hundred and twenty-three",
+        "output": "246"
+    },
+    {
+        "input": "nine hundred and eighty",
+        "output": "1960"
+    },
+    {
+        "input": "six hundred and twenty-three",
+        "output": "1246"
+    },
+    {
+        "input": "five hundred and thirty-three",
+        "output": "1066"
+    },
+    {
+        "input": "three hundred and sixty-nine",
+        "output": "738"
+    },
+    {
+        "input": "four hundred and twenty",
+        "output": "840"
+    },
+    {
+        "input": "four hundred and eighty-eight",
+        "output": "976"
+    },
+    {
+        "input": "five hundred and seventy-three",
+        "output": "1146"
+    },
+    {
+        "input": "six hundred and fifty",
+        "output": "1300"
+    },
+    {
+        "input": "eight hundred and seventy-two",
+        "output": "1744"
+    },
+    {
+        "input": "thirty-four",
+        "output": "68"
+    },
+    {
+        "input": "two hundred and twenty-one",
+        "output": "442"
+    },
+    {
+        "input": "three hundred and sixty-two",
+        "output": "724"
+    },
+    {
+        "input": "nine hundred and two",
+        "output": "1804"
+    },
+    {
+        "input": "seven hundred and seventy-one",
+        "output": "1542"
+    },
+    {
+        "input": "eight hundred and ninety-eight",
+        "output": "1796"
+    },
+    {
+        "input": "six hundred and ninety",
+        "output": "1380"
+    },
+    {
+        "input": "nine hundred and eighteen",
+        "output": "1836"
+    },
+    {
+        "input": "two hundred and ninety-five",
+        "output": "590"
+    },
+    {
+        "input": "five hundred and fifty-one",
+        "output": "1102"
+    },
+    {
+        "input": "two hundred",
+        "output": "400"
+    },
+    {
+        "input": "three hundred and sixty-four",
+        "output": "728"
+    },
+    {
+        "input": "four hundred and thirty-six",
+        "output": "872"
+    },
+    {
+        "input": "eight hundred and sixty-one",
+        "output": "1722"
+    },
+    {
+        "input": "six hundred and eighty-five",
+        "output": "1370"
+    },
+    {
+        "input": "one hundred and forty-four",
+        "output": "288"
+    },
+    {
+        "input": "two hundred and one",
+        "output": "402"
+    },
+    {
+        "input": "four hundred and eighty",
+        "output": "960"
+    },
+    {
+        "input": "four hundred and seventy",
+        "output": "940"
+    },
+    {
+        "input": "two hundred and seventy-two",
+        "output": "544"
+    },
+    {
+        "input": "five hundred and seventy",
+        "output": "1140"
+    },
+    {
+        "input": "ninety",
+        "output": "180"
+    },
+    {
+        "input": "three hundred and seventy-nine",
+        "output": "758"
+    },
+    {
+        "input": "two hundred and fifty-one",
+        "output": "502"
+    },
+    {
+        "input": "five hundred and twenty-three",
+        "output": "1046"
+    },
+    {
+        "input": "eight hundred and eighty-three",
+        "output": "1766"
+    },
+    {
+        "input": "three hundred and seventy-three",
+        "output": "746"
+    },
+    {
+        "input": "three hundred and ninety-one",
+        "output": "782"
+    },
+    {
+        "input": "two hundred and sixty-eight",
+        "output": "536"
+    },
+    {
+        "input": "three hundred and thirty-three",
+        "output": "666"
+    },
+    {
+        "input": "one hundred and seventeen",
+        "output": "234"
+    },
+    {
+        "input": "seven hundred and seventy-five",
+        "output": "1550"
+    },
+    {
+        "input": "one hundred and twenty-four",
+        "output": "248"
+    },
+    {
+        "input": "eighty-nine",
+        "output": "178"
+    },
+    {
+        "input": "five hundred and eighty-eight",
+        "output": "1176"
+    },
+    {
+        "input": "nine hundred and seventy-five",
+        "output": "1950"
+    },
+    {
+        "input": "seven hundred and eighty-eight",
+        "output": "1576"
+    },
+    {
+        "input": "two hundred and thirty-five",
+        "output": "470"
+    },
+    {
+        "input": "six hundred and thirteen",
+        "output": "1226"
+    },
+    {
+        "input": "two hundred and ninety-six",
+        "output": "592"
+    },
+    {
+        "input": "five hundred and sixteen",
+        "output": "1032"
+    },
+    {
+        "input": "two hundred and forty-five",
+        "output": "490"
+    },
+    {
+        "input": "seven hundred and thirty-six",
+        "output": "1472"
+    },
+    {
+        "input": "six hundred and sixteen",
+        "output": "1232"
+    },
+    {
+        "input": "one hundred and twelve",
+        "output": "224"
+    },
+    {
+        "input": "five hundred and twenty",
+        "output": "1040"
+    },
+    {
+        "input": "two hundred and fifty-five",
+        "output": "510"
+    },
+    {
+        "input": "two hundred and twenty-four",
+        "output": "448"
+    },
+    {
+        "input": "five hundred and sixty",
+        "output": "1120"
+    },
+    {
+        "input": "one hundred and seventy-three",
+        "output": "346"
+    },
+    {
+        "input": "one",
+        "output": "2"
+    },
+    {
+        "input": "seventy-six",
+        "output": "152"
+    },
+    {
+        "input": "seven hundred and fifty-five",
+        "output": "1510"
+    },
+    {
+        "input": "seven hundred and forty-five",
+        "output": "1490"
+    },
+    {
+        "input": "two hundred and seventy",
+        "output": "540"
+    },
+    {
+        "input": "three hundred and ninety-six",
+        "output": "792"
+    },
+    {
+        "input": "two hundred and nineteen",
+        "output": "438"
+    },
+    {
+        "input": "four hundred and fifty-six",
+        "output": "912"
+    },
+    {
+        "input": "one hundred and five",
+        "output": "210"
+    },
+    {
+        "input": "twenty-seven",
+        "output": "54"
+    },
+    {
+        "input": "nine hundred and forty-nine",
+        "output": "1898"
+    },
+    {
+        "input": "eight hundred and sixty-nine",
+        "output": "1738"
+    },
+    {
+        "input": "one hundred and ninety-seven",
+        "output": "394"
+    },
+    {
+        "input": "six hundred and twenty-eight",
+        "output": "1256"
+    },
+    {
+        "input": "seven hundred and seventy-two",
+        "output": "1544"
+    },
+    {
+        "input": "eight hundred and sixty",
+        "output": "1720"
+    },
+    {
+        "input": "two hundred and fifty-seven",
+        "output": "514"
+    },
+    {
+        "input": "four hundred and eighty-one",
+        "output": "962"
+    },
+    {
+        "input": "forty-four",
+        "output": "88"
+    },
+    {
+        "input": "nine hundred and twenty-three",
+        "output": "1846"
+    },
+    {
+        "input": "seven hundred and forty-three",
+        "output": "1486"
+    },
+    {
+        "input": "eight hundred and nineteen",
+        "output": "1638"
+    },
+    {
+        "input": "ninety-three",
+        "output": "186"
+    },
+    {
+        "input": "four hundred and sixty-four",
+        "output": "928"
+    },
+    {
+        "input": "nine hundred and ten",
+        "output": "1820"
+    },
+    {
+        "input": "eight hundred and eighty-six",
+        "output": "1772"
+    },
+    {
+        "input": "nine hundred and forty-six",
+        "output": "1892"
+    },
+    {
+        "input": "six hundred and forty-one",
+        "output": "1282"
+    },
+    {
+        "input": "four hundred and eighteen",
+        "output": "836"
+    },
+    {
+        "input": "four hundred and seventeen",
+        "output": "834"
+    },
+    {
+        "input": "three hundred and eighty-five",
+        "output": "770"
+    },
+    {
+        "input": "six hundred and thirty-nine",
+        "output": "1278"
+    },
+    {
+        "input": "five hundred and seventy-one",
+        "output": "1142"
+    },
+    {
+        "input": "forty-five",
+        "output": "90"
+    },
+    {
+        "input": "eight hundred and twenty-seven",
+        "output": "1654"
+    },
+    {
+        "input": "four hundred and thirty-three",
+        "output": "866"
+    },
+    {
+        "input": "six hundred and seven",
+        "output": "1214"
+    },
+    {
+        "input": "one hundred and eighty-nine",
+        "output": "378"
+    },
+    {
+        "input": "six hundred and ninety-one",
+        "output": "1382"
+    },
+    {
+        "input": "nine hundred and nine",
+        "output": "1818"
+    },
+    {
+        "input": "two hundred and forty-two",
+        "output": "484"
+    },
+    {
+        "input": "three hundred and twenty",
+        "output": "640"
+    },
+    {
+        "input": "one hundred and eighty",
+        "output": "360"
+    },
+    {
+        "input": "four hundred and fifty-seven",
+        "output": "914"
+    },
+    {
+        "input": "four hundred and ninety",
+        "output": "980"
+    },
+    {
+        "input": "six hundred and forty-three",
+        "output": "1286"
+    },
+    {
+        "input": "three hundred and eighteen",
+        "output": "636"
+    },
+    {
+        "input": "four hundred and fifty-five",
+        "output": "910"
+    },
+    {
+        "input": "ninety-one",
+        "output": "182"
+    },
+    {
+        "input": "five hundred and forty-two",
+        "output": "1084"
+    },
+    {
+        "input": "four hundred and twenty-one",
+        "output": "842"
+    },
+    {
+        "input": "four hundred and ninety-eight",
+        "output": "996"
+    },
+    {
+        "input": "sixty-five",
+        "output": "130"
+    },
+    {
+        "input": "five hundred and eighty-two",
+        "output": "1164"
+    },
+    {
+        "input": "six hundred and eighty-nine",
+        "output": "1378"
+    },
+    {
+        "input": "seven hundred and seventeen",
+        "output": "1434"
+    },
+    {
+        "input": "one hundred and forty-eight",
+        "output": "296"
+    },
+    {
+        "input": "one hundred and six",
+        "output": "212"
+    },
+    {
+        "input": "sixty-two",
+        "output": "124"
+    },
+    {
+        "input": "five hundred",
+        "output": "1000"
+    },
+    {
+        "input": "nine hundred and fifty-six",
+        "output": "1912"
+    },
+    {
+        "input": "five hundred and fifty-two",
+        "output": "1104"
+    },
+    {
+        "input": "three hundred and forty-four",
+        "output": "688"
+    },
+    {
+        "input": "seven hundred and eighty-six",
+        "output": "1572"
+    },
+    {
+        "input": "one hundred and eleven",
+        "output": "222"
+    },
+    {
+        "input": "eight hundred and fifty-four",
+        "output": "1708"
+    },
+    {
+        "input": "eight hundred and fifty-one",
+        "output": "1702"
+    },
+    {
+        "input": "five hundred and twenty-six",
+        "output": "1052"
+    },
+    {
+        "input": "six hundred and seventy-six",
+        "output": "1352"
+    },
+    {
+        "input": "one hundred and fifty-three",
+        "output": "306"
+    },
+    {
+        "input": "two hundred and twenty-five",
+        "output": "450"
+    },
+    {
+        "input": "eleven",
+        "output": "22"
+    },
+    {
+        "input": "five hundred and nine",
+        "output": "1018"
+    },
+    {
+        "input": "three hundred and fifty-six",
+        "output": "712"
+    },
+    {
+        "input": "four hundred and seventy-seven",
+        "output": "954"
+    },
+    {
+        "input": "one hundred and fifty-eight",
+        "output": "316"
+    },
+    {
+        "input": "seven hundred and sixty-one",
+        "output": "1522"
+    },
+    {
+        "input": "six hundred and fifty-two",
+        "output": "1304"
+    },
+    {
+        "input": "sixteen",
+        "output": "32"
+    },
+    {
+        "input": "three hundred and twenty-eight",
+        "output": "656"
+    },
+    {
+        "input": "three hundred and fifty-four",
+        "output": "708"
+    },
+    {
+        "input": "five hundred and eighty-nine",
+        "output": "1178"
+    },
+    {
+        "input": "seven hundred and fifteen",
+        "output": "1430"
+    },
+    {
+        "input": "nine hundred and eighty-five",
+        "output": "1970"
+    },
+    {
+        "input": "two hundred and ninety-four",
+        "output": "588"
+    },
+    {
+        "input": "four hundred and twenty-two",
+        "output": "844"
+    },
+    {
+        "input": "seven hundred and six",
+        "output": "1412"
+    },
+    {
+        "input": "nine hundred and seven",
+        "output": "1814"
+    },
+    {
+        "input": "eight hundred and twenty-five",
+        "output": "1650"
+    },
+    {
+        "input": "six hundred and eighty-three",
+        "output": "1366"
+    },
+    {
+        "input": "fifty-five",
+        "output": "110"
+    },
+    {
+        "input": "five hundred and fifty-five",
+        "output": "1110"
+    },
+    {
+        "input": "fifteen",
+        "output": "30"
+    },
+    {
+        "input": "eight hundred and five",
+        "output": "1610"
+    },
+    {
+        "input": "seven hundred and four",
+        "output": "1408"
+    },
+    {
+        "input": "one hundred and seventy-two",
+        "output": "344"
+    },
+    {
+        "input": "five hundred and eighty-four",
+        "output": "1168"
+    },
+    {
+        "input": "five hundred and fifteen",
+        "output": "1030"
+    },
+    {
+        "input": "nine hundred and twenty-five",
+        "output": "1850"
+    },
+    {
+        "input": "nine hundred and fifty-seven",
+        "output": "1914"
+    },
+    {
+        "input": "five hundred and two",
+        "output": "1004"
+    },
+    {
+        "input": "four hundred and six",
+        "output": "812"
+    },
+    {
+        "input": "six hundred and five",
+        "output": "1210"
+    },
+    {
+        "input": "six hundred and seventy-one",
+        "output": "1342"
+    },
+    {
+        "input": "sixty-three",
+        "output": "126"
+    },
+    {
+        "input": "seven hundred and seventy",
+        "output": "1540"
+    },
+    {
+        "input": "seven hundred and sixty-five",
+        "output": "1530"
+    },
+    {
+        "input": "six hundred and twenty-six",
+        "output": "1252"
+    },
+    {
+        "input": "forty-seven",
+        "output": "94"
+    },
+    {
+        "input": "seven hundred and ninety-four",
+        "output": "1588"
+    },
+    {
+        "input": "eight hundred and thirty-seven",
+        "output": "1674"
+    },
+    {
+        "input": "nine hundred and eighty-three",
+        "output": "1966"
+    },
+    {
+        "input": "one hundred and thirty-two",
+        "output": "264"
+    },
+    {
+        "input": "one hundred and two",
+        "output": "204"
+    },
+    {
+        "input": "three hundred and twenty-one",
+        "output": "642"
+    },
+    {
+        "input": "seven hundred and ninety-nine",
+        "output": "1598"
+    },
+    {
+        "input": "seven hundred and thirty-nine",
+        "output": "1478"
+    },
+    {
+        "input": "two hundred and eight",
+        "output": "416"
+    },
+    {
+        "input": "five hundred and eighty",
+        "output": "1160"
+    },
+    {
+        "input": "six hundred and twenty-four",
+        "output": "1248"
+    },
+    {
+        "input": "three hundred and seventeen",
+        "output": "634"
+    },
+    {
+        "input": "five hundred and fifty",
+        "output": "1100"
+    },
+    {
+        "input": "six hundred and sixty-one",
+        "output": "1322"
+    },
+    {
+        "input": "eight hundred and sixty-six",
+        "output": "1732"
+    },
+    {
+        "input": "three hundred and sixty-one",
+        "output": "722"
+    },
+    {
+        "input": "six hundred and eighty",
+        "output": "1360"
+    },
+    {
+        "input": "five hundred and thirty-seven",
+        "output": "1074"
+    },
+    {
+        "input": "two hundred and ninety-eight",
+        "output": "596"
+    },
+    {
+        "input": "six hundred and eighty-four",
+        "output": "1368"
+    },
+    {
+        "input": "four hundred and thirty-five",
+        "output": "870"
+    },
+    {
+        "input": "three hundred and thirty-seven",
+        "output": "674"
+    },
+    {
+        "input": "two hundred and thirty-six",
+        "output": "472"
+    },
+    {
+        "input": "one hundred and fifteen",
+        "output": "230"
+    },
+    {
+        "input": "six hundred and thirty-three",
+        "output": "1266"
+    },
+    {
+        "input": "nine hundred and twenty-one",
+        "output": "1842"
+    },
+    {
+        "input": "seven hundred and seventy-three",
+        "output": "1546"
+    },
+    {
+        "input": "two hundred and sixty-four",
+        "output": "528"
+    },
+    {
+        "input": "eight hundred and seventy-four",
+        "output": "1748"
+    },
+    {
+        "input": "sixty",
+        "output": "120"
+    },
+    {
+        "input": "eight hundred and ninety-one",
+        "output": "1782"
+    },
+    {
+        "input": "four hundred and forty",
+        "output": "880"
+    },
+    {
+        "input": "two hundred and eighteen",
+        "output": "436"
+    },
+    {
+        "input": "five hundred and sixty-four",
+        "output": "1128"
+    },
+    {
+        "input": "eight hundred and twelve",
+        "output": "1624"
+    },
+    {
+        "input": "four hundred and thirteen",
+        "output": "826"
+    },
+    {
+        "input": "five hundred and ten",
+        "output": "1020"
+    },
+    {
+        "input": "eight hundred and seven",
+        "output": "1614"
+    },
+    {
+        "input": "five hundred and sixty-three",
+        "output": "1126"
+    },
+    {
+        "input": "five hundred and sixty-two",
+        "output": "1124"
+    },
+    {
+        "input": "four hundred and two",
+        "output": "804"
+    },
+    {
+        "input": "eight hundred and twenty-two",
+        "output": "1644"
+    },
+    {
+        "input": "one hundred and eighty-two",
+        "output": "364"
+    },
+    {
+        "input": "six hundred and twenty-nine",
+        "output": "1258"
+    },
+    {
+        "input": "fifty-one",
+        "output": "102"
+    },
+    {
+        "input": "five hundred and eight",
+        "output": "1016"
+    },
+    {
+        "input": "eight hundred and sixty-four",
+        "output": "1728"
+    },
+    {
+        "input": "eight hundred and ninety-five",
+        "output": "1790"
+    },
+    {
+        "input": "one hundred and thirty",
+        "output": "260"
+    },
+    {
+        "input": "three hundred and twenty-six",
+        "output": "652"
+    },
+    {
+        "input": "sixty-one",
+        "output": "122"
+    },
+    {
+        "input": "forty-eight",
+        "output": "96"
+    },
+    {
+        "input": "nine hundred and sixty-seven",
+        "output": "1934"
+    },
+    {
+        "input": "four hundred and eighty-four",
+        "output": "968"
+    },
+    {
+        "input": "forty-two",
+        "output": "84"
+    },
+    {
+        "input": "seven hundred and seventy-four",
+        "output": "1548"
+    },
+    {
+        "input": "nine hundred and eighty-nine",
+        "output": "1978"
+    },
+    {
+        "input": "eight hundred and sixty-three",
+        "output": "1726"
+    },
+    {
+        "input": "eight hundred and fifty-six",
+        "output": "1712"
+    },
+    {
+        "input": "six hundred and forty",
+        "output": "1280"
+    },
+    {
+        "input": "three hundred and eighty-three",
+        "output": "766"
+    },
+    {
+        "input": "six hundred and seventeen",
+        "output": "1234"
+    },
+    {
+        "input": "nine hundred and sixty",
+        "output": "1920"
+    },
+    {
+        "input": "six hundred and sixty",
+        "output": "1320"
+    },
+    {
+        "input": "four hundred and fourteen",
+        "output": "828"
+    },
+    {
+        "input": "four hundred and twenty-nine",
+        "output": "858"
+    },
+    {
+        "input": "seven hundred and thirty-four",
+        "output": "1468"
+    },
+    {
+        "input": "eighty-six",
+        "output": "172"
+    },
+    {
+        "input": "seven hundred and forty-nine",
+        "output": "1498"
+    },
+    {
+        "input": "forty",
+        "output": "80"
+    },
+    {
+        "input": "three hundred and fifty",
+        "output": "700"
+    },
+    {
+        "input": "one hundred and seventy-six",
+        "output": "352"
+    },
+    {
+        "input": "eight hundred and thirty-six",
+        "output": "1672"
+    },
+    {
+        "input": "four hundred and twenty-three",
+        "output": "846"
+    },
+    {
+        "input": "eight hundred and ninety-six",
+        "output": "1792"
+    },
+    {
+        "input": "one hundred and ninety-five",
+        "output": "390"
+    },
+    {
+        "input": "five hundred and ninety-five",
+        "output": "1190"
+    },
+    {
+        "input": "five hundred and seventy-five",
+        "output": "1150"
+    },
+    {
+        "input": "four hundred and fifty",
+        "output": "900"
+    },
+    {
+        "input": "eight hundred and eighty",
+        "output": "1760"
+    },
+    {
+        "input": "eight hundred and forty",
+        "output": "1680"
+    },
+    {
+        "input": "eight hundred and eighteen",
+        "output": "1636"
+    },
+    {
+        "input": "nine hundred and thirty-eight",
+        "output": "1876"
+    }
+]

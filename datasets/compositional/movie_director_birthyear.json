@@ -1,0 +1,8722 @@
+[
+    {
+        "input": "Cellular",
+        "output": "1952"
+    },
+    {
+        "input": "The Perks of Being a Wallflower",
+        "output": "1970"
+    },
+    {
+        "input": "The Divergent Series: Allegiant",
+        "output": "1968"
+    },
+    {
+        "input": "The Skeleton Key",
+        "output": "1956"
+    },
+    {
+        "input": "This Means War",
+        "output": "1968"
+    },
+    {
+        "input": "Pandorum",
+        "output": "1974"
+    },
+    {
+        "input": "Harry Potter and the Order of the Phoenix",
+        "output": "1963"
+    },
+    {
+        "input": "The Batman",
+        "output": "1966"
+    },
+    {
+        "input": "Pineapple Express",
+        "output": "1975"
+    },
+    {
+        "input": "The Last Stand",
+        "output": "1964"
+    },
+    {
+        "input": "Den of Thieves",
+        "output": "1970"
+    },
+    {
+        "input": "The Curious Case of Benjamin Button",
+        "output": "1962"
+    },
+    {
+        "input": "Face/Off",
+        "output": "1946"
+    },
+    {
+        "input": "Poseidon",
+        "output": "1941"
+    },
+    {
+        "input": "A Single Man",
+        "output": "1961"
+    },
+    {
+        "input": "The Man with the Golden Gun",
+        "output": "1922"
+    },
+    {
+        "input": "Lars and the Real Girl",
+        "output": "1967"
+    },
+    {
+        "input": "Spider-Man 2",
+        "output": "1959"
+    },
+    {
+        "input": "Johnny English",
+        "output": "1957"
+    },
+    {
+        "input": "The Fabelmans",
+        "output": "1946"
+    },
+    {
+        "input": "Mallrats",
+        "output": "1970"
+    },
+    {
+        "input": "There Will Be Blood",
+        "output": "1970"
+    },
+    {
+        "input": "Charlie's Angels: Full Throttle",
+        "output": "1968"
+    },
+    {
+        "input": "Once",
+        "output": "1972"
+    },
+    {
+        "input": "Annie Hall",
+        "output": "1935"
+    },
+    {
+        "input": "El Camino: A Breaking Bad Movie",
+        "output": "1967"
+    },
+    {
+        "input": "Rope",
+        "output": "1899"
+    },
+    {
+        "input": "Transformers: Age of Extinction",
+        "output": "1965"
+    },
+    {
+        "input": "Double Indemnity",
+        "output": "1906"
+    },
+    {
+        "input": "Hitman's Wife's Bodyguard",
+        "output": "1978"
+    },
+    {
+        "input": "Austin Powers: The Spy Who Shagged Me",
+        "output": "1957"
+    },
+    {
+        "input": "Lethal Weapon",
+        "output": "1930"
+    },
+    {
+        "input": "I Know What You Did Last Summer",
+        "output": "2000"
+    },
+    {
+        "input": "Aftersun",
+        "output": "1987"
+    },
+    {
+        "input": "Dogtooth",
+        "output": "1973"
+    },
+    {
+        "input": "Lawless",
+        "output": "1961"
+    },
+    {
+        "input": "Letters from Iwo Jima",
+        "output": "1930"
+    },
+    {
+        "input": "Richard Jewell",
+        "output": "1930"
+    },
+    {
+        "input": "Alice Through the Looking Glass",
+        "output": "1972"
+    },
+    {
+        "input": "The Great Escape",
+        "output": "1910"
+    },
+    {
+        "input": "Jawan",
+        "output": "1983"
+    },
+    {
+        "input": "Nymphomaniac: Volume I",
+        "output": "1956"
+    },
+    {
+        "input": "Longlegs",
+        "output": "1974"
+    },
+    {
+        "input": "Shazam! Fury of the Gods",
+        "output": "1981"
+    },
+    {
+        "input": "Bronson",
+        "output": "1970"
+    },
+    {
+        "input": "The Florida Project",
+        "output": "1971"
+    },
+    {
+        "input": "Mr. & Mrs. Smith",
+        "output": "1965"
+    },
+    {
+        "input": "The Exorcism of Emily Rose",
+        "output": "1966"
+    },
+    {
+        "input": "The Lord of the Rings: The Two Towers",
+        "output": "1961"
+    },
+    {
+        "input": "Small Soldiers",
+        "output": "1946"
+    },
+    {
+        "input": "Before the Devil Knows You're Dead",
+        "output": "1924"
+    },
+    {
+        "input": "The Hot Chick",
+        "output": "1963"
+    },
+    {
+        "input": "2 Fast 2 Furious",
+        "output": "1968"
+    },
+    {
+        "input": "Mr. Smith Goes to Washington",
+        "output": "1897"
+    },
+    {
+        "input": "Concussion",
+        "output": "1963"
+    },
+    {
+        "input": "Ghost",
+        "output": "1950"
+    },
+    {
+        "input": "F9",
+        "output": "1971"
+    },
+    {
+        "input": "The Boondock Saints",
+        "output": "1971"
+    },
+    {
+        "input": "Cinema Paradiso",
+        "output": "1956"
+    },
+    {
+        "input": "300",
+        "output": "1966"
+    },
+    {
+        "input": "Black Widow",
+        "output": "1968"
+    },
+    {
+        "input": "Onward",
+        "output": "1976"
+    },
+    {
+        "input": "Star Wars: Episode VII \u2013 The Force Awakens",
+        "output": "1966"
+    },
+    {
+        "input": "Fast & Furious 6",
+        "output": "1971"
+    },
+    {
+        "input": "Patriot Games",
+        "output": "1950"
+    },
+    {
+        "input": "Galaxy Quest",
+        "output": "1952"
+    },
+    {
+        "input": "White Men Can't Jump",
+        "output": "1945"
+    },
+    {
+        "input": "Rogue One: A Star Wars Story",
+        "output": "1975"
+    },
+    {
+        "input": "Valkyrie",
+        "output": "1965"
+    },
+    {
+        "input": "The Great Beauty",
+        "output": "1970"
+    },
+    {
+        "input": "The Italian Job",
+        "output": "1969"
+    },
+    {
+        "input": "Pirates of the Caribbean: At World's End",
+        "output": "1964"
+    },
+    {
+        "input": "Bicycle Thieves",
+        "output": "1901"
+    },
+    {
+        "input": "The Menu",
+        "output": "1965"
+    },
+    {
+        "input": "Fast Times at Ridgemont High",
+        "output": "1954"
+    },
+    {
+        "input": "Paper Towns",
+        "output": "1981"
+    },
+    {
+        "input": "Charlie and the Chocolate Factory",
+        "output": "1958"
+    },
+    {
+        "input": "Angels & Demons",
+        "output": "1954"
+    },
+    {
+        "input": "Reign of Fire",
+        "output": "1960"
+    },
+    {
+        "input": "In Bruges",
+        "output": "1970"
+    },
+    {
+        "input": "Man of Steel",
+        "output": "1966"
+    },
+    {
+        "input": "Wonder",
+        "output": "1970"
+    },
+    {
+        "input": "Kramer vs. Kramer",
+        "output": "1932"
+    },
+    {
+        "input": "Ghost Dog: The Way of the Samurai",
+        "output": "1953"
+    },
+    {
+        "input": "Fracture",
+        "output": "1944"
+    },
+    {
+        "input": "Wall Street: Money Never Sleeps",
+        "output": "1946"
+    },
+    {
+        "input": "No Time to Die",
+        "output": "1977"
+    },
+    {
+        "input": "Percy Jackson & The Olympians - The Sea of Monsters",
+        "output": "1972"
+    },
+    {
+        "input": "Ex Machina",
+        "output": "1970"
+    },
+    {
+        "input": "The Virgin Suicides",
+        "output": "1971"
+    },
+    {
+        "input": "Scream 3",
+        "output": "1939"
+    },
+    {
+        "input": "The Waterboy",
+        "output": "1966"
+    },
+    {
+        "input": "Adaptation",
+        "output": "1969"
+    },
+    {
+        "input": "Eagle Eye",
+        "output": "1965"
+    },
+    {
+        "input": "The Great Dictator",
+        "output": "1889"
+    },
+    {
+        "input": "Little Nicky",
+        "output": "1962"
+    },
+    {
+        "input": "127 Hours",
+        "output": "1956"
+    },
+    {
+        "input": "The Dictator",
+        "output": "1956"
+    },
+    {
+        "input": "Men in Black 3",
+        "output": "1953"
+    },
+    {
+        "input": "The Hours",
+        "output": "1961"
+    },
+    {
+        "input": "The Tree of Life",
+        "output": "1943"
+    },
+    {
+        "input": "The Fountain",
+        "output": "1969"
+    },
+    {
+        "input": "Venom: Let There Be Carnage",
+        "output": "1964"
+    },
+    {
+        "input": "Love, Simon",
+        "output": "1972"
+    },
+    {
+        "input": "Guy Ritchie's The Covenant",
+        "output": "1968"
+    },
+    {
+        "input": "The Blues Brothers",
+        "output": "1950"
+    },
+    {
+        "input": "Crocodile Dundee",
+        "output": "1944"
+    },
+    {
+        "input": "Forgetting Sarah Marshall",
+        "output": "1976"
+    },
+    {
+        "input": "Creed II",
+        "output": "1988"
+    },
+    {
+        "input": "Freddy vs. Jason",
+        "output": "1950"
+    },
+    {
+        "input": "Dead Silence",
+        "output": "1977"
+    },
+    {
+        "input": "The Predator",
+        "output": "1961"
+    },
+    {
+        "input": "Once Upon a Time in Mexico",
+        "output": "1968"
+    },
+    {
+        "input": "Requiem for a Dream",
+        "output": "1969"
+    },
+    {
+        "input": "Alien",
+        "output": "1937"
+    },
+    {
+        "input": "Portrait of a Lady on Fire",
+        "output": "1978"
+    },
+    {
+        "input": "Blended",
+        "output": "1966"
+    },
+    {
+        "input": "Past Lives",
+        "output": "1988"
+    },
+    {
+        "input": "Carry-On",
+        "output": "1974"
+    },
+    {
+        "input": "The Conversation",
+        "output": "1939"
+    },
+    {
+        "input": "Blade Runner",
+        "output": "1937"
+    },
+    {
+        "input": "Pirates of the Caribbean: On Stranger Tides",
+        "output": "1960"
+    },
+    {
+        "input": "Miami Vice",
+        "output": "1943"
+    },
+    {
+        "input": "Bride Wars",
+        "output": "1961"
+    },
+    {
+        "input": "Carnage",
+        "output": "1933"
+    },
+    {
+        "input": "Enter the Dragon",
+        "output": "1928"
+    },
+    {
+        "input": "Bohemian Rhapsody",
+        "output": "1965"
+    },
+    {
+        "input": "Doctor Sleep",
+        "output": "1978"
+    },
+    {
+        "input": "Pacific Rim: Uprising",
+        "output": "1964"
+    },
+    {
+        "input": "United 93",
+        "output": "1955"
+    },
+    {
+        "input": "She's Out of My League",
+        "output": "1979"
+    },
+    {
+        "input": "Dr. Strangelove",
+        "output": "1928"
+    },
+    {
+        "input": "Monsters University",
+        "output": "1976"
+    },
+    {
+        "input": "Psycho",
+        "output": "1899"
+    },
+    {
+        "input": "Assassin's Creed",
+        "output": "1974"
+    },
+    {
+        "input": "Hocus Pocus",
+        "output": "1950"
+    },
+    {
+        "input": "Street Kings",
+        "output": "1968"
+    },
+    {
+        "input": "In the Mood for Love",
+        "output": "1958"
+    },
+    {
+        "input": "Mother!",
+        "output": "1969"
+    },
+    {
+        "input": "Green Book",
+        "output": "1956"
+    },
+    {
+        "input": "Star Wars: Episode IV \u2013 A New Hope",
+        "output": "1944"
+    },
+    {
+        "input": "Birdman",
+        "output": "1963"
+    },
+    {
+        "input": "Funny People",
+        "output": "1967"
+    },
+    {
+        "input": "Field of Dreams",
+        "output": "1950"
+    },
+    {
+        "input": "Manhattan",
+        "output": "1935"
+    },
+    {
+        "input": "Rambo: Last Blood",
+        "output": "1970"
+    },
+    {
+        "input": "Twin Peaks: Fire Walk with Me",
+        "output": "1946"
+    },
+    {
+        "input": "Hitman",
+        "output": "1975"
+    },
+    {
+        "input": "The Time Traveler's Wife",
+        "output": "1968"
+    },
+    {
+        "input": "A Man Called Otto",
+        "output": "1969"
+    },
+    {
+        "input": "The Secret Life of Walter Mitty",
+        "output": "1965"
+    },
+    {
+        "input": "Jackie Brown",
+        "output": "1963"
+    },
+    {
+        "input": "Alien: Covenant",
+        "output": "1937"
+    },
+    {
+        "input": "Sex and the City",
+        "output": "1954"
+    },
+    {
+        "input": "Paranormal Activity",
+        "output": "1970"
+    },
+    {
+        "input": "Coming to America",
+        "output": "1950"
+    },
+    {
+        "input": "Blue Is the Warmest Colour",
+        "output": "1960"
+    },
+    {
+        "input": "Fast X",
+        "output": "1973"
+    },
+    {
+        "input": "Payback",
+        "output": "1961"
+    },
+    {
+        "input": "I Now Pronounce You Chuck and Larry",
+        "output": "1946"
+    },
+    {
+        "input": "Hacksaw Ridge",
+        "output": "1956"
+    },
+    {
+        "input": "Syriana",
+        "output": "1965"
+    },
+    {
+        "input": "Step Brothers",
+        "output": "1968"
+    },
+    {
+        "input": "The Game",
+        "output": "1962"
+    },
+    {
+        "input": "Gremlins",
+        "output": "1946"
+    },
+    {
+        "input": "Rat Race",
+        "output": "1950"
+    },
+    {
+        "input": "Harry Potter and the Half-Blood Prince",
+        "output": "1963"
+    },
+    {
+        "input": "The Bank Job",
+        "output": "1945"
+    },
+    {
+        "input": "1917",
+        "output": "1965"
+    },
+    {
+        "input": "John Wick: Chapter 2",
+        "output": "1968"
+    },
+    {
+        "input": "The Devil's Advocate",
+        "output": "1944"
+    },
+    {
+        "input": "Magic Mike",
+        "output": "1963"
+    },
+    {
+        "input": "Splice",
+        "output": "1969"
+    },
+    {
+        "input": "The Wolverine",
+        "output": "1963"
+    },
+    {
+        "input": "Downsizing",
+        "output": "1961"
+    },
+    {
+        "input": "Dragonheart",
+        "output": "1949"
+    },
+    {
+        "input": "The Pale Blue Eye",
+        "output": "1970"
+    },
+    {
+        "input": "The Fast and the Furious",
+        "output": "1949"
+    },
+    {
+        "input": "Tenacious D in The Pick of Destiny",
+        "output": "1970"
+    },
+    {
+        "input": "Bruce Almighty",
+        "output": "1958"
+    },
+    {
+        "input": "Risky Business",
+        "output": "1949"
+    },
+    {
+        "input": "Wild Strawberries",
+        "output": "1918"
+    },
+    {
+        "input": "The Maze Runner",
+        "output": "1980"
+    },
+    {
+        "input": "Team America: World Police",
+        "output": "1969"
+    },
+    {
+        "input": "All About My Mother",
+        "output": "1949"
+    },
+    {
+        "input": "Rebecca",
+        "output": "1899"
+    },
+    {
+        "input": "Platoon",
+        "output": "1946"
+    },
+    {
+        "input": "Die Another Day",
+        "output": "1950"
+    },
+    {
+        "input": "I Am Number Four",
+        "output": "1965"
+    },
+    {
+        "input": "Star Wars: Episode VI \u2013 Return of the Jedi",
+        "output": "1937"
+    },
+    {
+        "input": "Snakes on a Plane",
+        "output": "1952"
+    },
+    {
+        "input": "Gattaca",
+        "output": "1964"
+    },
+    {
+        "input": "Moonraker",
+        "output": "1920"
+    },
+    {
+        "input": "Escape Plan",
+        "output": "1960"
+    },
+    {
+        "input": "The International",
+        "output": "1965"
+    },
+    {
+        "input": "Incredibles 2",
+        "output": "1957"
+    },
+    {
+        "input": "X",
+        "output": "1980"
+    },
+    {
+        "input": "Addams Family Values",
+        "output": "1953"
+    },
+    {
+        "input": "Star Trek Beyond",
+        "output": "1971"
+    },
+    {
+        "input": "The Hunger Games: Catching Fire",
+        "output": "1971"
+    },
+    {
+        "input": "Up in the Air",
+        "output": "1977"
+    },
+    {
+        "input": "The Full Monty",
+        "output": "1964"
+    },
+    {
+        "input": "Mrs. Doubtfire",
+        "output": "1958"
+    },
+    {
+        "input": "Good Bye Lenin!",
+        "output": "1954"
+    },
+    {
+        "input": "Evan Almighty",
+        "output": "1958"
+    },
+    {
+        "input": "Bedazzled",
+        "output": "1944"
+    },
+    {
+        "input": "Bad Teacher",
+        "output": "1974"
+    },
+    {
+        "input": "Bright",
+        "output": "1968"
+    },
+    {
+        "input": "Jack the Giant Slayer",
+        "output": "1965"
+    },
+    {
+        "input": "Now You See Me 2",
+        "output": "1979"
+    },
+    {
+        "input": "Minority Report",
+        "output": "1946"
+    },
+    {
+        "input": "The Five-Year Engagement",
+        "output": "1976"
+    },
+    {
+        "input": "Hereditary",
+        "output": "1986"
+    },
+    {
+        "input": "The Raid 2",
+        "output": "1980"
+    },
+    {
+        "input": "An American Werewolf in London",
+        "output": "1950"
+    },
+    {
+        "input": "Martyrs",
+        "output": "1971"
+    },
+    {
+        "input": "The Girl on the Train",
+        "output": "1969"
+    },
+    {
+        "input": "Foxcatcher",
+        "output": "1966"
+    },
+    {
+        "input": "A Quiet Place: Part II",
+        "output": "1979"
+    },
+    {
+        "input": "The Lobster",
+        "output": "1973"
+    },
+    {
+        "input": "Blow",
+        "output": "1963"
+    },
+    {
+        "input": "Spider-Man: Homecoming",
+        "output": "1981"
+    },
+    {
+        "input": "Pirates of the Caribbean: Dead Man's Chest",
+        "output": "1964"
+    },
+    {
+        "input": "Batman Forever",
+        "output": "1939"
+    },
+    {
+        "input": "Hostiles",
+        "output": "1970"
+    },
+    {
+        "input": "Rush Hour 3",
+        "output": "1969"
+    },
+    {
+        "input": "The Beach",
+        "output": "1956"
+    },
+    {
+        "input": "The Breakfast Club",
+        "output": "1950"
+    },
+    {
+        "input": "The Invisible Man",
+        "output": "1977"
+    },
+    {
+        "input": "The Lion King",
+        "output": "1966"
+    },
+    {
+        "input": "Drag Me to Hell",
+        "output": "1959"
+    },
+    {
+        "input": "Catch Me If You Can",
+        "output": "1946"
+    },
+    {
+        "input": "Persona",
+        "output": "1918"
+    },
+    {
+        "input": "He's Just Not That Into You",
+        "output": "1957"
+    },
+    {
+        "input": "The Bourne Ultimatum",
+        "output": "1955"
+    },
+    {
+        "input": "Resident Evil: Afterlife",
+        "output": "1965"
+    },
+    {
+        "input": "Horrible Bosses 2",
+        "output": "1969"
+    },
+    {
+        "input": "Hannibal",
+        "output": "1937"
+    },
+    {
+        "input": "Collateral",
+        "output": "1943"
+    },
+    {
+        "input": "Wrath of Man",
+        "output": "1968"
+    },
+    {
+        "input": "Twister",
+        "output": "1943"
+    },
+    {
+        "input": "Interstellar",
+        "output": "1970"
+    },
+    {
+        "input": "Jaws",
+        "output": "1946"
+    },
+    {
+        "input": "Brooklyn",
+        "output": "1969"
+    },
+    {
+        "input": "Robin Hood: Men in Tights",
+        "output": "1926"
+    },
+    {
+        "input": "The Rocky Horror Picture Show",
+        "output": "1945"
+    },
+    {
+        "input": "Planes, Trains and Automobiles",
+        "output": "1950"
+    },
+    {
+        "input": "Green Lantern",
+        "output": "1943"
+    },
+    {
+        "input": "We're the Millers",
+        "output": "1975"
+    },
+    {
+        "input": "Detachment",
+        "output": "1952"
+    },
+    {
+        "input": "Wild Wild West",
+        "output": "1953"
+    },
+    {
+        "input": "Parasite",
+        "output": "1969"
+    },
+    {
+        "input": "Sound of Metal",
+        "output": "1974"
+    },
+    {
+        "input": "Neighbors",
+        "output": "1976"
+    },
+    {
+        "input": "Your Highness",
+        "output": "1975"
+    },
+    {
+        "input": "Booksmart",
+        "output": "1984"
+    },
+    {
+        "input": "Good Night, and Good Luck.",
+        "output": "1961"
+    },
+    {
+        "input": "30 Days of Night",
+        "output": "1969"
+    },
+    {
+        "input": "Batman & Robin",
+        "output": "1939"
+    },
+    {
+        "input": "It's Complicated",
+        "output": "1949"
+    },
+    {
+        "input": "Chinatown",
+        "output": "1933"
+    },
+    {
+        "input": "Wanted",
+        "output": "1961"
+    },
+    {
+        "input": "Year One",
+        "output": "1944"
+    },
+    {
+        "input": "Eragon",
+        "output": "1960"
+    },
+    {
+        "input": "The Fall Guy",
+        "output": "1975"
+    },
+    {
+        "input": "Fantastic Beasts: The Crimes of Grindelwald",
+        "output": "1963"
+    },
+    {
+        "input": "Hachi: A Dog's Tale",
+        "output": "1946"
+    },
+    {
+        "input": "Quantum of Solace",
+        "output": "1969"
+    },
+    {
+        "input": "White House Down",
+        "output": "1955"
+    },
+    {
+        "input": "Superman",
+        "output": "1930"
+    },
+    {
+        "input": "Seeking a Friend for the End of the World",
+        "output": "1978"
+    },
+    {
+        "input": "Central Intelligence",
+        "output": "1975"
+    },
+    {
+        "input": "Percy Jackson & the Olympians: The Lightning Thief",
+        "output": "1958"
+    },
+    {
+        "input": "The Constant Gardener",
+        "output": "1955"
+    },
+    {
+        "input": "King Arthur",
+        "output": "1965"
+    },
+    {
+        "input": "Underwater",
+        "output": "1982"
+    },
+    {
+        "input": "Mission: Impossible 2",
+        "output": "1946"
+    },
+    {
+        "input": "The Marvels",
+        "output": "1989"
+    },
+    {
+        "input": "Dirty Harry",
+        "output": "1912"
+    },
+    {
+        "input": "Deadpool",
+        "output": "1964"
+    },
+    {
+        "input": "T\u00e1r",
+        "output": "1964"
+    },
+    {
+        "input": "Jobs",
+        "output": "1961"
+    },
+    {
+        "input": "Top Gun",
+        "output": "1944"
+    },
+    {
+        "input": "Man on Fire",
+        "output": "1944"
+    },
+    {
+        "input": "Alita: Battle Angel",
+        "output": "1968"
+    },
+    {
+        "input": "Let the Right One In",
+        "output": "1965"
+    },
+    {
+        "input": "Identity Thief",
+        "output": "1976"
+    },
+    {
+        "input": "Dredd",
+        "output": "2000"
+    },
+    {
+        "input": "Detective Pikachu",
+        "output": "1970"
+    },
+    {
+        "input": "The Sixth Sense",
+        "output": "1970"
+    },
+    {
+        "input": "Colombiana",
+        "output": "1965"
+    },
+    {
+        "input": "Non-Stop",
+        "output": "1974"
+    },
+    {
+        "input": "Hellraiser",
+        "output": "1952"
+    },
+    {
+        "input": "American Graffiti",
+        "output": "1944"
+    },
+    {
+        "input": "Letters to Juliet",
+        "output": "1961"
+    },
+    {
+        "input": "Home",
+        "output": "1961"
+    },
+    {
+        "input": "Wicked",
+        "output": "1979"
+    },
+    {
+        "input": "Mission: Impossible",
+        "output": "1940"
+    },
+    {
+        "input": "The Black Phone",
+        "output": "1966"
+    },
+    {
+        "input": "Pretty Woman",
+        "output": "1934"
+    },
+    {
+        "input": "Thirteen",
+        "output": "1955"
+    },
+    {
+        "input": "The Graduate",
+        "output": "1931"
+    },
+    {
+        "input": "Fright Night",
+        "output": "1967"
+    },
+    {
+        "input": "Walk the Line",
+        "output": "1963"
+    },
+    {
+        "input": "Zack Snyder's Justice League",
+        "output": "1966"
+    },
+    {
+        "input": "Rain Man",
+        "output": "1942"
+    },
+    {
+        "input": "Night of the Living Dead",
+        "output": "1940"
+    },
+    {
+        "input": "Mama",
+        "output": "1973"
+    },
+    {
+        "input": "Paddington 2",
+        "output": "1978"
+    },
+    {
+        "input": "The Naked Gun: From the Files of Police Squad!",
+        "output": "1947"
+    },
+    {
+        "input": "10 Things I Hate About You",
+        "output": "1954"
+    },
+    {
+        "input": "Aquaman",
+        "output": "1977"
+    },
+    {
+        "input": "Kong: Skull Island",
+        "output": "1984"
+    },
+    {
+        "input": "13 Going on 30",
+        "output": "1961"
+    },
+    {
+        "input": "Contact",
+        "output": "1952"
+    },
+    {
+        "input": "Fast Five",
+        "output": "1971"
+    },
+    {
+        "input": "Bridget Jones's Diary",
+        "output": "1960"
+    },
+    {
+        "input": "Rosemary's Baby",
+        "output": "1933"
+    },
+    {
+        "input": "The Hangover",
+        "output": "1970"
+    },
+    {
+        "input": "Antichrist",
+        "output": "1956"
+    },
+    {
+        "input": "Due Date",
+        "output": "1970"
+    },
+    {
+        "input": "The Mist",
+        "output": "1959"
+    },
+    {
+        "input": "2001: A Space Odyssey",
+        "output": "1928"
+    },
+    {
+        "input": "Remember the Titans",
+        "output": "1966"
+    },
+    {
+        "input": "The Lake House",
+        "output": "1961"
+    },
+    {
+        "input": "Legion",
+        "output": "1950"
+    },
+    {
+        "input": "Reservoir Dogs",
+        "output": "1963"
+    },
+    {
+        "input": "Anna",
+        "output": "1959"
+    },
+    {
+        "input": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+        "output": "1941"
+    },
+    {
+        "input": "The Dark Tower",
+        "output": "1972"
+    },
+    {
+        "input": "Rambo III",
+        "output": "1939"
+    },
+    {
+        "input": "The Night of the Hunter",
+        "output": "1899"
+    },
+    {
+        "input": "Paddington",
+        "output": "1978"
+    },
+    {
+        "input": "Ransom",
+        "output": "1954"
+    },
+    {
+        "input": "The Perfect Storm",
+        "output": "1941"
+    },
+    {
+        "input": "Jingle All the Way",
+        "output": "1952"
+    },
+    {
+        "input": "Rounders",
+        "output": "1956"
+    },
+    {
+        "input": "E.T. the Extra-Terrestrial",
+        "output": "1946"
+    },
+    {
+        "input": "Anaconda",
+        "output": "1951"
+    },
+    {
+        "input": "Trance",
+        "output": "1956"
+    },
+    {
+        "input": "Sling Blade",
+        "output": "1955"
+    },
+    {
+        "input": "Eat Pray Love",
+        "output": "1965"
+    },
+    {
+        "input": "The Rundown",
+        "output": "1964"
+    },
+    {
+        "input": "Aladdin",
+        "output": "1968"
+    },
+    {
+        "input": "Role Models",
+        "output": "1969"
+    },
+    {
+        "input": "Black Hawk Down",
+        "output": "1937"
+    },
+    {
+        "input": "R.I.P.D.",
+        "output": "1968"
+    },
+    {
+        "input": "Green Room",
+        "output": "1976"
+    },
+    {
+        "input": "Hustle",
+        "output": "1981"
+    },
+    {
+        "input": "Barry Lyndon",
+        "output": "1928"
+    },
+    {
+        "input": "My Cousin Vinny",
+        "output": "1943"
+    },
+    {
+        "input": "Nightcrawler",
+        "output": "1959"
+    },
+    {
+        "input": "12 Years a Slave",
+        "output": "1969"
+    },
+    {
+        "input": "Napoleon",
+        "output": "1937"
+    },
+    {
+        "input": "Dark Waters",
+        "output": "1961"
+    },
+    {
+        "input": "Fatal Attraction",
+        "output": "1941"
+    },
+    {
+        "input": "The Terminator",
+        "output": "1954"
+    },
+    {
+        "input": "Insidious",
+        "output": "1977"
+    },
+    {
+        "input": "Watchmen",
+        "output": "1966"
+    },
+    {
+        "input": "Joker: Folie \u00e0 Deux",
+        "output": "1970"
+    },
+    {
+        "input": "A Scanner Darkly",
+        "output": "1960"
+    },
+    {
+        "input": "Gremlins 2: The New Batch",
+        "output": "1946"
+    },
+    {
+        "input": "Last Night in Soho",
+        "output": "1974"
+    },
+    {
+        "input": "Billy Elliot",
+        "output": "1961"
+    },
+    {
+        "input": "Unfaithful",
+        "output": "1941"
+    },
+    {
+        "input": "Crimson Peak",
+        "output": "1964"
+    },
+    {
+        "input": "On the Waterfront",
+        "output": "1909"
+    },
+    {
+        "input": "The Bourne Legacy",
+        "output": "1956"
+    },
+    {
+        "input": "Never Back Down",
+        "output": "1976"
+    },
+    {
+        "input": "Casper",
+        "output": "1963"
+    },
+    {
+        "input": "End of Watch",
+        "output": "1968"
+    },
+    {
+        "input": "Four Weddings and a Funeral",
+        "output": "1942"
+    },
+    {
+        "input": "Point Break",
+        "output": "1951"
+    },
+    {
+        "input": "Spider-Man: No Way Home",
+        "output": "1981"
+    },
+    {
+        "input": "Groundhog Day",
+        "output": "1944"
+    },
+    {
+        "input": "Beetlejuice Beetlejuice",
+        "output": "1958"
+    },
+    {
+        "input": "The Quick and the Dead",
+        "output": "1959"
+    },
+    {
+        "input": "Titanic",
+        "output": "1954"
+    },
+    {
+        "input": "Mr. Nobody",
+        "output": "1957"
+    },
+    {
+        "input": "Little Fockers",
+        "output": "1965"
+    },
+    {
+        "input": "Ocean's Twelve",
+        "output": "1963"
+    },
+    {
+        "input": "Dirty Grandpa",
+        "output": "1971"
+    },
+    {
+        "input": "Tenet",
+        "output": "1970"
+    },
+    {
+        "input": "The Fifth Element",
+        "output": "1959"
+    },
+    {
+        "input": "Network",
+        "output": "1924"
+    },
+    {
+        "input": "Dogville",
+        "output": "1956"
+    },
+    {
+        "input": "Rebel Moon \u2014 Part One: A Child of Fire",
+        "output": "1966"
+    },
+    {
+        "input": "The Killer",
+        "output": "1962"
+    },
+    {
+        "input": "Hercules",
+        "output": "1969"
+    },
+    {
+        "input": "That's My Boy",
+        "output": "1969"
+    },
+    {
+        "input": "Knocked Up",
+        "output": "1967"
+    },
+    {
+        "input": "The Age of Adaline",
+        "output": "1983"
+    },
+    {
+        "input": "Thor: Ragnarok",
+        "output": "1975"
+    },
+    {
+        "input": "Citizen Kane",
+        "output": "1915"
+    },
+    {
+        "input": "Roma",
+        "output": "1961"
+    },
+    {
+        "input": "The Others",
+        "output": "1972"
+    },
+    {
+        "input": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+        "output": "1983"
+    },
+    {
+        "input": "Kingdom of Heaven",
+        "output": "1937"
+    },
+    {
+        "input": "RED 2",
+        "output": "1952"
+    },
+    {
+        "input": "Burnt",
+        "output": "1956"
+    },
+    {
+        "input": "The Counselor",
+        "output": "1937"
+    },
+    {
+        "input": "Bumblebee",
+        "output": "1973"
+    },
+    {
+        "input": "Death on the Nile",
+        "output": "1960"
+    },
+    {
+        "input": "Steve Jobs",
+        "output": "1956"
+    },
+    {
+        "input": "Knock Knock",
+        "output": "1972"
+    },
+    {
+        "input": "Triangle of Sadness",
+        "output": "1974"
+    },
+    {
+        "input": "Hannibal Rising",
+        "output": "1968"
+    },
+    {
+        "input": "My Fair Lady",
+        "output": "1899"
+    },
+    {
+        "input": "Labyrinth",
+        "output": "1936"
+    },
+    {
+        "input": "Annabelle: Creation",
+        "output": "1981"
+    },
+    {
+        "input": "Men in Black: International",
+        "output": "1969"
+    },
+    {
+        "input": "Eden Lake",
+        "output": "1973"
+    },
+    {
+        "input": "Brazil",
+        "output": "1940"
+    },
+    {
+        "input": "Okja",
+        "output": "1969"
+    },
+    {
+        "input": "Parker",
+        "output": "1944"
+    },
+    {
+        "input": "The Color Purple",
+        "output": "1946"
+    },
+    {
+        "input": "Dante's Peak",
+        "output": "1945"
+    },
+    {
+        "input": "The Bounty Hunter",
+        "output": "1955"
+    },
+    {
+        "input": "The Sting",
+        "output": "1921"
+    },
+    {
+        "input": "Gods of Egypt",
+        "output": "1963"
+    },
+    {
+        "input": "White Chicks",
+        "output": "1958"
+    },
+    {
+        "input": "I Saw the Devil",
+        "output": "1964"
+    },
+    {
+        "input": "The Recruit",
+        "output": "1945"
+    },
+    {
+        "input": "Salt",
+        "output": "1950"
+    },
+    {
+        "input": "The Father",
+        "output": "1979"
+    },
+    {
+        "input": "Babe",
+        "output": "1952"
+    },
+    {
+        "input": "The Crazies",
+        "output": "1970"
+    },
+    {
+        "input": "The Babysitter",
+        "output": "1968"
+    },
+    {
+        "input": "The Parent Trap",
+        "output": "1949"
+    },
+    {
+        "input": "Law Abiding Citizen",
+        "output": "1969"
+    },
+    {
+        "input": "About Time",
+        "output": "1956"
+    },
+    {
+        "input": "Lady in the Water",
+        "output": "1970"
+    },
+    {
+        "input": "The Guest",
+        "output": "1982"
+    },
+    {
+        "input": "The Ugly Truth",
+        "output": "1973"
+    },
+    {
+        "input": "Promising Young Woman",
+        "output": "1985"
+    },
+    {
+        "input": "The Rum Diary",
+        "output": "1946"
+    },
+    {
+        "input": "Godzilla x Kong: The New Empire",
+        "output": "1982"
+    },
+    {
+        "input": "Locke",
+        "output": "1959"
+    },
+    {
+        "input": "The English Patient",
+        "output": "1954"
+    },
+    {
+        "input": "Society of the Snow",
+        "output": "1975"
+    },
+    {
+        "input": "Eternals",
+        "output": "1982"
+    },
+    {
+        "input": "Uncle Buck",
+        "output": "1950"
+    },
+    {
+        "input": "The Man Who Wasn't There",
+        "output": "1954"
+    },
+    {
+        "input": "Last Action Hero",
+        "output": "1951"
+    },
+    {
+        "input": "The Bourne Identity",
+        "output": "1965"
+    },
+    {
+        "input": "Meet Joe Black",
+        "output": "1951"
+    },
+    {
+        "input": "Dirty Dancing",
+        "output": "1943"
+    },
+    {
+        "input": "Upgrade",
+        "output": "1977"
+    },
+    {
+        "input": "You Don't Mess with the Zohan",
+        "output": "1946"
+    },
+    {
+        "input": "Sinister",
+        "output": "1966"
+    },
+    {
+        "input": "Clash of the Titans",
+        "output": "1973"
+    },
+    {
+        "input": "Collateral Beauty",
+        "output": "1959"
+    },
+    {
+        "input": "Babel",
+        "output": "1963"
+    },
+    {
+        "input": "Sense and Sensibility",
+        "output": "1954"
+    },
+    {
+        "input": "Enemy",
+        "output": "1967"
+    },
+    {
+        "input": "Super Size Me",
+        "output": "1970"
+    },
+    {
+        "input": "The Kashmir Files",
+        "output": "1973"
+    },
+    {
+        "input": "Ant-Man and the Wasp: Quantumania",
+        "output": "1964"
+    },
+    {
+        "input": "The Number 23",
+        "output": "1939"
+    },
+    {
+        "input": "Saw III",
+        "output": "1979"
+    },
+    {
+        "input": "Speed",
+        "output": "1943"
+    },
+    {
+        "input": "21",
+        "output": "1973"
+    },
+    {
+        "input": "Hot Fuzz",
+        "output": "1974"
+    },
+    {
+        "input": "Magnolia",
+        "output": "1970"
+    },
+    {
+        "input": "Hustlers",
+        "output": "1978"
+    },
+    {
+        "input": "Shooter",
+        "output": "1965"
+    },
+    {
+        "input": "As Good as It Gets",
+        "output": "1940"
+    },
+    {
+        "input": "Wrath of the Titans",
+        "output": "1976"
+    },
+    {
+        "input": "Exodus: Gods and Kings",
+        "output": "1937"
+    },
+    {
+        "input": "Widows",
+        "output": "1969"
+    },
+    {
+        "input": "Ip Man 2",
+        "output": "1963"
+    },
+    {
+        "input": "Shakespeare in Love",
+        "output": "1949"
+    },
+    {
+        "input": "Thelma & Louise",
+        "output": "1937"
+    },
+    {
+        "input": "Monty Python's The Meaning of Life",
+        "output": "1942"
+    },
+    {
+        "input": "Black Panther",
+        "output": "1986"
+    },
+    {
+        "input": "Silence",
+        "output": "1942"
+    },
+    {
+        "input": "The Ring",
+        "output": "1964"
+    },
+    {
+        "input": "Patton",
+        "output": "1921"
+    },
+    {
+        "input": "Money Monster",
+        "output": "1962"
+    },
+    {
+        "input": "The Neon Demon",
+        "output": "1970"
+    },
+    {
+        "input": "Full Metal Jacket",
+        "output": "1928"
+    },
+    {
+        "input": "Harry Potter and the Chamber of Secrets",
+        "output": "1958"
+    },
+    {
+        "input": "8\u00bd",
+        "output": "1920"
+    },
+    {
+        "input": "Venom: The Last Dance",
+        "output": "1974"
+    },
+    {
+        "input": "My Big Fat Greek Wedding",
+        "output": "1942"
+    },
+    {
+        "input": "Kill Bill: Volume 1",
+        "output": "1963"
+    },
+    {
+        "input": "The Amazing Spider-Man 2",
+        "output": "1974"
+    },
+    {
+        "input": "J. Edgar",
+        "output": "1930"
+    },
+    {
+        "input": "Glory",
+        "output": "1952"
+    },
+    {
+        "input": "Mamma Mia!",
+        "output": "1957"
+    },
+    {
+        "input": "Gerald's Game",
+        "output": "1978"
+    },
+    {
+        "input": "Shazam!",
+        "output": "1981"
+    },
+    {
+        "input": "Unforgiven",
+        "output": "1930"
+    },
+    {
+        "input": "Notting Hill",
+        "output": "1956"
+    },
+    {
+        "input": "Baby Driver",
+        "output": "1974"
+    },
+    {
+        "input": "Harry Potter and the Goblet of Fire",
+        "output": "1942"
+    },
+    {
+        "input": "The Edge of Seventeen",
+        "output": "1980"
+    },
+    {
+        "input": "Dazed and Confused",
+        "output": "1960"
+    },
+    {
+        "input": "The Amityville Horror",
+        "output": "1952"
+    },
+    {
+        "input": "Matchstick Men",
+        "output": "1937"
+    },
+    {
+        "input": "The Texas Chainsaw Massacre",
+        "output": "1963"
+    },
+    {
+        "input": "Coach Carter",
+        "output": "1953"
+    },
+    {
+        "input": "How to Lose a Guy in 10 Days",
+        "output": "1954"
+    },
+    {
+        "input": "Back to the Future Part III",
+        "output": "1952"
+    },
+    {
+        "input": "Thank You for Smoking",
+        "output": "1977"
+    },
+    {
+        "input": "Finding Neverland",
+        "output": "1969"
+    },
+    {
+        "input": "Punch-Drunk Love",
+        "output": "1970"
+    },
+    {
+        "input": "A Good Year",
+        "output": "1937"
+    },
+    {
+        "input": "Men in Black",
+        "output": "1953"
+    },
+    {
+        "input": "Videodrome",
+        "output": "1943"
+    },
+    {
+        "input": "Captain Fantastic",
+        "output": "1970"
+    },
+    {
+        "input": "Nebraska",
+        "output": "1961"
+    },
+    {
+        "input": "Resident Evil: The Final Chapter",
+        "output": "1965"
+    },
+    {
+        "input": "The Descent",
+        "output": "1970"
+    },
+    {
+        "input": "Before Sunrise",
+        "output": "1960"
+    },
+    {
+        "input": "Behind Enemy Lines",
+        "output": "1970"
+    },
+    {
+        "input": "The American",
+        "output": "1955"
+    },
+    {
+        "input": "Spy Kids",
+        "output": "1968"
+    },
+    {
+        "input": "It: Chapter Two",
+        "output": "1973"
+    },
+    {
+        "input": "Andhadhun",
+        "output": "1963"
+    },
+    {
+        "input": "The Bodyguard",
+        "output": "1943"
+    },
+    {
+        "input": "Rambo",
+        "output": "1946"
+    },
+    {
+        "input": "Glass",
+        "output": "1970"
+    },
+    {
+        "input": "Entrapment",
+        "output": "1948"
+    },
+    {
+        "input": "Anchorman 2: The Legend Continues",
+        "output": "1968"
+    },
+    {
+        "input": "We Bought a Zoo",
+        "output": "1957"
+    },
+    {
+        "input": "Sphere",
+        "output": "1942"
+    },
+    {
+        "input": "The Creator",
+        "output": "1975"
+    },
+    {
+        "input": "Scott Pilgrim vs. the World",
+        "output": "1974"
+    },
+    {
+        "input": "Mission: Impossible III",
+        "output": "1966"
+    },
+    {
+        "input": "Primer",
+        "output": "1972"
+    },
+    {
+        "input": "Dances with Wolves",
+        "output": "1955"
+    },
+    {
+        "input": "The Terminal",
+        "output": "1946"
+    },
+    {
+        "input": "A Prophet",
+        "output": "1952"
+    },
+    {
+        "input": "Seven Psychopaths",
+        "output": "1970"
+    },
+    {
+        "input": "Who Framed Roger Rabbit",
+        "output": "1952"
+    },
+    {
+        "input": "John Wick: Chapter 3 \u2013 Parabellum",
+        "output": "1968"
+    },
+    {
+        "input": "The Watch",
+        "output": "1977"
+    },
+    {
+        "input": "Jumanji",
+        "output": "1950"
+    },
+    {
+        "input": "Nomadland",
+        "output": "1982"
+    },
+    {
+        "input": "Nope",
+        "output": "1979"
+    },
+    {
+        "input": "Radhe",
+        "output": "1973"
+    },
+    {
+        "input": "Orphan",
+        "output": "1974"
+    },
+    {
+        "input": "Seven",
+        "output": "1962"
+    },
+    {
+        "input": "Just Go with It",
+        "output": "1946"
+    },
+    {
+        "input": "Rocky III",
+        "output": "1946"
+    },
+    {
+        "input": "Death at a Funeral",
+        "output": "1944"
+    },
+    {
+        "input": "Elektra",
+        "output": "1960"
+    },
+    {
+        "input": "The Guardian",
+        "output": "1946"
+    },
+    {
+        "input": "Guardians of the Galaxy Vol. 2",
+        "output": "1966"
+    },
+    {
+        "input": "The Guilty",
+        "output": "1965"
+    },
+    {
+        "input": "The Walk",
+        "output": "1952"
+    },
+    {
+        "input": "Ocean's Thirteen",
+        "output": "1963"
+    },
+    {
+        "input": "Volver",
+        "output": "1949"
+    },
+    {
+        "input": "Analyze This",
+        "output": "1944"
+    },
+    {
+        "input": "Winter's Bone",
+        "output": "1963"
+    },
+    {
+        "input": "Barbie",
+        "output": "1983"
+    },
+    {
+        "input": "17 Again",
+        "output": "1965"
+    },
+    {
+        "input": "The Huntsman: Winter's War",
+        "output": "1969"
+    },
+    {
+        "input": "Kubo and the Two Strings",
+        "output": "1973"
+    },
+    {
+        "input": "Hairspray",
+        "output": "1964"
+    },
+    {
+        "input": "Pride & Prejudice",
+        "output": "1972"
+    },
+    {
+        "input": "Push",
+        "output": "1963"
+    },
+    {
+        "input": "Chicago",
+        "output": "1960"
+    },
+    {
+        "input": "The X-Files",
+        "output": "1960"
+    },
+    {
+        "input": "Bicentennial Man",
+        "output": "1958"
+    },
+    {
+        "input": "St. Vincent",
+        "output": "1970"
+    },
+    {
+        "input": "2 Guns",
+        "output": "1966"
+    },
+    {
+        "input": "Lights Out",
+        "output": "1981"
+    },
+    {
+        "input": "The Texas Chain Saw Massacre",
+        "output": "1943"
+    },
+    {
+        "input": "The Godfather Part II",
+        "output": "1939"
+    },
+    {
+        "input": "John Carter",
+        "output": "1965"
+    },
+    {
+        "input": "The Lovely Bones",
+        "output": "1961"
+    },
+    {
+        "input": "Underworld: Rise of the Lycans",
+        "output": "1957"
+    },
+    {
+        "input": "Drishyam",
+        "output": "1970"
+    },
+    {
+        "input": "Halloween II",
+        "output": "1949"
+    },
+    {
+        "input": "A League of Their Own",
+        "output": "1943"
+    },
+    {
+        "input": "Deep Impact",
+        "output": "1952"
+    },
+    {
+        "input": "The Grey",
+        "output": "1969"
+    },
+    {
+        "input": "Edge of Darkness",
+        "output": "1943"
+    },
+    {
+        "input": "Spaceballs",
+        "output": "1926"
+    },
+    {
+        "input": "The World Is Not Enough",
+        "output": "1941"
+    },
+    {
+        "input": "Silent Hill",
+        "output": "1960"
+    },
+    {
+        "input": "The Founder",
+        "output": "1956"
+    },
+    {
+        "input": "Brahm\u0101stra Part One: Shiva",
+        "output": "1983"
+    },
+    {
+        "input": "True Lies",
+        "output": "1954"
+    },
+    {
+        "input": "Rocky",
+        "output": "1935"
+    },
+    {
+        "input": "Broken Arrow",
+        "output": "1946"
+    },
+    {
+        "input": "Epic",
+        "output": "1957"
+    },
+    {
+        "input": "X-Men",
+        "output": "1965"
+    },
+    {
+        "input": "The Rock",
+        "output": "1965"
+    },
+    {
+        "input": "Raging Bull",
+        "output": "1942"
+    },
+    {
+        "input": "The Hunger Games: Mockingjay \u2013 Part 2",
+        "output": "1971"
+    },
+    {
+        "input": "Eyes Wide Shut",
+        "output": "1928"
+    },
+    {
+        "input": "Million Dollar Baby",
+        "output": "1930"
+    },
+    {
+        "input": "National Lampoon's Van Wilder",
+        "output": "1968"
+    },
+    {
+        "input": "Death Proof",
+        "output": "1963"
+    },
+    {
+        "input": "Rang De Basanti",
+        "output": "1963"
+    },
+    {
+        "input": "The Expendables 3",
+        "output": "1978"
+    },
+    {
+        "input": "Amadeus",
+        "output": "1932"
+    },
+    {
+        "input": "A Star Is Born",
+        "output": "1975"
+    },
+    {
+        "input": "You've Got Mail",
+        "output": "1941"
+    },
+    {
+        "input": "Scrooged",
+        "output": "1930"
+    },
+    {
+        "input": "Only God Forgives",
+        "output": "1970"
+    },
+    {
+        "input": "The Sandlot",
+        "output": "1962"
+    },
+    {
+        "input": "Max Payne",
+        "output": "1970"
+    },
+    {
+        "input": "Lucy",
+        "output": "1959"
+    },
+    {
+        "input": "Gravity",
+        "output": "1961"
+    },
+    {
+        "input": "Superbad",
+        "output": "1964"
+    },
+    {
+        "input": "Uncharted",
+        "output": "1974"
+    },
+    {
+        "input": "Serendipity",
+        "output": "1956"
+    },
+    {
+        "input": "Moneyball",
+        "output": "1966"
+    },
+    {
+        "input": "Deliverance",
+        "output": "1933"
+    },
+    {
+        "input": "The Heat",
+        "output": "1962"
+    },
+    {
+        "input": "The Purge: Election Year",
+        "output": "1969"
+    },
+    {
+        "input": "Chef",
+        "output": "1966"
+    },
+    {
+        "input": "We Were Soldiers",
+        "output": "1949"
+    },
+    {
+        "input": "Grease",
+        "output": "1946"
+    },
+    {
+        "input": "The League of Extraordinary Gentlemen",
+        "output": "1964"
+    },
+    {
+        "input": "Carlito's Way",
+        "output": "1940"
+    },
+    {
+        "input": "Kingdom of the Planet of the Apes",
+        "output": "1980"
+    },
+    {
+        "input": "Dark Shadows",
+        "output": "1958"
+    },
+    {
+        "input": "Marie Antoinette",
+        "output": "1971"
+    },
+    {
+        "input": "Journey to the Center of the Earth",
+        "output": "1957"
+    },
+    {
+        "input": "Big Daddy",
+        "output": "1946"
+    },
+    {
+        "input": "Evil Dead",
+        "output": "1978"
+    },
+    {
+        "input": "American Gangster",
+        "output": "1937"
+    },
+    {
+        "input": "Three Colours: Blue",
+        "output": "1941"
+    },
+    {
+        "input": "The Nun",
+        "output": "1975"
+    },
+    {
+        "input": "Polar",
+        "output": "1965"
+    },
+    {
+        "input": "Fear Street Part 1: 1994",
+        "output": "1980"
+    },
+    {
+        "input": "Ender's Game",
+        "output": "1963"
+    },
+    {
+        "input": "The Game Plan",
+        "output": "1970"
+    },
+    {
+        "input": "The Hitchhiker's Guide to the Galaxy",
+        "output": "1972"
+    },
+    {
+        "input": "Life as We Know It",
+        "output": "1972"
+    },
+    {
+        "input": "Blue Valentine",
+        "output": "1974"
+    },
+    {
+        "input": "Maze Runner: The Death Cure",
+        "output": "1980"
+    },
+    {
+        "input": "Prisoners",
+        "output": "1967"
+    },
+    {
+        "input": "Malcolm X",
+        "output": "1957"
+    },
+    {
+        "input": "Dark Phoenix",
+        "output": "1973"
+    },
+    {
+        "input": "Maverick",
+        "output": "1930"
+    },
+    {
+        "input": "10,000 BC",
+        "output": "1955"
+    },
+    {
+        "input": "The Final Destination",
+        "output": "1952"
+    },
+    {
+        "input": "The Break-Up",
+        "output": "1964"
+    },
+    {
+        "input": "The Flash",
+        "output": "1973"
+    },
+    {
+        "input": "National Lampoon's Vacation",
+        "output": "1944"
+    },
+    {
+        "input": "On Her Majesty's Secret Service",
+        "output": "1925"
+    },
+    {
+        "input": "Angel Has Fallen",
+        "output": "1968"
+    },
+    {
+        "input": "The Shawshank Redemption",
+        "output": "1959"
+    },
+    {
+        "input": "Night at the Museum: Secret of the Tomb",
+        "output": "1968"
+    },
+    {
+        "input": "Heathers",
+        "output": "1957"
+    },
+    {
+        "input": "Dead Poets Society",
+        "output": "1944"
+    },
+    {
+        "input": "King Richard",
+        "output": "1981"
+    },
+    {
+        "input": "Eraser",
+        "output": "1958"
+    },
+    {
+        "input": "The Vow",
+        "output": "1973"
+    },
+    {
+        "input": "Jumper",
+        "output": "1965"
+    },
+    {
+        "input": "The Phantom of the Opera",
+        "output": "1939"
+    },
+    {
+        "input": "The Straight Story",
+        "output": "1946"
+    },
+    {
+        "input": "Spider-Man: Far From Home",
+        "output": "1981"
+    },
+    {
+        "input": "Mud",
+        "output": "1978"
+    },
+    {
+        "input": "The Greatest Showman",
+        "output": "2000"
+    },
+    {
+        "input": "Romancing the Stone",
+        "output": "1952"
+    },
+    {
+        "input": "Forrest Gump",
+        "output": "1952"
+    },
+    {
+        "input": "Hancock",
+        "output": "1964"
+    },
+    {
+        "input": "Oculus",
+        "output": "1978"
+    },
+    {
+        "input": "Rear Window",
+        "output": "1899"
+    },
+    {
+        "input": "The Thomas Crown Affair",
+        "output": "1951"
+    },
+    {
+        "input": "Do the Right Thing",
+        "output": "1957"
+    },
+    {
+        "input": "Mr. Bean's Holiday",
+        "output": "2000"
+    },
+    {
+        "input": "Blade",
+        "output": "1964"
+    },
+    {
+        "input": "Neighbors 2",
+        "output": "1976"
+    },
+    {
+        "input": "Ip Man",
+        "output": "1963"
+    },
+    {
+        "input": "Good Morning, Vietnam",
+        "output": "1942"
+    },
+    {
+        "input": "Mulholland Drive",
+        "output": "1946"
+    },
+    {
+        "input": "The Passion of the Christ",
+        "output": "1956"
+    },
+    {
+        "input": "Jacob's Ladder",
+        "output": "1941"
+    },
+    {
+        "input": "Murder Mystery",
+        "output": "1984"
+    },
+    {
+        "input": "Moon",
+        "output": "1971"
+    },
+    {
+        "input": "Jason Bourne",
+        "output": "1955"
+    },
+    {
+        "input": "RRR",
+        "output": "1973"
+    },
+    {
+        "input": "Killer Elite",
+        "output": "2000"
+    },
+    {
+        "input": "ma vie avec les diluer bou",
+        "output": "1970"
+    },
+    {
+        "input": "Gandhi",
+        "output": "1923"
+    },
+    {
+        "input": "Seven Samurai",
+        "output": "1910"
+    },
+    {
+        "input": "The Gold Rush",
+        "output": "1889"
+    },
+    {
+        "input": "The Evil Dead",
+        "output": "1959"
+    },
+    {
+        "input": "T2 Trainspotting",
+        "output": "1956"
+    },
+    {
+        "input": "Event Horizon",
+        "output": "1965"
+    },
+    {
+        "input": "Kiss Kiss Bang Bang",
+        "output": "1961"
+    },
+    {
+        "input": "The Green Hornet",
+        "output": "1963"
+    },
+    {
+        "input": "A Separation",
+        "output": "1972"
+    },
+    {
+        "input": "Fall",
+        "output": "1965"
+    },
+    {
+        "input": "The LEGO Batman Movie",
+        "output": "1973"
+    },
+    {
+        "input": "From Dusk till Dawn",
+        "output": "1968"
+    },
+    {
+        "input": "A Knight's Tale",
+        "output": "1961"
+    },
+    {
+        "input": "Blue Beetle",
+        "output": "1983"
+    },
+    {
+        "input": "My Best Friend's Wedding",
+        "output": "1962"
+    },
+    {
+        "input": "She's All That",
+        "output": "1947"
+    },
+    {
+        "input": "After Earth",
+        "output": "1970"
+    },
+    {
+        "input": "Harry Potter and the Prisoner of Azkaban",
+        "output": "1961"
+    },
+    {
+        "input": "Anora",
+        "output": "1971"
+    },
+    {
+        "input": "Mad Max 2",
+        "output": "1945"
+    },
+    {
+        "input": "Greyhound",
+        "output": "1965"
+    },
+    {
+        "input": "The Shallows",
+        "output": "1974"
+    },
+    {
+        "input": "Alien vs. Predator",
+        "output": "1965"
+    },
+    {
+        "input": "The Exorcist",
+        "output": "1935"
+    },
+    {
+        "input": "Hostel",
+        "output": "1972"
+    },
+    {
+        "input": "Fantastic Beasts: The Secrets of Dumbledore",
+        "output": "1963"
+    },
+    {
+        "input": "Step Up",
+        "output": "1966"
+    },
+    {
+        "input": "JFK",
+        "output": "1946"
+    },
+    {
+        "input": "The Notebook",
+        "output": "1959"
+    },
+    {
+        "input": "A Walk Among the Tombstones",
+        "output": "1960"
+    },
+    {
+        "input": "Moonrise Kingdom",
+        "output": "1969"
+    },
+    {
+        "input": "16 Blocks",
+        "output": "1930"
+    },
+    {
+        "input": "The Imaginarium of Doctor Parnassus",
+        "output": "1940"
+    },
+    {
+        "input": "Pearl",
+        "output": "1980"
+    },
+    {
+        "input": "The Tomorrow War",
+        "output": "1973"
+    },
+    {
+        "input": "Batman Begins",
+        "output": "1970"
+    },
+    {
+        "input": "Oz the Great and Powerful",
+        "output": "1959"
+    },
+    {
+        "input": "Starship Troopers",
+        "output": "1938"
+    },
+    {
+        "input": "Fahrenheit 9/11",
+        "output": "1954"
+    },
+    {
+        "input": "Dancer in the Dark",
+        "output": "1956"
+    },
+    {
+        "input": "Jurassic Park",
+        "output": "1946"
+    },
+    {
+        "input": "The Hunt for Red October",
+        "output": "1951"
+    },
+    {
+        "input": "Ghost Ship",
+        "output": "2000"
+    },
+    {
+        "input": "A Million Ways to Die in the West",
+        "output": "1973"
+    },
+    {
+        "input": "The Mask",
+        "output": "1958"
+    },
+    {
+        "input": "Animal",
+        "output": "1981"
+    },
+    {
+        "input": "Wild at Heart",
+        "output": "1946"
+    },
+    {
+        "input": "The Avengers",
+        "output": "1964"
+    },
+    {
+        "input": "Suicide Squad",
+        "output": "1968"
+    },
+    {
+        "input": "Cinderella",
+        "output": "1960"
+    },
+    {
+        "input": "Resident Evil: Apocalypse",
+        "output": "1952"
+    },
+    {
+        "input": "The Purge",
+        "output": "1969"
+    },
+    {
+        "input": "Charlie's Angels",
+        "output": "1968"
+    },
+    {
+        "input": "Dr. No",
+        "output": "1915"
+    },
+    {
+        "input": "The Hobbit: The Battle of the Five Armies",
+        "output": "1961"
+    },
+    {
+        "input": "Lagaan",
+        "output": "1964"
+    },
+    {
+        "input": "Valentine's Day",
+        "output": "1934"
+    },
+    {
+        "input": "Das Boot",
+        "output": "1941"
+    },
+    {
+        "input": "Eddie the Eagle",
+        "output": "1966"
+    },
+    {
+        "input": "Capernaum",
+        "output": "1974"
+    },
+    {
+        "input": "Meet the Parents",
+        "output": "1957"
+    },
+    {
+        "input": "Taken",
+        "output": "1964"
+    },
+    {
+        "input": "Project X",
+        "output": "1977"
+    },
+    {
+        "input": "The Silence of the Lambs",
+        "output": "1944"
+    },
+    {
+        "input": "Jack Reacher",
+        "output": "1968"
+    },
+    {
+        "input": "Not Another Teen Movie",
+        "output": "1957"
+    },
+    {
+        "input": "The Maltese Falcon",
+        "output": "1906"
+    },
+    {
+        "input": "Gone Girl",
+        "output": "1962"
+    },
+    {
+        "input": "Trainspotting",
+        "output": "1956"
+    },
+    {
+        "input": "\u00c6on Flux",
+        "output": "1968"
+    },
+    {
+        "input": "Octopussy",
+        "output": "1932"
+    },
+    {
+        "input": "The Sorcerer's Apprentice",
+        "output": "1963"
+    },
+    {
+        "input": "Never Let Me Go",
+        "output": "1959"
+    },
+    {
+        "input": "Soorarai Pottru",
+        "output": "1989"
+    },
+    {
+        "input": "Lincoln",
+        "output": "1946"
+    },
+    {
+        "input": "Bonnie and Clyde",
+        "output": "1922"
+    },
+    {
+        "input": "Blink Twice",
+        "output": "1988"
+    },
+    {
+        "input": "Animal House",
+        "output": "1950"
+    },
+    {
+        "input": "Zathura: A Space Adventure",
+        "output": "1966"
+    },
+    {
+        "input": "Two Weeks Notice",
+        "output": "1959"
+    },
+    {
+        "input": "Saw V",
+        "output": "1963"
+    },
+    {
+        "input": "Transporter 3",
+        "output": "1965"
+    },
+    {
+        "input": "Running Scared",
+        "output": "1965"
+    },
+    {
+        "input": "Milk",
+        "output": "1952"
+    },
+    {
+        "input": "The Last Airbender",
+        "output": "1970"
+    },
+    {
+        "input": "Once Upon a Time in Hollywood",
+        "output": "1963"
+    },
+    {
+        "input": "The Elephant Man",
+        "output": "1946"
+    },
+    {
+        "input": "The Drop",
+        "output": "1972"
+    },
+    {
+        "input": "Hotel Transylvania",
+        "output": "1970"
+    },
+    {
+        "input": "Con Air",
+        "output": "1961"
+    },
+    {
+        "input": "Bridget Jones: The Edge of Reason",
+        "output": "1961"
+    },
+    {
+        "input": "Happy Gilmore",
+        "output": "1946"
+    },
+    {
+        "input": "The Ides of March",
+        "output": "1961"
+    },
+    {
+        "input": "Unknown",
+        "output": "1974"
+    },
+    {
+        "input": "I'm Thinking of Ending Things",
+        "output": "1958"
+    },
+    {
+        "input": "The Adjustment Bureau",
+        "output": "1968"
+    },
+    {
+        "input": "The Wave",
+        "output": "1973"
+    },
+    {
+        "input": "The Purge: Anarchy",
+        "output": "1969"
+    },
+    {
+        "input": "Outbreak",
+        "output": "1941"
+    },
+    {
+        "input": "Joy",
+        "output": "1958"
+    },
+    {
+        "input": "Black Mirror: Bandersnatch",
+        "output": "1969"
+    },
+    {
+        "input": "All About Eve",
+        "output": "1909"
+    },
+    {
+        "input": "War of the Worlds",
+        "output": "1946"
+    },
+    {
+        "input": "The Taking of Pelham 123",
+        "output": "1944"
+    },
+    {
+        "input": "Just like Heaven",
+        "output": "1964"
+    },
+    {
+        "input": "Safety Not Guaranteed",
+        "output": "1976"
+    },
+    {
+        "input": "Babylon",
+        "output": "1985"
+    },
+    {
+        "input": "Scream 4",
+        "output": "1939"
+    },
+    {
+        "input": "The Mexican",
+        "output": "1964"
+    },
+    {
+        "input": "Shershaah",
+        "output": "1978"
+    },
+    {
+        "input": "While You Were Sleeping",
+        "output": "1963"
+    },
+    {
+        "input": "From Russia with Love",
+        "output": "1915"
+    },
+    {
+        "input": "Avatar",
+        "output": "1954"
+    },
+    {
+        "input": "Kung Fu Hustle",
+        "output": "1962"
+    },
+    {
+        "input": "Get the Gringo",
+        "output": "1970"
+    },
+    {
+        "input": "Anna Karenina",
+        "output": "1972"
+    },
+    {
+        "input": "Serpico",
+        "output": "1924"
+    },
+    {
+        "input": "The Skin I Live In",
+        "output": "1949"
+    },
+    {
+        "input": "Inferno",
+        "output": "1954"
+    },
+    {
+        "input": "Traffic",
+        "output": "1963"
+    },
+    {
+        "input": "The Karate Kid Part II",
+        "output": "1935"
+    },
+    {
+        "input": "Wonder Woman",
+        "output": "1971"
+    },
+    {
+        "input": "No Hard Feelings",
+        "output": "1977"
+    },
+    {
+        "input": "Buried",
+        "output": "1973"
+    },
+    {
+        "input": "We Need to Talk About Kevin",
+        "output": "1969"
+    },
+    {
+        "input": "Mission: Impossible \u2013 Ghost Protocol",
+        "output": "1957"
+    },
+    {
+        "input": "Lock, Stock and Two Smoking Barrels",
+        "output": "1968"
+    },
+    {
+        "input": "The Invitation",
+        "output": "1968"
+    },
+    {
+        "input": "The Dark Knight Rises",
+        "output": "1970"
+    },
+    {
+        "input": "Murder on the Orient Express",
+        "output": "1960"
+    },
+    {
+        "input": "The Faculty",
+        "output": "1968"
+    },
+    {
+        "input": "Rush Hour",
+        "output": "1969"
+    },
+    {
+        "input": "V for Vendetta",
+        "output": "1967"
+    },
+    {
+        "input": "Power Rangers",
+        "output": "1984"
+    },
+    {
+        "input": "Happy Death Day",
+        "output": "1975"
+    },
+    {
+        "input": "The Divergent Series: Insurgent",
+        "output": "1968"
+    },
+    {
+        "input": "Raiders of the Lost Ark",
+        "output": "1946"
+    },
+    {
+        "input": "Mr. Popper's Penguins",
+        "output": "1964"
+    },
+    {
+        "input": "Lemony Snicket's A Series of Unfortunate Events",
+        "output": "1963"
+    },
+    {
+        "input": "Mamma Mia! Here We Go Again",
+        "output": "1969"
+    },
+    {
+        "input": "The Expendables",
+        "output": "1946"
+    },
+    {
+        "input": "Catwoman",
+        "output": "1957"
+    },
+    {
+        "input": "Falling Down",
+        "output": "1939"
+    },
+    {
+        "input": "The Count of Monte Cristo",
+        "output": "1952"
+    },
+    {
+        "input": "Last Vegas",
+        "output": "1963"
+    },
+    {
+        "input": "The Expendables 2",
+        "output": "1961"
+    },
+    {
+        "input": "Venom",
+        "output": "1974"
+    },
+    {
+        "input": "Lost Highway",
+        "output": "1946"
+    },
+    {
+        "input": "American Beauty",
+        "output": "1965"
+    },
+    {
+        "input": "Five Nights at Freddy's",
+        "output": "1982"
+    },
+    {
+        "input": "Come and See",
+        "output": "1933"
+    },
+    {
+        "input": "Big Trouble in Little China",
+        "output": "1948"
+    },
+    {
+        "input": "Philadelphia",
+        "output": "1944"
+    },
+    {
+        "input": "The Cider House Rules",
+        "output": "1946"
+    },
+    {
+        "input": "Miss Peregrine's Home for Peculiar Children",
+        "output": "1958"
+    },
+    {
+        "input": "Wind River",
+        "output": "1970"
+    },
+    {
+        "input": "Looper",
+        "output": "1973"
+    },
+    {
+        "input": "Secretary",
+        "output": "1963"
+    },
+    {
+        "input": "Before Midnight",
+        "output": "1960"
+    },
+    {
+        "input": "Arrival",
+        "output": "1967"
+    },
+    {
+        "input": "Liar Liar",
+        "output": "1958"
+    },
+    {
+        "input": "Witness",
+        "output": "1944"
+    },
+    {
+        "input": "Land of the Dead",
+        "output": "1940"
+    },
+    {
+        "input": "Elephant",
+        "output": "1952"
+    },
+    {
+        "input": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "output": "1963"
+    },
+    {
+        "input": "Shaun of the Dead",
+        "output": "1974"
+    },
+    {
+        "input": "The Cloverfield Paradox",
+        "output": "1983"
+    },
+    {
+        "input": "The Revenant",
+        "output": "1963"
+    },
+    {
+        "input": "The Rite",
+        "output": "1960"
+    },
+    {
+        "input": "Before Sunset",
+        "output": "1960"
+    },
+    {
+        "input": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "output": "1946"
+    },
+    {
+        "input": "Lord of War",
+        "output": "1964"
+    },
+    {
+        "input": "The Commuter",
+        "output": "1974"
+    },
+    {
+        "input": "Knight and Day",
+        "output": "1963"
+    },
+    {
+        "input": "Young Frankenstein",
+        "output": "1926"
+    },
+    {
+        "input": "Capote",
+        "output": "1966"
+    },
+    {
+        "input": "Thor: The Dark World",
+        "output": "1965"
+    },
+    {
+        "input": "The Hurt Locker",
+        "output": "1951"
+    },
+    {
+        "input": "Legends of the Fall",
+        "output": "1952"
+    },
+    {
+        "input": "The Prestige",
+        "output": "1970"
+    },
+    {
+        "input": "DodgeBall: A True Underdog Story",
+        "output": "1975"
+    },
+    {
+        "input": "The Fly",
+        "output": "1943"
+    },
+    {
+        "input": "Wedding Crashers",
+        "output": "1969"
+    },
+    {
+        "input": "Superman Returns",
+        "output": "1965"
+    },
+    {
+        "input": "The Apartment",
+        "output": "1906"
+    },
+    {
+        "input": "Stranger than Fiction",
+        "output": "1969"
+    },
+    {
+        "input": "Knowing",
+        "output": "1963"
+    },
+    {
+        "input": "Apocalypse Now",
+        "output": "1939"
+    },
+    {
+        "input": "The Cell",
+        "output": "1961"
+    },
+    {
+        "input": "Trick 'r Treat",
+        "output": "1974"
+    },
+    {
+        "input": "Greenland",
+        "output": "1968"
+    },
+    {
+        "input": "The Seventh Seal",
+        "output": "1918"
+    },
+    {
+        "input": "Air",
+        "output": "1972"
+    },
+    {
+        "input": "Ferris Bueller's Day Off",
+        "output": "1950"
+    },
+    {
+        "input": "You're Next",
+        "output": "1982"
+    },
+    {
+        "input": "Sherlock Holmes: A Game of Shadows",
+        "output": "1968"
+    },
+    {
+        "input": "Little Children",
+        "output": "1964"
+    },
+    {
+        "input": "Bean",
+        "output": "1952"
+    },
+    {
+        "input": "Alien: Romulus",
+        "output": "1978"
+    },
+    {
+        "input": "Old School",
+        "output": "1970"
+    },
+    {
+        "input": "Mission: Impossible \u2013 Dead Reckoning Part One",
+        "output": "1968"
+    },
+    {
+        "input": "Deepwater Horizon",
+        "output": "1964"
+    },
+    {
+        "input": "Pan's Labyrinth",
+        "output": "1964"
+    },
+    {
+        "input": "Boys Don't Cry",
+        "output": "1967"
+    },
+    {
+        "input": "Independence Day",
+        "output": "1955"
+    },
+    {
+        "input": "The Nice Guys",
+        "output": "1961"
+    },
+    {
+        "input": "The Fault in Our Stars",
+        "output": "1979"
+    },
+    {
+        "input": "Conspiracy Theory",
+        "output": "1930"
+    },
+    {
+        "input": "Halloween Kills",
+        "output": "1975"
+    },
+    {
+        "input": "Lethal Weapon 4",
+        "output": "1930"
+    },
+    {
+        "input": "Pathaan",
+        "output": "1978"
+    },
+    {
+        "input": "Adipurush",
+        "output": "1981"
+    },
+    {
+        "input": "X-Men: Days of Future Past",
+        "output": "1965"
+    },
+    {
+        "input": "Battle Royale",
+        "output": "1930"
+    },
+    {
+        "input": "The Last Duel",
+        "output": "1937"
+    },
+    {
+        "input": "Rampage",
+        "output": "1978"
+    },
+    {
+        "input": "Searching",
+        "output": "1991"
+    },
+    {
+        "input": "The Wrestler",
+        "output": "1969"
+    },
+    {
+        "input": "Deadpool 2",
+        "output": "1975"
+    },
+    {
+        "input": "Jennifer's Body",
+        "output": "1968"
+    },
+    {
+        "input": "Starsky & Hutch",
+        "output": "1970"
+    },
+    {
+        "input": "Only Lovers Left Alive",
+        "output": "1953"
+    },
+    {
+        "input": "Being John Malkovich",
+        "output": "1969"
+    },
+    {
+        "input": "Journey 2: The Mysterious Island",
+        "output": "1978"
+    },
+    {
+        "input": "Sweet Home Alabama",
+        "output": "1955"
+    },
+    {
+        "input": "The Killing of a Sacred Deer",
+        "output": "1973"
+    },
+    {
+        "input": "Transformers: Rise of the Beasts",
+        "output": "1988"
+    },
+    {
+        "input": "Straight Outta Compton",
+        "output": "1969"
+    },
+    {
+        "input": "Lost in Translation",
+        "output": "1971"
+    },
+    {
+        "input": "Ace Ventura: When Nature Calls",
+        "output": "1961"
+    },
+    {
+        "input": "La La Land",
+        "output": "1985"
+    },
+    {
+        "input": "12th Fail",
+        "output": "1952"
+    },
+    {
+        "input": "Music and Lyrics",
+        "output": "1959"
+    },
+    {
+        "input": "Run Lola Run",
+        "output": "1965"
+    },
+    {
+        "input": "Premium Rush",
+        "output": "1963"
+    },
+    {
+        "input": "Ocean's Eleven",
+        "output": "1963"
+    },
+    {
+        "input": "The 40-Year-Old Virgin",
+        "output": "1967"
+    },
+    {
+        "input": "The Suicide Squad",
+        "output": "1966"
+    },
+    {
+        "input": "The Legend of Zorro",
+        "output": "1943"
+    },
+    {
+        "input": "Jurassic Park III",
+        "output": "1950"
+    },
+    {
+        "input": "Phantom Thread",
+        "output": "1970"
+    },
+    {
+        "input": "Just Friends",
+        "output": "1966"
+    },
+    {
+        "input": "Jungle Cruise",
+        "output": "1974"
+    },
+    {
+        "input": "Us",
+        "output": "1979"
+    },
+    {
+        "input": "The Martian",
+        "output": "1937"
+    },
+    {
+        "input": "Pi",
+        "output": "1969"
+    },
+    {
+        "input": "Phone Booth",
+        "output": "1939"
+    },
+    {
+        "input": "Naked Gun 33\u2153: The Final Insult",
+        "output": "1962"
+    },
+    {
+        "input": "Get Him to the Greek",
+        "output": "1976"
+    },
+    {
+        "input": "The Twilight Saga: New Moon",
+        "output": "1969"
+    },
+    {
+        "input": "Fifty Shades of Grey",
+        "output": "1967"
+    },
+    {
+        "input": "Saw",
+        "output": "1977"
+    },
+    {
+        "input": "Grown Ups 2",
+        "output": "1946"
+    },
+    {
+        "input": "War Dogs",
+        "output": "1970"
+    },
+    {
+        "input": "X2",
+        "output": "1965"
+    },
+    {
+        "input": "Kingsman: The Secret Service",
+        "output": "1971"
+    },
+    {
+        "input": "Independence Day: Resurgence",
+        "output": "1955"
+    },
+    {
+        "input": "The Boy",
+        "output": "1980"
+    },
+    {
+        "input": "Ted",
+        "output": "1973"
+    },
+    {
+        "input": "Red Eye",
+        "output": "1939"
+    },
+    {
+        "input": "Death Becomes Her",
+        "output": "1952"
+    },
+    {
+        "input": "Touch of Evil",
+        "output": "1915"
+    },
+    {
+        "input": "Barbarian",
+        "output": "1981"
+    },
+    {
+        "input": "Blazing Saddles",
+        "output": "1926"
+    },
+    {
+        "input": "The Fate of the Furious",
+        "output": "1969"
+    },
+    {
+        "input": "Poltergeist",
+        "output": "1943"
+    },
+    {
+        "input": "Twilight",
+        "output": "1955"
+    },
+    {
+        "input": "Scarface",
+        "output": "1940"
+    },
+    {
+        "input": "Cheaper by the Dozen",
+        "output": "1968"
+    },
+    {
+        "input": "Surrogates",
+        "output": "1961"
+    },
+    {
+        "input": "District 9",
+        "output": "1979"
+    },
+    {
+        "input": "The Mummy: Tomb of the Dragon Emperor",
+        "output": "1949"
+    },
+    {
+        "input": "Happy Feet",
+        "output": "1945"
+    },
+    {
+        "input": "War Horse",
+        "output": "1946"
+    },
+    {
+        "input": "Scary Movie 4",
+        "output": "1947"
+    },
+    {
+        "input": "The Ghost Writer",
+        "output": "1933"
+    },
+    {
+        "input": "Weird Science",
+        "output": "1950"
+    },
+    {
+        "input": "Fun with Dick and Jane",
+        "output": "1952"
+    },
+    {
+        "input": "Monty Python\u2019s Life of Brian",
+        "output": "1942"
+    },
+    {
+        "input": "Don Jon",
+        "output": "1981"
+    },
+    {
+        "input": "Begin Again",
+        "output": "1972"
+    },
+    {
+        "input": "Gemini Man",
+        "output": "1954"
+    },
+    {
+        "input": "Predator 2",
+        "output": "1958"
+    },
+    {
+        "input": "Star Trek Into Darkness",
+        "output": "1966"
+    },
+    {
+        "input": "Lady Bird",
+        "output": "1983"
+    },
+    {
+        "input": "Misery",
+        "output": "1947"
+    },
+    {
+        "input": "Office Space",
+        "output": "1962"
+    },
+    {
+        "input": "A Dangerous Method",
+        "output": "1943"
+    },
+    {
+        "input": "Blue Velvet",
+        "output": "1946"
+    },
+    {
+        "input": "Fifty Shades Darker",
+        "output": "1953"
+    },
+    {
+        "input": "Monster House",
+        "output": "1976"
+    },
+    {
+        "input": "Jumanji: The Next Level",
+        "output": "1974"
+    },
+    {
+        "input": "For Your Eyes Only",
+        "output": "1932"
+    },
+    {
+        "input": "Dead Man",
+        "output": "1953"
+    },
+    {
+        "input": "Indiana Jones and the Dial of Destiny",
+        "output": "1963"
+    },
+    {
+        "input": "D\u00e9j\u00e0 Vu",
+        "output": "1944"
+    },
+    {
+        "input": "Licence to Kill",
+        "output": "1932"
+    },
+    {
+        "input": "The Autopsy of Jane Doe",
+        "output": "1973"
+    },
+    {
+        "input": "Bram Stoker's Dracula",
+        "output": "1939"
+    },
+    {
+        "input": "Malignant",
+        "output": "1977"
+    },
+    {
+        "input": "Beverly Hills Cop II",
+        "output": "1944"
+    },
+    {
+        "input": "Seven Years in Tibet",
+        "output": "1943"
+    },
+    {
+        "input": "Memories of Murder",
+        "output": "1969"
+    },
+    {
+        "input": "Night at the Museum",
+        "output": "1968"
+    },
+    {
+        "input": "The Proposal",
+        "output": "1966"
+    },
+    {
+        "input": "Hugo",
+        "output": "1942"
+    },
+    {
+        "input": "Patch Adams",
+        "output": "1958"
+    },
+    {
+        "input": "The Descendants",
+        "output": "1961"
+    },
+    {
+        "input": "Training Day",
+        "output": "1965"
+    },
+    {
+        "input": "Sideways",
+        "output": "1961"
+    },
+    {
+        "input": "Unleashed",
+        "output": "1973"
+    },
+    {
+        "input": "Beowulf",
+        "output": "1952"
+    },
+    {
+        "input": "Men in Black II",
+        "output": "1953"
+    },
+    {
+        "input": "Knock at the Cabin",
+        "output": "1970"
+    },
+    {
+        "input": "Dear John",
+        "output": "1946"
+    },
+    {
+        "input": "Mary Poppins",
+        "output": "1905"
+    },
+    {
+        "input": "The Impossible",
+        "output": "1975"
+    },
+    {
+        "input": "Patriots Day",
+        "output": "1964"
+    },
+    {
+        "input": "Paycheck",
+        "output": "1946"
+    },
+    {
+        "input": "A Haunting in Venice",
+        "output": "1960"
+    },
+    {
+        "input": "Another Round",
+        "output": "1969"
+    },
+    {
+        "input": "The Bone Collector",
+        "output": "1950"
+    },
+    {
+        "input": "American Psycho",
+        "output": "1953"
+    },
+    {
+        "input": "In the Heart of the Sea",
+        "output": "1954"
+    },
+    {
+        "input": "Lucky Number Slevin",
+        "output": "1963"
+    },
+    {
+        "input": "This Is Spinal Tap",
+        "output": "1947"
+    },
+    {
+        "input": "Billy Madison",
+        "output": "1962"
+    },
+    {
+        "input": "The Lord of the Rings: The Return of the King",
+        "output": "1961"
+    },
+    {
+        "input": "Filth",
+        "output": "1972"
+    },
+    {
+        "input": "Ghost in the Shell",
+        "output": "1971"
+    },
+    {
+        "input": "The King",
+        "output": "1972"
+    },
+    {
+        "input": "Eraserhead",
+        "output": "1946"
+    },
+    {
+        "input": "Drive",
+        "output": "1970"
+    },
+    {
+        "input": "Enchanted",
+        "output": "1962"
+    },
+    {
+        "input": "Her",
+        "output": "1969"
+    },
+    {
+        "input": "The Mountain II",
+        "output": "1981"
+    },
+    {
+        "input": "Real Steel",
+        "output": "1968"
+    },
+    {
+        "input": "The Holdovers",
+        "output": "1961"
+    },
+    {
+        "input": "Silver Linings Playbook",
+        "output": "1958"
+    },
+    {
+        "input": "The Name of the Rose",
+        "output": "1943"
+    },
+    {
+        "input": "Ghost World",
+        "output": "1949"
+    },
+    {
+        "input": "The Hunger Games: Mockingjay \u2013 Part 1",
+        "output": "1971"
+    },
+    {
+        "input": "Ran",
+        "output": "1910"
+    },
+    {
+        "input": "The Babadook",
+        "output": "1969"
+    },
+    {
+        "input": "Faster",
+        "output": "1969"
+    },
+    {
+        "input": "Robin Hood: Prince of Thieves",
+        "output": "1952"
+    },
+    {
+        "input": "The Kids Are All Right",
+        "output": "1964"
+    },
+    {
+        "input": "Wild Hogs",
+        "output": "1968"
+    },
+    {
+        "input": "Cold Mountain",
+        "output": "1954"
+    },
+    {
+        "input": "Memento",
+        "output": "1970"
+    },
+    {
+        "input": "Dracula Untold",
+        "output": "1981"
+    },
+    {
+        "input": "The Equalizer 3",
+        "output": "1965"
+    },
+    {
+        "input": "Super Troopers",
+        "output": "1968"
+    },
+    {
+        "input": "Red Sparrow",
+        "output": "1971"
+    },
+    {
+        "input": "The Devil's Rejects",
+        "output": "1965"
+    },
+    {
+        "input": "Closer",
+        "output": "1931"
+    },
+    {
+        "input": "Me Before You",
+        "output": "1976"
+    },
+    {
+        "input": "Police Academy",
+        "output": "1943"
+    },
+    {
+        "input": "Safe",
+        "output": "1966"
+    },
+    {
+        "input": "Amores perros",
+        "output": "1963"
+    },
+    {
+        "input": "Morbius",
+        "output": "1977"
+    },
+    {
+        "input": "Oldboy",
+        "output": "1963"
+    },
+    {
+        "input": "The Grand Budapest Hotel",
+        "output": "1969"
+    },
+    {
+        "input": "Australia",
+        "output": "1962"
+    },
+    {
+        "input": "The Manchurian Candidate",
+        "output": "1944"
+    },
+    {
+        "input": "Garden State",
+        "output": "1975"
+    },
+    {
+        "input": "Back to the Future",
+        "output": "1952"
+    },
+    {
+        "input": "The Time Machine",
+        "output": "1961"
+    },
+    {
+        "input": "The Change-Up",
+        "output": "1969"
+    },
+    {
+        "input": "Final Destination 3",
+        "output": "1959"
+    },
+    {
+        "input": "Underworld: Evolution",
+        "output": "1973"
+    },
+    {
+        "input": "Dark City",
+        "output": "1963"
+    },
+    {
+        "input": "Driving Miss Daisy",
+        "output": "1940"
+    },
+    {
+        "input": "Ocean's 8",
+        "output": "1956"
+    },
+    {
+        "input": "Judge Dredd",
+        "output": "1968"
+    },
+    {
+        "input": "The Kingdom",
+        "output": "1964"
+    },
+    {
+        "input": "Bedtime Stories",
+        "output": "1964"
+    },
+    {
+        "input": "Sing Street",
+        "output": "1972"
+    },
+    {
+        "input": "Legally Blonde",
+        "output": "1973"
+    },
+    {
+        "input": "The Irishman",
+        "output": "1942"
+    },
+    {
+        "input": "The Hangover Part III",
+        "output": "1970"
+    },
+    {
+        "input": "Godzilla Minus One",
+        "output": "1964"
+    },
+    {
+        "input": "Now You See Me",
+        "output": "1973"
+    },
+    {
+        "input": "Gangs of New York",
+        "output": "1942"
+    },
+    {
+        "input": "Breakfast at Tiffany's",
+        "output": "1922"
+    },
+    {
+        "input": "Leap Year",
+        "output": "1963"
+    },
+    {
+        "input": "A Few Good Men",
+        "output": "1947"
+    },
+    {
+        "input": "Tootsie",
+        "output": "1934"
+    },
+    {
+        "input": "Close Encounters of the Third Kind",
+        "output": "1946"
+    },
+    {
+        "input": "Butch Cassidy and the Sundance Kid",
+        "output": "1921"
+    },
+    {
+        "input": "What Happens in Vegas",
+        "output": "1969"
+    },
+    {
+        "input": "The Princess Diaries",
+        "output": "1934"
+    },
+    {
+        "input": "Saltburn",
+        "output": "1985"
+    },
+    {
+        "input": "Hush",
+        "output": "1978"
+    },
+    {
+        "input": "Boogie Nights",
+        "output": "1970"
+    },
+    {
+        "input": "The Lost Boys",
+        "output": "1939"
+    },
+    {
+        "input": "Red Dragon",
+        "output": "1969"
+    },
+    {
+        "input": "Sixteen Candles",
+        "output": "1950"
+    },
+    {
+        "input": "The Mule",
+        "output": "1930"
+    },
+    {
+        "input": "San Andreas",
+        "output": "1978"
+    },
+    {
+        "input": "21 Grams",
+        "output": "1963"
+    },
+    {
+        "input": "U.S. Marshals",
+        "output": "1947"
+    },
+    {
+        "input": "The Life of David Gale",
+        "output": "1944"
+    },
+    {
+        "input": "Justice League",
+        "output": "1966"
+    },
+    {
+        "input": "It Comes at Night",
+        "output": "1988"
+    },
+    {
+        "input": "(500) Days of Summer",
+        "output": "1974"
+    },
+    {
+        "input": "The Internship",
+        "output": "1968"
+    },
+    {
+        "input": "It Follows",
+        "output": "1974"
+    },
+    {
+        "input": "Finch",
+        "output": "1974"
+    },
+    {
+        "input": "Chappie",
+        "output": "1979"
+    },
+    {
+        "input": "The Big Short",
+        "output": "1968"
+    },
+    {
+        "input": "The Wolf of Wall Street",
+        "output": "1942"
+    },
+    {
+        "input": "Downfall",
+        "output": "1957"
+    },
+    {
+        "input": "42",
+        "output": "1961"
+    },
+    {
+        "input": "Braveheart",
+        "output": "1956"
+    },
+    {
+        "input": "The Day After Tomorrow",
+        "output": "1955"
+    },
+    {
+        "input": "Turbo",
+        "output": "1973"
+    },
+    {
+        "input": "Inception",
+        "output": "1970"
+    },
+    {
+        "input": "School of Rock",
+        "output": "1960"
+    },
+    {
+        "input": "Vantage Point",
+        "output": "2000"
+    },
+    {
+        "input": "From Paris with Love",
+        "output": "1964"
+    },
+    {
+        "input": "North by Northwest",
+        "output": "1899"
+    },
+    {
+        "input": "Rocky Balboa",
+        "output": "1946"
+    },
+    {
+        "input": "The Firm",
+        "output": "1934"
+    },
+    {
+        "input": "State of Play",
+        "output": "1967"
+    },
+    {
+        "input": "Revolutionary Road",
+        "output": "1965"
+    },
+    {
+        "input": "Gone in 60 Seconds",
+        "output": "1949"
+    },
+    {
+        "input": "The DUFF",
+        "output": "1974"
+    },
+    {
+        "input": "Green Street",
+        "output": "1974"
+    },
+    {
+        "input": "The Post",
+        "output": "1946"
+    },
+    {
+        "input": "Under the Skin",
+        "output": "1965"
+    },
+    {
+        "input": "Br\u00fcno",
+        "output": "1956"
+    },
+    {
+        "input": "K.G.F: Chapter 2",
+        "output": "1980"
+    },
+    {
+        "input": "Ghostbusters II",
+        "output": "1946"
+    },
+    {
+        "input": "Paths of Glory",
+        "output": "1928"
+    },
+    {
+        "input": "The Giver",
+        "output": "1950"
+    },
+    {
+        "input": "Violent Night",
+        "output": "1979"
+    },
+    {
+        "input": "Wayne's World",
+        "output": "1945"
+    },
+    {
+        "input": "Resident Evil: Retribution",
+        "output": "1965"
+    },
+    {
+        "input": "Scary Movie 2",
+        "output": "1958"
+    },
+    {
+        "input": "Pacific Rim",
+        "output": "1964"
+    },
+    {
+        "input": "You Were Never Really Here",
+        "output": "1969"
+    },
+    {
+        "input": "The Iron Lady",
+        "output": "1957"
+    },
+    {
+        "input": "I Origins",
+        "output": "1979"
+    },
+    {
+        "input": "The Tourist",
+        "output": "1973"
+    },
+    {
+        "input": "A Streetcar Named Desire",
+        "output": "1909"
+    },
+    {
+        "input": "Shoot 'Em Up",
+        "output": "1961"
+    },
+    {
+        "input": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "output": "1964"
+    },
+    {
+        "input": "It Happened One Night",
+        "output": "1897"
+    },
+    {
+        "input": "Bowling for Columbine",
+        "output": "1954"
+    },
+    {
+        "input": "Live Free or Die Hard",
+        "output": "1973"
+    },
+    {
+        "input": "Don't Breathe",
+        "output": "1978"
+    },
+    {
+        "input": "What Women Want",
+        "output": "1949"
+    },
+    {
+        "input": "Cast Away",
+        "output": "1952"
+    },
+    {
+        "input": "Frequency",
+        "output": "1944"
+    },
+    {
+        "input": "The Man from U.N.C.L.E.",
+        "output": "1968"
+    },
+    {
+        "input": "Thor: Love and Thunder",
+        "output": "1975"
+    },
+    {
+        "input": "Skyscraper",
+        "output": "1975"
+    },
+    {
+        "input": "Let's Be Cops",
+        "output": "1972"
+    },
+    {
+        "input": "Interview with the Vampire",
+        "output": "1950"
+    },
+    {
+        "input": "Monster",
+        "output": "1971"
+    },
+    {
+        "input": "Three Kings",
+        "output": "1958"
+    },
+    {
+        "input": "I Am Sam",
+        "output": "1953"
+    },
+    {
+        "input": "Swordfish",
+        "output": "1949"
+    },
+    {
+        "input": "Men of Honor",
+        "output": "1969"
+    },
+    {
+        "input": "The Ninth Gate",
+        "output": "1933"
+    },
+    {
+        "input": "Tomb Raider",
+        "output": "1973"
+    },
+    {
+        "input": "Godzilla: King of the Monsters",
+        "output": "1974"
+    },
+    {
+        "input": "The Lost World: Jurassic Park",
+        "output": "1946"
+    },
+    {
+        "input": "Swades",
+        "output": "1964"
+    },
+    {
+        "input": "Extraction",
+        "output": "1982"
+    },
+    {
+        "input": "Flightplan",
+        "output": "1968"
+    },
+    {
+        "input": "The Jackal",
+        "output": "1957"
+    },
+    {
+        "input": "Across the Universe",
+        "output": "1952"
+    },
+    {
+        "input": "Passengers",
+        "output": "1967"
+    },
+    {
+        "input": "If I Stay",
+        "output": "1962"
+    },
+    {
+        "input": "50/50",
+        "output": "1976"
+    },
+    {
+        "input": "Pixels",
+        "output": "1958"
+    },
+    {
+        "input": "Saving Mr. Banks",
+        "output": "1956"
+    },
+    {
+        "input": "Inside Man",
+        "output": "1957"
+    },
+    {
+        "input": "Irr\u00e9versible",
+        "output": "1963"
+    },
+    {
+        "input": "Shame",
+        "output": "1969"
+    },
+    {
+        "input": "Yojimbo",
+        "output": "1910"
+    },
+    {
+        "input": "Snowpiercer",
+        "output": "1969"
+    },
+    {
+        "input": "Laal Singh Chaddha",
+        "output": "1987"
+    },
+    {
+        "input": "Ghost Rider",
+        "output": "1964"
+    },
+    {
+        "input": "Renfield",
+        "output": "1973"
+    },
+    {
+        "input": "What Dreams May Come",
+        "output": "1956"
+    },
+    {
+        "input": "Les Mis\u00e9rables",
+        "output": "1972"
+    },
+    {
+        "input": "Kantara",
+        "output": "1983"
+    },
+    {
+        "input": "The Fugitive",
+        "output": "1946"
+    },
+    {
+        "input": "Empire of the Sun",
+        "output": "1946"
+    },
+    {
+        "input": "The Omen",
+        "output": "1930"
+    },
+    {
+        "input": "Doctor Strange in the Multiverse of Madness",
+        "output": "1959"
+    },
+    {
+        "input": "As Above, So Below",
+        "output": "1973"
+    },
+    {
+        "input": "Accepted",
+        "output": "1966"
+    },
+    {
+        "input": "The Pianist",
+        "output": "1933"
+    },
+    {
+        "input": "Zack and Miri Make a Porno",
+        "output": "1970"
+    },
+    {
+        "input": "King Kong",
+        "output": "1961"
+    },
+    {
+        "input": "Beetlejuice",
+        "output": "1958"
+    },
+    {
+        "input": "High Fidelity",
+        "output": "1941"
+    },
+    {
+        "input": "Lion",
+        "output": "1974"
+    },
+    {
+        "input": "Candyman",
+        "output": "1960"
+    },
+    {
+        "input": "Brick",
+        "output": "1973"
+    },
+    {
+        "input": "Tron",
+        "output": "1951"
+    },
+    {
+        "input": "Contagion",
+        "output": "1963"
+    },
+    {
+        "input": "Hansel & Gretel: Witch Hunters",
+        "output": "1979"
+    },
+    {
+        "input": "The King's Man",
+        "output": "1971"
+    },
+    {
+        "input": "Home Alone 2: Lost in New York",
+        "output": "1958"
+    },
+    {
+        "input": "For a Few Dollars More",
+        "output": "1929"
+    },
+    {
+        "input": "Johnny English Reborn",
+        "output": "1960"
+    },
+    {
+        "input": "The Addams Family",
+        "output": "1953"
+    },
+    {
+        "input": "Maze Runner: The Scorch Trials",
+        "output": "1980"
+    },
+    {
+        "input": "Alien 3",
+        "output": "1962"
+    },
+    {
+        "input": "Sully",
+        "output": "1930"
+    },
+    {
+        "input": "2012",
+        "output": "1955"
+    },
+    {
+        "input": "Bad Santa",
+        "output": "1949"
+    },
+    {
+        "input": "Fear and Loathing in Las Vegas",
+        "output": "1940"
+    },
+    {
+        "input": "8mm",
+        "output": "1939"
+    },
+    {
+        "input": "Fences",
+        "output": "1954"
+    },
+    {
+        "input": "Stoker",
+        "output": "1963"
+    },
+    {
+        "input": "Cowboys & Aliens",
+        "output": "1966"
+    },
+    {
+        "input": "Die Hard",
+        "output": "1951"
+    },
+    {
+        "input": "Iron Man 3",
+        "output": "1961"
+    },
+    {
+        "input": "The Men Who Stare at Goats",
+        "output": "1963"
+    },
+    {
+        "input": "Paris, Texas",
+        "output": "1945"
+    },
+    {
+        "input": "Three Colours: Red",
+        "output": "1941"
+    },
+    {
+        "input": "Drive Angry",
+        "output": "1964"
+    },
+    {
+        "input": "The Last of the Mohicans",
+        "output": "1943"
+    },
+    {
+        "input": "Children of Men",
+        "output": "1961"
+    },
+    {
+        "input": "Ride Along",
+        "output": "1970"
+    },
+    {
+        "input": "Insidious: Chapter 2",
+        "output": "1977"
+    },
+    {
+        "input": "Wall Street",
+        "output": "1946"
+    },
+    {
+        "input": "World War Z",
+        "output": "1969"
+    },
+    {
+        "input": "Red One",
+        "output": "1974"
+    },
+    {
+        "input": "Clear and Present Danger",
+        "output": "1950"
+    },
+    {
+        "input": "Marriage Story",
+        "output": "1969"
+    },
+    {
+        "input": "Unbroken",
+        "output": "1975"
+    },
+    {
+        "input": "The Bucket List",
+        "output": "1947"
+    },
+    {
+        "input": "Licorice Pizza",
+        "output": "1970"
+    },
+    {
+        "input": "Hell or High Water",
+        "output": "1966"
+    },
+    {
+        "input": "Waterworld",
+        "output": "1952"
+    },
+    {
+        "input": "Layer Cake",
+        "output": "1971"
+    },
+    {
+        "input": "Oblivion",
+        "output": "1974"
+    },
+    {
+        "input": "The Adam Project",
+        "output": "1968"
+    },
+    {
+        "input": "Argo",
+        "output": "1972"
+    },
+    {
+        "input": "The Hobbit: The Desolation of Smaug",
+        "output": "1961"
+    },
+    {
+        "input": "Mulan",
+        "output": "1967"
+    },
+    {
+        "input": "Spider-Man 3",
+        "output": "1959"
+    },
+    {
+        "input": "Romeo + Juliet",
+        "output": "1962"
+    },
+    {
+        "input": "Philomena",
+        "output": "1941"
+    },
+    {
+        "input": "Django Unchained",
+        "output": "1963"
+    },
+    {
+        "input": "Southpaw",
+        "output": "1965"
+    },
+    {
+        "input": "Hamilton",
+        "output": "1978"
+    },
+    {
+        "input": "Gladiator",
+        "output": "1937"
+    },
+    {
+        "input": "Planet Terror",
+        "output": "1968"
+    },
+    {
+        "input": "First Man",
+        "output": "1985"
+    },
+    {
+        "input": "Rocketman",
+        "output": "1966"
+    },
+    {
+        "input": "The Man in the Iron Mask",
+        "output": "1949"
+    },
+    {
+        "input": "Flags of Our Fathers",
+        "output": "1930"
+    },
+    {
+        "input": "One Flew Over the Cuckoo's Nest",
+        "output": "1932"
+    },
+    {
+        "input": "The Good Shepherd",
+        "output": "1943"
+    },
+    {
+        "input": "The Twilight Saga: Eclipse",
+        "output": "1969"
+    },
+    {
+        "input": "It's a Wonderful Life",
+        "output": "1897"
+    },
+    {
+        "input": "Gran Torino",
+        "output": "1930"
+    },
+    {
+        "input": "Indiana Jones and the Temple of Doom",
+        "output": "1946"
+    },
+    {
+        "input": "The Promise",
+        "output": "1952"
+    },
+    {
+        "input": "Live and Let Die",
+        "output": "1922"
+    },
+    {
+        "input": "Borat Subsequent Moviefilm",
+        "output": "1980"
+    },
+    {
+        "input": "The Social Network",
+        "output": "1962"
+    },
+    {
+        "input": "50 First Dates",
+        "output": "1962"
+    },
+    {
+        "input": "Paul Blart: Mall Cop",
+        "output": "1962"
+    },
+    {
+        "input": "Get Smart",
+        "output": "1962"
+    },
+    {
+        "input": "The Fighter",
+        "output": "1958"
+    },
+    {
+        "input": "Hobbs & Shaw",
+        "output": "1975"
+    },
+    {
+        "input": "Terminator Salvation",
+        "output": "1968"
+    },
+    {
+        "input": "Terminator: Dark Fate",
+        "output": "1964"
+    },
+    {
+        "input": "The Great Gatsby",
+        "output": "1962"
+    },
+    {
+        "input": "One Day",
+        "output": "1959"
+    },
+    {
+        "input": "The Grapes of Wrath",
+        "output": "1894"
+    },
+    {
+        "input": "Clerks",
+        "output": "1970"
+    },
+    {
+        "input": "Creed",
+        "output": "1986"
+    },
+    {
+        "input": "Blade Runner 2049",
+        "output": "1967"
+    },
+    {
+        "input": "Out of Sight",
+        "output": "1963"
+    },
+    {
+        "input": "Austin Powers in Goldmember",
+        "output": "1957"
+    },
+    {
+        "input": "Contraband",
+        "output": "1966"
+    },
+    {
+        "input": "Brokeback Mountain",
+        "output": "1954"
+    },
+    {
+        "input": "The Chronicles of Riddick",
+        "output": "1955"
+    },
+    {
+        "input": "The Running Man",
+        "output": "1943"
+    },
+    {
+        "input": "The Family Man",
+        "output": "1969"
+    },
+    {
+        "input": "Black Panther: Wakanda Forever",
+        "output": "1986"
+    },
+    {
+        "input": "Munich",
+        "output": "1946"
+    },
+    {
+        "input": "Why Him?",
+        "output": "1970"
+    },
+    {
+        "input": "Baahubali: The Beginning",
+        "output": "1973"
+    },
+    {
+        "input": "Spy",
+        "output": "1962"
+    },
+    {
+        "input": "Taken 3",
+        "output": "1965"
+    },
+    {
+        "input": "Star Wars: Episode III \u2013 Revenge of the Sith",
+        "output": "1944"
+    },
+    {
+        "input": "The Green Knight",
+        "output": "1980"
+    },
+    {
+        "input": "I Care a Lot",
+        "output": "1977"
+    },
+    {
+        "input": "Rocky IV",
+        "output": "1946"
+    },
+    {
+        "input": "Mystic River",
+        "output": "1930"
+    },
+    {
+        "input": "Talladega Nights: The Ballad of Ricky Bobby",
+        "output": "1968"
+    },
+    {
+        "input": "Demolition",
+        "output": "1963"
+    },
+    {
+        "input": "Sunset Boulevard",
+        "output": "1906"
+    },
+    {
+        "input": "The Longest Yard",
+        "output": "1962"
+    },
+    {
+        "input": "A History of Violence",
+        "output": "1943"
+    },
+    {
+        "input": "Harold & Kumar Go to White Castle",
+        "output": "1961"
+    },
+    {
+        "input": "xXx",
+        "output": "1949"
+    },
+    {
+        "input": "Alexander",
+        "output": "1946"
+    },
+    {
+        "input": "Hard Candy",
+        "output": "1969"
+    },
+    {
+        "input": "Evil Dead II",
+        "output": "1959"
+    },
+    {
+        "input": "Captain America: The First Avenger",
+        "output": "1950"
+    },
+    {
+        "input": "The Green Mile",
+        "output": "1959"
+    },
+    {
+        "input": "The Incredible Hulk",
+        "output": "1973"
+    },
+    {
+        "input": "Ali",
+        "output": "1943"
+    },
+    {
+        "input": "Funny Games U.S.",
+        "output": "1942"
+    },
+    {
+        "input": "Fight Club",
+        "output": "1962"
+    },
+    {
+        "input": "Black Adam",
+        "output": "1974"
+    },
+    {
+        "input": "Into the Woods",
+        "output": "1960"
+    },
+    {
+        "input": "Roman Holiday",
+        "output": "1902"
+    },
+    {
+        "input": "Vacancy",
+        "output": "1973"
+    },
+    {
+        "input": "The Power of the Dog",
+        "output": "1954"
+    },
+    {
+        "input": "X-Men: The Last Stand",
+        "output": "1969"
+    },
+    {
+        "input": "Clueless",
+        "output": "1954"
+    },
+    {
+        "input": "Signs",
+        "output": "1970"
+    },
+    {
+        "input": "The Intern",
+        "output": "1949"
+    },
+    {
+        "input": "Chasing Amy",
+        "output": "1970"
+    },
+    {
+        "input": "Dogma",
+        "output": "1970"
+    },
+    {
+        "input": "The Birdcage",
+        "output": "1931"
+    },
+    {
+        "input": "Defiance",
+        "output": "1952"
+    },
+    {
+        "input": "Rushmore",
+        "output": "1969"
+    },
+    {
+        "input": "RocknRolla",
+        "output": "1968"
+    },
+    {
+        "input": "Beautiful Boy",
+        "output": "1977"
+    },
+    {
+        "input": "The King of Comedy",
+        "output": "1942"
+    },
+    {
+        "input": "Spartacus",
+        "output": "1928"
+    },
+    {
+        "input": "Saw II",
+        "output": "1979"
+    },
+    {
+        "input": "Dial M for Murder",
+        "output": "1899"
+    },
+    {
+        "input": "Pompeii",
+        "output": "1965"
+    },
+    {
+        "input": "Midnight in Paris",
+        "output": "1935"
+    },
+    {
+        "input": "Mission: Impossible \u2013 Rogue Nation",
+        "output": "1968"
+    },
+    {
+        "input": "The Warriors",
+        "output": "1942"
+    },
+    {
+        "input": "No Strings Attached",
+        "output": "1946"
+    },
+    {
+        "input": "13 Hours: The Secret Soldiers of Benghazi",
+        "output": "1965"
+    },
+    {
+        "input": "The Conjuring",
+        "output": "1977"
+    },
+    {
+        "input": "The Circle",
+        "output": "1978"
+    },
+    {
+        "input": "Transformers",
+        "output": "1965"
+    },
+    {
+        "input": "S.W.A.T.",
+        "output": "1954"
+    },
+    {
+        "input": "Inherent Vice",
+        "output": "1970"
+    },
+    {
+        "input": "The Brothers Grimm",
+        "output": "1940"
+    },
+    {
+        "input": "The Assassination of Jesse James by the Coward Robert Ford",
+        "output": "1967"
+    },
+    {
+        "input": "Bill & Ted's Excellent Adventure",
+        "output": "1958"
+    },
+    {
+        "input": "The Golden Compass",
+        "output": "1969"
+    },
+    {
+        "input": "The Spiderwick Chronicles",
+        "output": "1964"
+    },
+    {
+        "input": "The French Dispatch",
+        "output": "1969"
+    },
+    {
+        "input": "Elite Squad",
+        "output": "1967"
+    },
+    {
+        "input": "True Romance",
+        "output": "1944"
+    },
+    {
+        "input": "A Quiet Place",
+        "output": "1979"
+    },
+    {
+        "input": "A Simple Favor",
+        "output": "1962"
+    },
+    {
+        "input": "Safe Haven",
+        "output": "1946"
+    },
+    {
+        "input": "The Mechanic",
+        "output": "1961"
+    },
+    {
+        "input": "Sicario",
+        "output": "1967"
+    },
+    {
+        "input": "Match Point",
+        "output": "1935"
+    },
+    {
+        "input": "Prince of Persia: The Sands of Time",
+        "output": "1942"
+    },
+    {
+        "input": "Flipped",
+        "output": "1947"
+    },
+    {
+        "input": "Lolita",
+        "output": "1928"
+    },
+    {
+        "input": "Bridge of Spies",
+        "output": "1946"
+    },
+    {
+        "input": "King Arthur: Legend of the Sword",
+        "output": "1968"
+    },
+    {
+        "input": "The Blind Side",
+        "output": "1956"
+    },
+    {
+        "input": "Some Like It Hot",
+        "output": "1906"
+    },
+    {
+        "input": "Wonka",
+        "output": "1978"
+    },
+    {
+        "input": "Unbreakable",
+        "output": "1970"
+    },
+    {
+        "input": "Van Helsing",
+        "output": "1962"
+    },
+    {
+        "input": "Batman",
+        "output": "1958"
+    },
+    {
+        "input": "Homefront",
+        "output": "1965"
+    },
+    {
+        "input": "The Bourne Supremacy",
+        "output": "1955"
+    },
+    {
+        "input": "Paranormal Activity 2",
+        "output": "1968"
+    },
+    {
+        "input": "Life of Pi",
+        "output": "1954"
+    },
+    {
+        "input": "Vertigo",
+        "output": "1899"
+    },
+    {
+        "input": "Dawn of the Planet of the Apes",
+        "output": "1966"
+    },
+    {
+        "input": "Batman v Superman: Dawn of Justice",
+        "output": "1966"
+    },
+    {
+        "input": "The Butler",
+        "output": "1959"
+    },
+    {
+        "input": "The Boy in the Striped Pajamas",
+        "output": "1954"
+    },
+    {
+        "input": "Dead Man Walking",
+        "output": "1958"
+    },
+    {
+        "input": "Scooby-Doo",
+        "output": "1958"
+    },
+    {
+        "input": "Cube",
+        "output": "1969"
+    },
+    {
+        "input": "Logan",
+        "output": "1963"
+    },
+    {
+        "input": "Ace Ventura: Pet Detective",
+        "output": "1958"
+    },
+    {
+        "input": "Man on a Ledge",
+        "output": "1970"
+    },
+    {
+        "input": "The Death of Stalin",
+        "output": "1963"
+    },
+    {
+        "input": "Cool Hand Luke",
+        "output": "1927"
+    },
+    {
+        "input": "Star Wars: Episode II \u2013 Attack of the Clones",
+        "output": "1944"
+    },
+    {
+        "input": "John Wick: Chapter 4",
+        "output": "1968"
+    },
+    {
+        "input": "Dr. Dolittle",
+        "output": "1948"
+    },
+    {
+        "input": "Civil War",
+        "output": "1970"
+    },
+    {
+        "input": "Blade: Trinity",
+        "output": "1965"
+    },
+    {
+        "input": "Metropolis",
+        "output": "1890"
+    },
+    {
+        "input": "Big Fish",
+        "output": "1958"
+    },
+    {
+        "input": "Run All Night",
+        "output": "1974"
+    },
+    {
+        "input": "Bridesmaids",
+        "output": "1962"
+    },
+    {
+        "input": "Star Trek",
+        "output": "1966"
+    },
+    {
+        "input": "Twins",
+        "output": "1946"
+    },
+    {
+        "input": "Sex Tape",
+        "output": "1974"
+    },
+    {
+        "input": "Transcendence",
+        "output": "1961"
+    },
+    {
+        "input": "Road to Perdition",
+        "output": "1965"
+    },
+    {
+        "input": "Y tu mam\u00e1 tambi\u00e9n",
+        "output": "1961"
+    },
+    {
+        "input": "Aquaman and the Lost Kingdom",
+        "output": "1977"
+    },
+    {
+        "input": "Click",
+        "output": "1966"
+    },
+    {
+        "input": "Napoleon Dynamite",
+        "output": "1979"
+    },
+    {
+        "input": "The Little Things",
+        "output": "1956"
+    },
+    {
+        "input": "Scream",
+        "output": "1939"
+    },
+    {
+        "input": "National Treasure: Book of Secrets",
+        "output": "1963"
+    },
+    {
+        "input": "Sonic the Hedgehog",
+        "output": "1978"
+    },
+    {
+        "input": "Unstoppable",
+        "output": "1944"
+    },
+    {
+        "input": "The Old Guard",
+        "output": "1969"
+    },
+    {
+        "input": "Lone Survivor",
+        "output": "1964"
+    },
+    {
+        "input": "Insidious: Chapter 3",
+        "output": "1977"
+    },
+    {
+        "input": "Lethal Weapon 2",
+        "output": "1930"
+    },
+    {
+        "input": "The Doors",
+        "output": "1946"
+    },
+    {
+        "input": "You Only Live Twice",
+        "output": "1920"
+    },
+    {
+        "input": "Bird Box",
+        "output": "1960"
+    },
+    {
+        "input": "Iron Man",
+        "output": "1966"
+    },
+    {
+        "input": "Train to Busan",
+        "output": "1978"
+    },
+    {
+        "input": "The Equalizer 2",
+        "output": "1965"
+    },
+    {
+        "input": "Mortal Engines",
+        "output": "1974"
+    },
+    {
+        "input": "L.A. Confidential",
+        "output": "1945"
+    },
+    {
+        "input": "CODA",
+        "output": "1977"
+    },
+    {
+        "input": "Doctor Strange",
+        "output": "1966"
+    },
+    {
+        "input": "Shanghai Noon",
+        "output": "1965"
+    },
+    {
+        "input": "Hanna",
+        "output": "1972"
+    },
+    {
+        "input": "The Place Beyond the Pines",
+        "output": "1974"
+    },
+    {
+        "input": "Hotel Rwanda",
+        "output": "1952"
+    },
+    {
+        "input": "Paul",
+        "output": "1964"
+    },
+    {
+        "input": "The Island",
+        "output": "1965"
+    },
+    {
+        "input": "The Lost City of Z",
+        "output": "1969"
+    },
+    {
+        "input": "Escape from Alcatraz",
+        "output": "1912"
+    },
+    {
+        "input": "National Treasure",
+        "output": "1963"
+    },
+    {
+        "input": "Annihilation",
+        "output": "1970"
+    },
+    {
+        "input": "The Wedding Singer",
+        "output": "1966"
+    },
+    {
+        "input": "Casablanca",
+        "output": "1886"
+    },
+    {
+        "input": "Exam",
+        "output": "1971"
+    },
+    {
+        "input": "Hot Tub Time Machine",
+        "output": "1966"
+    },
+    {
+        "input": "The Departed",
+        "output": "1942"
+    },
+    {
+        "input": "Rashomon",
+        "output": "1910"
+    },
+    {
+        "input": "About Schmidt",
+        "output": "1961"
+    },
+    {
+        "input": "The Da Vinci Code",
+        "output": "1954"
+    },
+    {
+        "input": "Donnie Darko",
+        "output": "1975"
+    },
+    {
+        "input": "Troy",
+        "output": "1941"
+    },
+    {
+        "input": "Extremely Loud and Incredibly Close",
+        "output": "1961"
+    },
+    {
+        "input": "Once Upon a Time in the West",
+        "output": "1929"
+    },
+    {
+        "input": "Get Out",
+        "output": "1979"
+    },
+    {
+        "input": "Flight",
+        "output": "1952"
+    },
+    {
+        "input": "Saw 3D",
+        "output": "1965"
+    },
+    {
+        "input": "Road Trip",
+        "output": "1970"
+    },
+    {
+        "input": "Logan Lucky",
+        "output": "1963"
+    },
+    {
+        "input": "Resident Evil",
+        "output": "1965"
+    },
+    {
+        "input": "Idiocracy",
+        "output": "1962"
+    },
+    {
+        "input": "Julie & Julia",
+        "output": "1941"
+    },
+    {
+        "input": "American Made",
+        "output": "1965"
+    },
+    {
+        "input": "The Goonies",
+        "output": "1930"
+    },
+    {
+        "input": "Leaving Las Vegas",
+        "output": "1948"
+    },
+    {
+        "input": "Where the Wild Things Are",
+        "output": "1969"
+    },
+    {
+        "input": "The Book Thief",
+        "output": "1962"
+    },
+    {
+        "input": "Guardians of the Galaxy",
+        "output": "1966"
+    },
+    {
+        "input": "Maleficent",
+        "output": "1965"
+    },
+    {
+        "input": "Zombieland: Double Tap",
+        "output": "1974"
+    },
+    {
+        "input": "Ant-Man",
+        "output": "1964"
+    },
+    {
+        "input": "Instant Family",
+        "output": "1969"
+    },
+    {
+        "input": "The Abyss",
+        "output": "1954"
+    },
+    {
+        "input": "X-Men: First Class",
+        "output": "1971"
+    },
+    {
+        "input": "Ready Player One",
+        "output": "1946"
+    },
+    {
+        "input": "Pleasantville",
+        "output": "1956"
+    },
+    {
+        "input": "City of Angels",
+        "output": "1963"
+    },
+    {
+        "input": "Papillon",
+        "output": "1921"
+    },
+    {
+        "input": "Alice in Wonderland",
+        "output": "1958"
+    },
+    {
+        "input": "Existenz",
+        "output": "1943"
+    },
+    {
+        "input": "The Good Dinosaur",
+        "output": "1977"
+    },
+    {
+        "input": "City Lights",
+        "output": "1889"
+    },
+    {
+        "input": "Super 8",
+        "output": "1966"
+    },
+    {
+        "input": "Final Destination",
+        "output": "1959"
+    },
+    {
+        "input": "Gifted",
+        "output": "1974"
+    },
+    {
+        "input": "The Best Offer",
+        "output": "1956"
+    },
+    {
+        "input": "Furiosa: A Mad Max Saga",
+        "output": "1945"
+    },
+    {
+        "input": "101 Dalmatians",
+        "output": "1958"
+    },
+    {
+        "input": "Escape from New York",
+        "output": "1948"
+    },
+    {
+        "input": "The Queen",
+        "output": "1941"
+    },
+    {
+        "input": "Out of the Furnace",
+        "output": "1970"
+    },
+    {
+        "input": "Mr. Brooks",
+        "output": "1946"
+    },
+    {
+        "input": "Ambulance",
+        "output": "1965"
+    },
+    {
+        "input": "Shot Caller",
+        "output": "1968"
+    },
+    {
+        "input": "The Hills Have Eyes",
+        "output": "1978"
+    },
+    {
+        "input": "Jurassic World: Fallen Kingdom",
+        "output": "1975"
+    },
+    {
+        "input": "Rush",
+        "output": "1954"
+    },
+    {
+        "input": "The Northman",
+        "output": "1983"
+    },
+    {
+        "input": "Gone Baby Gone",
+        "output": "1972"
+    },
+    {
+        "input": "The Two Popes",
+        "output": "1955"
+    },
+    {
+        "input": "Love Actually",
+        "output": "1956"
+    },
+    {
+        "input": "GoldenEye",
+        "output": "1943"
+    },
+    {
+        "input": "Erin Brockovich",
+        "output": "1963"
+    },
+    {
+        "input": "Cars 3",
+        "output": "1975"
+    },
+    {
+        "input": "The Big Sick",
+        "output": "1970"
+    },
+    {
+        "input": "Tremors",
+        "output": "1953"
+    },
+    {
+        "input": "Runaway Bride",
+        "output": "1934"
+    },
+    {
+        "input": "Another Earth",
+        "output": "1979"
+    },
+    {
+        "input": "Resident Evil: Extinction",
+        "output": "1953"
+    },
+    {
+        "input": "Witness for the Prosecution",
+        "output": "1906"
+    },
+    {
+        "input": "The 5th Wave",
+        "output": "1977"
+    },
+    {
+        "input": "The Mask of Zorro",
+        "output": "1943"
+    },
+    {
+        "input": "Damsel",
+        "output": "1967"
+    },
+    {
+        "input": "The Forbidden Kingdom",
+        "output": "1962"
+    },
+    {
+        "input": "American History X",
+        "output": "1952"
+    },
+    {
+        "input": "Gangster Squad",
+        "output": "1974"
+    },
+    {
+        "input": "Caddyshack",
+        "output": "1944"
+    },
+    {
+        "input": "The Judge",
+        "output": "1969"
+    },
+    {
+        "input": "The Master",
+        "output": "1970"
+    },
+    {
+        "input": "Bombshell",
+        "output": "1957"
+    },
+    {
+        "input": "Cinderella Man",
+        "output": "1954"
+    },
+    {
+        "input": "Hook",
+        "output": "1946"
+    },
+    {
+        "input": "I, Tonya",
+        "output": "1967"
+    },
+    {
+        "input": "Headhunters",
+        "output": "1967"
+    },
+    {
+        "input": "Sound of Freedom",
+        "output": "1965"
+    },
+    {
+        "input": "Taken 2",
+        "output": "1965"
+    },
+    {
+        "input": "The Matrix Resurrections",
+        "output": "1965"
+    },
+    {
+        "input": "The Next Three Days",
+        "output": "1953"
+    },
+    {
+        "input": "Shang-Chi and the Legend of the Ten Rings",
+        "output": "1978"
+    },
+    {
+        "input": "Scent of a Woman",
+        "output": "1951"
+    },
+    {
+        "input": "The Beekeeper",
+        "output": "1968"
+    },
+    {
+        "input": "Sleepless in Seattle",
+        "output": "1941"
+    },
+    {
+        "input": "Bridge to Terabithia",
+        "output": "1952"
+    },
+    {
+        "input": "Harry Potter and the Philosopher's Stone",
+        "output": "1958"
+    },
+    {
+        "input": "Immortals",
+        "output": "1961"
+    },
+    {
+        "input": "South Park: Bigger, Longer & Uncut",
+        "output": "1969"
+    },
+    {
+        "input": "Edward Scissorhands",
+        "output": "1958"
+    },
+    {
+        "input": "Notorious",
+        "output": "1899"
+    },
+    {
+        "input": "Waiting...",
+        "output": "1973"
+    },
+    {
+        "input": "The Favourite",
+        "output": "1973"
+    },
+    {
+        "input": "Crazy Rich Asians",
+        "output": "1979"
+    },
+    {
+        "input": "A Bronx Tale",
+        "output": "1943"
+    },
+    {
+        "input": "Dan in Real Life",
+        "output": "1962"
+    },
+    {
+        "input": "A Good Day to Die Hard",
+        "output": "1970"
+    },
+    {
+        "input": "Pulp Fiction",
+        "output": "1963"
+    },
+    {
+        "input": "Get Hard",
+        "output": "1974"
+    },
+    {
+        "input": "The Little Mermaid",
+        "output": "1960"
+    },
+    {
+        "input": "The Imitation Game",
+        "output": "1967"
+    },
+    {
+        "input": "Harry Potter and the Deathly Hallows \u2013 Part 1",
+        "output": "1963"
+    },
+    {
+        "input": "The Help",
+        "output": "1969"
+    },
+    {
+        "input": "Friday",
+        "output": "1969"
+    },
+    {
+        "input": "Rescue Dawn",
+        "output": "1942"
+    },
+    {
+        "input": "Donnie Brasco",
+        "output": "1942"
+    },
+    {
+        "input": "Lawrence of Arabia",
+        "output": "1908"
+    },
+    {
+        "input": "Jojo Rabbit",
+        "output": "1975"
+    },
+    {
+        "input": "The Killing",
+        "output": "1928"
+    },
+    {
+        "input": "Top Gun: Maverick",
+        "output": "1974"
+    },
+    {
+        "input": "Split",
+        "output": "1970"
+    },
+    {
+        "input": "The Cabin in the Woods",
+        "output": "1975"
+    },
+    {
+        "input": "The Diving Bell and the Butterfly",
+        "output": "1951"
+    },
+    {
+        "input": "Anger Management",
+        "output": "1962"
+    },
+    {
+        "input": "Self/less",
+        "output": "1961"
+    },
+    {
+        "input": "Chronicle",
+        "output": "1984"
+    },
+    {
+        "input": "Manchester by the Sea",
+        "output": "1962"
+    },
+    {
+        "input": "Election",
+        "output": "1961"
+    },
+    {
+        "input": "Ant-Man and the Wasp",
+        "output": "1964"
+    },
+    {
+        "input": "Joker",
+        "output": "1970"
+    },
+    {
+        "input": "Everest",
+        "output": "1966"
+    },
+    {
+        "input": "The Basketball Diaries",
+        "output": "1964"
+    },
+    {
+        "input": "Vice",
+        "output": "1968"
+    },
+    {
+        "input": "Crimson Tide",
+        "output": "1944"
+    },
+    {
+        "input": "The Zone of Interest",
+        "output": "1965"
+    },
+    {
+        "input": "Into the Wild",
+        "output": "1960"
+    },
+    {
+        "input": "Ted 2",
+        "output": "1973"
+    },
+    {
+        "input": "Red Notice",
+        "output": "1975"
+    },
+    {
+        "input": "I, Robot",
+        "output": "1963"
+    },
+    {
+        "input": "Stalker",
+        "output": "1932"
+    },
+    {
+        "input": "Aliens",
+        "output": "1954"
+    },
+    {
+        "input": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "output": "1966"
+    },
+    {
+        "input": "K-PAX",
+        "output": "1956"
+    },
+    {
+        "input": "Mean Streets",
+        "output": "1942"
+    },
+    {
+        "input": "Shanghai Knights",
+        "output": "1969"
+    },
+    {
+        "input": "Hellboy II: The Golden Army",
+        "output": "1964"
+    },
+    {
+        "input": "Savages",
+        "output": "1946"
+    },
+    {
+        "input": "Yes Man",
+        "output": "1964"
+    },
+    {
+        "input": "28 Days Later",
+        "output": "1956"
+    },
+    {
+        "input": "Star Trek II: The Wrath of Khan",
+        "output": "1945"
+    },
+    {
+        "input": "The Witch",
+        "output": "1983"
+    },
+    {
+        "input": "The Sound of Music",
+        "output": "1914"
+    },
+    {
+        "input": "Schindler's List",
+        "output": "1946"
+    },
+    {
+        "input": "The Hunger Games: The Ballad of Songbirds and Snakes",
+        "output": "1971"
+    },
+    {
+        "input": "Black Swan",
+        "output": "1969"
+    },
+    {
+        "input": "Memoirs of a Geisha",
+        "output": "1960"
+    },
+    {
+        "input": "The Lives of Others",
+        "output": "1973"
+    },
+    {
+        "input": "Godzilla vs. Kong",
+        "output": "1982"
+    },
+    {
+        "input": "Spectre",
+        "output": "1965"
+    },
+    {
+        "input": "Black Mass",
+        "output": "1970"
+    },
+    {
+        "input": "The Disaster Artist",
+        "output": "1978"
+    },
+    {
+        "input": "The Spy Who Loved Me",
+        "output": "1920"
+    },
+    {
+        "input": "Strangers on a Train",
+        "output": "1899"
+    },
+    {
+        "input": "Cape Fear",
+        "output": "1942"
+    },
+    {
+        "input": "Goodfellas",
+        "output": "1942"
+    },
+    {
+        "input": "Bend It Like Beckham",
+        "output": "1960"
+    },
+    {
+        "input": "Rise of the Guardians",
+        "output": "1962"
+    },
+    {
+        "input": "Sonic the Hedgehog 2",
+        "output": "1978"
+    },
+    {
+        "input": "Zodiac",
+        "output": "1962"
+    },
+    {
+        "input": "Mad Max: Fury Road",
+        "output": "1945"
+    },
+    {
+        "input": "To Kill a Mockingbird",
+        "output": "1925"
+    },
+    {
+        "input": "The Untouchables",
+        "output": "1940"
+    },
+    {
+        "input": "Pitch Black",
+        "output": "1955"
+    },
+    {
+        "input": "The 400 Blows",
+        "output": "1932"
+    },
+    {
+        "input": "Ford v Ferrari",
+        "output": "1963"
+    },
+    {
+        "input": "Source Code",
+        "output": "1971"
+    },
+    {
+        "input": "The Last Samurai",
+        "output": "1952"
+    },
+    {
+        "input": "Avengers: Age of Ultron",
+        "output": "1964"
+    },
+    {
+        "input": "The Day the Earth Stood Still",
+        "output": "1966"
+    },
+    {
+        "input": "Gran Turismo",
+        "output": "1979"
+    },
+    {
+        "input": "Olympus Has Fallen",
+        "output": "1965"
+    },
+    {
+        "input": "Me & Earl & the Dying Girl",
+        "output": "1972"
+    },
+    {
+        "input": "Overlord",
+        "output": "1976"
+    },
+    {
+        "input": "The Raid",
+        "output": "1980"
+    },
+    {
+        "input": "Tucker & Dale vs. Evil",
+        "output": "1972"
+    },
+    {
+        "input": "Conclave",
+        "output": "1970"
+    },
+    {
+        "input": "Public Enemies",
+        "output": "1943"
+    },
+    {
+        "input": "Dog Day Afternoon",
+        "output": "1924"
+    },
+    {
+        "input": "The Lucky One",
+        "output": "1953"
+    },
+    {
+        "input": "Glengarry Glen Ross",
+        "output": "1953"
+    },
+    {
+        "input": "Devil",
+        "output": "1973"
+    },
+    {
+        "input": "Am\u00e9lie",
+        "output": "1953"
+    },
+    {
+        "input": "Once Upon a Time in America",
+        "output": "1929"
+    },
+    {
+        "input": "Saving Private Ryan",
+        "output": "1946"
+    },
+    {
+        "input": "Incendies",
+        "output": "1967"
+    },
+    {
+        "input": "The Bridge on the River Kwai",
+        "output": "1908"
+    },
+    {
+        "input": "The Royal Tenenbaums",
+        "output": "1969"
+    },
+    {
+        "input": "Tron: Legacy",
+        "output": "1974"
+    },
+    {
+        "input": "The King's Speech",
+        "output": "1972"
+    },
+    {
+        "input": "Spy Game",
+        "output": "1944"
+    },
+    {
+        "input": "Mal\u00e8na",
+        "output": "1956"
+    },
+    {
+        "input": "Ad Astra",
+        "output": "1969"
+    },
+    {
+        "input": "Gothika",
+        "output": "1967"
+    },
+    {
+        "input": "Something's Gotta Give",
+        "output": "1949"
+    },
+    {
+        "input": "A Beautiful Mind",
+        "output": "1954"
+    },
+    {
+        "input": "The Last Emperor",
+        "output": "1941"
+    },
+    {
+        "input": "Escape Room",
+        "output": "1978"
+    },
+    {
+        "input": "Hit Man",
+        "output": "1960"
+    },
+    {
+        "input": "Fantastic Beasts and Where to Find Them",
+        "output": "1963"
+    },
+    {
+        "input": "Hollow Man",
+        "output": "1938"
+    },
+    {
+        "input": "Hitch",
+        "output": "1955"
+    },
+    {
+        "input": "Red Riding Hood",
+        "output": "1955"
+    },
+    {
+        "input": "Final Destination 5",
+        "output": "1965"
+    },
+    {
+        "input": "Precious",
+        "output": "1959"
+    },
+    {
+        "input": "Casino Royale",
+        "output": "1943"
+    },
+    {
+        "input": "Jeepers Creepers",
+        "output": "1958"
+    },
+    {
+        "input": "The Aviator",
+        "output": "1942"
+    },
+    {
+        "input": "L\u00e9on: The Professional",
+        "output": "1959"
+    },
+    {
+        "input": "The Conjuring: The Devil Made Me Do It",
+        "output": "1984"
+    },
+    {
+        "input": "Noah",
+        "output": "1969"
+    },
+    {
+        "input": "The Illusionist",
+        "output": "1963"
+    },
+    {
+        "input": "Braindead",
+        "output": "1961"
+    },
+    {
+        "input": "Air Force One",
+        "output": "1941"
+    },
+    {
+        "input": "Sahara",
+        "output": "1970"
+    },
+    {
+        "input": "A Walk to Remember",
+        "output": "1964"
+    },
+    {
+        "input": "Big",
+        "output": "1943"
+    },
+    {
+        "input": "Hardcore Henry",
+        "output": "1983"
+    },
+    {
+        "input": "Chocolat",
+        "output": "1946"
+    },
+    {
+        "input": "Primal Fear",
+        "output": "1944"
+    },
+    {
+        "input": "Whiplash",
+        "output": "1985"
+    },
+    {
+        "input": "1408",
+        "output": "1960"
+    },
+    {
+        "input": "Vanilla Sky",
+        "output": "1957"
+    },
+    {
+        "input": "Never Been Kissed",
+        "output": "1958"
+    },
+    {
+        "input": "Big Eyes",
+        "output": "1958"
+    },
+    {
+        "input": "The Highwaymen",
+        "output": "1956"
+    },
+    {
+        "input": "Constantine",
+        "output": "1971"
+    },
+    {
+        "input": "Skyfall",
+        "output": "1965"
+    },
+    {
+        "input": "The Fall",
+        "output": "1961"
+    },
+    {
+        "input": "The Good, the Bad and the Ugly",
+        "output": "1929"
+    },
+    {
+        "input": "Old",
+        "output": "1970"
+    },
+    {
+        "input": "Jurassic World Dominion",
+        "output": "1976"
+    },
+    {
+        "input": "Anchorman: The Legend of Ron Burgundy",
+        "output": "1968"
+    },
+    {
+        "input": "Doom",
+        "output": "1950"
+    },
+    {
+        "input": "It",
+        "output": "1973"
+    },
+    {
+        "input": "Talk to Her",
+        "output": "1949"
+    },
+    {
+        "input": "Underworld",
+        "output": "1973"
+    },
+    {
+        "input": "Sunshine",
+        "output": "1956"
+    },
+    {
+        "input": "Midsommar",
+        "output": "1986"
+    },
+    {
+        "input": "American Fiction",
+        "output": "1982"
+    },
+    {
+        "input": "Cool Runnings",
+        "output": "1963"
+    },
+    {
+        "input": "Star Wars: Episode IX \u2013 The Rise of Skywalker",
+        "output": "1966"
+    },
+    {
+        "input": "The Family",
+        "output": "1959"
+    },
+    {
+        "input": "Terminator 3: Rise of the Machines",
+        "output": "1961"
+    },
+    {
+        "input": "The Losers",
+        "output": "1971"
+    },
+    {
+        "input": "Grimsby",
+        "output": "1973"
+    },
+    {
+        "input": "The Trial of the Chicago 7",
+        "output": "1961"
+    },
+    {
+        "input": "The Core",
+        "output": "1948"
+    },
+    {
+        "input": "A Clockwork Orange",
+        "output": "1928"
+    },
+    {
+        "input": "Zoolander",
+        "output": "1965"
+    },
+    {
+        "input": "Geostorm",
+        "output": "1962"
+    },
+    {
+        "input": "The People vs. Larry Flynt",
+        "output": "1932"
+    },
+    {
+        "input": "The Other Boleyn Girl",
+        "output": "1968"
+    },
+    {
+        "input": "The Hateful Eight",
+        "output": "1963"
+    },
+    {
+        "input": "Room",
+        "output": "1966"
+    },
+    {
+        "input": "Highlander",
+        "output": "1953"
+    },
+    {
+        "input": "The Unforgivable",
+        "output": "1983"
+    },
+    {
+        "input": "The Lighthouse",
+        "output": "1983"
+    },
+    {
+        "input": "Tears of the Sun",
+        "output": "1965"
+    },
+    {
+        "input": "Edge of Tomorrow",
+        "output": "1965"
+    },
+    {
+        "input": "Smile",
+        "output": "1987"
+    },
+    {
+        "input": "Jurassic World",
+        "output": "1976"
+    },
+    {
+        "input": "Sleepy Hollow",
+        "output": "1958"
+    },
+    {
+        "input": "Jumanji: Welcome to the Jungle",
+        "output": "1974"
+    },
+    {
+        "input": "The Other Woman",
+        "output": "1959"
+    },
+    {
+        "input": "Snow White and the Huntsman",
+        "output": "1971"
+    },
+    {
+        "input": "Predators",
+        "output": "1973"
+    },
+    {
+        "input": "Stargate",
+        "output": "1955"
+    },
+    {
+        "input": "This Is England",
+        "output": "1972"
+    },
+    {
+        "input": "Abraham Lincoln: Vampire Hunter",
+        "output": "1961"
+    },
+    {
+        "input": "Mirrors",
+        "output": "1978"
+    },
+    {
+        "input": "The Amazing Spider-Man",
+        "output": "1974"
+    },
+    {
+        "input": "The Cable Guy",
+        "output": "1965"
+    },
+    {
+        "input": "12 Angry Men",
+        "output": "1924"
+    },
+    {
+        "input": "Terminator Genisys",
+        "output": "1965"
+    },
+    {
+        "input": "Star Wars: Episode VIII \u2013 The Last Jedi",
+        "output": "1973"
+    },
+    {
+        "input": "The Other Guys",
+        "output": "1968"
+    },
+    {
+        "input": "The Last Witch Hunter",
+        "output": "1970"
+    },
+    {
+        "input": "Easy Rider",
+        "output": "1936"
+    },
+    {
+        "input": "Kick-Ass 2",
+        "output": "1976"
+    },
+    {
+        "input": "Broken Flowers",
+        "output": "1953"
+    },
+    {
+        "input": "Atomic Blonde",
+        "output": "1975"
+    },
+    {
+        "input": "Stand by Me",
+        "output": "1947"
+    },
+    {
+        "input": "Secret Window",
+        "output": "1963"
+    },
+    {
+        "input": "Moonlight",
+        "output": "1979"
+    },
+    {
+        "input": "Alpha Dog",
+        "output": "1959"
+    },
+    {
+        "input": "Hulk",
+        "output": "1954"
+    },
+    {
+        "input": "The Hangover Part II",
+        "output": "1970"
+    },
+    {
+        "input": "The Birds",
+        "output": "1899"
+    },
+    {
+        "input": "Extraction 2",
+        "output": "1982"
+    },
+    {
+        "input": "The Iron Claw",
+        "output": "1981"
+    },
+    {
+        "input": "The Outsiders",
+        "output": "1939"
+    },
+    {
+        "input": "A Christmas Story",
+        "output": "1939"
+    },
+    {
+        "input": "Pet Sematary",
+        "output": "1951"
+    },
+    {
+        "input": "Perfume: The Story of a Murderer",
+        "output": "1965"
+    },
+    {
+        "input": "Annabelle",
+        "output": "1956"
+    },
+    {
+        "input": "Darkest Hour",
+        "output": "1972"
+    },
+    {
+        "input": "The Lincoln Lawyer",
+        "output": "2000"
+    },
+    {
+        "input": "Killers of the Flower Moon",
+        "output": "1942"
+    },
+    {
+        "input": "The Girl Next Door",
+        "output": "1972"
+    },
+    {
+        "input": "Horrible Bosses",
+        "output": "1976"
+    },
+    {
+        "input": "10 Cloverfield Lane",
+        "output": "1981"
+    },
+    {
+        "input": "Long Shot",
+        "output": "1976"
+    },
+    {
+        "input": "The Godfather",
+        "output": "1939"
+    },
+    {
+        "input": "Chungking Express",
+        "output": "1958"
+    },
+    {
+        "input": "Couples Retreat",
+        "output": "1971"
+    },
+    {
+        "input": "The Treasure of the Sierra Madre",
+        "output": "1906"
+    },
+    {
+        "input": "A Cure for Wellness",
+        "output": "1964"
+    },
+    {
+        "input": "Doubt",
+        "output": "1950"
+    },
+    {
+        "input": "The Pursuit of Happyness",
+        "output": "1967"
+    },
+    {
+        "input": "Star Trek: First Contact",
+        "output": "1952"
+    },
+    {
+        "input": "Dr. Seuss' How the Grinch Stole Christmas",
+        "output": "1954"
+    },
+    {
+        "input": "The Worst Person in the World",
+        "output": "1974"
+    },
+    {
+        "input": "Born on the Fourth of July",
+        "output": "1946"
+    },
+    {
+        "input": "Disturbia",
+        "output": "1965"
+    },
+    {
+        "input": "Water for Elephants",
+        "output": "1971"
+    },
+    {
+        "input": "Ray",
+        "output": "1944"
+    },
+    {
+        "input": "John Q",
+        "output": "1959"
+    },
+    {
+        "input": "War for the Planet of the Apes",
+        "output": "1966"
+    },
+    {
+        "input": "House of Wax",
+        "output": "1974"
+    },
+    {
+        "input": "Scream 2",
+        "output": "1939"
+    },
+    {
+        "input": "Jarhead",
+        "output": "1965"
+    },
+    {
+        "input": "G.I. Joe: Retaliation",
+        "output": "1979"
+    },
+    {
+        "input": "Baywatch",
+        "output": "1976"
+    },
+    {
+        "input": "Identity",
+        "output": "1963"
+    },
+    {
+        "input": "Asteroid City",
+        "output": "1969"
+    },
+    {
+        "input": "Don't Look Up",
+        "output": "1968"
+    },
+    {
+        "input": "Predator",
+        "output": "1951"
+    },
+    {
+        "input": "Avatar: The Way of Water",
+        "output": "1954"
+    },
+    {
+        "input": "Fantastic Four: Rise of the Silver Surfer",
+        "output": "1970"
+    },
+    {
+        "input": "Cloverfield",
+        "output": "1966"
+    },
+    {
+        "input": "Sister Act",
+        "output": "1943"
+    },
+    {
+        "input": "Michael Clayton",
+        "output": "1956"
+    },
+    {
+        "input": "Midnight Cowboy",
+        "output": "1926"
+    },
+    {
+        "input": "Tropic Thunder",
+        "output": "1965"
+    },
+    {
+        "input": "Tomorrowland",
+        "output": "1957"
+    },
+    {
+        "input": "Spider-Man",
+        "output": "1959"
+    },
+    {
+        "input": "Synecdoche, New York",
+        "output": "1958"
+    },
+    {
+        "input": "Man on the Moon",
+        "output": "1932"
+    },
+    {
+        "input": "The Conjuring 2",
+        "output": "1977"
+    },
+    {
+        "input": "The Insider",
+        "output": "1943"
+    },
+    {
+        "input": "Allied",
+        "output": "1952"
+    },
+    {
+        "input": "West Side Story",
+        "output": "1946"
+    },
+    {
+        "input": "The Wolfman",
+        "output": "1950"
+    },
+    {
+        "input": "The Iron Giant",
+        "output": "1957"
+    },
+    {
+        "input": "The Legend of Tarzan",
+        "output": "1963"
+    },
+    {
+        "input": "Divergent",
+        "output": "1963"
+    },
+    {
+        "input": "The Motorcycle Diaries",
+        "output": "1956"
+    },
+    {
+        "input": "The Accountant",
+        "output": "1963"
+    },
+    {
+        "input": "Jackass: The Movie",
+        "output": "1966"
+    },
+    {
+        "input": "American Hustle",
+        "output": "1958"
+    },
+    {
+        "input": "30 Minutes or Less",
+        "output": "1974"
+    },
+    {
+        "input": "Pitch Perfect 2",
+        "output": "1974"
+    },
+    {
+        "input": "The Deer Hunter",
+        "output": "1939"
+    },
+    {
+        "input": "The Substance",
+        "output": "1976"
+    },
+    {
+        "input": "Life is Beautiful",
+        "output": "1952"
+    },
+    {
+        "input": "Extremely Wicked, Shockingly Evil and Vile",
+        "output": "1961"
+    },
+    {
+        "input": "Stardust",
+        "output": "1971"
+    },
+    {
+        "input": "The Campaign",
+        "output": "1957"
+    },
+    {
+        "input": "In the Name of the Father",
+        "output": "1949"
+    },
+    {
+        "input": "8 Mile",
+        "output": "1945"
+    },
+    {
+        "input": "She's the Man",
+        "output": "1970"
+    },
+    {
+        "input": "Furious 7",
+        "output": "1977"
+    },
+    {
+        "input": "The French Connection",
+        "output": "1935"
+    },
+    {
+        "input": "Charlie Wilson's War",
+        "output": "1931"
+    },
+    {
+        "input": "3:10 to Yuma",
+        "output": "1963"
+    },
+    {
+        "input": "The Hunger Games",
+        "output": "1956"
+    },
+    {
+        "input": "The Nutty Professor",
+        "output": "1958"
+    },
+    {
+        "input": "Star Wars: Episode V \u2013 The Empire Strikes Back",
+        "output": "1923"
+    },
+    {
+        "input": "All Quiet on the Western Front",
+        "output": "1970"
+    },
+    {
+        "input": "Willy Wonka & the Chocolate Factory",
+        "output": "1928"
+    },
+    {
+        "input": "The Machinist",
+        "output": "1964"
+    },
+    {
+        "input": "Alien Resurrection",
+        "output": "1953"
+    },
+    {
+        "input": "La Haine",
+        "output": "1967"
+    },
+    {
+        "input": "Shutter Island",
+        "output": "1942"
+    },
+    {
+        "input": "Minari",
+        "output": "1978"
+    },
+    {
+        "input": "The Visit",
+        "output": "1970"
+    },
+    {
+        "input": "Armageddon",
+        "output": "1965"
+    },
+    {
+        "input": "Seven Pounds",
+        "output": "1967"
+    },
+    {
+        "input": "Bad Times at the El Royale",
+        "output": "1975"
+    },
+    {
+        "input": "Evil Dead Rise",
+        "output": "1950"
+    },
+    {
+        "input": "Sleepers",
+        "output": "1942"
+    },
+    {
+        "input": "Crash",
+        "output": "1953"
+    },
+    {
+        "input": "Eternal Sunshine of the Spotless Mind",
+        "output": "1963"
+    },
+    {
+        "input": "Spenser Confidential",
+        "output": "1964"
+    },
+    {
+        "input": "Fast & Furious",
+        "output": "1971"
+    },
+    {
+        "input": "Enemy of the State",
+        "output": "1944"
+    },
+    {
+        "input": "Body of Lies",
+        "output": "1937"
+    },
+    {
+        "input": "The Meg",
+        "output": "1963"
+    },
+    {
+        "input": "What Happened to Monday",
+        "output": "1979"
+    },
+    {
+        "input": "The Devil All the Time",
+        "output": "1983"
+    },
+    {
+        "input": "Triple Frontier",
+        "output": "1973"
+    },
+    {
+        "input": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "output": "1958"
+    },
+    {
+        "input": "Don't Worry Darling",
+        "output": "1984"
+    },
+    {
+        "input": "Hostage",
+        "output": "1965"
+    },
+    {
+        "input": "One Hour Photo",
+        "output": "1959"
+    },
+    {
+        "input": "The Dark Knight",
+        "output": "1970"
+    },
+    {
+        "input": "Dinner for Schmucks",
+        "output": "1957"
+    },
+    {
+        "input": "The Secret in Their Eyes",
+        "output": "1959"
+    },
+    {
+        "input": "In the Line of Fire",
+        "output": "1941"
+    },
+    {
+        "input": "Wonder Woman 1984",
+        "output": "1971"
+    },
+    {
+        "input": "Commando",
+        "output": "1946"
+    },
+    {
+        "input": "Heat",
+        "output": "1943"
+    },
+    {
+        "input": "Poor Things",
+        "output": "1973"
+    },
+    {
+        "input": "Remember Me",
+        "output": "2000"
+    },
+    {
+        "input": "Margin Call",
+        "output": "1973"
+    },
+    {
+        "input": "Cliffhanger",
+        "output": "1959"
+    },
+    {
+        "input": "The Happening",
+        "output": "1970"
+    },
+    {
+        "input": "Triangle",
+        "output": "1972"
+    },
+    {
+        "input": "Natural Born Killers",
+        "output": "1946"
+    },
+    {
+        "input": "Girl, Interrupted",
+        "output": "1963"
+    },
+    {
+        "input": "Eurovision Song Contest: The Story of Fire Saga",
+        "output": "1969"
+    },
+    {
+        "input": "Transformers: The Last Knight",
+        "output": "1965"
+    },
+    {
+        "input": "Basic Instinct",
+        "output": "1938"
+    },
+    {
+        "input": "Trading Places",
+        "output": "1950"
+    },
+    {
+        "input": "Frankenweenie",
+        "output": "1958"
+    },
+    {
+        "input": "The Last House on the Left",
+        "output": "1969"
+    },
+    {
+        "input": "Transporter 2",
+        "output": "1973"
+    },
+    {
+        "input": "Cruel Intentions",
+        "output": "1966"
+    },
+    {
+        "input": "Thor",
+        "output": "1960"
+    },
+    {
+        "input": "Bullet Train",
+        "output": "1975"
+    },
+    {
+        "input": "The Orphanage",
+        "output": "1975"
+    },
+    {
+        "input": "Gladiator II",
+        "output": "1937"
+    },
+    {
+        "input": "Lara Croft: Tomb Raider \u2013 The Cradle of Life",
+        "output": "1943"
+    },
+    {
+        "input": "Robin Hood",
+        "output": "1937"
+    },
+    {
+        "input": "The Godfather Part III",
+        "output": "1939"
+    },
+    {
+        "input": "28 Weeks Later",
+        "output": "1967"
+    },
+    {
+        "input": "Date Night",
+        "output": "1968"
+    },
+    {
+        "input": "Warrior",
+        "output": "1963"
+    },
+    {
+        "input": "Inglourious Basterds",
+        "output": "1963"
+    },
+    {
+        "input": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "output": "1944"
+    },
+    {
+        "input": "Elvis",
+        "output": "1962"
+    },
+    {
+        "input": "Sucker Punch",
+        "output": "1966"
+    },
+    {
+        "input": "Dangal",
+        "output": "1953"
+    },
+    {
+        "input": "Elf",
+        "output": "1966"
+    },
+    {
+        "input": "X-Men: Apocalypse",
+        "output": "1965"
+    },
+    {
+        "input": "Pay It Forward",
+        "output": "1952"
+    },
+    {
+        "input": "Nymphomaniac: Volume II",
+        "output": "1956"
+    },
+    {
+        "input": "Pearl Harbor",
+        "output": "1965"
+    },
+    {
+        "input": "WarGames",
+        "output": "1939"
+    },
+    {
+        "input": "Bad Boys II they become more rebellious",
+        "output": "1965"
+    },
+    {
+        "input": "The Spectacular Now",
+        "output": "1978"
+    },
+    {
+        "input": "Willow",
+        "output": "1954"
+    },
+    {
+        "input": "The Way Back",
+        "output": "1944"
+    },
+    {
+        "input": "3 Idiots",
+        "output": "1962"
+    },
+    {
+        "input": "Invictus",
+        "output": "1930"
+    },
+    {
+        "input": "Grosse Pointe Blank",
+        "output": "1942"
+    },
+    {
+        "input": "The Truman Show",
+        "output": "1944"
+    },
+    {
+        "input": "Nobody",
+        "output": "1983"
+    },
+    {
+        "input": "Run",
+        "output": "1991"
+    },
+    {
+        "input": "The Hitman's Bodyguard",
+        "output": "1978"
+    },
+    {
+        "input": "Mean Girls",
+        "output": "1964"
+    },
+    {
+        "input": "Elizabeth",
+        "output": "1945"
+    },
+    {
+        "input": "The Equalizer",
+        "output": "1965"
+    },
+    {
+        "input": "The Chronicles of Narnia: Prince Caspian",
+        "output": "1966"
+    },
+    {
+        "input": "Cruella",
+        "output": "1967"
+    },
+    {
+        "input": "Desperado",
+        "output": "1968"
+    },
+    {
+        "input": "Adventureland",
+        "output": "1964"
+    },
+    {
+        "input": "Daddy's Home",
+        "output": "1969"
+    },
+    {
+        "input": "Pain & Gain",
+        "output": "1965"
+    },
+    {
+        "input": "Rush Hour 2",
+        "output": "1969"
+    },
+    {
+        "input": "The Gift",
+        "output": "1974"
+    },
+    {
+        "input": "Night at the Museum: Battle of the Smithsonian",
+        "output": "1968"
+    },
+    {
+        "input": "October Sky",
+        "output": "1950"
+    },
+    {
+        "input": "Enemy at the Gates",
+        "output": "1943"
+    },
+    {
+        "input": "Mississippi Burning",
+        "output": "1944"
+    },
+    {
+        "input": "The Ministry of Ungentlemanly Warfare",
+        "output": "1968"
+    },
+    {
+        "input": "BlacKkKlansman",
+        "output": "1957"
+    },
+    {
+        "input": "Guardians of the Galaxy Vol. 3",
+        "output": "1966"
+    },
+    {
+        "input": "Mars Attacks!",
+        "output": "1958"
+    },
+    {
+        "input": "The Thin Red Line",
+        "output": "1943"
+    },
+    {
+        "input": "The Usual Suspects",
+        "output": "1965"
+    },
+    {
+        "input": "What's Eating Gilbert Grape",
+        "output": "1946"
+    },
+    {
+        "input": "Battleship",
+        "output": "1964"
+    },
+    {
+        "input": "I Love You, Man",
+        "output": "1970"
+    },
+    {
+        "input": "Terminator 2: Judgment Day",
+        "output": "1954"
+    },
+    {
+        "input": "Toy Story 4",
+        "output": "1979"
+    },
+    {
+        "input": "Pirate Radio",
+        "output": "1956"
+    },
+    {
+        "input": "Deep Blue Sea",
+        "output": "1959"
+    },
+    {
+        "input": "Elysium",
+        "output": "1979"
+    },
+    {
+        "input": "The Fast and the Furious: Tokyo Drift",
+        "output": "1971"
+    },
+    {
+        "input": "Nocturnal Animals",
+        "output": "1961"
+    },
+    {
+        "input": "Ed Wood",
+        "output": "1958"
+    },
+    {
+        "input": "300: Rise of an Empire",
+        "output": "1961"
+    },
+    {
+        "input": "Spring Breakers",
+        "output": "1973"
+    },
+    {
+        "input": "Rocky II",
+        "output": "1946"
+    },
+    {
+        "input": "Thunderball",
+        "output": "1915"
+    },
+    {
+        "input": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+        "output": "1983"
+    },
+    {
+        "input": "Let Me In",
+        "output": "1966"
+    },
+    {
+        "input": "Anatomy of a Fall",
+        "output": "1978"
+    },
+    {
+        "input": "Dude, Where's My Car?",
+        "output": "1961"
+    },
+    {
+        "input": "Deadpool & Wolverine",
+        "output": "1968"
+    },
+    {
+        "input": "The Artist",
+        "output": "1967"
+    },
+    {
+        "input": "The Sum of All Fears",
+        "output": "1950"
+    },
+    {
+        "input": "Honey, I Shrunk the Kids",
+        "output": "1950"
+    },
+    {
+        "input": "12 Monkeys",
+        "output": "1940"
+    },
+    {
+        "input": "The Scorpion King",
+        "output": "1958"
+    },
+    {
+        "input": "Apollo 13",
+        "output": "1954"
+    },
+    {
+        "input": "The Town",
+        "output": "1972"
+    },
+    {
+        "input": "My Name Is Khan",
+        "output": "1972"
+    },
+    {
+        "input": "Need for Speed",
+        "output": "1970"
+    },
+    {
+        "input": "Zero Dark Thirty",
+        "output": "1951"
+    },
+    {
+        "input": "Blade II",
+        "output": "1964"
+    },
+    {
+        "input": "Wild",
+        "output": "1963"
+    },
+    {
+        "input": "Solo: A Star Wars Story",
+        "output": "1954"
+    },
+    {
+        "input": "P.S. I Love You",
+        "output": "1959"
+    },
+    {
+        "input": "Life",
+        "output": "1977"
+    },
+    {
+        "input": "Glass Onion: A Knives Out Mystery",
+        "output": "1973"
+    },
+    {
+        "input": "Safe House",
+        "output": "1977"
+    },
+    {
+        "input": "Wild Things",
+        "output": "1950"
+    },
+    {
+        "input": "The Dreamers",
+        "output": "1941"
+    },
+    {
+        "input": "The A-Team",
+        "output": "1969"
+    },
+    {
+        "input": "Reign Over Me",
+        "output": "1958"
+    },
+    {
+        "input": "The NeverEnding Story",
+        "output": "1941"
+    },
+    {
+        "input": "Home Alone",
+        "output": "1958"
+    },
+    {
+        "input": "Warcraft",
+        "output": "1971"
+    },
+    {
+        "input": "Following",
+        "output": "1970"
+    },
+    {
+        "input": "Kill Bill: Volume 2",
+        "output": "1963"
+    },
+    {
+        "input": "Demolition Man",
+        "output": "1960"
+    },
+    {
+        "input": "Rise of the Planet of the Apes",
+        "output": "1972"
+    },
+    {
+        "input": "Death Race",
+        "output": "1965"
+    },
+    {
+        "input": "Die Hard with a Vengeance",
+        "output": "1951"
+    },
+    {
+        "input": "Back to the Future Part II",
+        "output": "1952"
+    },
+    {
+        "input": "A View to a Kill",
+        "output": "1932"
+    },
+    {
+        "input": "Scary Movie",
+        "output": "1958"
+    },
+    {
+        "input": "Spotlight",
+        "output": "1966"
+    },
+    {
+        "input": "Limitless",
+        "output": "1963"
+    },
+    {
+        "input": "Side Effects",
+        "output": "1963"
+    },
+    {
+        "input": "Val\u00e9rian and the City of a Thousand Planets",
+        "output": "1959"
+    },
+    {
+        "input": "The Call",
+        "output": "1964"
+    },
+    {
+        "input": "What Lies Beneath",
+        "output": "1952"
+    },
+    {
+        "input": "The Living Daylights",
+        "output": "1932"
+    },
+    {
+        "input": "Goldfinger",
+        "output": "1922"
+    },
+    {
+        "input": "Beverly Hills Cop",
+        "output": "1951"
+    },
+    {
+        "input": "Bone Tomahawk",
+        "output": "1973"
+    },
+    {
+        "input": "Prey",
+        "output": "1981"
+    },
+    {
+        "input": "The Princess Bride",
+        "output": "1947"
+    },
+    {
+        "input": "Next",
+        "output": "1950"
+    },
+    {
+        "input": "Hotel Transylvania 2",
+        "output": "1970"
+    },
+    {
+        "input": "Brothers",
+        "output": "1949"
+    },
+    {
+        "input": "Kingsman: The Golden Circle",
+        "output": "1971"
+    },
+    {
+        "input": "Maleficent: Mistress of Evil",
+        "output": "1972"
+    },
+    {
+        "input": "Miss Congeniality",
+        "output": "1954"
+    },
+    {
+        "input": "The Mortal Instruments: City of Bones",
+        "output": "1965"
+    },
+    {
+        "input": "Kindergarten Cop",
+        "output": "1946"
+    },
+    {
+        "input": "Zombieland",
+        "output": "1974"
+    },
+    {
+        "input": "Molly's Game",
+        "output": "1961"
+    },
+    {
+        "input": "25th Hour",
+        "output": "1957"
+    },
+    {
+        "input": "Atonement",
+        "output": "1972"
+    },
+    {
+        "input": "Take Shelter",
+        "output": "1978"
+    },
+    {
+        "input": "Almost Famous",
+        "output": "1957"
+    },
+    {
+        "input": "Master and Commander: The Far Side of the World",
+        "output": "1944"
+    },
+    {
+        "input": "The Patriot",
+        "output": "1955"
+    },
+    {
+        "input": "Iron Man 2",
+        "output": "1966"
+    },
+    {
+        "input": "Borat",
+        "output": "1956"
+    },
+    {
+        "input": "The Holiday",
+        "output": "1949"
+    },
+    {
+        "input": "The Best Exotic Marigold Hotel",
+        "output": "1949"
+    },
+    {
+        "input": "Pitch Perfect",
+        "output": "1970"
+    },
+    {
+        "input": "Suspiria",
+        "output": "1940"
+    },
+    {
+        "input": "Dil Bechara",
+        "output": "1980"
+    },
+    {
+        "input": "Freaky Friday",
+        "output": "1964"
+    },
+    {
+        "input": "Grown Ups",
+        "output": "1946"
+    },
+    {
+        "input": "Clue",
+        "output": "1943"
+    },
+    {
+        "input": "All the President's Men",
+        "output": "1928"
+    },
+    {
+        "input": "August Rush",
+        "output": "1976"
+    },
+    {
+        "input": "Rambo: First Blood Part II",
+        "output": "1941"
+    },
+    {
+        "input": "Casino",
+        "output": "1942"
+    },
+    {
+        "input": "My Sister's Keeper",
+        "output": "1959"
+    },
+    {
+        "input": "Soul",
+        "output": "1968"
+    },
+    {
+        "input": "Evolution",
+        "output": "1946"
+    },
+    {
+        "input": "Apocalypto",
+        "output": "1956"
+    },
+    {
+        "input": "The Strangers",
+        "output": "1977"
+    },
+    {
+        "input": "American Sniper",
+        "output": "1930"
+    },
+    {
+        "input": "The Theory of Everything",
+        "output": "1963"
+    },
+    {
+        "input": "Vicky Cristina Barcelona",
+        "output": "1935"
+    },
+    {
+        "input": "Definitely, Maybe",
+        "output": "1956"
+    },
+    {
+        "input": "Changeling",
+        "output": "1930"
+    },
+    {
+        "input": "The Whole Nine Yards",
+        "output": "1943"
+    },
+    {
+        "input": "The Invisible Guest",
+        "output": "1975"
+    },
+    {
+        "input": "The Hobbit: An Unexpected Journey",
+        "output": "1961"
+    },
+    {
+        "input": "Revolver",
+        "output": "1968"
+    },
+    {
+        "input": "The Crow",
+        "output": "1963"
+    },
+    {
+        "input": "A.I. Artificial Intelligence",
+        "output": "1946"
+    },
+    {
+        "input": "Child's Play",
+        "output": "1943"
+    },
+    {
+        "input": "Crouching Tiger, Hidden Dragon",
+        "output": "1954"
+    },
+    {
+        "input": "Bring It On",
+        "output": "1964"
+    },
+    {
+        "input": "Wild Tales",
+        "output": "1975"
+    },
+    {
+        "input": "Ghostbusters: Afterlife",
+        "output": "1977"
+    },
+    {
+        "input": "Coyote Ugly",
+        "output": "1960"
+    },
+    {
+        "input": "Monuments Men",
+        "output": "1961"
+    },
+    {
+        "input": "Boyz n the Hood",
+        "output": "1968"
+    },
+    {
+        "input": "Final Destination 2",
+        "output": "1952"
+    },
+    {
+        "input": "RED",
+        "output": "1968"
+    },
+    {
+        "input": "A Time to Kill",
+        "output": "1939"
+    },
+    {
+        "input": "Captain Phillips",
+        "output": "1955"
+    },
+    {
+        "input": "American Wedding",
+        "output": "1966"
+    },
+    {
+        "input": "Any Given Sunday",
+        "output": "1946"
+    },
+    {
+        "input": "Insomnia",
+        "output": "1970"
+    },
+    {
+        "input": "Die Hard 2",
+        "output": "1959"
+    },
+    {
+        "input": "The Reader",
+        "output": "1961"
+    },
+    {
+        "input": "The Grudge",
+        "output": "1972"
+    },
+    {
+        "input": "Saw IV",
+        "output": "1979"
+    },
+    {
+        "input": "The Third Man",
+        "output": "1906"
+    },
+    {
+        "input": "Daredevil",
+        "output": "1964"
+    },
+    {
+        "input": "Reptile",
+        "output": "1984"
+    },
+    {
+        "input": "House of Gucci",
+        "output": "1937"
+    },
+    {
+        "input": "Sicario: Day of the Soldado",
+        "output": "1966"
+    },
+    {
+        "input": "The Lone Ranger",
+        "output": "1964"
+    },
+    {
+        "input": "Green Zone",
+        "output": "1955"
+    },
+    {
+        "input": "The Devil Wears Prada",
+        "output": "1959"
+    },
+    {
+        "input": "Saw VI",
+        "output": "1965"
+    },
+    {
+        "input": "Diamonds Are Forever",
+        "output": "1922"
+    },
+    {
+        "input": "PK",
+        "output": "1962"
+    },
+    {
+        "input": "Tick, Tick... Boom!",
+        "output": "1980"
+    },
+    {
+        "input": "The Handmaiden",
+        "output": "1963"
+    },
+    {
+        "input": "When Harry Met Sally",
+        "output": "1947"
+    },
+    {
+        "input": "The Whale",
+        "output": "1969"
+    },
+    {
+        "input": "Meet the Fockers",
+        "output": "1957"
+    },
+    {
+        "input": "Repo Men",
+        "output": "1974"
+    },
+    {
+        "input": "High Noon",
+        "output": "1907"
+    },
+    {
+        "input": "Equilibrium",
+        "output": "1964"
+    },
+    {
+        "input": "Tommy Boy",
+        "output": "1962"
+    },
+    {
+        "input": "Eastern Promises",
+        "output": "1943"
+    },
+    {
+        "input": "Boyhood",
+        "output": "1960"
+    },
+    {
+        "input": "Lara Croft: Tomb Raider",
+        "output": "1961"
+    },
+    {
+        "input": "Army of Darkness",
+        "output": "1959"
+    },
+    {
+        "input": "Frost/Nixon",
+        "output": "1954"
+    },
+    {
+        "input": "Challengers",
+        "output": "1971"
+    },
+    {
+        "input": "Moulin Rouge!",
+        "output": "1962"
+    },
+    {
+        "input": "Dallas Buyers Club",
+        "output": "1963"
+    },
+    {
+        "input": "First Blood",
+        "output": "1931"
+    },
+    {
+        "input": "The Talented Mr. Ripley",
+        "output": "1954"
+    },
+    {
+        "input": "Trap",
+        "output": "1970"
+    },
+    {
+        "input": "Wreck-It Ralph",
+        "output": "1963"
+    },
+    {
+        "input": "Killing Them Softly",
+        "output": "1967"
+    },
+    {
+        "input": "The Woman in Black",
+        "output": "1973"
+    },
+    {
+        "input": "Tinker Tailor Soldier Spy",
+        "output": "1965"
+    },
+    {
+        "input": "Call Me by Your Name",
+        "output": "1971"
+    },
+    {
+        "input": "Tower Heist",
+        "output": "1969"
+    },
+    {
+        "input": "Clerks II",
+        "output": "1970"
+    },
+    {
+        "input": "Fury",
+        "output": "1968"
+    },
+    {
+        "input": "Cop Land",
+        "output": "1963"
+    },
+    {
+        "input": "The Score",
+        "output": "1944"
+    },
+    {
+        "input": "Jay and Silent Bob Strike Back",
+        "output": "1970"
+    },
+    {
+        "input": "The Ring Two",
+        "output": "1961"
+    },
+    {
+        "input": "Season of the Witch",
+        "output": "1949"
+    },
+    {
+        "input": "Hidden Figures",
+        "output": "1970"
+    },
+    {
+        "input": "The Road",
+        "output": "1961"
+    },
+    {
+        "input": "Kick-Ass",
+        "output": "1971"
+    },
+    {
+        "input": "Panic Room",
+        "output": "1962"
+    },
+    {
+        "input": "Taxi Driver",
+        "output": "1942"
+    },
+    {
+        "input": "Scary Movie 3",
+        "output": "1947"
+    },
+    {
+        "input": "The Three Musketeers",
+        "output": "1965"
+    },
+    {
+        "input": "Dune: Part Two",
+        "output": "1967"
+    },
+    {
+        "input": "Attack the Block",
+        "output": "1968"
+    },
+    {
+        "input": "The Foreigner",
+        "output": "1943"
+    },
+    {
+        "input": "The Platform",
+        "output": "1974"
+    },
+    {
+        "input": "End of Days",
+        "output": "1943"
+    },
+    {
+        "input": "Austin Powers: International Man of Mystery",
+        "output": "1957"
+    },
+    {
+        "input": "Prometheus",
+        "output": "1937"
+    },
+    {
+        "input": "Fractured",
+        "output": "1964"
+    },
+    {
+        "input": "Knives Out",
+        "output": "1973"
+    },
+    {
+        "input": "Jack Reacher: Never Go Back",
+        "output": "1952"
+    },
+    {
+        "input": "Cocaine Bear",
+        "output": "1974"
+    },
+    {
+        "input": "Solaris",
+        "output": "1932"
+    },
+    {
+        "input": "Warm Bodies",
+        "output": "1976"
+    },
+    {
+        "input": "The Banshees of Inisherin",
+        "output": "1970"
+    },
+    {
+        "input": "The Lord of the Rings: The Fellowship of the Ring",
+        "output": "1961"
+    },
+    {
+        "input": "Snatch",
+        "output": "1968"
+    },
+    {
+        "input": "Bajrangi Bhaijaan",
+        "output": "1971"
+    },
+    {
+        "input": "Indiana Jones and the Last Crusade",
+        "output": "1946"
+    },
+    {
+        "input": "Sherlock Holmes",
+        "output": "1968"
+    },
+    {
+        "input": "The Last King of Scotland",
+        "output": "1967"
+    },
+    {
+        "input": "Army of the Dead",
+        "output": "1966"
+    },
+    {
+        "input": "Twisters",
+        "output": "1978"
+    },
+    {
+        "input": "Baahubali 2: The Conclusion",
+        "output": "1973"
+    },
+    {
+        "input": "Three Billboards Outside Ebbing, Missouri",
+        "output": "1970"
+    },
+    {
+        "input": "London Has Fallen",
+        "output": "1975"
+    },
+    {
+        "input": "The Hurricane",
+        "output": "1926"
+    },
+    {
+        "input": "Melancholia",
+        "output": "1956"
+    },
+    {
+        "input": "Matilda",
+        "output": "1944"
+    },
+    {
+        "input": "Wrong Turn",
+        "output": "1965"
+    },
+    {
+        "input": "Ben-Hur",
+        "output": "1902"
+    },
+    {
+        "input": "Good Will Hunting",
+        "output": "1952"
+    },
+    {
+        "input": "Moonfall",
+        "output": "1955"
+    },
+    {
+        "input": "Ronin",
+        "output": "1930"
+    },
+    {
+        "input": "National Lampoon's Christmas Vacation",
+        "output": "1955"
+    },
+    {
+        "input": "Leave the World Behind",
+        "output": "1977"
+    },
+    {
+        "input": "Runaway Jury",
+        "output": "1965"
+    },
+    {
+        "input": "The Village",
+        "output": "1970"
+    },
+    {
+        "input": "Free Guy",
+        "output": "1968"
+    },
+    {
+        "input": "Dunkirk",
+        "output": "1970"
+    },
+    {
+        "input": "The Darjeeling Limited",
+        "output": "1969"
+    },
+    {
+        "input": "Love, Rosie",
+        "output": "1977"
+    },
+    {
+        "input": "Rocky V",
+        "output": "1935"
+    },
+    {
+        "input": "The Naked Gun 2\u00bd: The Smell of Fear",
+        "output": "1947"
+    },
+    {
+        "input": "Four Brothers",
+        "output": "1968"
+    },
+    {
+        "input": "M",
+        "output": "1890"
+    },
+    {
+        "input": "Mr. Deeds",
+        "output": "1962"
+    },
+    {
+        "input": "Riddick",
+        "output": "1955"
+    },
+    {
+        "input": "Juno",
+        "output": "1977"
+    },
+    {
+        "input": "Love and Other Drugs",
+        "output": "1952"
+    },
+    {
+        "input": "The Punisher",
+        "output": "1959"
+    },
+    {
+        "input": "Mad Max",
+        "output": "1945"
+    },
+    {
+        "input": "Chicken Little",
+        "output": "1960"
+    },
+    {
+        "input": "Nightmare Alley",
+        "output": "1964"
+    },
+    {
+        "input": "X-Men Origins: Wolverine",
+        "output": "1963"
+    },
+    {
+        "input": "Hunt for the Wilderpeople",
+        "output": "1975"
+    },
+    {
+        "input": "Six Underground",
+        "output": "1965"
+    },
+    {
+        "input": "The Interpreter",
+        "output": "1934"
+    },
+    {
+        "input": "Amour",
+        "output": "1942"
+    },
+    {
+        "input": "Marley & Me",
+        "output": "1959"
+    },
+    {
+        "input": "G.I. Joe: The Rise of Cobra",
+        "output": "1962"
+    },
+    {
+        "input": "Legend",
+        "output": "1961"
+    },
+    {
+        "input": "Trainwreck",
+        "output": "1967"
+    },
+    {
+        "input": "They Live",
+        "output": "1948"
+    },
+    {
+        "input": "The Shining",
+        "output": "1928"
+    },
+    {
+        "input": "The Danish Girl",
+        "output": "1972"
+    },
+    {
+        "input": "The Negotiator",
+        "output": "1969"
+    },
+    {
+        "input": "The Pacifier",
+        "output": "1964"
+    },
+    {
+        "input": "The Jacket",
+        "output": "1958"
+    },
+    {
+        "input": "Bad Boys",
+        "output": "1965"
+    },
+    {
+        "input": "Home Alone 3",
+        "output": "1958"
+    },
+    {
+        "input": "K.G.F: Chapter 1",
+        "output": "1980"
+    },
+    {
+        "input": "The Last Boy Scout",
+        "output": "1944"
+    },
+    {
+        "input": "Smokin' Aces",
+        "output": "1969"
+    },
+    {
+        "input": "Yesterday",
+        "output": "1956"
+    },
+    {
+        "input": "The Life Aquatic with Steve Zissou",
+        "output": "1969"
+    },
+    {
+        "input": "Blood Diamond",
+        "output": "1952"
+    },
+    {
+        "input": "Stuart Little",
+        "output": "1962"
+    },
+    {
+        "input": "27 Dresses",
+        "output": "1966"
+    },
+    {
+        "input": "An Education",
+        "output": "1959"
+    },
+    {
+        "input": "This Is 40",
+        "output": "1967"
+    },
+    {
+        "input": "Carol",
+        "output": "1961"
+    },
+    {
+        "input": "The Mummy Returns",
+        "output": "1962"
+    },
+    {
+        "input": "The World's End",
+        "output": "1974"
+    },
+    {
+        "input": "In Time",
+        "output": "1964"
+    },
+    {
+        "input": "Lethal Weapon 3",
+        "output": "1930"
+    },
+    {
+        "input": "Blue Jasmine",
+        "output": "1935"
+    },
+    {
+        "input": "Priest",
+        "output": "1950"
+    },
+    {
+        "input": "Little Women",
+        "output": "1983"
+    },
+    {
+        "input": "Jerry Maguire",
+        "output": "1957"
+    },
+    {
+        "input": "A Quiet Place: Day One",
+        "output": "1901"
+    },
+    {
+        "input": "Snowden",
+        "output": "1946"
+    },
+    {
+        "input": "Along Came Polly",
+        "output": "1970"
+    },
+    {
+        "input": "Oppenheimer",
+        "output": "1970"
+    },
+    {
+        "input": "Transformers: Dark of the Moon",
+        "output": "1965"
+    },
+    {
+        "input": "The Shape of Water",
+        "output": "1964"
+    },
+    {
+        "input": "I Am Legend",
+        "output": "1971"
+    },
+    {
+        "input": "Mission: Impossible \u2013 Fallout",
+        "output": "1968"
+    },
+    {
+        "input": "Serenity",
+        "output": "1964"
+    },
+    {
+        "input": "The Gentlemen",
+        "output": "1968"
+    },
+    {
+        "input": "Batman Returns",
+        "output": "1958"
+    },
+    {
+        "input": "Holes",
+        "output": "1946"
+    },
+    {
+        "input": "Battle: Los Angeles",
+        "output": "1976"
+    },
+    {
+        "input": "Jack Ryan: Shadow Recruit",
+        "output": "1960"
+    },
+    {
+        "input": "Transformers: Revenge of the Fallen",
+        "output": "1965"
+    }
+]

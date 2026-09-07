@@ -1,0 +1,9594 @@
+[
+    {
+        "input": "humility",
+        "output": "stolz"
+    },
+    {
+        "input": "fear",
+        "output": "mut"
+    },
+    {
+        "input": "analytical",
+        "output": "intuitiv"
+    },
+    {
+        "input": "injustice",
+        "output": "gerechtigkeit"
+    },
+    {
+        "input": "eldest",
+        "output": "j\u00fcngste"
+    },
+    {
+        "input": "expansion",
+        "output": "kontraktion"
+    },
+    {
+        "input": "integrate",
+        "output": "differenzieren"
+    },
+    {
+        "input": "unfold",
+        "output": "falte"
+    },
+    {
+        "input": "municipal",
+        "output": "privat"
+    },
+    {
+        "input": "risky",
+        "output": "sicher"
+    },
+    {
+        "input": "disadvantaged",
+        "output": "beg\u00fcnstigte"
+    },
+    {
+        "input": "militant",
+        "output": "friedlich"
+    },
+    {
+        "input": "revoke",
+        "output": "zuschu\u00df"
+    },
+    {
+        "input": "warm",
+        "output": "k\u00fchl"
+    },
+    {
+        "input": "interesting",
+        "output": "langeweile"
+    },
+    {
+        "input": "pretty",
+        "output": "h\u00e4sslich"
+    },
+    {
+        "input": "ship",
+        "output": "dock"
+    },
+    {
+        "input": "childhood",
+        "output": "erwachsenenalter"
+    },
+    {
+        "input": "regression",
+        "output": "progression"
+    },
+    {
+        "input": "low",
+        "output": "hoch"
+    },
+    {
+        "input": "saline",
+        "output": "s\u00fc\u00dfwasser"
+    },
+    {
+        "input": "dominant",
+        "output": "unterw\u00fcrfig"
+    },
+    {
+        "input": "increased",
+        "output": "erniedrigt"
+    },
+    {
+        "input": "inequality",
+        "output": "gleichstellung"
+    },
+    {
+        "input": "effective",
+        "output": "unwirksam"
+    },
+    {
+        "input": "clandestine",
+        "output": "overt"
+    },
+    {
+        "input": "top",
+        "output": "unten"
+    },
+    {
+        "input": "adverse",
+        "output": "g\u00fcnstig"
+    },
+    {
+        "input": "gay",
+        "output": "gerade"
+    },
+    {
+        "input": "child",
+        "output": "erwachsener"
+    },
+    {
+        "input": "set",
+        "output": "nicht"
+    },
+    {
+        "input": "ambiguous",
+        "output": "frei"
+    },
+    {
+        "input": "disconnected",
+        "output": "verbunden"
+    },
+    {
+        "input": "genius",
+        "output": "dummkopf!"
+    },
+    {
+        "input": "disapprove",
+        "output": "genehmigung"
+    },
+    {
+        "input": "lifelong",
+        "output": "vor\u00fcbergehend"
+    },
+    {
+        "input": "reasonable",
+        "output": "unzumutbar"
+    },
+    {
+        "input": "foster",
+        "output": "hinweis"
+    },
+    {
+        "input": "whole",
+        "output": "teilweise"
+    },
+    {
+        "input": "relational",
+        "output": "isoliert"
+    },
+    {
+        "input": "function",
+        "output": "fehlfunktion"
+    },
+    {
+        "input": "literal",
+        "output": "sinnbildlich"
+    },
+    {
+        "input": "unification",
+        "output": "trennung"
+    },
+    {
+        "input": "bodily",
+        "output": "geistig"
+    },
+    {
+        "input": "metaphysical",
+        "output": "physikalisch"
+    },
+    {
+        "input": "inefficient",
+        "output": "effizient"
+    },
+    {
+        "input": "romantic",
+        "output": "platonisch"
+    },
+    {
+        "input": "informative",
+        "output": "irref\u00fchrend"
+    },
+    {
+        "input": "penal",
+        "output": "belohnung"
+    },
+    {
+        "input": "inflammatory",
+        "output": "entz\u00fcndungshemmend"
+    },
+    {
+        "input": "correct",
+        "output": "falsch"
+    },
+    {
+        "input": "polar",
+        "output": "\u00e4quatorial"
+    },
+    {
+        "input": "insert",
+        "output": "entfernen"
+    },
+    {
+        "input": "cubic",
+        "output": "kugelf\u00f6rmig"
+    },
+    {
+        "input": "shrink",
+        "output": "expandieren"
+    },
+    {
+        "input": "error",
+        "output": "korrekt"
+    },
+    {
+        "input": "everything",
+        "output": "nichts"
+    },
+    {
+        "input": "possibility",
+        "output": "unm\u00f6glichkeit"
+    },
+    {
+        "input": "lie",
+        "output": "wahrheit"
+    },
+    {
+        "input": "juvenile",
+        "output": "reif"
+    },
+    {
+        "input": "friendly",
+        "output": "unfreundlich"
+    },
+    {
+        "input": "solder",
+        "output": "entl\u00f6ter"
+    },
+    {
+        "input": "indecent",
+        "output": "anst\u00e4ndig"
+    },
+    {
+        "input": "disbelief",
+        "output": "glaube"
+    },
+    {
+        "input": "constructive",
+        "output": "destruktiv"
+    },
+    {
+        "input": "taxable",
+        "output": "nicht"
+    },
+    {
+        "input": "meat",
+        "output": "gem\u00fcse"
+    },
+    {
+        "input": "yesterday",
+        "output": "morgen"
+    },
+    {
+        "input": "likely",
+        "output": "unwahrscheinlich"
+    },
+    {
+        "input": "known",
+        "output": "unbekannt"
+    },
+    {
+        "input": "boo",
+        "output": "heiter"
+    },
+    {
+        "input": "inclined",
+        "output": "h\u00f6he"
+    },
+    {
+        "input": "regulated",
+        "output": "unreguliert"
+    },
+    {
+        "input": "enlarged",
+        "output": "geschrumpft"
+    },
+    {
+        "input": "exotic",
+        "output": "h\u00e4ufig"
+    },
+    {
+        "input": "watch",
+        "output": "ignorieren"
+    },
+    {
+        "input": "intimate",
+        "output": "entfernt"
+    },
+    {
+        "input": "basic",
+        "output": "fortgeschritten"
+    },
+    {
+        "input": "comfortable",
+        "output": "unbequem"
+    },
+    {
+        "input": "unequal",
+        "output": "gleich"
+    },
+    {
+        "input": "urge",
+        "output": "widerstand"
+    },
+    {
+        "input": "analogous",
+        "output": "un\u00e4hnlich"
+    },
+    {
+        "input": "occasional",
+        "output": "h\u00e4ufig"
+    },
+    {
+        "input": "motion",
+        "output": "stille"
+    },
+    {
+        "input": "imitate",
+        "output": "ursprung"
+    },
+    {
+        "input": "lifeless",
+        "output": "lebhaft"
+    },
+    {
+        "input": "secret",
+        "output": "\u00f6ffentlich"
+    },
+    {
+        "input": "minimum",
+        "output": "h\u00f6chstens"
+    },
+    {
+        "input": "foe",
+        "output": "freund"
+    },
+    {
+        "input": "complex",
+        "output": "einfach"
+    },
+    {
+        "input": "ideal",
+        "output": "realistisch"
+    },
+    {
+        "input": "nonprofit",
+        "output": "gewinnbringend"
+    },
+    {
+        "input": "polluted",
+        "output": "sauber"
+    },
+    {
+        "input": "catalyst",
+        "output": "hemmk\u00f6rper"
+    },
+    {
+        "input": "bisexual",
+        "output": "monosexuell"
+    },
+    {
+        "input": "disagreement",
+        "output": "vereinbarung"
+    },
+    {
+        "input": "united",
+        "output": "geteilt"
+    },
+    {
+        "input": "contrary",
+        "output": "\u00e4hnliches"
+    },
+    {
+        "input": "strengthening",
+        "output": "schw\u00e4chung"
+    },
+    {
+        "input": "fate",
+        "output": "freier"
+    },
+    {
+        "input": "outdoor",
+        "output": "in"
+    },
+    {
+        "input": "favorable",
+        "output": "ung\u00fcnstig"
+    },
+    {
+        "input": "viewing",
+        "output": "ignorieren"
+    },
+    {
+        "input": "unprepared",
+        "output": "vorbereitet"
+    },
+    {
+        "input": "compact",
+        "output": "ger\u00e4umig"
+    },
+    {
+        "input": "capitalism",
+        "output": "sozialismus"
+    },
+    {
+        "input": "bump",
+        "output": "glatt"
+    },
+    {
+        "input": "inferior",
+        "output": "vorgesetzter"
+    },
+    {
+        "input": "stupidity",
+        "output": "intelligenz"
+    },
+    {
+        "input": "active",
+        "output": "passiv"
+    },
+    {
+        "input": "reliant",
+        "output": "unabh\u00e4ngig"
+    },
+    {
+        "input": "simple",
+        "output": "komplex"
+    },
+    {
+        "input": "global",
+        "output": "ort"
+    },
+    {
+        "input": "armed",
+        "output": "unbewaffnet"
+    },
+    {
+        "input": "conservative",
+        "output": "liberal"
+    },
+    {
+        "input": "disappearance",
+        "output": "aussehen"
+    },
+    {
+        "input": "young",
+        "output": "reif"
+    },
+    {
+        "input": "broke",
+        "output": "reich"
+    },
+    {
+        "input": "sunrise",
+        "output": "sonnenuntergang"
+    },
+    {
+        "input": "underdog",
+        "output": "favorit"
+    },
+    {
+        "input": "revolution",
+        "output": "status"
+    },
+    {
+        "input": "unorthodox",
+        "output": "orthodox"
+    },
+    {
+        "input": "lovely",
+        "output": "unangenehm"
+    },
+    {
+        "input": "undertake",
+        "output": "aufgeben"
+    },
+    {
+        "input": "proponent",
+        "output": "gegner"
+    },
+    {
+        "input": "benefit",
+        "output": "nachteil"
+    },
+    {
+        "input": "lengthy",
+        "output": "kurz"
+    },
+    {
+        "input": "defensive",
+        "output": "offensiv"
+    },
+    {
+        "input": "deposit",
+        "output": "r\u00fccknahme"
+    },
+    {
+        "input": "crazy",
+        "output": "sachverst\u00e4ndig"
+    },
+    {
+        "input": "considerable",
+        "output": "unbedeutend"
+    },
+    {
+        "input": "prepared",
+        "output": "unvorbereitet"
+    },
+    {
+        "input": "infect",
+        "output": "heilung"
+    },
+    {
+        "input": "elder",
+        "output": "j\u00fcnger"
+    },
+    {
+        "input": "scarcity",
+        "output": "\u00fcberfluss"
+    },
+    {
+        "input": "competition",
+        "output": "zusammenarbeit"
+    },
+    {
+        "input": "domain",
+        "output": "bereich"
+    },
+    {
+        "input": "cloudy",
+        "output": "frei"
+    },
+    {
+        "input": "suffix",
+        "output": "pr\u00e4fix"
+    },
+    {
+        "input": "successful",
+        "output": "erfolglos"
+    },
+    {
+        "input": "hopeless",
+        "output": "hoffnungsvoll"
+    },
+    {
+        "input": "immediate",
+        "output": "verz\u00f6gerung"
+    },
+    {
+        "input": "service",
+        "output": "dienstverweigerung"
+    },
+    {
+        "input": "cosmetic",
+        "output": "nat\u00fcrliche"
+    },
+    {
+        "input": "predictive",
+        "output": "reaktiv"
+    },
+    {
+        "input": "cry",
+        "output": "lachen"
+    },
+    {
+        "input": "nice",
+        "output": "mittelwert"
+    },
+    {
+        "input": "mandatory",
+        "output": "fakultativ"
+    },
+    {
+        "input": "flawless",
+        "output": "fehler"
+    },
+    {
+        "input": "fictional",
+        "output": "real"
+    },
+    {
+        "input": "truth",
+        "output": "l\u00fcgen"
+    },
+    {
+        "input": "exact",
+        "output": "ungef\u00e4hrlich"
+    },
+    {
+        "input": "uneasy",
+        "output": "bequem"
+    },
+    {
+        "input": "figure",
+        "output": "boden"
+    },
+    {
+        "input": "recommend",
+        "output": "entmutigung"
+    },
+    {
+        "input": "revolutionary",
+        "output": "traditionelle"
+    },
+    {
+        "input": "wholesale",
+        "output": "einzelhandel"
+    },
+    {
+        "input": "slack",
+        "output": "eng"
+    },
+    {
+        "input": "cheer",
+        "output": "-"
+    },
+    {
+        "input": "inevitable",
+        "output": "vermeidbar"
+    },
+    {
+        "input": "overall",
+        "output": "spezifisch"
+    },
+    {
+        "input": "complain",
+        "output": "lob"
+    },
+    {
+        "input": "patient",
+        "output": "ungeduldig"
+    },
+    {
+        "input": "unused",
+        "output": "verwendet"
+    },
+    {
+        "input": "null",
+        "output": "vollst\u00e4ndig"
+    },
+    {
+        "input": "irreversible",
+        "output": "reversibel"
+    },
+    {
+        "input": "demise",
+        "output": "geburt"
+    },
+    {
+        "input": "intelligent",
+        "output": "unintelligent"
+    },
+    {
+        "input": "famous",
+        "output": "unbekannt"
+    },
+    {
+        "input": "military",
+        "output": "zivilgesellschaft"
+    },
+    {
+        "input": "death",
+        "output": "leben"
+    },
+    {
+        "input": "expand",
+        "output": "vertrag"
+    },
+    {
+        "input": "cease",
+        "output": "weiter"
+    },
+    {
+        "input": "adequate",
+        "output": "unzureichend"
+    },
+    {
+        "input": "bust",
+        "output": "hochkonjunktur"
+    },
+    {
+        "input": "latent",
+        "output": "manifestiert"
+    },
+    {
+        "input": "liability",
+        "output": "aktiva"
+    },
+    {
+        "input": "physiological",
+        "output": "psychologisch"
+    },
+    {
+        "input": "special",
+        "output": "gew\u00f6hnlich"
+    },
+    {
+        "input": "farther",
+        "output": "n\u00e4her"
+    },
+    {
+        "input": "alternative",
+        "output": "mainstream"
+    },
+    {
+        "input": "fertile",
+        "output": "unfruchtbar"
+    },
+    {
+        "input": "next",
+        "output": "vorhergehend"
+    },
+    {
+        "input": "engage",
+        "output": "r\u00fcckzug"
+    },
+    {
+        "input": "functional",
+        "output": "funktionsst\u00f6rungen"
+    },
+    {
+        "input": "inland",
+        "output": "k\u00fcsten"
+    },
+    {
+        "input": "noticeable",
+        "output": "nicht"
+    },
+    {
+        "input": "unintentional",
+        "output": "absichtlich"
+    },
+    {
+        "input": "park",
+        "output": "zuhause"
+    },
+    {
+        "input": "academic",
+        "output": "nicht-akademisch"
+    },
+    {
+        "input": "outset",
+        "output": "schlussfolgerung"
+    },
+    {
+        "input": "harsh",
+        "output": "sanft"
+    },
+    {
+        "input": "hope",
+        "output": "verzweiflung"
+    },
+    {
+        "input": "outward",
+        "output": "nach"
+    },
+    {
+        "input": "delete",
+        "output": "speichern"
+    },
+    {
+        "input": "constitutional",
+        "output": "verfassungswidrig"
+    },
+    {
+        "input": "conditional",
+        "output": "vorbehaltlos"
+    },
+    {
+        "input": "immense",
+        "output": "winzig"
+    },
+    {
+        "input": "intense",
+        "output": "leicht"
+    },
+    {
+        "input": "eliminate",
+        "output": "erstellen"
+    },
+    {
+        "input": "victorious",
+        "output": "besiegt"
+    },
+    {
+        "input": "crooked",
+        "output": "gerade"
+    },
+    {
+        "input": "important",
+        "output": "unwichtig"
+    },
+    {
+        "input": "minus",
+        "output": "zuz\u00fcglich"
+    },
+    {
+        "input": "manned",
+        "output": "unbemannt"
+    },
+    {
+        "input": "satisfactory",
+        "output": "unbefriedigend"
+    },
+    {
+        "input": "free",
+        "output": "teuer"
+    },
+    {
+        "input": "heat",
+        "output": "k\u00fchl"
+    },
+    {
+        "input": "tiny",
+        "output": "riesen"
+    },
+    {
+        "input": "refreshing",
+        "output": "schl\u00e4frigkeit"
+    },
+    {
+        "input": "lord",
+        "output": "dienstbediensteter"
+    },
+    {
+        "input": "selfish",
+        "output": "altruistisch"
+    },
+    {
+        "input": "employer",
+        "output": "arbeitnehmer"
+    },
+    {
+        "input": "narrow",
+        "output": "breit"
+    },
+    {
+        "input": "erase",
+        "output": "schreiben"
+    },
+    {
+        "input": "civil",
+        "output": "unzivilisiert"
+    },
+    {
+        "input": "temporary",
+        "output": "dauerhaft"
+    },
+    {
+        "input": "required",
+        "output": "fakultativ"
+    },
+    {
+        "input": "downstream",
+        "output": "stromaufw\u00e4rts"
+    },
+    {
+        "input": "frequent",
+        "output": "selten"
+    },
+    {
+        "input": "qualitative",
+        "output": "quantitative"
+    },
+    {
+        "input": "overt",
+        "output": "verdeckt"
+    },
+    {
+        "input": "denial",
+        "output": "annahme"
+    },
+    {
+        "input": "longitudinal",
+        "output": "latitudinal"
+    },
+    {
+        "input": "avoid",
+        "output": "suchen"
+    },
+    {
+        "input": "pro",
+        "output": "rechtsprechung"
+    },
+    {
+        "input": "resolution",
+        "output": "problemstellung"
+    },
+    {
+        "input": "cheerful",
+        "output": "tr\u00fcbe"
+    },
+    {
+        "input": "wise",
+        "output": "t\u00f6richt"
+    },
+    {
+        "input": "detain",
+        "output": "freigabe"
+    },
+    {
+        "input": "order",
+        "output": "chaos"
+    },
+    {
+        "input": "robust",
+        "output": "zerbrechlich"
+    },
+    {
+        "input": "hell",
+        "output": "himmel"
+    },
+    {
+        "input": "field",
+        "output": "stadt"
+    },
+    {
+        "input": "surrogate",
+        "output": "grundschule"
+    },
+    {
+        "input": "sinful",
+        "output": "tugendhaft"
+    },
+    {
+        "input": "extensive",
+        "output": "begrenzt"
+    },
+    {
+        "input": "island",
+        "output": "festland"
+    },
+    {
+        "input": "automated",
+        "output": "handbuch"
+    },
+    {
+        "input": "worried",
+        "output": "entspannt"
+    },
+    {
+        "input": "host",
+        "output": "gast"
+    },
+    {
+        "input": "magnetic",
+        "output": "nichtmagnetisch"
+    },
+    {
+        "input": "sounding",
+        "output": "still"
+    },
+    {
+        "input": "anger",
+        "output": "freude"
+    },
+    {
+        "input": "war",
+        "output": "frieden"
+    },
+    {
+        "input": "involuntary",
+        "output": "freiwillig"
+    },
+    {
+        "input": "landing",
+        "output": "abheben"
+    },
+    {
+        "input": "moderate",
+        "output": "extrem"
+    },
+    {
+        "input": "fictitious",
+        "output": "real"
+    },
+    {
+        "input": "wellness",
+        "output": "krankheit"
+    },
+    {
+        "input": "stretch",
+        "output": "schrumpfen"
+    },
+    {
+        "input": "misfortune",
+        "output": "verm\u00f6gen"
+    },
+    {
+        "input": "worthless",
+        "output": "wertvoll"
+    },
+    {
+        "input": "microscopic",
+        "output": "makroskopisch"
+    },
+    {
+        "input": "sensitive",
+        "output": "unempfindlich"
+    },
+    {
+        "input": "shout",
+        "output": "fl\u00fcstern"
+    },
+    {
+        "input": "proactive",
+        "output": "reaktiv"
+    },
+    {
+        "input": "automatic",
+        "output": "handbuch"
+    },
+    {
+        "input": "gray",
+        "output": "bunt"
+    },
+    {
+        "input": "harass",
+        "output": "komfort"
+    },
+    {
+        "input": "appropriate",
+        "output": "unangebracht"
+    },
+    {
+        "input": "ground",
+        "output": "himmel"
+    },
+    {
+        "input": "grow",
+        "output": "schrumpfen"
+    },
+    {
+        "input": "major",
+        "output": "geringf\u00fcgig"
+    },
+    {
+        "input": "mark",
+        "output": "unmarkieren"
+    },
+    {
+        "input": "fascism",
+        "output": "rechtssache"
+    },
+    {
+        "input": "snowy",
+        "output": "sonnig"
+    },
+    {
+        "input": "vague",
+        "output": "spezifisch"
+    },
+    {
+        "input": "organic",
+        "output": "anorganisch"
+    },
+    {
+        "input": "unclear",
+        "output": "frei"
+    },
+    {
+        "input": "underlying",
+        "output": "overt"
+    },
+    {
+        "input": "difficult",
+        "output": "leicht"
+    },
+    {
+        "input": "nuclear",
+        "output": "erneuerbar"
+    },
+    {
+        "input": "weaken",
+        "output": "st\u00e4rken"
+    },
+    {
+        "input": "heresy",
+        "output": "orthodoxie"
+    },
+    {
+        "input": "misconception",
+        "output": "verst\u00e4ndnis"
+    },
+    {
+        "input": "identical",
+        "output": "unterschiedlich"
+    },
+    {
+        "input": "acquaintance",
+        "output": "fremder"
+    },
+    {
+        "input": "dim",
+        "output": "hell"
+    },
+    {
+        "input": "fortune",
+        "output": "ungl\u00fcck"
+    },
+    {
+        "input": "finished",
+        "output": "unfertig"
+    },
+    {
+        "input": "segregation",
+        "output": "integration"
+    },
+    {
+        "input": "sham",
+        "output": "echt"
+    },
+    {
+        "input": "regain",
+        "output": "verlieren"
+    },
+    {
+        "input": "confident",
+        "output": "unsicher"
+    },
+    {
+        "input": "rough",
+        "output": "glatt"
+    },
+    {
+        "input": "divine",
+        "output": "profan"
+    },
+    {
+        "input": "rejection",
+        "output": "annahme"
+    },
+    {
+        "input": "run",
+        "output": "spaziergang"
+    },
+    {
+        "input": "tie",
+        "output": "losbinden"
+    },
+    {
+        "input": "deceased",
+        "output": "lebend"
+    },
+    {
+        "input": "last",
+        "output": "zuerst"
+    },
+    {
+        "input": "varied",
+        "output": "einheit"
+    },
+    {
+        "input": "unaware",
+        "output": "bewusst"
+    },
+    {
+        "input": "detached",
+        "output": "angeh\u00e4ngt"
+    },
+    {
+        "input": "column",
+        "output": "zeile"
+    },
+    {
+        "input": "funny",
+        "output": "schwerwiegend"
+    },
+    {
+        "input": "volatile",
+        "output": "stabil"
+    },
+    {
+        "input": "equality",
+        "output": "ungleichheit"
+    },
+    {
+        "input": "exclude",
+        "output": "einschlie\u00dflich"
+    },
+    {
+        "input": "collective",
+        "output": "individuell"
+    },
+    {
+        "input": "skyrocket",
+        "output": "abfallend"
+    },
+    {
+        "input": "permit",
+        "output": "untersagen"
+    },
+    {
+        "input": "originate",
+        "output": "beenden"
+    },
+    {
+        "input": "hardware",
+        "output": "software"
+    },
+    {
+        "input": "excess",
+        "output": "mangel"
+    },
+    {
+        "input": "extant",
+        "output": "ausgestorben"
+    },
+    {
+        "input": "assets",
+        "output": "verbindlichkeiten"
+    },
+    {
+        "input": "defence",
+        "output": "angriff"
+    },
+    {
+        "input": "unsafe",
+        "output": "sicher"
+    },
+    {
+        "input": "boy",
+        "output": "m\u00e4dchen"
+    },
+    {
+        "input": "translucent",
+        "output": "undurchsichtig"
+    },
+    {
+        "input": "ruin",
+        "output": "erhaltung"
+    },
+    {
+        "input": "bulk",
+        "output": "individuell"
+    },
+    {
+        "input": "release",
+        "output": "behalten"
+    },
+    {
+        "input": "deprive",
+        "output": "zur"
+    },
+    {
+        "input": "commence",
+        "output": "schluss"
+    },
+    {
+        "input": "descent",
+        "output": "aufstieg"
+    },
+    {
+        "input": "infrared",
+        "output": "ultraviolett"
+    },
+    {
+        "input": "stay",
+        "output": "urlaub"
+    },
+    {
+        "input": "divergence",
+        "output": "konvergenz"
+    },
+    {
+        "input": "detriment",
+        "output": "nutzen"
+    },
+    {
+        "input": "totalitarian",
+        "output": "rechtssache"
+    },
+    {
+        "input": "destroy",
+        "output": "erstellen"
+    },
+    {
+        "input": "alter",
+        "output": "erhaltung"
+    },
+    {
+        "input": "deduct",
+        "output": "hinzuf\u00fcgen"
+    },
+    {
+        "input": "mainland",
+        "output": "insel"
+    },
+    {
+        "input": "transient",
+        "output": "dauerhaft"
+    },
+    {
+        "input": "concentration",
+        "output": "ablenkung"
+    },
+    {
+        "input": "intermittent",
+        "output": "kontinuierlich"
+    },
+    {
+        "input": "moral",
+        "output": "unmoralisch"
+    },
+    {
+        "input": "collateral",
+        "output": "direkt"
+    },
+    {
+        "input": "main",
+        "output": "sekundarbereich"
+    },
+    {
+        "input": "kickoff",
+        "output": "endspiel"
+    },
+    {
+        "input": "junior",
+        "output": "\u00e4ltere"
+    },
+    {
+        "input": "insecurity",
+        "output": "sicherheit"
+    },
+    {
+        "input": "used",
+        "output": "neu"
+    },
+    {
+        "input": "sleepy",
+        "output": "wach"
+    },
+    {
+        "input": "enlightenment",
+        "output": "ignoranz"
+    },
+    {
+        "input": "trivial",
+        "output": "signifikant"
+    },
+    {
+        "input": "sane",
+        "output": "wahnsinnig"
+    },
+    {
+        "input": "primitive",
+        "output": "fortgeschritten"
+    },
+    {
+        "input": "protagonist",
+        "output": "antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist/antagonist"
+    },
+    {
+        "input": "closing",
+        "output": "\u00f6ffnen"
+    },
+    {
+        "input": "logical",
+        "output": "unlogisch"
+    },
+    {
+        "input": "harmless",
+        "output": "sch\u00e4dlich"
+    },
+    {
+        "input": "terminate",
+        "output": "initiieren"
+    },
+    {
+        "input": "thermal",
+        "output": "k\u00fchlen"
+    },
+    {
+        "input": "quarrel",
+        "output": "frieden"
+    },
+    {
+        "input": "spherical",
+        "output": "flach"
+    },
+    {
+        "input": "symptom",
+        "output": "heilung"
+    },
+    {
+        "input": "colonial",
+        "output": "modern"
+    },
+    {
+        "input": "objective",
+        "output": "subjektiv"
+    },
+    {
+        "input": "tedious",
+        "output": "angenehm"
+    },
+    {
+        "input": "plus",
+        "output": "abz\u00fcglich"
+    },
+    {
+        "input": "advance",
+        "output": "r\u00fcckzug"
+    },
+    {
+        "input": "difference",
+        "output": "\u00e4hnlichkeit"
+    },
+    {
+        "input": "balance",
+        "output": "ungleichgewicht"
+    },
+    {
+        "input": "superior",
+        "output": "unterlegene"
+    },
+    {
+        "input": "satisfaction",
+        "output": "unzufriedenheit"
+    },
+    {
+        "input": "narrowing",
+        "output": "erweiterung"
+    },
+    {
+        "input": "generic",
+        "output": "spezifisch"
+    },
+    {
+        "input": "high",
+        "output": "niedrig"
+    },
+    {
+        "input": "issue",
+        "output": "l\u00f6sung"
+    },
+    {
+        "input": "unite",
+        "output": "teilen"
+    },
+    {
+        "input": "compound",
+        "output": "einfach"
+    },
+    {
+        "input": "deficiency",
+        "output": "\u00fcberschuss"
+    },
+    {
+        "input": "terminal",
+        "output": "anfangs"
+    },
+    {
+        "input": "criticize",
+        "output": "lob"
+    },
+    {
+        "input": "difficulty",
+        "output": "leichtigkeit"
+    },
+    {
+        "input": "hollow",
+        "output": "fest"
+    },
+    {
+        "input": "noisy",
+        "output": "ruhig"
+    },
+    {
+        "input": "solution",
+        "output": "problemstellung"
+    },
+    {
+        "input": "positive",
+        "output": "negativ"
+    },
+    {
+        "input": "verge",
+        "output": "zentrum"
+    },
+    {
+        "input": "epidemic",
+        "output": "endemisch"
+    },
+    {
+        "input": "ultraviolet",
+        "output": "infrarot"
+    },
+    {
+        "input": "speed",
+        "output": "langsamkeit"
+    },
+    {
+        "input": "opening",
+        "output": "schlie\u00dfen"
+    },
+    {
+        "input": "credible",
+        "output": "unglaublich"
+    },
+    {
+        "input": "secure",
+        "output": "unsicher"
+    },
+    {
+        "input": "suck",
+        "output": "schlagen"
+    },
+    {
+        "input": "sizable",
+        "output": "unbedeutend"
+    },
+    {
+        "input": "galactic",
+        "output": "terrestrisch"
+    },
+    {
+        "input": "silence",
+        "output": "l\u00e4rm"
+    },
+    {
+        "input": "liberate",
+        "output": "inhaftierung"
+    },
+    {
+        "input": "thin",
+        "output": "dick"
+    },
+    {
+        "input": "steep",
+        "output": "flach"
+    },
+    {
+        "input": "principal",
+        "output": "untergeordnet"
+    },
+    {
+        "input": "disregard",
+        "output": "in"
+    },
+    {
+        "input": "feminine",
+        "output": "maskulin"
+    },
+    {
+        "input": "sufficient",
+        "output": "unzureichend"
+    },
+    {
+        "input": "supply",
+        "output": "nachfrage"
+    },
+    {
+        "input": "infertility",
+        "output": "fertilit\u00e4t"
+    },
+    {
+        "input": "interrupt",
+        "output": "weiter"
+    },
+    {
+        "input": "amplify",
+        "output": "r\u00fcckgang"
+    },
+    {
+        "input": "unstable",
+        "output": "stabil"
+    },
+    {
+        "input": "none",
+        "output": "alle"
+    },
+    {
+        "input": "follower",
+        "output": "f\u00fchrer"
+    },
+    {
+        "input": "overnight",
+        "output": "tag"
+    },
+    {
+        "input": "hawk",
+        "output": "taube"
+    },
+    {
+        "input": "wish",
+        "output": "bedauern"
+    },
+    {
+        "input": "brutal",
+        "output": "sanft"
+    },
+    {
+        "input": "insanity",
+        "output": "gesundheit"
+    },
+    {
+        "input": "deduction",
+        "output": "einleitung"
+    },
+    {
+        "input": "subconscious",
+        "output": "bewusst"
+    },
+    {
+        "input": "comparable",
+        "output": "unvergleichlich"
+    },
+    {
+        "input": "synthesis",
+        "output": "analyse"
+    },
+    {
+        "input": "slender",
+        "output": "pflaumen"
+    },
+    {
+        "input": "guy",
+        "output": "m\u00e4dchen"
+    },
+    {
+        "input": "derogatory",
+        "output": "kostenlos"
+    },
+    {
+        "input": "follow",
+        "output": "blei"
+    },
+    {
+        "input": "recreational",
+        "output": "beruflich"
+    },
+    {
+        "input": "plural",
+        "output": "singul\u00e4r"
+    },
+    {
+        "input": "public",
+        "output": "privat"
+    },
+    {
+        "input": "emit",
+        "output": "absorbieren"
+    },
+    {
+        "input": "fifth",
+        "output": "zuerst"
+    },
+    {
+        "input": "landscape",
+        "output": "portr\u00e4t"
+    },
+    {
+        "input": "excavation",
+        "output": "f\u00fcllung"
+    },
+    {
+        "input": "fragile",
+        "output": "langlebig"
+    },
+    {
+        "input": "chaos",
+        "output": "reihenfolge"
+    },
+    {
+        "input": "maximum",
+        "output": "mindestens"
+    },
+    {
+        "input": "prevention",
+        "output": "f\u00f6rderung"
+    },
+    {
+        "input": "exceptional",
+        "output": "gew\u00f6hnlich"
+    },
+    {
+        "input": "unlimited",
+        "output": "begrenzt"
+    },
+    {
+        "input": "distinct",
+        "output": "ununterscheidbar"
+    },
+    {
+        "input": "unfavorable",
+        "output": "g\u00fcnstig"
+    },
+    {
+        "input": "bald",
+        "output": "haarig"
+    },
+    {
+        "input": "parent",
+        "output": "kind"
+    },
+    {
+        "input": "powerful",
+        "output": "schwach"
+    },
+    {
+        "input": "services",
+        "output": "dienstleistungen"
+    },
+    {
+        "input": "wife",
+        "output": "ehemann"
+    },
+    {
+        "input": "arrive",
+        "output": "gehen"
+    },
+    {
+        "input": "horizontal",
+        "output": "vertikal"
+    },
+    {
+        "input": "systemic",
+        "output": "nichtsystemisch"
+    },
+    {
+        "input": "boring",
+        "output": "interessant"
+    },
+    {
+        "input": "quantitative",
+        "output": "qualitativ"
+    },
+    {
+        "input": "concurrent",
+        "output": "sequentiell"
+    },
+    {
+        "input": "frivolous",
+        "output": "schwerwiegend"
+    },
+    {
+        "input": "seasoned",
+        "output": "nicht"
+    },
+    {
+        "input": "more",
+        "output": "weniger"
+    },
+    {
+        "input": "repair",
+        "output": "sch\u00e4den"
+    },
+    {
+        "input": "ceiling",
+        "output": "boden"
+    },
+    {
+        "input": "left",
+        "output": "recht"
+    },
+    {
+        "input": "act",
+        "output": "reagieren"
+    },
+    {
+        "input": "consistent",
+        "output": "inkonsequent"
+    },
+    {
+        "input": "optimistic",
+        "output": "pessimistisch"
+    },
+    {
+        "input": "sender",
+        "output": "empf\u00e4nger"
+    },
+    {
+        "input": "routine",
+        "output": "spontan"
+    },
+    {
+        "input": "faint",
+        "output": "laut"
+    },
+    {
+        "input": "contradict",
+        "output": "zustimmen"
+    },
+    {
+        "input": "expected",
+        "output": "unerwartet"
+    },
+    {
+        "input": "success",
+        "output": "ausfall"
+    },
+    {
+        "input": "solid",
+        "output": "fl\u00fcssigkeit"
+    },
+    {
+        "input": "lateral",
+        "output": "mittel"
+    },
+    {
+        "input": "existential",
+        "output": "nicht"
+    },
+    {
+        "input": "fruitful",
+        "output": "unfruchtbar"
+    },
+    {
+        "input": "troublesome",
+        "output": "bequem"
+    },
+    {
+        "input": "normal",
+        "output": "abnorm"
+    },
+    {
+        "input": "inability",
+        "output": "f\u00e4higkeit"
+    },
+    {
+        "input": "mineral",
+        "output": "tierart"
+    },
+    {
+        "input": "upright",
+        "output": "invertiert"
+    },
+    {
+        "input": "add",
+        "output": "subtrahieren"
+    },
+    {
+        "input": "condemn",
+        "output": "lob"
+    },
+    {
+        "input": "disembark",
+        "output": "einschiffen"
+    },
+    {
+        "input": "express",
+        "output": "unterdr\u00fccken"
+    },
+    {
+        "input": "captive",
+        "output": "frei"
+    },
+    {
+        "input": "leader",
+        "output": "folger"
+    },
+    {
+        "input": "native",
+        "output": "ausland"
+    },
+    {
+        "input": "unmarried",
+        "output": "verheiratet"
+    },
+    {
+        "input": "long",
+        "output": "kurz"
+    },
+    {
+        "input": "lodge",
+        "output": "unterschlupf"
+    },
+    {
+        "input": "divest",
+        "output": "investieren"
+    },
+    {
+        "input": "cooperation",
+        "output": "wettbewerb"
+    },
+    {
+        "input": "complainant",
+        "output": "beklagte"
+    },
+    {
+        "input": "frog",
+        "output": "kr\u00f6te"
+    },
+    {
+        "input": "intensify",
+        "output": "r\u00fcckgang"
+    },
+    {
+        "input": "painful",
+        "output": "vergn\u00fcgend"
+    },
+    {
+        "input": "strange",
+        "output": "vertraut"
+    },
+    {
+        "input": "durable",
+        "output": "zerbrechlich"
+    },
+    {
+        "input": "outgoing",
+        "output": "introvertiert"
+    },
+    {
+        "input": "lighting",
+        "output": "dunkelheit"
+    },
+    {
+        "input": "redeem",
+        "output": "verurteilen"
+    },
+    {
+        "input": "intentional",
+        "output": "versehentlich"
+    },
+    {
+        "input": "analogy",
+        "output": "diskrepanz"
+    },
+    {
+        "input": "cement",
+        "output": "sand"
+    },
+    {
+        "input": "unspecified",
+        "output": "spezifiziert"
+    },
+    {
+        "input": "can",
+        "output": "kann"
+    },
+    {
+        "input": "prosecute",
+        "output": "verteidigen"
+    },
+    {
+        "input": "minimal",
+        "output": "h\u00f6chstens"
+    },
+    {
+        "input": "obligatory",
+        "output": "fakultativ"
+    },
+    {
+        "input": "rise",
+        "output": "herbst"
+    },
+    {
+        "input": "persuade",
+        "output": "abschrecken"
+    },
+    {
+        "input": "despair",
+        "output": "hoffnung"
+    },
+    {
+        "input": "lack",
+        "output": "\u00fcberfluss"
+    },
+    {
+        "input": "front",
+        "output": "zur\u00fcck"
+    },
+    {
+        "input": "curly",
+        "output": "gerade"
+    },
+    {
+        "input": "speculative",
+        "output": "sachlage"
+    },
+    {
+        "input": "adolescent",
+        "output": "\u00e4ltere"
+    },
+    {
+        "input": "descendant",
+        "output": "vorfahre"
+    },
+    {
+        "input": "shiny",
+        "output": "stumpf"
+    },
+    {
+        "input": "abandon",
+        "output": "zu"
+    },
+    {
+        "input": "wicked",
+        "output": "tugendhaft"
+    },
+    {
+        "input": "reversible",
+        "output": "irreversibel"
+    },
+    {
+        "input": "force",
+        "output": "sanftmut"
+    },
+    {
+        "input": "triple",
+        "output": "einzeln"
+    },
+    {
+        "input": "supplementary",
+        "output": "komplement\u00e4r"
+    },
+    {
+        "input": "naked",
+        "output": "mit"
+    },
+    {
+        "input": "bright",
+        "output": "dim"
+    },
+    {
+        "input": "knock",
+        "output": "antwort"
+    },
+    {
+        "input": "plastic",
+        "output": "glas"
+    },
+    {
+        "input": "messy",
+        "output": "ordentlich"
+    },
+    {
+        "input": "rectangular",
+        "output": "kreisf\u00f6rmig"
+    },
+    {
+        "input": "manage",
+        "output": "kampf"
+    },
+    {
+        "input": "get",
+        "output": "geben"
+    },
+    {
+        "input": "competent",
+        "output": "inkompetent"
+    },
+    {
+        "input": "aggregate",
+        "output": "dispergieren"
+    },
+    {
+        "input": "borrowing",
+        "output": "darlehen"
+    },
+    {
+        "input": "approach",
+        "output": "r\u00fcckzug"
+    },
+    {
+        "input": "differ",
+        "output": "\u00e4hnliches"
+    },
+    {
+        "input": "perfect",
+        "output": "unvollkommen"
+    },
+    {
+        "input": "aware",
+        "output": "unwissend"
+    },
+    {
+        "input": "commit",
+        "output": "zur\u00fcckziehen"
+    },
+    {
+        "input": "rely",
+        "output": "misstrauen"
+    },
+    {
+        "input": "unpopular",
+        "output": "beliebt"
+    },
+    {
+        "input": "unacceptable",
+        "output": "akzeptabel"
+    },
+    {
+        "input": "intersect",
+        "output": "getrennt"
+    },
+    {
+        "input": "defunct",
+        "output": "operationell"
+    },
+    {
+        "input": "finite",
+        "output": "unendlich"
+    },
+    {
+        "input": "preparation",
+        "output": "improvisation"
+    },
+    {
+        "input": "reduced",
+        "output": "erh\u00f6ht"
+    },
+    {
+        "input": "simultaneous",
+        "output": "konsekutiv"
+    },
+    {
+        "input": "glad",
+        "output": "traurig"
+    },
+    {
+        "input": "lyric",
+        "output": "instrumentell"
+    },
+    {
+        "input": "justice",
+        "output": "ungerechtigkeit"
+    },
+    {
+        "input": "cruelty",
+        "output": "freundlichkeit"
+    },
+    {
+        "input": "restricted",
+        "output": "unbeschr\u00e4nkt"
+    },
+    {
+        "input": "inaction",
+        "output": "ma\u00dfnahme"
+    },
+    {
+        "input": "observe",
+        "output": "ignorieren"
+    },
+    {
+        "input": "forthcoming",
+        "output": "zur\u00fcckhaltung"
+    },
+    {
+        "input": "operate",
+        "output": "abschaltung"
+    },
+    {
+        "input": "conform",
+        "output": "aufst\u00e4ndische"
+    },
+    {
+        "input": "downside",
+        "output": "nach"
+    },
+    {
+        "input": "wedge",
+        "output": "flach"
+    },
+    {
+        "input": "tragic",
+        "output": "komisch"
+    },
+    {
+        "input": "teen",
+        "output": "erwachsener"
+    },
+    {
+        "input": "newborn",
+        "output": "\u00e4ltere"
+    },
+    {
+        "input": "forbidden",
+        "output": "erlaubt"
+    },
+    {
+        "input": "premium",
+        "output": "grundlegende"
+    },
+    {
+        "input": "differentiate",
+        "output": "integrieren"
+    },
+    {
+        "input": "pathological",
+        "output": "gesund"
+    },
+    {
+        "input": "lower",
+        "output": "oben"
+    },
+    {
+        "input": "dark",
+        "output": "leicht"
+    },
+    {
+        "input": "barrel",
+        "output": "zylinder"
+    },
+    {
+        "input": "fiction",
+        "output": "sachbuch"
+    },
+    {
+        "input": "gigantic",
+        "output": "winzig"
+    },
+    {
+        "input": "stupid",
+        "output": "intelligent"
+    },
+    {
+        "input": "fluid",
+        "output": "fest"
+    },
+    {
+        "input": "wooden",
+        "output": "metallisch"
+    },
+    {
+        "input": "lesbian",
+        "output": "gerade"
+    },
+    {
+        "input": "void",
+        "output": "vollst\u00e4ndig"
+    },
+    {
+        "input": "capitalist",
+        "output": "sozialist"
+    },
+    {
+        "input": "generate",
+        "output": "verbrauch"
+    },
+    {
+        "input": "predictable",
+        "output": "unvorhersehbar"
+    },
+    {
+        "input": "keen",
+        "output": "apathisch"
+    },
+    {
+        "input": "dusk",
+        "output": "morgend\u00e4mmerung"
+    },
+    {
+        "input": "background",
+        "output": "im"
+    },
+    {
+        "input": "alien",
+        "output": "mensch"
+    },
+    {
+        "input": "acute",
+        "output": "chronisch"
+    },
+    {
+        "input": "marginal",
+        "output": "zentral"
+    },
+    {
+        "input": "weird",
+        "output": "normal"
+    },
+    {
+        "input": "rounded",
+        "output": "scharf"
+    },
+    {
+        "input": "concept",
+        "output": "wirklichkeit"
+    },
+    {
+        "input": "extend",
+        "output": "vertrag"
+    },
+    {
+        "input": "defense",
+        "output": "vergehen"
+    },
+    {
+        "input": "able",
+        "output": "nicht"
+    },
+    {
+        "input": "brother",
+        "output": "schwester"
+    },
+    {
+        "input": "pull",
+        "output": "schieben"
+    },
+    {
+        "input": "absorb",
+        "output": "freigabe"
+    },
+    {
+        "input": "fertility",
+        "output": "unfruchtbarkeit"
+    },
+    {
+        "input": "agent",
+        "output": "client"
+    },
+    {
+        "input": "humid",
+        "output": "trocken"
+    },
+    {
+        "input": "living",
+        "output": "tot"
+    },
+    {
+        "input": "failure",
+        "output": "erfolg"
+    },
+    {
+        "input": "despise",
+        "output": "bewundern"
+    },
+    {
+        "input": "sentimental",
+        "output": "unemotional"
+    },
+    {
+        "input": "giant",
+        "output": "zwerg"
+    },
+    {
+        "input": "immunity",
+        "output": "empfindlichkeit"
+    },
+    {
+        "input": "unhappy",
+        "output": "gl\u00fccklich"
+    },
+    {
+        "input": "strengthen",
+        "output": "schw\u00e4chung"
+    },
+    {
+        "input": "sanction",
+        "output": "strafe"
+    },
+    {
+        "input": "abstract",
+        "output": "beton"
+    },
+    {
+        "input": "outfield",
+        "output": "im"
+    },
+    {
+        "input": "defective",
+        "output": "funktionst\u00fcchtigkeit"
+    },
+    {
+        "input": "ethnic",
+        "output": "nichtethnisch"
+    },
+    {
+        "input": "student",
+        "output": "lehrer"
+    },
+    {
+        "input": "consent",
+        "output": "meinungsverschiedenheit"
+    },
+    {
+        "input": "aged",
+        "output": "frisch"
+    },
+    {
+        "input": "length",
+        "output": "breite"
+    },
+    {
+        "input": "swift",
+        "output": "schleppend"
+    },
+    {
+        "input": "outside",
+        "output": "innen"
+    },
+    {
+        "input": "tomorrow",
+        "output": "gestern"
+    },
+    {
+        "input": "abrupt",
+        "output": "schrittweise"
+    },
+    {
+        "input": "assembly",
+        "output": "demontage"
+    },
+    {
+        "input": "convergence",
+        "output": "divergenz"
+    },
+    {
+        "input": "acceleration",
+        "output": "verz\u00f6gerung"
+    },
+    {
+        "input": "unauthorized",
+        "output": "genehmigt"
+    },
+    {
+        "input": "surplus",
+        "output": "defizit"
+    },
+    {
+        "input": "trust",
+        "output": "misstrauen"
+    },
+    {
+        "input": "represent",
+        "output": "falsch"
+    },
+    {
+        "input": "sour",
+        "output": "s\u00fc\u00df"
+    },
+    {
+        "input": "supporter",
+        "output": "gegner"
+    },
+    {
+        "input": "sharp",
+        "output": "stumpf"
+    },
+    {
+        "input": "historical",
+        "output": "zeitgen\u00f6ssisch"
+    },
+    {
+        "input": "adoptive",
+        "output": "biologisch"
+    },
+    {
+        "input": "valuable",
+        "output": "wertlos"
+    },
+    {
+        "input": "vulnerable",
+        "output": "unverwundbar"
+    },
+    {
+        "input": "concrete",
+        "output": "zusammenfassung"
+    },
+    {
+        "input": "enable",
+        "output": "deaktivieren"
+    },
+    {
+        "input": "withstand",
+        "output": "erliegen"
+    },
+    {
+        "input": "avert",
+        "output": "umarmung"
+    },
+    {
+        "input": "eccentric",
+        "output": "konventionell"
+    },
+    {
+        "input": "notable",
+        "output": "unauff\u00e4llig"
+    },
+    {
+        "input": "permanent",
+        "output": "vor\u00fcbergehend"
+    },
+    {
+        "input": "stalk",
+        "output": "wurzel"
+    },
+    {
+        "input": "poetic",
+        "output": "prosaisch"
+    },
+    {
+        "input": "compassionate",
+        "output": "grausam"
+    },
+    {
+        "input": "male",
+        "output": "weiblich"
+    },
+    {
+        "input": "certainty",
+        "output": "unsicherheit"
+    },
+    {
+        "input": "lean",
+        "output": "fett"
+    },
+    {
+        "input": "vested",
+        "output": "unvorhergesehen"
+    },
+    {
+        "input": "futures",
+        "output": "vergangenes"
+    },
+    {
+        "input": "elevation",
+        "output": "depression"
+    },
+    {
+        "input": "build",
+        "output": "zerst\u00f6ren"
+    },
+    {
+        "input": "hatred",
+        "output": "liebe"
+    },
+    {
+        "input": "procedural",
+        "output": "konzeptuell"
+    },
+    {
+        "input": "classify",
+        "output": "desorganisieren"
+    },
+    {
+        "input": "compressed",
+        "output": "expandiert"
+    },
+    {
+        "input": "server",
+        "output": "client"
+    },
+    {
+        "input": "visual",
+        "output": "auditiv"
+    },
+    {
+        "input": "unsure",
+        "output": "sicher"
+    },
+    {
+        "input": "delicate",
+        "output": "robust"
+    },
+    {
+        "input": "look",
+        "output": "ignorieren"
+    },
+    {
+        "input": "guilty",
+        "output": "unschuldig"
+    },
+    {
+        "input": "transmitter",
+        "output": "empf\u00e4nger"
+    },
+    {
+        "input": "unlikely",
+        "output": "wahrscheinlich"
+    },
+    {
+        "input": "unfit",
+        "output": "passend"
+    },
+    {
+        "input": "present",
+        "output": "vergangenheit"
+    },
+    {
+        "input": "small",
+        "output": "gro\u00df"
+    },
+    {
+        "input": "cover",
+        "output": "aufdecken"
+    },
+    {
+        "input": "unexpected",
+        "output": "voraussichtlich"
+    },
+    {
+        "input": "challenging",
+        "output": "einfach"
+    },
+    {
+        "input": "approve",
+        "output": "mi\u00dfbilligung"
+    },
+    {
+        "input": "son",
+        "output": "tochter"
+    },
+    {
+        "input": "fearful",
+        "output": "mutig"
+    },
+    {
+        "input": "face",
+        "output": "zur\u00fcck"
+    },
+    {
+        "input": "heroic",
+        "output": "feigheit"
+    },
+    {
+        "input": "connect",
+        "output": "trennen"
+    },
+    {
+        "input": "exaggeration",
+        "output": "untertreibung"
+    },
+    {
+        "input": "entire",
+        "output": "teilweise"
+    },
+    {
+        "input": "fuzzy",
+        "output": "glatt"
+    },
+    {
+        "input": "mixed",
+        "output": "rein"
+    },
+    {
+        "input": "shameful",
+        "output": "ehrenhaft"
+    },
+    {
+        "input": "beneficial",
+        "output": "sch\u00e4dlich"
+    },
+    {
+        "input": "boil",
+        "output": "einfrieren"
+    },
+    {
+        "input": "heavy",
+        "output": "leicht"
+    },
+    {
+        "input": "wealth",
+        "output": "armut"
+    },
+    {
+        "input": "strip",
+        "output": "fest"
+    },
+    {
+        "input": "lawful",
+        "output": "rechtswidrig"
+    },
+    {
+        "input": "dissatisfaction",
+        "output": "zufriedenheit"
+    },
+    {
+        "input": "equal",
+        "output": "ungleich"
+    },
+    {
+        "input": "progress",
+        "output": "r\u00fcckschritt"
+    },
+    {
+        "input": "supplemental",
+        "output": "grundschule"
+    },
+    {
+        "input": "presence",
+        "output": "abwesenheit"
+    },
+    {
+        "input": "latter",
+        "output": "fr\u00fcherer"
+    },
+    {
+        "input": "broaden",
+        "output": "schmal"
+    },
+    {
+        "input": "shortage",
+        "output": "\u00fcberschuss"
+    },
+    {
+        "input": "goodness",
+        "output": "b\u00f6se"
+    },
+    {
+        "input": "unveil",
+        "output": "verbergen"
+    },
+    {
+        "input": "nighttime",
+        "output": "tag"
+    },
+    {
+        "input": "perpendicular",
+        "output": "parallel"
+    },
+    {
+        "input": "widening",
+        "output": "verengung"
+    },
+    {
+        "input": "intricate",
+        "output": "einfach"
+    },
+    {
+        "input": "oxidation",
+        "output": "verringerung"
+    },
+    {
+        "input": "lively",
+        "output": "stumpf"
+    },
+    {
+        "input": "persistent",
+        "output": "fl\u00fcchtig"
+    },
+    {
+        "input": "unfocused",
+        "output": "konzentriert"
+    },
+    {
+        "input": "destructive",
+        "output": "konstruktiv"
+    },
+    {
+        "input": "security",
+        "output": "risiko"
+    },
+    {
+        "input": "interrogation",
+        "output": "erl\u00e4uterung"
+    },
+    {
+        "input": "new",
+        "output": "alt"
+    },
+    {
+        "input": "intended",
+        "output": "unbeabsichtigt"
+    },
+    {
+        "input": "convict",
+        "output": "freispruch"
+    },
+    {
+        "input": "progressive",
+        "output": "regressiv"
+    },
+    {
+        "input": "punishable",
+        "output": "vergeblich"
+    },
+    {
+        "input": "block",
+        "output": "entsperren"
+    },
+    {
+        "input": "various",
+        "output": "einheit"
+    },
+    {
+        "input": "succumb",
+        "output": "widerstand"
+    },
+    {
+        "input": "off",
+        "output": "am"
+    },
+    {
+        "input": "bogus",
+        "output": "authentisch"
+    },
+    {
+        "input": "tropical",
+        "output": "polar"
+    },
+    {
+        "input": "detach",
+        "output": "anbringen"
+    },
+    {
+        "input": "bury",
+        "output": "unerde"
+    },
+    {
+        "input": "rational",
+        "output": "irrational"
+    },
+    {
+        "input": "unloaded",
+        "output": "geladen"
+    },
+    {
+        "input": "blank",
+        "output": "gef\u00fcllt"
+    },
+    {
+        "input": "brave",
+        "output": "feigheit"
+    },
+    {
+        "input": "insensitive",
+        "output": "empfindlich"
+    },
+    {
+        "input": "minimize",
+        "output": "maximieren"
+    },
+    {
+        "input": "slight",
+        "output": "signifikant"
+    },
+    {
+        "input": "debtor",
+        "output": "gl\u00e4ubiger"
+    },
+    {
+        "input": "sunset",
+        "output": "sonnenaufgang"
+    },
+    {
+        "input": "damp",
+        "output": "trocken"
+    },
+    {
+        "input": "counterfeit",
+        "output": "echt"
+    },
+    {
+        "input": "ordinary",
+        "output": "ausserordentlich"
+    },
+    {
+        "input": "mortality",
+        "output": "unsterblichkeit"
+    },
+    {
+        "input": "rude",
+        "output": "h\u00f6flich"
+    },
+    {
+        "input": "unreasonable",
+        "output": "zumutbar"
+    },
+    {
+        "input": "forget",
+        "output": "erinnern"
+    },
+    {
+        "input": "tack",
+        "output": "stumpf"
+    },
+    {
+        "input": "competence",
+        "output": "inkompetenz"
+    },
+    {
+        "input": "inert",
+        "output": "aktiv"
+    },
+    {
+        "input": "equip",
+        "output": "entwaffnung"
+    },
+    {
+        "input": "spare",
+        "output": "besetzt"
+    },
+    {
+        "input": "early",
+        "output": "zu"
+    },
+    {
+        "input": "uphill",
+        "output": "bergab"
+    },
+    {
+        "input": "focus",
+        "output": "ablenken"
+    },
+    {
+        "input": "implicit",
+        "output": "ausdr\u00fccklich"
+    },
+    {
+        "input": "direct",
+        "output": "indirekt"
+    },
+    {
+        "input": "ridiculous",
+        "output": "vern\u00fcnftig"
+    },
+    {
+        "input": "large",
+        "output": "klein"
+    },
+    {
+        "input": "doubt",
+        "output": "sicherheit"
+    },
+    {
+        "input": "supreme",
+        "output": "unterlegene"
+    },
+    {
+        "input": "reward",
+        "output": "strafe"
+    },
+    {
+        "input": "chaotic",
+        "output": "geordnet"
+    },
+    {
+        "input": "familiar",
+        "output": "unbekannt"
+    },
+    {
+        "input": "northeastern",
+        "output": "s\u00fcdwesten"
+    },
+    {
+        "input": "guilt",
+        "output": "unschuld"
+    },
+    {
+        "input": "welcome",
+        "output": "unerw\u00fcnscht"
+    },
+    {
+        "input": "goods",
+        "output": "schlechtigkeiten"
+    },
+    {
+        "input": "preliminary",
+        "output": "endg\u00fcltig"
+    },
+    {
+        "input": "reassure",
+        "output": "sorge"
+    },
+    {
+        "input": "oppose",
+        "output": "unterst\u00fctzung"
+    },
+    {
+        "input": "shallow",
+        "output": "tief"
+    },
+    {
+        "input": "retire",
+        "output": "beginn"
+    },
+    {
+        "input": "measurable",
+        "output": "unermesslich"
+    },
+    {
+        "input": "creamy",
+        "output": "w\u00e4ssrig"
+    },
+    {
+        "input": "unavailable",
+        "output": "verf\u00fcgbar"
+    },
+    {
+        "input": "luxurious",
+        "output": "grundlegende"
+    },
+    {
+        "input": "personal",
+        "output": "unpers\u00f6nlich"
+    },
+    {
+        "input": "consume",
+        "output": "erzeugung"
+    },
+    {
+        "input": "muff",
+        "output": "scharf"
+    },
+    {
+        "input": "conceptual",
+        "output": "praktisch"
+    },
+    {
+        "input": "plateau",
+        "output": "tal"
+    },
+    {
+        "input": "merit",
+        "output": "demerit"
+    },
+    {
+        "input": "draw",
+        "output": "l\u00f6schen"
+    },
+    {
+        "input": "loose",
+        "output": "eng"
+    },
+    {
+        "input": "massive",
+        "output": "winzig"
+    },
+    {
+        "input": "bent",
+        "output": "gerade"
+    },
+    {
+        "input": "employ",
+        "output": "arbeitslosigkeit"
+    },
+    {
+        "input": "calm",
+        "output": "aufgew\u00fchlt"
+    },
+    {
+        "input": "ascend",
+        "output": "abstieg"
+    },
+    {
+        "input": "sleeping",
+        "output": "wach"
+    },
+    {
+        "input": "recover",
+        "output": "verschlechtern"
+    },
+    {
+        "input": "visceral",
+        "output": "gro\u00dfhirn"
+    },
+    {
+        "input": "insult",
+        "output": "kompliment"
+    },
+    {
+        "input": "singular",
+        "output": "plural"
+    },
+    {
+        "input": "mistaken",
+        "output": "korrekt"
+    },
+    {
+        "input": "focused",
+        "output": "abgelenkt"
+    },
+    {
+        "input": "smile",
+        "output": "stirnrunzeln"
+    },
+    {
+        "input": "invisible",
+        "output": "sichtbar"
+    },
+    {
+        "input": "allow",
+        "output": "untersagen"
+    },
+    {
+        "input": "freeze",
+        "output": "schmelze"
+    },
+    {
+        "input": "discharge",
+        "output": "erhebung"
+    },
+    {
+        "input": "reduce",
+        "output": "zunahme"
+    },
+    {
+        "input": "dishonest",
+        "output": "ehrlich"
+    },
+    {
+        "input": "granddaughter",
+        "output": "gro\u00dfvater"
+    },
+    {
+        "input": "volcanic",
+        "output": "nicht"
+    },
+    {
+        "input": "row",
+        "output": "spalte"
+    },
+    {
+        "input": "incomplete",
+        "output": "vollst\u00e4ndig"
+    },
+    {
+        "input": "confusing",
+        "output": "frei"
+    },
+    {
+        "input": "mixture",
+        "output": "rein"
+    },
+    {
+        "input": "inconsistent",
+        "output": "einheitlichkeit"
+    },
+    {
+        "input": "stable",
+        "output": "instabil"
+    },
+    {
+        "input": "cooling",
+        "output": "heizung"
+    },
+    {
+        "input": "near",
+        "output": "weit"
+    },
+    {
+        "input": "spacious",
+        "output": "beengt"
+    },
+    {
+        "input": "frank",
+        "output": "ausweichman\u00f6ver"
+    },
+    {
+        "input": "economy",
+        "output": "rezession"
+    },
+    {
+        "input": "other",
+        "output": "gleich"
+    },
+    {
+        "input": "hard",
+        "output": "weich"
+    },
+    {
+        "input": "domestic",
+        "output": "wild"
+    },
+    {
+        "input": "tender",
+        "output": "z\u00e4h"
+    },
+    {
+        "input": "unusual",
+        "output": "sonst"
+    },
+    {
+        "input": "virtue",
+        "output": "lastkraftwagen"
+    },
+    {
+        "input": "insecure",
+        "output": "sicher"
+    },
+    {
+        "input": "limitless",
+        "output": "begrenzt"
+    },
+    {
+        "input": "prominent",
+        "output": "obskur"
+    },
+    {
+        "input": "immortality",
+        "output": "mortalit\u00e4t"
+    },
+    {
+        "input": "worsen",
+        "output": "verbesserung"
+    },
+    {
+        "input": "bulky",
+        "output": "kompakt"
+    },
+    {
+        "input": "obedience",
+        "output": "ungehorsam"
+    },
+    {
+        "input": "single",
+        "output": "verheiratet"
+    },
+    {
+        "input": "encrypt",
+        "output": "entschl\u00fcsseln"
+    },
+    {
+        "input": "fast",
+        "output": "langsam"
+    },
+    {
+        "input": "grandmother",
+        "output": "gro\u00dfvater"
+    },
+    {
+        "input": "authoritarian",
+        "output": "libert\u00e4r"
+    },
+    {
+        "input": "figured",
+        "output": "klar"
+    },
+    {
+        "input": "endemic",
+        "output": "weit"
+    },
+    {
+        "input": "record",
+        "output": "l\u00f6schen"
+    },
+    {
+        "input": "unlock",
+        "output": "verriegelung"
+    },
+    {
+        "input": "deny",
+        "output": "best\u00e4tigen"
+    },
+    {
+        "input": "black",
+        "output": "wei\u00df"
+    },
+    {
+        "input": "presents",
+        "output": "abwesenheit"
+    },
+    {
+        "input": "selective",
+        "output": "unterschiedslos"
+    },
+    {
+        "input": "blunt",
+        "output": "scharf"
+    },
+    {
+        "input": "firm",
+        "output": "weich"
+    },
+    {
+        "input": "inexperienced",
+        "output": "erfahrung"
+    },
+    {
+        "input": "night",
+        "output": "tag"
+    },
+    {
+        "input": "fire",
+        "output": "wasser"
+    },
+    {
+        "input": "favorite",
+        "output": "am"
+    },
+    {
+        "input": "align",
+        "output": "fehlbildung"
+    },
+    {
+        "input": "loan",
+        "output": "r\u00fcckzahlung"
+    },
+    {
+        "input": "tolerance",
+        "output": "unvertr\u00e4glichkeit"
+    },
+    {
+        "input": "poverty",
+        "output": "reichtum"
+    },
+    {
+        "input": "find",
+        "output": "verlieren"
+    },
+    {
+        "input": "instability",
+        "output": "stabilit\u00e4t"
+    },
+    {
+        "input": "unfamiliar",
+        "output": "vertraut"
+    },
+    {
+        "input": "customary",
+        "output": "ungew\u00f6hnlich"
+    },
+    {
+        "input": "flee",
+        "output": "verfolgen"
+    },
+    {
+        "input": "sturdy",
+        "output": "zerbrechlich"
+    },
+    {
+        "input": "inflation",
+        "output": "deflation"
+    },
+    {
+        "input": "distribute",
+        "output": "einsammeln"
+    },
+    {
+        "input": "jerk",
+        "output": "herr"
+    },
+    {
+        "input": "defendant",
+        "output": "generalanwalt"
+    },
+    {
+        "input": "everybody",
+        "output": "niemand"
+    },
+    {
+        "input": "wet",
+        "output": "trocken"
+    },
+    {
+        "input": "dramatic",
+        "output": "subtil"
+    },
+    {
+        "input": "minute",
+        "output": "stunde"
+    },
+    {
+        "input": "adjust",
+        "output": "aufrechterhaltung"
+    },
+    {
+        "input": "whisper",
+        "output": "schreien"
+    },
+    {
+        "input": "muddy",
+        "output": "sauber"
+    },
+    {
+        "input": "better",
+        "output": "schlimmer"
+    },
+    {
+        "input": "sew",
+        "output": "entwirren"
+    },
+    {
+        "input": "package",
+        "output": "auspacken"
+    },
+    {
+        "input": "stack",
+        "output": "unstack"
+    },
+    {
+        "input": "garner",
+        "output": "vergeudung"
+    },
+    {
+        "input": "heavenly",
+        "output": "teufelshaft!"
+    },
+    {
+        "input": "activity",
+        "output": "nichterwerbst\u00e4tigkeit"
+    },
+    {
+        "input": "marked",
+        "output": "nicht"
+    },
+    {
+        "input": "lazy",
+        "output": "aktiv"
+    },
+    {
+        "input": "found",
+        "output": "verloren"
+    },
+    {
+        "input": "elderly",
+        "output": "jugendlich"
+    },
+    {
+        "input": "outlaw",
+        "output": "gesetzestreuer"
+    },
+    {
+        "input": "flawed",
+        "output": "perfekt"
+    },
+    {
+        "input": "legitimate",
+        "output": "illegitim"
+    },
+    {
+        "input": "include",
+        "output": "ausgenommen"
+    },
+    {
+        "input": "terrestrial",
+        "output": "wasserfahrzeuge"
+    },
+    {
+        "input": "unconstitutional",
+        "output": "verfassung"
+    },
+    {
+        "input": "comparative",
+        "output": "superlativ"
+    },
+    {
+        "input": "happy",
+        "output": "ungl\u00fccklich"
+    },
+    {
+        "input": "operational",
+        "output": "nicht-operativ"
+    },
+    {
+        "input": "resist",
+        "output": "kapitulation"
+    },
+    {
+        "input": "posterior",
+        "output": "anterior"
+    },
+    {
+        "input": "departure",
+        "output": "ankunft"
+    },
+    {
+        "input": "scarce",
+        "output": "reichlich"
+    },
+    {
+        "input": "predecessor",
+        "output": "nachfolger"
+    },
+    {
+        "input": "bitter",
+        "output": "s\u00fc\u00df"
+    },
+    {
+        "input": "method",
+        "output": "chaos"
+    },
+    {
+        "input": "bomb",
+        "output": "entwaffnung"
+    },
+    {
+        "input": "socialist",
+        "output": "kapitalgeber"
+    },
+    {
+        "input": "square",
+        "output": "kreis"
+    },
+    {
+        "input": "dysfunction",
+        "output": "funktion"
+    },
+    {
+        "input": "praise",
+        "output": "kritik"
+    },
+    {
+        "input": "hide",
+        "output": "enth\u00fcllen"
+    },
+    {
+        "input": "enormous",
+        "output": "winzig"
+    },
+    {
+        "input": "successor",
+        "output": "vorg\u00e4nger"
+    },
+    {
+        "input": "recorded",
+        "output": "lebend"
+    },
+    {
+        "input": "catchy",
+        "output": "vergesslich"
+    },
+    {
+        "input": "monarch",
+        "output": "h\u00e4ufiger"
+    },
+    {
+        "input": "easy",
+        "output": "hart"
+    },
+    {
+        "input": "consistency",
+        "output": "inkonsistenz"
+    },
+    {
+        "input": "typical",
+        "output": "atypisch"
+    },
+    {
+        "input": "utopian",
+        "output": "dystopie"
+    },
+    {
+        "input": "childbirth",
+        "output": "tod"
+    },
+    {
+        "input": "mother",
+        "output": "vater"
+    },
+    {
+        "input": "authorized",
+        "output": "unbefugt"
+    },
+    {
+        "input": "descriptive",
+        "output": "nicht"
+    },
+    {
+        "input": "encode",
+        "output": "dekodieren"
+    },
+    {
+        "input": "employment",
+        "output": "arbeitslosigkeit"
+    },
+    {
+        "input": "bottom",
+        "output": "nach"
+    },
+    {
+        "input": "anal",
+        "output": "zum"
+    },
+    {
+        "input": "analog",
+        "output": "digital"
+    },
+    {
+        "input": "dual",
+        "output": "einzeln"
+    },
+    {
+        "input": "privacy",
+        "output": "\u00f6ffentlichkeitsarbeit"
+    },
+    {
+        "input": "compulsory",
+        "output": "fakultativ"
+    },
+    {
+        "input": "efficient",
+        "output": "ineffizient"
+    },
+    {
+        "input": "arithmetic",
+        "output": "algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra/algebra)"
+    },
+    {
+        "input": "packed",
+        "output": "leer"
+    },
+    {
+        "input": "opaque",
+        "output": "transparent"
+    },
+    {
+        "input": "contingency",
+        "output": "sicherheit"
+    },
+    {
+        "input": "icy",
+        "output": "warm"
+    },
+    {
+        "input": "proceed",
+        "output": "anhalten"
+    },
+    {
+        "input": "inner",
+        "output": "au\u00dfen"
+    },
+    {
+        "input": "static",
+        "output": "dynamisch"
+    },
+    {
+        "input": "coarse",
+        "output": "in"
+    },
+    {
+        "input": "debit",
+        "output": "kredit"
+    },
+    {
+        "input": "nonviolent",
+        "output": "gewaltt\u00e4tigkeit"
+    },
+    {
+        "input": "approval",
+        "output": "ablehnung"
+    },
+    {
+        "input": "opacity",
+        "output": "transparenz"
+    },
+    {
+        "input": "drop",
+        "output": "aufnehmen"
+    },
+    {
+        "input": "preserve",
+        "output": "zerst\u00f6ren"
+    },
+    {
+        "input": "cow",
+        "output": "bulle"
+    },
+    {
+        "input": "desperate",
+        "output": "inhalt"
+    },
+    {
+        "input": "unlike",
+        "output": "wie"
+    },
+    {
+        "input": "unbelievable",
+        "output": "glaubhaft"
+    },
+    {
+        "input": "indoor",
+        "output": "im"
+    },
+    {
+        "input": "wretched",
+        "output": "gesegnet"
+    },
+    {
+        "input": "comfort",
+        "output": "beschwerden"
+    },
+    {
+        "input": "sustain",
+        "output": "ungen\u00fcgend"
+    },
+    {
+        "input": "bounce",
+        "output": "st\u00e4bchen"
+    },
+    {
+        "input": "unemployed",
+        "output": "besch\u00e4ftigte"
+    },
+    {
+        "input": "mature",
+        "output": "unreif"
+    },
+    {
+        "input": "poisonous",
+        "output": "nichtgiftig"
+    },
+    {
+        "input": "affluent",
+        "output": "verarmt"
+    },
+    {
+        "input": "relevant",
+        "output": "irrelevant"
+    },
+    {
+        "input": "grant",
+        "output": "leugnen"
+    },
+    {
+        "input": "applicable",
+        "output": "nicht"
+    },
+    {
+        "input": "support",
+        "output": "einspruch"
+    },
+    {
+        "input": "stale",
+        "output": "frisch"
+    },
+    {
+        "input": "analytic",
+        "output": "synthetisch"
+    },
+    {
+        "input": "unreal",
+        "output": "real"
+    },
+    {
+        "input": "rich",
+        "output": "schlecht"
+    },
+    {
+        "input": "like",
+        "output": "abneigung"
+    },
+    {
+        "input": "corresponding",
+        "output": "nicht"
+    },
+    {
+        "input": "vice",
+        "output": "tugend"
+    },
+    {
+        "input": "unfinished",
+        "output": "abgeschlossen"
+    },
+    {
+        "input": "assail",
+        "output": "verteidigen"
+    },
+    {
+        "input": "expire",
+        "output": "verl\u00e4ngerung"
+    },
+    {
+        "input": "survive",
+        "output": "untergehen"
+    },
+    {
+        "input": "traitor",
+        "output": "loyalist"
+    },
+    {
+        "input": "exit",
+        "output": "eintrag"
+    },
+    {
+        "input": "ineffective",
+        "output": "wirksam"
+    },
+    {
+        "input": "local",
+        "output": "ausland"
+    },
+    {
+        "input": "ethical",
+        "output": "unethisch"
+    },
+    {
+        "input": "inadequate",
+        "output": "ausreichend"
+    },
+    {
+        "input": "replication",
+        "output": "original"
+    },
+    {
+        "input": "rising",
+        "output": "fallend"
+    },
+    {
+        "input": "big",
+        "output": "klein"
+    },
+    {
+        "input": "immoral",
+        "output": "sittlich"
+    },
+    {
+        "input": "decorative",
+        "output": "klar"
+    },
+    {
+        "input": "tremendous",
+        "output": "unbedeutend"
+    },
+    {
+        "input": "outdated",
+        "output": "modern"
+    },
+    {
+        "input": "colossal",
+        "output": "winzig"
+    },
+    {
+        "input": "launch",
+        "output": "fl\u00e4chen"
+    },
+    {
+        "input": "fix",
+        "output": "bruch"
+    },
+    {
+        "input": "merger",
+        "output": "aufgeteilt"
+    },
+    {
+        "input": "discomfort",
+        "output": "komfort"
+    },
+    {
+        "input": "inspire",
+        "output": "entmutigung"
+    },
+    {
+        "input": "suspect",
+        "output": "best\u00e4tigen"
+    },
+    {
+        "input": "root",
+        "output": "spitze"
+    },
+    {
+        "input": "someone",
+        "output": "niemanden"
+    },
+    {
+        "input": "expenditure",
+        "output": "einkommen"
+    },
+    {
+        "input": "centralized",
+        "output": "dezentralisiert"
+    },
+    {
+        "input": "mountain",
+        "output": "tal"
+    },
+    {
+        "input": "confusion",
+        "output": "klarheit"
+    },
+    {
+        "input": "abnormal",
+        "output": "normal"
+    },
+    {
+        "input": "naughty",
+        "output": "sch\u00f6n"
+    },
+    {
+        "input": "linger",
+        "output": "urlaub"
+    },
+    {
+        "input": "wild",
+        "output": "z\u00e4hmchen"
+    },
+    {
+        "input": "antique",
+        "output": "modern"
+    },
+    {
+        "input": "maximal",
+        "output": "minimal"
+    },
+    {
+        "input": "hideous",
+        "output": "sch\u00f6n"
+    },
+    {
+        "input": "improve",
+        "output": "verschlechtern"
+    },
+    {
+        "input": "undergraduate",
+        "output": "hochschulabsolventen"
+    },
+    {
+        "input": "grotesque",
+        "output": "sch\u00f6n"
+    },
+    {
+        "input": "subordinate",
+        "output": "vorgesetzter"
+    },
+    {
+        "input": "exclusion",
+        "output": "aufnahme"
+    },
+    {
+        "input": "plaintiff",
+        "output": "beklagte"
+    },
+    {
+        "input": "incompatible",
+        "output": "kompatibel"
+    },
+    {
+        "input": "mode",
+        "output": "median"
+    },
+    {
+        "input": "darkness",
+        "output": "leichtigkeit"
+    },
+    {
+        "input": "remarkable",
+        "output": "unauff\u00e4llig"
+    },
+    {
+        "input": "law",
+        "output": "verbrechen"
+    },
+    {
+        "input": "break",
+        "output": "fixieren"
+    },
+    {
+        "input": "transparency",
+        "output": "tr\u00fcbung"
+    },
+    {
+        "input": "historic",
+        "output": "modern"
+    },
+    {
+        "input": "bad",
+        "output": "gut"
+    },
+    {
+        "input": "amateur",
+        "output": "beruflich"
+    },
+    {
+        "input": "hidden",
+        "output": "sichtbar"
+    },
+    {
+        "input": "foolish",
+        "output": "weise"
+    },
+    {
+        "input": "mend",
+        "output": "bruch"
+    },
+    {
+        "input": "frustrated",
+        "output": "zufrieden"
+    },
+    {
+        "input": "innocence",
+        "output": "schuld"
+    },
+    {
+        "input": "petty",
+        "output": "signifikant"
+    },
+    {
+        "input": "martial",
+        "output": "zivilgesellschaft"
+    },
+    {
+        "input": "summer",
+        "output": "winter"
+    },
+    {
+        "input": "unnecessary",
+        "output": "erforderlich"
+    },
+    {
+        "input": "involved",
+        "output": "nicht"
+    },
+    {
+        "input": "morning",
+        "output": "abend"
+    },
+    {
+        "input": "perpetual",
+        "output": "vor\u00fcbergehend"
+    },
+    {
+        "input": "shady",
+        "output": "sonnig"
+    },
+    {
+        "input": "radical",
+        "output": "konservativ"
+    },
+    {
+        "input": "wasteful",
+        "output": "effizient"
+    },
+    {
+        "input": "brief",
+        "output": "lang"
+    },
+    {
+        "input": "similar",
+        "output": "unterschiedlich"
+    },
+    {
+        "input": "obese",
+        "output": "mager"
+    },
+    {
+        "input": "white",
+        "output": "schwarz"
+    },
+    {
+        "input": "extra",
+        "output": "mangel"
+    },
+    {
+        "input": "fat",
+        "output": "d\u00fcnn"
+    },
+    {
+        "input": "commonplace",
+        "output": "selten"
+    },
+    {
+        "input": "rusty",
+        "output": "gl\u00e4nzend"
+    },
+    {
+        "input": "yellow",
+        "output": "blau"
+    },
+    {
+        "input": "retrospective",
+        "output": "zukunftsaussichten"
+    },
+    {
+        "input": "penalty",
+        "output": "belohnung"
+    },
+    {
+        "input": "simplicity",
+        "output": "komplexit\u00e4t"
+    },
+    {
+        "input": "encourage",
+        "output": "entmutigung"
+    },
+    {
+        "input": "density",
+        "output": "sparsamkeit"
+    },
+    {
+        "input": "adult",
+        "output": "kind"
+    },
+    {
+        "input": "dry",
+        "output": "nass"
+    },
+    {
+        "input": "murky",
+        "output": "frei"
+    },
+    {
+        "input": "peace",
+        "output": "krieg"
+    },
+    {
+        "input": "maritime",
+        "output": "terrestrisch"
+    },
+    {
+        "input": "establish",
+        "output": "demontieren"
+    },
+    {
+        "input": "senior",
+        "output": "junior"
+    },
+    {
+        "input": "daylight",
+        "output": "nacht"
+    },
+    {
+        "input": "disable",
+        "output": "aktivieren"
+    },
+    {
+        "input": "furious",
+        "output": "ruhe"
+    },
+    {
+        "input": "upstream",
+        "output": "nach"
+    },
+    {
+        "input": "soften",
+        "output": "verh\u00e4rten"
+    },
+    {
+        "input": "conception",
+        "output": "geburt"
+    },
+    {
+        "input": "stranger",
+        "output": "vertraut"
+    },
+    {
+        "input": "orthodox",
+        "output": "unorthodox"
+    },
+    {
+        "input": "irrational",
+        "output": "rational"
+    },
+    {
+        "input": "straight",
+        "output": "gekr\u00fcmmt"
+    },
+    {
+        "input": "frown",
+        "output": "l\u00e4cheln"
+    },
+    {
+        "input": "erroneous",
+        "output": "korrekt"
+    },
+    {
+        "input": "prospective",
+        "output": "retrospektive"
+    },
+    {
+        "input": "normative",
+        "output": "abweichend"
+    },
+    {
+        "input": "homosexual",
+        "output": "heterosexuell"
+    },
+    {
+        "input": "minor",
+        "output": "haupt"
+    },
+    {
+        "input": "take",
+        "output": "geben"
+    },
+    {
+        "input": "dense",
+        "output": "sp\u00e4rlich"
+    },
+    {
+        "input": "homegrown",
+        "output": "importiert"
+    },
+    {
+        "input": "numerical",
+        "output": "nicht-numerisch"
+    },
+    {
+        "input": "discourage",
+        "output": "ermutigung"
+    },
+    {
+        "input": "intake",
+        "output": "ausgabe"
+    },
+    {
+        "input": "graduating",
+        "output": "einschreibung"
+    },
+    {
+        "input": "foreground",
+        "output": "hintergrund"
+    },
+    {
+        "input": "multiple",
+        "output": "einzeln"
+    },
+    {
+        "input": "output",
+        "output": "eingabe"
+    },
+    {
+        "input": "limited",
+        "output": "unbegrenzt"
+    },
+    {
+        "input": "venerable",
+        "output": "verleumderisch"
+    },
+    {
+        "input": "youth",
+        "output": "\u00e4ltere"
+    },
+    {
+        "input": "attach",
+        "output": "l\u00f6sen"
+    },
+    {
+        "input": "gradual",
+        "output": "pl\u00f6tzlich"
+    },
+    {
+        "input": "man",
+        "output": "frau"
+    },
+    {
+        "input": "impair",
+        "output": "verbesserung"
+    },
+    {
+        "input": "vegetable",
+        "output": "fleisch"
+    },
+    {
+        "input": "vacant",
+        "output": "besetzt"
+    },
+    {
+        "input": "lift",
+        "output": "tropfen"
+    },
+    {
+        "input": "simulated",
+        "output": "real"
+    },
+    {
+        "input": "dependence",
+        "output": "unabh\u00e4ngigkeit"
+    },
+    {
+        "input": "garbage",
+        "output": "sauberkeit"
+    },
+    {
+        "input": "shy",
+        "output": "ausgehend"
+    },
+    {
+        "input": "float",
+        "output": "waschbecken"
+    },
+    {
+        "input": "wealthy",
+        "output": "schlecht"
+    },
+    {
+        "input": "corrupt",
+        "output": "ehrlich"
+    },
+    {
+        "input": "hole",
+        "output": "fest"
+    },
+    {
+        "input": "rim",
+        "output": "zentrum"
+    },
+    {
+        "input": "forbid",
+        "output": "erlauben"
+    },
+    {
+        "input": "instantaneous",
+        "output": "verz\u00f6gerung"
+    },
+    {
+        "input": "disapproval",
+        "output": "genehmigung"
+    },
+    {
+        "input": "upcoming",
+        "output": "vergangenheit"
+    },
+    {
+        "input": "fluorescent",
+        "output": "gl\u00fchbirnen"
+    },
+    {
+        "input": "miraculous",
+        "output": "gew\u00f6hnlich"
+    },
+    {
+        "input": "conserve",
+        "output": "abf\u00e4lle"
+    },
+    {
+        "input": "prefix",
+        "output": "suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix-suffix"
+    },
+    {
+        "input": "recent",
+        "output": "altert\u00fcmlich"
+    },
+    {
+        "input": "height",
+        "output": "tiefe"
+    },
+    {
+        "input": "learn",
+        "output": "vergessen"
+    },
+    {
+        "input": "file",
+        "output": "l\u00f6schen"
+    },
+    {
+        "input": "useful",
+        "output": "nutzlos"
+    },
+    {
+        "input": "written",
+        "output": "gesprochen"
+    },
+    {
+        "input": "slim",
+        "output": "fett"
+    },
+    {
+        "input": "gather",
+        "output": "streuung"
+    },
+    {
+        "input": "offence",
+        "output": "verteidigung"
+    },
+    {
+        "input": "transparent",
+        "output": "undurchsichtig"
+    },
+    {
+        "input": "legal",
+        "output": "illegal"
+    },
+    {
+        "input": "inclusive",
+        "output": "ausschlie\u00dflich"
+    },
+    {
+        "input": "inactive",
+        "output": "aktiv"
+    },
+    {
+        "input": "dove",
+        "output": "falke"
+    },
+    {
+        "input": "great",
+        "output": "schrecklich"
+    },
+    {
+        "input": "joy",
+        "output": "kummer"
+    },
+    {
+        "input": "opposite",
+        "output": "\u00e4hnliches"
+    },
+    {
+        "input": "intelligence",
+        "output": "ignoranz"
+    },
+    {
+        "input": "amusing",
+        "output": "langeweile"
+    },
+    {
+        "input": "sweet",
+        "output": "sauerteig"
+    },
+    {
+        "input": "assure",
+        "output": "zweifel"
+    },
+    {
+        "input": "specified",
+        "output": "nicht"
+    },
+    {
+        "input": "orderly",
+        "output": "chaotisch"
+    },
+    {
+        "input": "sleep",
+        "output": "wach"
+    },
+    {
+        "input": "creditor",
+        "output": "schuldner"
+    },
+    {
+        "input": "fugitive",
+        "output": "gesetzestreuer"
+    },
+    {
+        "input": "false",
+        "output": "wahr"
+    },
+    {
+        "input": "studio",
+        "output": "standort"
+    },
+    {
+        "input": "round",
+        "output": "quadrat"
+    },
+    {
+        "input": "diverse",
+        "output": "einheit"
+    },
+    {
+        "input": "much",
+        "output": "wenig"
+    },
+    {
+        "input": "socialism",
+        "output": "entwicklung"
+    },
+    {
+        "input": "pale",
+        "output": "vibrierend"
+    },
+    {
+        "input": "prefrontal",
+        "output": "posterior"
+    },
+    {
+        "input": "refrain",
+        "output": "genuss"
+    },
+    {
+        "input": "disclaim",
+        "output": "antrag"
+    },
+    {
+        "input": "evasion",
+        "output": "konfrontation"
+    },
+    {
+        "input": "push",
+        "output": "ziehen"
+    },
+    {
+        "input": "contrast",
+        "output": "\u00e4hnlichkeit"
+    },
+    {
+        "input": "real",
+        "output": "f\u00e4lschung"
+    },
+    {
+        "input": "hit",
+        "output": "verpassen"
+    },
+    {
+        "input": "sob",
+        "output": "lachen"
+    },
+    {
+        "input": "unemployment",
+        "output": "besch\u00e4ftigung"
+    },
+    {
+        "input": "heated",
+        "output": "gek\u00fchlt"
+    },
+    {
+        "input": "universal",
+        "output": "spezifisch"
+    },
+    {
+        "input": "ashamed",
+        "output": "stolz"
+    },
+    {
+        "input": "paid",
+        "output": "unbezahlt"
+    },
+    {
+        "input": "infinite",
+        "output": "endlich"
+    },
+    {
+        "input": "shutdown",
+        "output": "starten"
+    },
+    {
+        "input": "acceptance",
+        "output": "ablehnung"
+    },
+    {
+        "input": "helpless",
+        "output": "in"
+    },
+    {
+        "input": "deficit",
+        "output": "\u00fcberschuss"
+    },
+    {
+        "input": "torture",
+        "output": "komfort"
+    },
+    {
+        "input": "diffuse",
+        "output": "konzentriert"
+    },
+    {
+        "input": "physical",
+        "output": "psychisch"
+    },
+    {
+        "input": "stability",
+        "output": "instabilit\u00e4t"
+    },
+    {
+        "input": "paternal",
+        "output": "m\u00fctterlicherseits"
+    },
+    {
+        "input": "triangular",
+        "output": "kreisf\u00f6rmig"
+    },
+    {
+        "input": "all",
+        "output": "keine"
+    },
+    {
+        "input": "daughter",
+        "output": "sohn"
+    },
+    {
+        "input": "level",
+        "output": "ungleichm\u00e4\u00dfig"
+    },
+    {
+        "input": "playful",
+        "output": "schwerwiegend"
+    },
+    {
+        "input": "operative",
+        "output": "ungen\u00fcgend"
+    },
+    {
+        "input": "accustomed",
+        "output": "ungewohnt"
+    },
+    {
+        "input": "bourgeois",
+        "output": "proletarisch"
+    },
+    {
+        "input": "thick",
+        "output": "d\u00fcnn"
+    },
+    {
+        "input": "abolish",
+        "output": "festlegen"
+    },
+    {
+        "input": "initial",
+        "output": "endg\u00fcltig"
+    },
+    {
+        "input": "sadness",
+        "output": "gl\u00fcck"
+    },
+    {
+        "input": "proud",
+        "output": "bescheiden"
+    },
+    {
+        "input": "mammoth",
+        "output": "winzig"
+    },
+    {
+        "input": "acidic",
+        "output": "alkalisch"
+    },
+    {
+        "input": "foreign",
+        "output": "im"
+    },
+    {
+        "input": "hairy",
+        "output": "kahl"
+    },
+    {
+        "input": "skepticism",
+        "output": "glaube"
+    },
+    {
+        "input": "endless",
+        "output": "endlich"
+    },
+    {
+        "input": "fail",
+        "output": "erfolg"
+    },
+    {
+        "input": "blur",
+        "output": "scharf"
+    },
+    {
+        "input": "peripheral",
+        "output": "zentral"
+    },
+    {
+        "input": "joint",
+        "output": "individuell"
+    },
+    {
+        "input": "fake",
+        "output": "real"
+    },
+    {
+        "input": "need",
+        "output": "haben"
+    },
+    {
+        "input": "forfeit",
+        "output": "antrag"
+    },
+    {
+        "input": "psychological",
+        "output": "physikalisch"
+    },
+    {
+        "input": "show",
+        "output": "ausblenden"
+    },
+    {
+        "input": "bears",
+        "output": "jungtiere"
+    },
+    {
+        "input": "different",
+        "output": "\u00e4hnliches"
+    },
+    {
+        "input": "parasite",
+        "output": "gastgeber"
+    },
+    {
+        "input": "dysfunctional",
+        "output": "funktionst\u00fcchtigkeit"
+    },
+    {
+        "input": "exceed",
+        "output": "verlangsamung"
+    },
+    {
+        "input": "variant",
+        "output": "standard"
+    },
+    {
+        "input": "claim",
+        "output": "leugnen"
+    },
+    {
+        "input": "unworthy",
+        "output": "w\u00fcrdig"
+    },
+    {
+        "input": "nephew",
+        "output": "nichte"
+    },
+    {
+        "input": "analogue",
+        "output": "digital"
+    },
+    {
+        "input": "decrypt",
+        "output": "verschl\u00fcsseln"
+    },
+    {
+        "input": "breach",
+        "output": "einhaltung"
+    },
+    {
+        "input": "distrust",
+        "output": "vertrauen"
+    },
+    {
+        "input": "temporal",
+        "output": "ewig"
+    },
+    {
+        "input": "whites",
+        "output": "schwarze"
+    },
+    {
+        "input": "full",
+        "output": "leer"
+    },
+    {
+        "input": "exclusive",
+        "output": "einschlie\u00dflich"
+    },
+    {
+        "input": "disobedience",
+        "output": "gehorsam"
+    },
+    {
+        "input": "viable",
+        "output": "nicht"
+    },
+    {
+        "input": "reverse",
+        "output": "vorw\u00e4rts"
+    },
+    {
+        "input": "accurate",
+        "output": "ungenau"
+    },
+    {
+        "input": "credit",
+        "output": "abbuchung"
+    },
+    {
+        "input": "predatory",
+        "output": "raubtiere"
+    },
+    {
+        "input": "dumb",
+        "output": "intelligent"
+    },
+    {
+        "input": "truthful",
+        "output": "tr\u00fcgerisch"
+    },
+    {
+        "input": "wee",
+        "output": "gro\u00df"
+    },
+    {
+        "input": "alive",
+        "output": "tot"
+    },
+    {
+        "input": "synthetic",
+        "output": "nat\u00fcrliche"
+    },
+    {
+        "input": "novel",
+        "output": "klassisch"
+    },
+    {
+        "input": "export",
+        "output": "einfuhr"
+    },
+    {
+        "input": "interior",
+        "output": "au\u00dfen"
+    },
+    {
+        "input": "offensive",
+        "output": "defensiv"
+    },
+    {
+        "input": "good",
+        "output": "schlecht"
+    },
+    {
+        "input": "meet",
+        "output": "teil"
+    },
+    {
+        "input": "binary",
+        "output": "analog"
+    },
+    {
+        "input": "northeast",
+        "output": "s\u00fcdwest"
+    },
+    {
+        "input": "hostile",
+        "output": "freundlich"
+    },
+    {
+        "input": "silly",
+        "output": "schwerwiegend"
+    },
+    {
+        "input": "strong",
+        "output": "schwach"
+    },
+    {
+        "input": "retired",
+        "output": "besch\u00e4ftigte"
+    },
+    {
+        "input": "severe",
+        "output": "leicht"
+    },
+    {
+        "input": "tall",
+        "output": "kurz"
+    },
+    {
+        "input": "less",
+        "output": "mehr"
+    },
+    {
+        "input": "enrich",
+        "output": "armselig"
+    },
+    {
+        "input": "everyday",
+        "output": "gelegentlich"
+    },
+    {
+        "input": "gross",
+        "output": "k\u00f6stlich"
+    },
+    {
+        "input": "ask",
+        "output": "antwort"
+    },
+    {
+        "input": "withdrawal",
+        "output": "hinterlegung"
+    },
+    {
+        "input": "leftist",
+        "output": "rechtsbeistand"
+    },
+    {
+        "input": "compatible",
+        "output": "inkompatibel"
+    },
+    {
+        "input": "backward",
+        "output": "vorw\u00e4rts"
+    },
+    {
+        "input": "inward",
+        "output": "au\u00dfen"
+    },
+    {
+        "input": "fore",
+        "output": "achtern"
+    },
+    {
+        "input": "daily",
+        "output": "nachts"
+    },
+    {
+        "input": "postpone",
+        "output": "vorschuss"
+    },
+    {
+        "input": "decipher",
+        "output": "verschl\u00fcsseln"
+    },
+    {
+        "input": "buying",
+        "output": "verkauf"
+    },
+    {
+        "input": "online",
+        "output": "offline"
+    },
+    {
+        "input": "continue",
+        "output": "anhalten"
+    },
+    {
+        "input": "inconvenient",
+        "output": "bequem"
+    },
+    {
+        "input": "ending",
+        "output": "anfang"
+    },
+    {
+        "input": "frozen",
+        "output": "geschmolzen"
+    },
+    {
+        "input": "malfunction",
+        "output": "funktion"
+    },
+    {
+        "input": "beautiful",
+        "output": "h\u00e4sslich"
+    },
+    {
+        "input": "exhaustive",
+        "output": "kurz"
+    },
+    {
+        "input": "install",
+        "output": "deinstallieren"
+    },
+    {
+        "input": "rare",
+        "output": "h\u00e4ufig"
+    },
+    {
+        "input": "contradictory",
+        "output": "komplement\u00e4r"
+    },
+    {
+        "input": "incompetent",
+        "output": "zust\u00e4ndig"
+    },
+    {
+        "input": "conspiracy",
+        "output": "wahrheit"
+    },
+    {
+        "input": "agree",
+        "output": "uneinigkeit"
+    },
+    {
+        "input": "borrow",
+        "output": "darlehen"
+    },
+    {
+        "input": "disorderly",
+        "output": "geordnet"
+    },
+    {
+        "input": "sell",
+        "output": "kauf"
+    },
+    {
+        "input": "resilient",
+        "output": "zerbrechlich"
+    },
+    {
+        "input": "disarm",
+        "output": "arm"
+    },
+    {
+        "input": "experienced",
+        "output": "unerfahren"
+    },
+    {
+        "input": "disagree",
+        "output": "zustimmen"
+    },
+    {
+        "input": "remove",
+        "output": "hinzuf\u00fcgen"
+    },
+    {
+        "input": "bless",
+        "output": "fluch"
+    },
+    {
+        "input": "annoyed",
+        "output": "erfreut"
+    },
+    {
+        "input": "cold",
+        "output": "warm"
+    },
+    {
+        "input": "flexible",
+        "output": "starr"
+    },
+    {
+        "input": "cockpit",
+        "output": "kabine"
+    },
+    {
+        "input": "growth",
+        "output": "r\u00fcckgang"
+    },
+    {
+        "input": "adjacent",
+        "output": "entfernt"
+    },
+    {
+        "input": "spending",
+        "output": "speichern"
+    },
+    {
+        "input": "female",
+        "output": "m\u00e4nnlich"
+    },
+    {
+        "input": "visible",
+        "output": "unsichtbar"
+    },
+    {
+        "input": "revive",
+        "output": "ablauf"
+    },
+    {
+        "input": "covered",
+        "output": "exponiert"
+    },
+    {
+        "input": "intangible",
+        "output": "sachdienlich"
+    },
+    {
+        "input": "peaceful",
+        "output": "gewaltt\u00e4tigkeit"
+    },
+    {
+        "input": "health",
+        "output": "krankheit"
+    },
+    {
+        "input": "profit",
+        "output": "verlust"
+    },
+    {
+        "input": "slowing",
+        "output": "geschwindigkeit"
+    },
+    {
+        "input": "cavity",
+        "output": "gesunder"
+    },
+    {
+        "input": "evil",
+        "output": "gut"
+    },
+    {
+        "input": "little",
+        "output": "gro\u00df"
+    },
+    {
+        "input": "unknown",
+        "output": "bekannt"
+    },
+    {
+        "input": "empty",
+        "output": "vollst\u00e4ndig"
+    },
+    {
+        "input": "explosive",
+        "output": "stabil"
+    },
+    {
+        "input": "worldly",
+        "output": "geistig"
+    },
+    {
+        "input": "heterosexual",
+        "output": "homosexuell"
+    },
+    {
+        "input": "agreement",
+        "output": "uneinigkeit"
+    },
+    {
+        "input": "lend",
+        "output": "darlehen"
+    },
+    {
+        "input": "dispute",
+        "output": "vereinbarung"
+    },
+    {
+        "input": "rest",
+        "output": "arbeit"
+    },
+    {
+        "input": "tame",
+        "output": "wild"
+    },
+    {
+        "input": "limp",
+        "output": "steif"
+    },
+    {
+        "input": "circumference",
+        "output": "durchmesser"
+    },
+    {
+        "input": "infantry",
+        "output": "kavallerie"
+    },
+    {
+        "input": "independent",
+        "output": "abh\u00e4ngig"
+    },
+    {
+        "input": "brilliant",
+        "output": "stumpf"
+    },
+    {
+        "input": "equipped",
+        "output": "nicht"
+    },
+    {
+        "input": "sick",
+        "output": "gesund"
+    },
+    {
+        "input": "natural",
+        "output": "k\u00fcnstlich"
+    },
+    {
+        "input": "require",
+        "output": "befreit"
+    },
+    {
+        "input": "impede",
+        "output": "erleichtern"
+    },
+    {
+        "input": "fragmented",
+        "output": "im"
+    },
+    {
+        "input": "noble",
+        "output": "sch\u00e4ndlich"
+    },
+    {
+        "input": "incorrect",
+        "output": "korrekt"
+    },
+    {
+        "input": "kid",
+        "output": "erwachsener"
+    },
+    {
+        "input": "endure",
+        "output": "beenden"
+    },
+    {
+        "input": "unwillingness",
+        "output": "bereitschaft"
+    },
+    {
+        "input": "majority",
+        "output": "minderheit"
+    },
+    {
+        "input": "intermediate",
+        "output": "anf\u00e4nger"
+    },
+    {
+        "input": "gentle",
+        "output": "grob"
+    },
+    {
+        "input": "hate",
+        "output": "liebe"
+    },
+    {
+        "input": "maximize",
+        "output": "minimieren"
+    },
+    {
+        "input": "colored",
+        "output": "farblos"
+    },
+    {
+        "input": "curiosity",
+        "output": "apathie"
+    },
+    {
+        "input": "enjoy",
+        "output": "abneigung"
+    },
+    {
+        "input": "exterior",
+        "output": "innenbereich"
+    },
+    {
+        "input": "naive",
+        "output": "erfahrung"
+    },
+    {
+        "input": "depressed",
+        "output": "erh\u00f6ht"
+    },
+    {
+        "input": "probable",
+        "output": "unwahrscheinlich"
+    },
+    {
+        "input": "mountainous",
+        "output": "flach"
+    },
+    {
+        "input": "hold",
+        "output": "freigabe"
+    },
+    {
+        "input": "aerial",
+        "output": "geerdet"
+    },
+    {
+        "input": "obey",
+        "output": "ungehorsam"
+    },
+    {
+        "input": "multiply",
+        "output": "teilen"
+    },
+    {
+        "input": "diagonal",
+        "output": "gerade"
+    },
+    {
+        "input": "disperse",
+        "output": "sammeln"
+    },
+    {
+        "input": "outer",
+        "output": "inner"
+    },
+    {
+        "input": "triumph",
+        "output": "niederlage"
+    },
+    {
+        "input": "incredible",
+        "output": "unglaublich"
+    },
+    {
+        "input": "particular",
+        "output": "allgemeines"
+    },
+    {
+        "input": "patriot",
+        "output": "verr\u00e4ter"
+    },
+    {
+        "input": "complicate",
+        "output": "vereinfachung"
+    },
+    {
+        "input": "mind",
+        "output": "k\u00f6rper"
+    },
+    {
+        "input": "sacred",
+        "output": "profan"
+    },
+    {
+        "input": "visionary",
+        "output": "praktisch"
+    },
+    {
+        "input": "line",
+        "output": "kurve"
+    },
+    {
+        "input": "obscurity",
+        "output": "bedeutung"
+    },
+    {
+        "input": "curse",
+        "output": "segen"
+    },
+    {
+        "input": "convenient",
+        "output": "unbequem"
+    },
+    {
+        "input": "win",
+        "output": "verlieren"
+    },
+    {
+        "input": "suitable",
+        "output": "ungeeignet"
+    },
+    {
+        "input": "optional",
+        "output": "obligatorisch"
+    },
+    {
+        "input": "make",
+        "output": "zerst\u00f6ren"
+    },
+    {
+        "input": "dismissive",
+        "output": "aufmerksam"
+    },
+    {
+        "input": "retail",
+        "output": "gro\u00dfhandel"
+    },
+    {
+        "input": "matter",
+        "output": "antimaterie"
+    },
+    {
+        "input": "insufficient",
+        "output": "ausreichend"
+    },
+    {
+        "input": "disruptive",
+        "output": "harmonisch"
+    },
+    {
+        "input": "final",
+        "output": "anfangs"
+    },
+    {
+        "input": "attack",
+        "output": "verteidigen"
+    },
+    {
+        "input": "put",
+        "output": "nehmen"
+    },
+    {
+        "input": "validate",
+        "output": "ung\u00fcltig"
+    },
+    {
+        "input": "western",
+        "output": "osten"
+    },
+    {
+        "input": "uncover",
+        "output": "abdeckung"
+    },
+    {
+        "input": "extremist",
+        "output": "mittelschwer"
+    },
+    {
+        "input": "possible",
+        "output": "unm\u00f6glich"
+    },
+    {
+        "input": "premier",
+        "output": "unterlegene"
+    },
+    {
+        "input": "boom",
+        "output": "fl\u00fcstern"
+    },
+    {
+        "input": "cheap",
+        "output": "teuer"
+    },
+    {
+        "input": "excellent",
+        "output": "schlecht"
+    },
+    {
+        "input": "blend",
+        "output": "herausragen"
+    },
+    {
+        "input": "rugged",
+        "output": "glatt"
+    },
+    {
+        "input": "unconscious",
+        "output": "bewusst"
+    },
+    {
+        "input": "lay",
+        "output": "stand"
+    },
+    {
+        "input": "negate",
+        "output": "best\u00e4tigen"
+    },
+    {
+        "input": "canned",
+        "output": "frisch"
+    },
+    {
+        "input": "practical",
+        "output": "unpraktisch"
+    },
+    {
+        "input": "believable",
+        "output": "unglaublich"
+    },
+    {
+        "input": "relent",
+        "output": "fortbestehend"
+    },
+    {
+        "input": "vast",
+        "output": "begrenzt"
+    },
+    {
+        "input": "widen",
+        "output": "schmal"
+    },
+    {
+        "input": "prolonged",
+        "output": "kurzlebig"
+    },
+    {
+        "input": "smooth",
+        "output": "grob"
+    },
+    {
+        "input": "sizeable",
+        "output": "unbedeutend"
+    },
+    {
+        "input": "harmful",
+        "output": "n\u00fctzlich"
+    },
+    {
+        "input": "prohibit",
+        "output": "erlauben"
+    },
+    {
+        "input": "rainy",
+        "output": "sonnig"
+    },
+    {
+        "input": "unique",
+        "output": "h\u00e4ufig"
+    },
+    {
+        "input": "psychic",
+        "output": "nicht-psychisch"
+    },
+    {
+        "input": "awake",
+        "output": "schlafen"
+    },
+    {
+        "input": "undesirable",
+        "output": "w\u00fcnschenswert"
+    },
+    {
+        "input": "dismiss",
+        "output": "ernennen"
+    },
+    {
+        "input": "unlawful",
+        "output": "rechtm\u00e4\u00dfig"
+    },
+    {
+        "input": "inhuman",
+        "output": "mensch"
+    },
+    {
+        "input": "invest",
+        "output": "zur\u00fcckziehen"
+    },
+    {
+        "input": "loosen",
+        "output": "straffung"
+    },
+    {
+        "input": "dubious",
+        "output": "sicher"
+    },
+    {
+        "input": "premiere",
+        "output": "abschluss"
+    },
+    {
+        "input": "glossy",
+        "output": "mattiert"
+    },
+    {
+        "input": "poetry",
+        "output": "prosa"
+    },
+    {
+        "input": "youthful",
+        "output": "\u00e4ltere"
+    },
+    {
+        "input": "foreigner",
+        "output": "einheimisch"
+    },
+    {
+        "input": "most",
+        "output": "mindestens"
+    },
+    {
+        "input": "defend",
+        "output": "angriff"
+    },
+    {
+        "input": "pass",
+        "output": "fehlschlagen"
+    },
+    {
+        "input": "archaic",
+        "output": "modern"
+    },
+    {
+        "input": "offense",
+        "output": "verteidigung"
+    },
+    {
+        "input": "live",
+        "output": "sterben"
+    },
+    {
+        "input": "busy",
+        "output": "leerlauf"
+    },
+    {
+        "input": "nasal",
+        "output": "zum"
+    },
+    {
+        "input": "curious",
+        "output": "gleichg\u00fcltig"
+    },
+    {
+        "input": "deter",
+        "output": "ermutigung"
+    },
+    {
+        "input": "invasion",
+        "output": "r\u00fcckzug"
+    },
+    {
+        "input": "collect",
+        "output": "dispergieren"
+    },
+    {
+        "input": "beginning",
+        "output": "ende"
+    },
+    {
+        "input": "center",
+        "output": "rand"
+    },
+    {
+        "input": "niece",
+        "output": "neffe"
+    },
+    {
+        "input": "nominal",
+        "output": "real"
+    },
+    {
+        "input": "publicity",
+        "output": "privatsph\u00e4re"
+    },
+    {
+        "input": "illness",
+        "output": "gesundheit"
+    },
+    {
+        "input": "girl",
+        "output": "junge"
+    },
+    {
+        "input": "substantive",
+        "output": "unwesentlich"
+    },
+    {
+        "input": "reformed",
+        "output": "korrupt"
+    },
+    {
+        "input": "sinister",
+        "output": "wohlwollend"
+    },
+    {
+        "input": "ineligible",
+        "output": "beihilfef\u00e4hig"
+    },
+    {
+        "input": "relative",
+        "output": "in"
+    },
+    {
+        "input": "handsome",
+        "output": "h\u00e4sslich"
+    },
+    {
+        "input": "borrower",
+        "output": "kreditgeber"
+    },
+    {
+        "input": "decrease",
+        "output": "zunahme"
+    },
+    {
+        "input": "divide",
+        "output": "multiplizieren"
+    },
+    {
+        "input": "simplify",
+        "output": "komplizieren"
+    },
+    {
+        "input": "waive",
+        "output": "durchsetzung"
+    },
+    {
+        "input": "instrumental",
+        "output": "stimmlich"
+    },
+    {
+        "input": "distribution",
+        "output": "konzentration"
+    },
+    {
+        "input": "irregular",
+        "output": "regelm\u00e4\u00dfig"
+    },
+    {
+        "input": "circular",
+        "output": "quadrat"
+    },
+    {
+        "input": "remember",
+        "output": "vergessen"
+    },
+    {
+        "input": "apply",
+        "output": "entfernen"
+    },
+    {
+        "input": "usual",
+        "output": "ungew\u00f6hnlich"
+    },
+    {
+        "input": "unpleasant",
+        "output": "angenehm"
+    },
+    {
+        "input": "cut",
+        "output": "heilen"
+    },
+    {
+        "input": "skinny",
+        "output": "fett"
+    },
+    {
+        "input": "charming",
+        "output": "unbehagen"
+    },
+    {
+        "input": "pride",
+        "output": "demut"
+    },
+    {
+        "input": "numerous",
+        "output": "nur"
+    },
+    {
+        "input": "extended",
+        "output": "vertraglich"
+    },
+    {
+        "input": "magical",
+        "output": "zur"
+    },
+    {
+        "input": "lucky",
+        "output": "pech"
+    },
+    {
+        "input": "propel",
+        "output": "anhalten"
+    },
+    {
+        "input": "ascent",
+        "output": "sinkflug"
+    },
+    {
+        "input": "evolution",
+        "output": "devolution"
+    },
+    {
+        "input": "auxiliary",
+        "output": "grundschule"
+    },
+    {
+        "input": "savage",
+        "output": "zivilisiert"
+    },
+    {
+        "input": "improbable",
+        "output": "wahrscheinlich"
+    },
+    {
+        "input": "uncommon",
+        "output": "h\u00e4ufig"
+    },
+    {
+        "input": "liquid",
+        "output": "fest"
+    },
+    {
+        "input": "alert",
+        "output": "schl\u00e4frig"
+    },
+    {
+        "input": "tilted",
+        "output": "gerade"
+    },
+    {
+        "input": "biological",
+        "output": "nichtbiologisch"
+    },
+    {
+        "input": "covert",
+        "output": "overt"
+    },
+    {
+        "input": "split",
+        "output": "beitreten"
+    },
+    {
+        "input": "incompetence",
+        "output": "zust\u00e4ndigkeit"
+    },
+    {
+        "input": "moist",
+        "output": "trocken"
+    },
+    {
+        "input": "transgress",
+        "output": "einhaltung"
+    },
+    {
+        "input": "indefinite",
+        "output": "eindeutig"
+    },
+    {
+        "input": "regress",
+        "output": "fortschritte"
+    },
+    {
+        "input": "retard",
+        "output": "vorschuss"
+    },
+    {
+        "input": "fried",
+        "output": "roh"
+    },
+    {
+        "input": "plain",
+        "output": "phantasievoll"
+    },
+    {
+        "input": "constant",
+        "output": "variabel"
+    },
+    {
+        "input": "sure",
+        "output": "unsicher"
+    },
+    {
+        "input": "observational",
+        "output": "theoretische"
+    },
+    {
+        "input": "accumulate",
+        "output": "dissipat"
+    },
+    {
+        "input": "nationalist",
+        "output": "internationalistisch"
+    },
+    {
+        "input": "pedestrian",
+        "output": "fahrer"
+    },
+    {
+        "input": "incapable",
+        "output": "in"
+    },
+    {
+        "input": "mean",
+        "output": "art"
+    },
+    {
+        "input": "close",
+        "output": "weit"
+    },
+    {
+        "input": "lead",
+        "output": "folgen"
+    },
+    {
+        "input": "aversion",
+        "output": "attraktion"
+    },
+    {
+        "input": "rigid",
+        "output": "flexibel"
+    },
+    {
+        "input": "pray",
+        "output": "blasphemie"
+    },
+    {
+        "input": "liking",
+        "output": "abneigung"
+    },
+    {
+        "input": "ripe",
+        "output": "unreif"
+    },
+    {
+        "input": "convoluted",
+        "output": "einfach"
+    },
+    {
+        "input": "distance",
+        "output": "n\u00e4he"
+    },
+    {
+        "input": "worthy",
+        "output": "unw\u00fcrdig"
+    },
+    {
+        "input": "indifferent",
+        "output": "leidenschaftlich"
+    },
+    {
+        "input": "irresponsible",
+        "output": "verantwortlich"
+    },
+    {
+        "input": "unregulated",
+        "output": "reglementiert"
+    },
+    {
+        "input": "sorry",
+        "output": "vergeben"
+    },
+    {
+        "input": "desirable",
+        "output": "unerw\u00fcnscht"
+    },
+    {
+        "input": "except",
+        "output": "einschlie\u00dflich"
+    },
+    {
+        "input": "union",
+        "output": "teilung"
+    },
+    {
+        "input": "individual",
+        "output": "gruppe"
+    },
+    {
+        "input": "criminal",
+        "output": "gesetzestreuer"
+    },
+    {
+        "input": "dress",
+        "output": "ausziehen"
+    },
+    {
+        "input": "subtle",
+        "output": "offensichtlich"
+    },
+    {
+        "input": "renowned",
+        "output": "unbekannt"
+    },
+    {
+        "input": "barbaric",
+        "output": "zivilisiert"
+    },
+    {
+        "input": "pollution",
+        "output": "sauberkeit"
+    },
+    {
+        "input": "net",
+        "output": "brutto"
+    },
+    {
+        "input": "clear",
+        "output": "tr\u00fcbe"
+    },
+    {
+        "input": "uphold",
+        "output": "unterminieren"
+    },
+    {
+        "input": "contraction",
+        "output": "erweiterung"
+    },
+    {
+        "input": "vulgar",
+        "output": "raffiniert"
+    },
+    {
+        "input": "complicated",
+        "output": "einfach"
+    },
+    {
+        "input": "analysis",
+        "output": "synthese"
+    },
+    {
+        "input": "creator",
+        "output": "zerst\u00f6rer"
+    },
+    {
+        "input": "clumsy",
+        "output": "anmutig"
+    },
+    {
+        "input": "tread",
+        "output": "ungelesen"
+    },
+    {
+        "input": "negative",
+        "output": "positiv"
+    },
+    {
+        "input": "nervous",
+        "output": "ruhe"
+    },
+    {
+        "input": "indicate",
+        "output": "verbergen"
+    },
+    {
+        "input": "realistic",
+        "output": "fantastisch"
+    },
+    {
+        "input": "many",
+        "output": "nur"
+    },
+    {
+        "input": "men",
+        "output": "frauen"
+    },
+    {
+        "input": "stimulate",
+        "output": "hemmung"
+    },
+    {
+        "input": "embryonic",
+        "output": "reif"
+    },
+    {
+        "input": "healthy",
+        "output": "ungesund"
+    },
+    {
+        "input": "actual",
+        "output": "potenzial"
+    },
+    {
+        "input": "intolerance",
+        "output": "toleranz"
+    },
+    {
+        "input": "powdered",
+        "output": "fest"
+    },
+    {
+        "input": "grandfather",
+        "output": "enkel"
+    },
+    {
+        "input": "starve",
+        "output": "fest"
+    },
+    {
+        "input": "question",
+        "output": "antwort"
+    },
+    {
+        "input": "surgical",
+        "output": "nichtchirurgisch"
+    },
+    {
+        "input": "noise",
+        "output": "stille"
+    },
+    {
+        "input": "dwarf",
+        "output": "riesen"
+    },
+    {
+        "input": "commencement",
+        "output": "beendigung"
+    },
+    {
+        "input": "decentralized",
+        "output": "zentralisiert"
+    },
+    {
+        "input": "sanity",
+        "output": "wahnsinn"
+    },
+    {
+        "input": "signal",
+        "output": "l\u00e4rm"
+    },
+    {
+        "input": "incidental",
+        "output": "wichtig"
+    },
+    {
+        "input": "proper",
+        "output": "unangebracht"
+    },
+    {
+        "input": "sponsor",
+        "output": "beg\u00fcnstigter"
+    },
+    {
+        "input": "stuff",
+        "output": "leer"
+    },
+    {
+        "input": "undue",
+        "output": "f\u00e4llig"
+    },
+    {
+        "input": "jam",
+        "output": "gelee"
+    },
+    {
+        "input": "divorce",
+        "output": "ehe"
+    },
+    {
+        "input": "call",
+        "output": "auflegen"
+    },
+    {
+        "input": "lose",
+        "output": "gewinnen"
+    },
+    {
+        "input": "untrue",
+        "output": "wahr"
+    },
+    {
+        "input": "overseas",
+        "output": "im"
+    },
+    {
+        "input": "soft",
+        "output": "hart"
+    },
+    {
+        "input": "loser",
+        "output": "gewinner"
+    },
+    {
+        "input": "retreat",
+        "output": "vorschuss"
+    },
+    {
+        "input": "pleasant",
+        "output": "unangenehm"
+    },
+    {
+        "input": "adulthood",
+        "output": "kindheit"
+    },
+    {
+        "input": "sorrow",
+        "output": "freude"
+    },
+    {
+        "input": "worst",
+        "output": "am"
+    },
+    {
+        "input": "national",
+        "output": "internationales"
+    },
+    {
+        "input": "sluggish",
+        "output": "energetisch"
+    },
+    {
+        "input": "disparate",
+        "output": "\u00e4hnliches"
+    },
+    {
+        "input": "unnatural",
+        "output": "nat\u00fcrliche"
+    },
+    {
+        "input": "medium",
+        "output": "gro\u00df"
+    },
+    {
+        "input": "comprehensive",
+        "output": "begrenzt"
+    },
+    {
+        "input": "poor",
+        "output": "reich"
+    },
+    {
+        "input": "paranormal",
+        "output": "normal"
+    },
+    {
+        "input": "prosperous",
+        "output": "verarmt"
+    },
+    {
+        "input": "mediocre",
+        "output": "ausnahmsweise"
+    },
+    {
+        "input": "smart",
+        "output": "dumm"
+    },
+    {
+        "input": "head",
+        "output": "schwanz"
+    },
+    {
+        "input": "standard",
+        "output": "nicht-standard"
+    },
+    {
+        "input": "bare",
+        "output": "abgedeckt"
+    },
+    {
+        "input": "aquatic",
+        "output": "terrestrisch"
+    },
+    {
+        "input": "centrist",
+        "output": "extremistisch"
+    },
+    {
+        "input": "reduction",
+        "output": "zunahme"
+    },
+    {
+        "input": "surface",
+        "output": "tiefe"
+    },
+    {
+        "input": "fold",
+        "output": "sich"
+    },
+    {
+        "input": "contiguous",
+        "output": "entb\u00fcndelt"
+    },
+    {
+        "input": "friend",
+        "output": "feind"
+    },
+    {
+        "input": "related",
+        "output": "nicht"
+    },
+    {
+        "input": "assemble",
+        "output": "demontage"
+    },
+    {
+        "input": "rocky",
+        "output": "glatt"
+    },
+    {
+        "input": "composite",
+        "output": "einfach"
+    },
+    {
+        "input": "danger",
+        "output": "sicherheit"
+    },
+    {
+        "input": "east",
+        "output": "westen"
+    },
+    {
+        "input": "end",
+        "output": "anfang"
+    },
+    {
+        "input": "accelerate",
+        "output": "verz\u00f6gerung"
+    },
+    {
+        "input": "worldwide",
+        "output": "ort"
+    },
+    {
+        "input": "orthodoxy",
+        "output": "heterodoxy"
+    },
+    {
+        "input": "sterile",
+        "output": "kontaminiert"
+    },
+    {
+        "input": "ladies",
+        "output": "gentlemen"
+    },
+    {
+        "input": "attached",
+        "output": "freigestellt"
+    },
+    {
+        "input": "enemy",
+        "output": "freund"
+    },
+    {
+        "input": "antitrust",
+        "output": "vertrauensschutz"
+    },
+    {
+        "input": "downstairs",
+        "output": "oben"
+    },
+    {
+        "input": "ally",
+        "output": "feind"
+    },
+    {
+        "input": "attend",
+        "output": "abwesend"
+    },
+    {
+        "input": "extraordinary",
+        "output": "gew\u00f6hnlich"
+    },
+    {
+        "input": "downgrade",
+        "output": "upgrade"
+    },
+    {
+        "input": "available",
+        "output": "nicht"
+    },
+    {
+        "input": "affordable",
+        "output": "teuer"
+    },
+    {
+        "input": "depreciation",
+        "output": "wertsch\u00e4tzung"
+    },
+    {
+        "input": "sunlight",
+        "output": "mondlicht"
+    },
+    {
+        "input": "heaven",
+        "output": "schei\u00dfe!"
+    },
+    {
+        "input": "religious",
+        "output": "s\u00e4kular"
+    },
+    {
+        "input": "separate",
+        "output": "zusammen"
+    },
+    {
+        "input": "asleep",
+        "output": "wach"
+    },
+    {
+        "input": "unrelated",
+        "output": "verwandte"
+    },
+    {
+        "input": "nothing",
+        "output": "alles"
+    },
+    {
+        "input": "specialize",
+        "output": "verallgemeinern"
+    },
+    {
+        "input": "lightweight",
+        "output": "schwergewicht"
+    },
+    {
+        "input": "wrong",
+        "output": "recht"
+    },
+    {
+        "input": "notice",
+        "output": "ignorieren"
+    },
+    {
+        "input": "philosophical",
+        "output": "praktisch"
+    },
+    {
+        "input": "indirect",
+        "output": "direkt"
+    },
+    {
+        "input": "foul",
+        "output": "fair"
+    },
+    {
+        "input": "exacerbate",
+        "output": "linderung"
+    },
+    {
+        "input": "mundane",
+        "output": "ausserordentlich"
+    },
+    {
+        "input": "conspicuous",
+        "output": "unauff\u00e4llig"
+    },
+    {
+        "input": "unlucky",
+        "output": "gl\u00fccklich"
+    },
+    {
+        "input": "perennial",
+        "output": "j\u00e4hrlich"
+    },
+    {
+        "input": "unrealistic",
+        "output": "realistisch"
+    },
+    {
+        "input": "necessity",
+        "output": "luxus"
+    },
+    {
+        "input": "manageable",
+        "output": "unkontrollierbar"
+    },
+    {
+        "input": "rapid",
+        "output": "langsam"
+    },
+    {
+        "input": "peculiar",
+        "output": "normal"
+    },
+    {
+        "input": "floor",
+        "output": "h\u00f6chstgrenze"
+    },
+    {
+        "input": "childish",
+        "output": "reif"
+    },
+    {
+        "input": "abhor",
+        "output": "verehren"
+    },
+    {
+        "input": "immune",
+        "output": "empf\u00e4nglich"
+    },
+    {
+        "input": "affirmative",
+        "output": "negativ"
+    },
+    {
+        "input": "eternal",
+        "output": "vor\u00fcbergehend"
+    },
+    {
+        "input": "medieval",
+        "output": "modern"
+    },
+    {
+        "input": "ancestor",
+        "output": "nachkommen"
+    },
+    {
+        "input": "southeast",
+        "output": "nordwesten"
+    },
+    {
+        "input": "supernatural",
+        "output": "nat\u00fcrliche"
+    },
+    {
+        "input": "out",
+        "output": "in"
+    },
+    {
+        "input": "monstrous",
+        "output": "winzig"
+    },
+    {
+        "input": "significant",
+        "output": "unbedeutend"
+    },
+    {
+        "input": "impractical",
+        "output": "praktisch"
+    },
+    {
+        "input": "purchase",
+        "output": "verkaufen"
+    },
+    {
+        "input": "medial",
+        "output": "seitlich"
+    },
+    {
+        "input": "forward",
+        "output": "r\u00fcckw\u00e4rts"
+    },
+    {
+        "input": "private",
+        "output": "\u00f6ffentlich"
+    },
+    {
+        "input": "chilly",
+        "output": "warm"
+    },
+    {
+        "input": "lady",
+        "output": "herr"
+    },
+    {
+        "input": "curl",
+        "output": "gerade"
+    },
+    {
+        "input": "surrender",
+        "output": "widerstand"
+    },
+    {
+        "input": "indigenous",
+        "output": "nicht"
+    },
+    {
+        "input": "erect",
+        "output": "flach"
+    },
+    {
+        "input": "legislative",
+        "output": "exekutive"
+    },
+    {
+        "input": "accessible",
+        "output": "unzug\u00e4nglich"
+    },
+    {
+        "input": "antagonist",
+        "output": "hauptdarsteller"
+    },
+    {
+        "input": "charge",
+        "output": "entlastung"
+    },
+    {
+        "input": "precise",
+        "output": "vage"
+    },
+    {
+        "input": "stiff",
+        "output": "flexibel"
+    },
+    {
+        "input": "wonderful",
+        "output": "schrecklich"
+    },
+    {
+        "input": "tart",
+        "output": "s\u00fc\u00df"
+    },
+    {
+        "input": "stationary",
+        "output": "verschieben"
+    },
+    {
+        "input": "miserable",
+        "output": "freudig"
+    },
+    {
+        "input": "uncomfortable",
+        "output": "bequem"
+    },
+    {
+        "input": "southern",
+        "output": "nord"
+    },
+    {
+        "input": "expensive",
+        "output": "billig"
+    },
+    {
+        "input": "localized",
+        "output": "weit"
+    },
+    {
+        "input": "excited",
+        "output": "ruhe"
+    },
+    {
+        "input": "give",
+        "output": "nehmen"
+    },
+    {
+        "input": "imaginary",
+        "output": "real"
+    },
+    {
+        "input": "begin",
+        "output": "ende"
+    },
+    {
+        "input": "dawn",
+        "output": "d\u00e4mmerung"
+    },
+    {
+        "input": "secular",
+        "output": "religi\u00f6s"
+    },
+    {
+        "input": "decent",
+        "output": "unanst\u00e4ndig"
+    },
+    {
+        "input": "obsolete",
+        "output": "modern"
+    },
+    {
+        "input": "sink",
+        "output": "schwimmer"
+    },
+    {
+        "input": "clinical",
+        "output": "emotional"
+    },
+    {
+        "input": "data",
+        "output": "informationen"
+    },
+    {
+        "input": "vanish",
+        "output": "erscheinen"
+    },
+    {
+        "input": "diminish",
+        "output": "zunahme"
+    },
+    {
+        "input": "monumental",
+        "output": "unbedeutend"
+    },
+    {
+        "input": "discrete",
+        "output": "kontinuierlich"
+    },
+    {
+        "input": "hooked",
+        "output": "entriegelt"
+    },
+    {
+        "input": "competitive",
+        "output": "kooperative"
+    },
+    {
+        "input": "implement",
+        "output": "entfernen"
+    },
+    {
+        "input": "grandson",
+        "output": "gro\u00dfmutter"
+    },
+    {
+        "input": "liberal",
+        "output": "konservativ"
+    },
+    {
+        "input": "insignificant",
+        "output": "signifikant"
+    },
+    {
+        "input": "pleased",
+        "output": "unzufrieden"
+    },
+    {
+        "input": "absence",
+        "output": "anwesenheit"
+    },
+    {
+        "input": "advanced",
+        "output": "grundlegende"
+    },
+    {
+        "input": "absent",
+        "output": "anwesend"
+    },
+    {
+        "input": "serious",
+        "output": "lustig"
+    },
+    {
+        "input": "leading",
+        "output": "folgend"
+    },
+    {
+        "input": "draft",
+        "output": "endg\u00fcltig"
+    },
+    {
+        "input": "cloud",
+        "output": "himmel"
+    },
+    {
+        "input": "disability",
+        "output": "f\u00e4higkeit"
+    },
+    {
+        "input": "topical",
+        "output": "nicht-topisch"
+    },
+    {
+        "input": "integration",
+        "output": "differenzierung"
+    },
+    {
+        "input": "tired",
+        "output": "energetisch"
+    },
+    {
+        "input": "unfair",
+        "output": "fair"
+    },
+    {
+        "input": "annoy",
+        "output": "bitte."
+    },
+    {
+        "input": "vicious",
+        "output": "sanft"
+    },
+    {
+        "input": "cooperative",
+        "output": "unkooperativ"
+    },
+    {
+        "input": "essential",
+        "output": "nicht"
+    },
+    {
+        "input": "pleasure",
+        "output": "schmerzen"
+    },
+    {
+        "input": "pure",
+        "output": "unrein"
+    },
+    {
+        "input": "unwelcome",
+        "output": "willkommen"
+    },
+    {
+        "input": "shut",
+        "output": "ge\u00f6ffnet"
+    },
+    {
+        "input": "strength",
+        "output": "schw\u00e4che"
+    },
+    {
+        "input": "increase",
+        "output": "abnahme"
+    },
+    {
+        "input": "dissent",
+        "output": "zustimmung"
+    },
+    {
+        "input": "lasting",
+        "output": "vor\u00fcbergehend"
+    },
+    {
+        "input": "autonomous",
+        "output": "abh\u00e4ngig"
+    },
+    {
+        "input": "innocent",
+        "output": "schuldig"
+    },
+    {
+        "input": "move",
+        "output": "bleiben"
+    },
+    {
+        "input": "exempt",
+        "output": "haftbar"
+    },
+    {
+        "input": "standing",
+        "output": "sitzen"
+    },
+    {
+        "input": "weep",
+        "output": "lachen"
+    },
+    {
+        "input": "homeless",
+        "output": "untergebracht"
+    },
+    {
+        "input": "link",
+        "output": "entlinken"
+    },
+    {
+        "input": "appearance",
+        "output": "verschwinden"
+    },
+    {
+        "input": "outcome",
+        "output": "eingabe"
+    },
+    {
+        "input": "brittle",
+        "output": "langlebig"
+    },
+    {
+        "input": "marine",
+        "output": "terrestrisch"
+    },
+    {
+        "input": "squat",
+        "output": "stand"
+    },
+    {
+        "input": "foot",
+        "output": "hand"
+    },
+    {
+        "input": "crude",
+        "output": "raffiniert"
+    },
+    {
+        "input": "problem",
+        "output": "l\u00f6sung"
+    },
+    {
+        "input": "miniature",
+        "output": "riesen"
+    },
+    {
+        "input": "uncertain",
+        "output": "sicher"
+    },
+    {
+        "input": "fact",
+        "output": "fiktion"
+    },
+    {
+        "input": "worry",
+        "output": "entspannen"
+    },
+    {
+        "input": "incur",
+        "output": "kredit"
+    },
+    {
+        "input": "improper",
+        "output": "ordnungsgem\u00e4\u00df"
+    },
+    {
+        "input": "distress",
+        "output": "komfort"
+    },
+    {
+        "input": "delay",
+        "output": "vorschuss"
+    },
+    {
+        "input": "complexity",
+        "output": "einfachheit"
+    },
+    {
+        "input": "depart",
+        "output": "ankunft"
+    },
+    {
+        "input": "disappoint",
+        "output": "erf\u00fcllen"
+    },
+    {
+        "input": "middle",
+        "output": "enden"
+    },
+    {
+        "input": "hopeful",
+        "output": "verzweifelt"
+    },
+    {
+        "input": "first",
+        "output": "letzter"
+    },
+    {
+        "input": "explain",
+        "output": "verwirren"
+    },
+    {
+        "input": "dormant",
+        "output": "aktiv"
+    },
+    {
+        "input": "rear",
+        "output": "vorderseite"
+    },
+    {
+        "input": "preferable",
+        "output": "unerw\u00fcnscht"
+    },
+    {
+        "input": "refined",
+        "output": "roh"
+    },
+    {
+        "input": "scatter",
+        "output": "sammeln"
+    },
+    {
+        "input": "answer",
+        "output": "frage"
+    },
+    {
+        "input": "drunk",
+        "output": "n\u00fcchtern"
+    },
+    {
+        "input": "privilege",
+        "output": "nachteil"
+    },
+    {
+        "input": "hazardous",
+        "output": "sicher"
+    },
+    {
+        "input": "elementary",
+        "output": "fortgeschritten"
+    },
+    {
+        "input": "walk",
+        "output": "ausf\u00fchren"
+    },
+    {
+        "input": "obscure",
+        "output": "frei"
+    },
+    {
+        "input": "rush",
+        "output": "entspannen"
+    },
+    {
+        "input": "green",
+        "output": "rot"
+    },
+    {
+        "input": "powerless",
+        "output": "stark"
+    },
+    {
+        "input": "remain",
+        "output": "urlaub"
+    },
+    {
+        "input": "heating",
+        "output": "k\u00fchlen"
+    },
+    {
+        "input": "series",
+        "output": "parallel"
+    },
+    {
+        "input": "rebellious",
+        "output": "konform"
+    },
+    {
+        "input": "concentrated",
+        "output": "verd\u00fcnnt"
+    },
+    {
+        "input": "kind",
+        "output": "grausam"
+    },
+    {
+        "input": "cowardly",
+        "output": "mutig"
+    },
+    {
+        "input": "imply",
+        "output": "ausdr\u00fccklich"
+    },
+    {
+        "input": "downfall",
+        "output": "aufruhr"
+    },
+    {
+        "input": "bondage",
+        "output": "rechtssache"
+    },
+    {
+        "input": "bear",
+        "output": "hirsche"
+    },
+    {
+        "input": "lock",
+        "output": "entsperren"
+    },
+    {
+        "input": "verbal",
+        "output": "nonverbal"
+    },
+    {
+        "input": "coastal",
+        "output": "im"
+    },
+    {
+        "input": "striped",
+        "output": "fest"
+    },
+    {
+        "input": "indistinguishable",
+        "output": "unterscheidungsf\u00e4hig"
+    },
+    {
+        "input": "ignorant",
+        "output": "kenntnisreich"
+    },
+    {
+        "input": "mechanical",
+        "output": "organisch"
+    },
+    {
+        "input": "southeastern",
+        "output": "nordwesten"
+    },
+    {
+        "input": "muscular",
+        "output": "gebrechlich"
+    },
+    {
+        "input": "tragedy",
+        "output": "kom\u00f6die"
+    },
+    {
+        "input": "hunter",
+        "output": "beute"
+    },
+    {
+        "input": "bravery",
+        "output": "feigheit"
+    },
+    {
+        "input": "farewell",
+        "output": "gru\u00df"
+    },
+    {
+        "input": "tense",
+        "output": "entspannt"
+    },
+    {
+        "input": "vertical",
+        "output": "horizontal"
+    },
+    {
+        "input": "acceptable",
+        "output": "unannehmbar"
+    },
+    {
+        "input": "susceptibility",
+        "output": "widerstandsf\u00e4higkeit"
+    },
+    {
+        "input": "rivalry",
+        "output": "zusammenarbeit"
+    },
+    {
+        "input": "halt",
+        "output": "fahren"
+    },
+    {
+        "input": "core",
+        "output": "peripherie"
+    },
+    {
+        "input": "beast",
+        "output": "sch\u00f6nheit"
+    },
+    {
+        "input": "lessen",
+        "output": "zunahme"
+    },
+    {
+        "input": "salty",
+        "output": "s\u00fc\u00df"
+    },
+    {
+        "input": "legendary",
+        "output": "gew\u00f6hnlich"
+    },
+    {
+        "input": "defy",
+        "output": "einhaltung"
+    },
+    {
+        "input": "climb",
+        "output": "abstieg"
+    },
+    {
+        "input": "dotted",
+        "output": "fest"
+    },
+    {
+        "input": "neutral",
+        "output": "voreingenommen"
+    },
+    {
+        "input": "federal",
+        "output": "zustand"
+    },
+    {
+        "input": "ongoing",
+        "output": "abgeschlossen"
+    },
+    {
+        "input": "ability",
+        "output": "unf\u00e4higkeit"
+    },
+    {
+        "input": "brethren",
+        "output": "sistren"
+    },
+    {
+        "input": "disclaimer",
+        "output": "best\u00e4tigung"
+    },
+    {
+        "input": "perceive",
+        "output": "ignorieren"
+    },
+    {
+        "input": "unable",
+        "output": "in"
+    },
+    {
+        "input": "illustrious",
+        "output": "unbekannt"
+    },
+    {
+        "input": "bound",
+        "output": "frei"
+    },
+    {
+        "input": "solitary",
+        "output": "sozialer"
+    },
+    {
+        "input": "vest",
+        "output": "mantel"
+    },
+    {
+        "input": "source",
+        "output": "bestimmung"
+    },
+    {
+        "input": "eastern",
+        "output": "westliche"
+    },
+    {
+        "input": "father",
+        "output": "mutter"
+    },
+    {
+        "input": "mild",
+        "output": "schwere"
+    },
+    {
+        "input": "voluntary",
+        "output": "unfreiwillig"
+    },
+    {
+        "input": "far",
+        "output": "in"
+    },
+    {
+        "input": "central",
+        "output": "peripherer"
+    },
+    {
+        "input": "grand",
+        "output": "kleinlich"
+    },
+    {
+        "input": "west",
+        "output": "osten"
+    },
+    {
+        "input": "complete",
+        "output": "unvollst\u00e4ndig"
+    },
+    {
+        "input": "tricky",
+        "output": "einfach"
+    },
+    {
+        "input": "upgrade",
+        "output": "herabstufung"
+    },
+    {
+        "input": "virgin",
+        "output": "erfahrung"
+    },
+    {
+        "input": "love",
+        "output": "hass"
+    },
+    {
+        "input": "sad",
+        "output": "gl\u00fccklich"
+    },
+    {
+        "input": "ease",
+        "output": "schwierigkeiten"
+    },
+    {
+        "input": "lax",
+        "output": "streng"
+    },
+    {
+        "input": "prohibition",
+        "output": "genehmigung"
+    },
+    {
+        "input": "diluted",
+        "output": "konzentriert"
+    },
+    {
+        "input": "conscious",
+        "output": "bewusstlos"
+    },
+    {
+        "input": "weakening",
+        "output": "st\u00e4rkung"
+    },
+    {
+        "input": "lineman",
+        "output": "empf\u00e4nger"
+    },
+    {
+        "input": "prose",
+        "output": "poesie"
+    },
+    {
+        "input": "valid",
+        "output": "ung\u00fcltig"
+    },
+    {
+        "input": "illicit",
+        "output": "rechtsvorschriften"
+    },
+    {
+        "input": "material",
+        "output": "immaterielle"
+    },
+    {
+        "input": "work",
+        "output": "entspannen"
+    },
+    {
+        "input": "inspiration",
+        "output": "verzweiflung"
+    },
+    {
+        "input": "involve",
+        "output": "ausgenommen"
+    },
+    {
+        "input": "elevate",
+        "output": "druckabfall"
+    },
+    {
+        "input": "loaded",
+        "output": "leer"
+    },
+    {
+        "input": "celestial",
+        "output": "terrestrisch"
+    },
+    {
+        "input": "same",
+        "output": "unterschiedlich"
+    },
+    {
+        "input": "unpredictable",
+        "output": "vorhersagbar"
+    },
+    {
+        "input": "statutory",
+        "output": "nicht"
+    },
+    {
+        "input": "unified",
+        "output": "geteilt"
+    },
+    {
+        "input": "comic",
+        "output": "tragisch"
+    },
+    {
+        "input": "superficial",
+        "output": "tief"
+    },
+    {
+        "input": "contemporary",
+        "output": "traditionelle"
+    },
+    {
+        "input": "resistant",
+        "output": "empf\u00e4nglich"
+    },
+    {
+        "input": "abundant",
+        "output": "knapp"
+    },
+    {
+        "input": "intuitive",
+        "output": "gegenintuitiv"
+    },
+    {
+        "input": "start",
+        "output": "fertigstellen"
+    },
+    {
+        "input": "mercy",
+        "output": "grausamkeit"
+    },
+    {
+        "input": "inappropriate",
+        "output": "sachdienlich"
+    },
+    {
+        "input": "northwest",
+        "output": "s\u00fcdosten"
+    },
+    {
+        "input": "dependent",
+        "output": "unabh\u00e4ngig"
+    },
+    {
+        "input": "further",
+        "output": "n\u00e4her"
+    },
+    {
+        "input": "acquire",
+        "output": "verlieren"
+    },
+    {
+        "input": "dreadful",
+        "output": "entz\u00fcckend"
+    },
+    {
+        "input": "irrelevant",
+        "output": "sachdienlich"
+    },
+    {
+        "input": "immortal",
+        "output": "sterblich"
+    },
+    {
+        "input": "linear",
+        "output": "nichtlinear"
+    },
+    {
+        "input": "masculine",
+        "output": "weiblich"
+    },
+    {
+        "input": "integrated",
+        "output": "abgesondert"
+    },
+    {
+        "input": "rejoice",
+        "output": "trauer"
+    },
+    {
+        "input": "disinfect",
+        "output": "kontaminiert"
+    },
+    {
+        "input": "opponent",
+        "output": "verb\u00fcndet"
+    },
+    {
+        "input": "least",
+        "output": "die"
+    },
+    {
+        "input": "think",
+        "output": "vergessen"
+    },
+    {
+        "input": "virtual",
+        "output": "real"
+    },
+    {
+        "input": "cash",
+        "output": "kredit"
+    },
+    {
+        "input": "inconsistency",
+        "output": "konsistenz"
+    },
+    {
+        "input": "unmanned",
+        "output": "bemannt"
+    },
+    {
+        "input": "chronic",
+        "output": "akute"
+    },
+    {
+        "input": "grey",
+        "output": "bunt"
+    },
+    {
+        "input": "flat",
+        "output": "gekr\u00fcmmt"
+    },
+    {
+        "input": "unintended",
+        "output": "beabsichtigt"
+    },
+    {
+        "input": "mindfulness",
+        "output": "mindlessness"
+    },
+    {
+        "input": "quit",
+        "output": "weiter"
+    },
+    {
+        "input": "broken",
+        "output": "fest"
+    },
+    {
+        "input": "inverse",
+        "output": "direkt"
+    },
+    {
+        "input": "con",
+        "output": "pro"
+    },
+    {
+        "input": "displeasure",
+        "output": "vergn\u00fcgen"
+    },
+    {
+        "input": "vary",
+        "output": "konstant"
+    },
+    {
+        "input": "fancy",
+        "output": "klar"
+    },
+    {
+        "input": "spiral",
+        "output": "gerade"
+    },
+    {
+        "input": "unhealthy",
+        "output": "gesund"
+    },
+    {
+        "input": "useless",
+        "output": "n\u00fctzlich"
+    },
+    {
+        "input": "general",
+        "output": "spezifisch"
+    },
+    {
+        "input": "invent",
+        "output": "zerst\u00f6ren"
+    },
+    {
+        "input": "hypothetical",
+        "output": "realistisch"
+    },
+    {
+        "input": "action",
+        "output": "unt\u00e4tigkeit"
+    },
+    {
+        "input": "informal",
+        "output": "f\u00f6rmliche"
+    },
+    {
+        "input": "official",
+        "output": "inoffiziell"
+    },
+    {
+        "input": "announce",
+        "output": "verbergen"
+    },
+    {
+        "input": "double",
+        "output": "einzeln"
+    },
+    {
+        "input": "urban",
+        "output": "l\u00e4ndlich"
+    },
+    {
+        "input": "multinational",
+        "output": "ort"
+    },
+    {
+        "input": "birth",
+        "output": "tod"
+    },
+    {
+        "input": "violent",
+        "output": "friedlich"
+    },
+    {
+        "input": "awful",
+        "output": "wunderbar"
+    },
+    {
+        "input": "underground",
+        "output": "oberirdisch"
+    },
+    {
+        "input": "secondary",
+        "output": "grundschule"
+    },
+    {
+        "input": "contingent",
+        "output": "unausweichlich"
+    },
+    {
+        "input": "vocal",
+        "output": "still"
+    },
+    {
+        "input": "broad",
+        "output": "schmal"
+    },
+    {
+        "input": "plentiful",
+        "output": "knapp"
+    },
+    {
+        "input": "pain",
+        "output": "vergn\u00fcgen"
+    },
+    {
+        "input": "excessive",
+        "output": "unzureichend"
+    },
+    {
+        "input": "ancient",
+        "output": "modern"
+    },
+    {
+        "input": "dirty",
+        "output": "sauber"
+    },
+    {
+        "input": "prevent",
+        "output": "ursache"
+    },
+    {
+        "input": "hearing",
+        "output": "taubheit"
+    },
+    {
+        "input": "side",
+        "output": "zentrum"
+    },
+    {
+        "input": "violate",
+        "output": "einhaltung"
+    },
+    {
+        "input": "know",
+        "output": "ignorieren"
+    },
+    {
+        "input": "dismantle",
+        "output": "zusammenbauen"
+    },
+    {
+        "input": "willing",
+        "output": "unwillig"
+    },
+    {
+        "input": "swear",
+        "output": "lob"
+    },
+    {
+        "input": "leave",
+        "output": "ankunft"
+    },
+    {
+        "input": "spurious",
+        "output": "authentisch"
+    },
+    {
+        "input": "bankrupt",
+        "output": "l\u00f6sungsmittel"
+    },
+    {
+        "input": "mad",
+        "output": "sachverst\u00e4ndig"
+    },
+    {
+        "input": "appear",
+        "output": "verschwinden"
+    },
+    {
+        "input": "gloomy",
+        "output": "fr\u00f6hlich"
+    },
+    {
+        "input": "gain",
+        "output": "verlust"
+    },
+    {
+        "input": "reject",
+        "output": "akzeptieren"
+    },
+    {
+        "input": "immature",
+        "output": "reif"
+    },
+    {
+        "input": "median",
+        "output": "extrem"
+    },
+    {
+        "input": "descend",
+        "output": "aufstieg"
+    },
+    {
+        "input": "minority",
+        "output": "mehrheit"
+    },
+    {
+        "input": "blessing",
+        "output": "fluch"
+    },
+    {
+        "input": "copy",
+        "output": "original"
+    },
+    {
+        "input": "potential",
+        "output": "tats\u00e4chlich"
+    },
+    {
+        "input": "oversized",
+        "output": "untergr\u00f6\u00dfe"
+    },
+    {
+        "input": "software",
+        "output": "hardware"
+    },
+    {
+        "input": "doubtful",
+        "output": "sicher"
+    },
+    {
+        "input": "king",
+        "output": "k\u00f6nigin"
+    },
+    {
+        "input": "connected",
+        "output": "getrennt"
+    },
+    {
+        "input": "kick",
+        "output": "fang"
+    },
+    {
+        "input": "neoliberal",
+        "output": "konservativ"
+    },
+    {
+        "input": "communal",
+        "output": "individualistisch"
+    },
+    {
+        "input": "ignore",
+        "output": "achtung!"
+    },
+    {
+        "input": "clever",
+        "output": "dumm"
+    },
+    {
+        "input": "unsuccessful",
+        "output": "erfolg"
+    },
+    {
+        "input": "subjective",
+        "output": "ziel"
+    },
+    {
+        "input": "loss",
+        "output": "gewinn"
+    },
+    {
+        "input": "stop",
+        "output": "gehen"
+    },
+    {
+        "input": "keep",
+        "output": "verwerfen"
+    },
+    {
+        "input": "withdraw",
+        "output": "hinterlegung"
+    },
+    {
+        "input": "odd",
+        "output": "sogar"
+    },
+    {
+        "input": "drive",
+        "output": "park"
+    },
+    {
+        "input": "pastoral",
+        "output": "stadt"
+    },
+    {
+        "input": "southwestern",
+        "output": "nordosten"
+    },
+    {
+        "input": "superhuman",
+        "output": "mensch"
+    },
+    {
+        "input": "spread",
+        "output": "sammeln"
+    },
+    {
+        "input": "half",
+        "output": "vollst\u00e4ndig"
+    },
+    {
+        "input": "costly",
+        "output": "billig"
+    },
+    {
+        "input": "enough",
+        "output": "unzureichend"
+    },
+    {
+        "input": "ample",
+        "output": "knapp"
+    },
+    {
+        "input": "experimental",
+        "output": "traditionelle"
+    },
+    {
+        "input": "prominence",
+        "output": "unklarheit"
+    },
+    {
+        "input": "inexpensive",
+        "output": "teuer"
+    },
+    {
+        "input": "sophisticated",
+        "output": "einfach"
+    },
+    {
+        "input": "soil",
+        "output": "himmel"
+    },
+    {
+        "input": "embark",
+        "output": "ausschiffen"
+    },
+    {
+        "input": "authorize",
+        "output": "untersagen"
+    },
+    {
+        "input": "pop",
+        "output": "klassisch"
+    },
+    {
+        "input": "periphery",
+        "output": "zentrum"
+    },
+    {
+        "input": "negligence",
+        "output": "sorgfalt"
+    },
+    {
+        "input": "sit",
+        "output": "stand"
+    },
+    {
+        "input": "come",
+        "output": "gehen"
+    },
+    {
+        "input": "lender",
+        "output": "kreditnehmer"
+    },
+    {
+        "input": "corporate",
+        "output": "individuell"
+    },
+    {
+        "input": "poop",
+        "output": "sauber"
+    },
+    {
+        "input": "fit",
+        "output": "nicht"
+    },
+    {
+        "input": "injure",
+        "output": "heilen"
+    },
+    {
+        "input": "unaffected",
+        "output": "betroffene"
+    },
+    {
+        "input": "legalize",
+        "output": "kriminalisieren"
+    },
+    {
+        "input": "distant",
+        "output": "in"
+    },
+    {
+        "input": "section",
+        "output": "im"
+    },
+    {
+        "input": "confirm",
+        "output": "leugnen"
+    },
+    {
+        "input": "profound",
+        "output": "oberfl\u00e4chlich"
+    },
+    {
+        "input": "manual",
+        "output": "automatisch"
+    },
+    {
+        "input": "glut",
+        "output": "hungersnot"
+    },
+    {
+        "input": "surreal",
+        "output": "realistisch"
+    },
+    {
+        "input": "enlist",
+        "output": "entlastung"
+    },
+    {
+        "input": "knowledge",
+        "output": "ignoranz"
+    },
+    {
+        "input": "dull",
+        "output": "hell"
+    },
+    {
+        "input": "tacit",
+        "output": "ausdr\u00fccklich"
+    },
+    {
+        "input": "sickness",
+        "output": "gesundheit"
+    },
+    {
+        "input": "weakness",
+        "output": "st\u00e4rke"
+    },
+    {
+        "input": "decline",
+        "output": "zunahme"
+    },
+    {
+        "input": "aboriginal",
+        "output": "nicht-aboriginal"
+    },
+    {
+        "input": "abundance",
+        "output": "knappheit"
+    },
+    {
+        "input": "blue",
+        "output": "rot"
+    },
+    {
+        "input": "quick",
+        "output": "langsam"
+    },
+    {
+        "input": "conclusion",
+        "output": "einleitung"
+    },
+    {
+        "input": "pay",
+        "output": "empfangen"
+    },
+    {
+        "input": "safety",
+        "output": "gefahren"
+    },
+    {
+        "input": "downhill",
+        "output": "bergauf"
+    },
+    {
+        "input": "enlarge",
+        "output": "schrumpfen"
+    },
+    {
+        "input": "lights",
+        "output": "schatten"
+    },
+    {
+        "input": "certain",
+        "output": "ungewiss"
+    },
+    {
+        "input": "hot",
+        "output": "k\u00fchl"
+    },
+    {
+        "input": "silent",
+        "output": "laut"
+    },
+    {
+        "input": "affected",
+        "output": "unbeeindruckt"
+    },
+    {
+        "input": "approximate",
+        "output": "genau"
+    },
+    {
+        "input": "professional",
+        "output": "amateur"
+    },
+    {
+        "input": "planetary",
+        "output": "stellar"
+    },
+    {
+        "input": "fearless",
+        "output": "\u00e4ngstlich"
+    },
+    {
+        "input": "location",
+        "output": "verdr\u00e4ngung"
+    },
+    {
+        "input": "deflation",
+        "output": "inflation"
+    },
+    {
+        "input": "fine",
+        "output": "grob"
+    },
+    {
+        "input": "steady",
+        "output": "unbest\u00e4ndig"
+    },
+    {
+        "input": "winter",
+        "output": "sommer"
+    },
+    {
+        "input": "right",
+        "output": "falsch"
+    },
+    {
+        "input": "coloured",
+        "output": "monochrom"
+    },
+    {
+        "input": "payment",
+        "output": "empfang"
+    },
+    {
+        "input": "strike",
+        "output": "ersatz"
+    },
+    {
+        "input": "relax",
+        "output": "stress"
+    },
+    {
+        "input": "standby",
+        "output": "aktiv"
+    },
+    {
+        "input": "humble",
+        "output": "arrogant"
+    },
+    {
+        "input": "subtract",
+        "output": "hinzuf\u00fcgen"
+    },
+    {
+        "input": "north",
+        "output": "s\u00fcden"
+    },
+    {
+        "input": "speedy",
+        "output": "lethargisch"
+    },
+    {
+        "input": "former",
+        "output": "letztere"
+    },
+    {
+        "input": "creative",
+        "output": "unkreativ"
+    },
+    {
+        "input": "crisp",
+        "output": "\u00e4rgerlich"
+    },
+    {
+        "input": "idle",
+        "output": "besch\u00e4ftigt"
+    },
+    {
+        "input": "bored",
+        "output": "interessiert"
+    },
+    {
+        "input": "waste",
+        "output": "konservieren"
+    },
+    {
+        "input": "prosecution",
+        "output": "verteidigung"
+    },
+    {
+        "input": "comedy",
+        "output": "trag\u00f6die"
+    },
+    {
+        "input": "ambitious",
+        "output": "unerbittlich"
+    },
+    {
+        "input": "fair",
+        "output": "unfair"
+    },
+    {
+        "input": "dusty",
+        "output": "sauber"
+    },
+    {
+        "input": "widespread",
+        "output": "begrenzt"
+    },
+    {
+        "input": "confidential",
+        "output": "\u00f6ffentlich"
+    },
+    {
+        "input": "suffer",
+        "output": "genie\u00dfen"
+    },
+    {
+        "input": "inclusion",
+        "output": "ausschluss"
+    },
+    {
+        "input": "melody",
+        "output": "zwietracht"
+    },
+    {
+        "input": "reliable",
+        "output": "unzuverl\u00e4ssig"
+    },
+    {
+        "input": "evening",
+        "output": "morgen"
+    },
+    {
+        "input": "rural",
+        "output": "stadt"
+    },
+    {
+        "input": "folly",
+        "output": "weisheit"
+    },
+    {
+        "input": "theoretical",
+        "output": "praktisch"
+    },
+    {
+        "input": "happiness",
+        "output": "traurigkeit"
+    },
+    {
+        "input": "alternate",
+        "output": "grundschule"
+    },
+    {
+        "input": "ill",
+        "output": "gesund"
+    },
+    {
+        "input": "lousy",
+        "output": "ausgezeichnet"
+    },
+    {
+        "input": "imported",
+        "output": "im"
+    },
+    {
+        "input": "uniform",
+        "output": "abwechslungsreich"
+    },
+    {
+        "input": "idiot",
+        "output": "genie"
+    },
+    {
+        "input": "few",
+        "output": "viele"
+    },
+    {
+        "input": "winner",
+        "output": "verlierer"
+    },
+    {
+        "input": "nasty",
+        "output": "sch\u00f6n"
+    },
+    {
+        "input": "sound",
+        "output": "stille"
+    },
+    {
+        "input": "quiet",
+        "output": "laut"
+    },
+    {
+        "input": "weakened",
+        "output": "verst\u00e4rkt"
+    },
+    {
+        "input": "buy",
+        "output": "verkaufen"
+    },
+    {
+        "input": "asset",
+        "output": "haftung"
+    },
+    {
+        "input": "dangerous",
+        "output": "sicher"
+    },
+    {
+        "input": "disconnect",
+        "output": "verbinden"
+    },
+    {
+        "input": "participate",
+        "output": "zur\u00fcckziehen"
+    },
+    {
+        "input": "day",
+        "output": "nacht"
+    },
+    {
+        "input": "super",
+        "output": "unterlegene"
+    },
+    {
+        "input": "meaningless",
+        "output": "bedeutungsvoll"
+    },
+    {
+        "input": "economic",
+        "output": "unwirtschaftlich"
+    },
+    {
+        "input": "commercial",
+        "output": "wohngeb\u00e4ude"
+    },
+    {
+        "input": "yield",
+        "output": "widerstand"
+    },
+    {
+        "input": "unpaid",
+        "output": "bezahlt"
+    },
+    {
+        "input": "upper",
+        "output": "niedriger"
+    },
+    {
+        "input": "feature",
+        "output": "fehler"
+    },
+    {
+        "input": "disadvantage",
+        "output": "vorteil"
+    },
+    {
+        "input": "barren",
+        "output": "fruchtbar"
+    },
+    {
+        "input": "huge",
+        "output": "winzig"
+    },
+    {
+        "input": "fault",
+        "output": "verdienst"
+    },
+    {
+        "input": "expose",
+        "output": "verbergen"
+    },
+    {
+        "input": "authentic",
+        "output": "f\u00e4lschung"
+    },
+    {
+        "input": "internal",
+        "output": "extern"
+    },
+    {
+        "input": "rotten",
+        "output": "frisch"
+    },
+    {
+        "input": "mathematical",
+        "output": "nichtmathematisch"
+    },
+    {
+        "input": "defeat",
+        "output": "sieg"
+    },
+    {
+        "input": "traditional",
+        "output": "modern"
+    },
+    {
+        "input": "escalate",
+        "output": "deeskalation"
+    },
+    {
+        "input": "vital",
+        "output": "nicht"
+    },
+    {
+        "input": "definite",
+        "output": "unbestimmt"
+    },
+    {
+        "input": "madness",
+        "output": "gesundheit"
+    },
+    {
+        "input": "anti",
+        "output": "pro"
+    },
+    {
+        "input": "bilateral",
+        "output": "einseitig"
+    },
+    {
+        "input": "boycott",
+        "output": "unterst\u00fctzung"
+    },
+    {
+        "input": "insertion",
+        "output": "entfernung"
+    },
+    {
+        "input": "enter",
+        "output": "ausfahrt"
+    },
+    {
+        "input": "past",
+        "output": "zukunft"
+    },
+    {
+        "input": "arm",
+        "output": "bein"
+    },
+    {
+        "input": "receiver",
+        "output": "absender"
+    },
+    {
+        "input": "mourn",
+        "output": "feiern"
+    },
+    {
+        "input": "brown",
+        "output": "wei\u00df"
+    },
+    {
+        "input": "freedom",
+        "output": "unterdr\u00fcckung"
+    },
+    {
+        "input": "achievable",
+        "output": "unerreichbar"
+    },
+    {
+        "input": "impoverished",
+        "output": "reich"
+    },
+    {
+        "input": "polite",
+        "output": "unh\u00f6flich"
+    },
+    {
+        "input": "gritty",
+        "output": "glatt"
+    },
+    {
+        "input": "previous",
+        "output": "n\u00e4chster"
+    },
+    {
+        "input": "clean",
+        "output": "schmutzig"
+    },
+    {
+        "input": "treacherous",
+        "output": "vertrauensw\u00fcrdig"
+    },
+    {
+        "input": "light",
+        "output": "schwer"
+    },
+    {
+        "input": "unofficial",
+        "output": "amtlich"
+    },
+    {
+        "input": "responsible",
+        "output": "unverantwortlich"
+    },
+    {
+        "input": "place",
+        "output": "verdr\u00e4ngung"
+    },
+    {
+        "input": "blame",
+        "output": "lob"
+    },
+    {
+        "input": "impossibility",
+        "output": "m\u00f6glichkeit"
+    },
+    {
+        "input": "default",
+        "output": "angepasst"
+    },
+    {
+        "input": "reluctant",
+        "output": "sehns\u00fcchtig"
+    },
+    {
+        "input": "protective",
+        "output": "vernachl\u00e4ssigung"
+    },
+    {
+        "input": "strict",
+        "output": "nachgiebigkeit"
+    },
+    {
+        "input": "stout",
+        "output": "schlank"
+    },
+    {
+        "input": "confront",
+        "output": "vermeiden"
+    },
+    {
+        "input": "acknowledge",
+        "output": "ignorieren"
+    },
+    {
+        "input": "necessary",
+        "output": "unn\u00f6tig"
+    },
+    {
+        "input": "restore",
+        "output": "zerst\u00f6ren"
+    },
+    {
+        "input": "accept",
+        "output": "ablehnen"
+    },
+    {
+        "input": "offend",
+        "output": "beschwichtigung"
+    },
+    {
+        "input": "wisdom",
+        "output": "dummheit"
+    },
+    {
+        "input": "antidote",
+        "output": "gift"
+    },
+    {
+        "input": "remote",
+        "output": "in"
+    },
+    {
+        "input": "anterior",
+        "output": "posterior"
+    },
+    {
+        "input": "bipartisan",
+        "output": "partisan"
+    },
+    {
+        "input": "invalid",
+        "output": "g\u00fcltig"
+    },
+    {
+        "input": "fall",
+        "output": "anstieg"
+    },
+    {
+        "input": "external",
+        "output": "innerbetrieblich"
+    },
+    {
+        "input": "resent",
+        "output": "sch\u00e4tzen"
+    },
+    {
+        "input": "impartial",
+        "output": "voreingenommen"
+    },
+    {
+        "input": "let",
+        "output": "verhindern"
+    },
+    {
+        "input": "genuine",
+        "output": "f\u00e4lschung"
+    },
+    {
+        "input": "refuse",
+        "output": "akzeptieren"
+    },
+    {
+        "input": "damned",
+        "output": "gesegnet"
+    },
+    {
+        "input": "stadium",
+        "output": "bereich"
+    },
+    {
+        "input": "married",
+        "output": "einzeln"
+    },
+    {
+        "input": "accompany",
+        "output": "lassen"
+    },
+    {
+        "input": "power",
+        "output": "schw\u00e4che"
+    },
+    {
+        "input": "hire",
+        "output": "feuer"
+    },
+    {
+        "input": "cerebral",
+        "output": "physikalisch"
+    },
+    {
+        "input": "marry",
+        "output": "scheidung"
+    },
+    {
+        "input": "teenage",
+        "output": "\u00e4ltere"
+    },
+    {
+        "input": "inquiry",
+        "output": "antwort"
+    },
+    {
+        "input": "falsehood",
+        "output": "wahrheit"
+    },
+    {
+        "input": "absurd",
+        "output": "vern\u00fcnftig"
+    },
+    {
+        "input": "inaccessible",
+        "output": "zug\u00e4nglich"
+    },
+    {
+        "input": "ultimate",
+        "output": "anfangs"
+    },
+    {
+        "input": "note",
+        "output": "stille"
+    },
+    {
+        "input": "unarmed",
+        "output": "bewaffnet"
+    },
+    {
+        "input": "admit",
+        "output": "leugnen"
+    },
+    {
+        "input": "maintain",
+        "output": "verschlechtern"
+    },
+    {
+        "input": "protect",
+        "output": "schaden"
+    },
+    {
+        "input": "applaud",
+        "output": "-"
+    },
+    {
+        "input": "veil",
+        "output": "enth\u00fcllen"
+    },
+    {
+        "input": "angular",
+        "output": "gerundet"
+    },
+    {
+        "input": "late",
+        "output": "anfang"
+    },
+    {
+        "input": "tail",
+        "output": "kopf"
+    },
+    {
+        "input": "aunt",
+        "output": "onkel"
+    },
+    {
+        "input": "clarity",
+        "output": "verwirrung"
+    },
+    {
+        "input": "uncle",
+        "output": "tante"
+    },
+    {
+        "input": "deficient",
+        "output": "reichlich"
+    },
+    {
+        "input": "civilian",
+        "output": "milit\u00e4risch"
+    },
+    {
+        "input": "worn",
+        "output": "neu"
+    },
+    {
+        "input": "read",
+        "output": "schreiben"
+    },
+    {
+        "input": "part",
+        "output": "im"
+    },
+    {
+        "input": "willingness",
+        "output": "zur\u00fcckhaltung"
+    },
+    {
+        "input": "earthly",
+        "output": "himmlisch"
+    },
+    {
+        "input": "elusive",
+        "output": "offensichtlich"
+    },
+    {
+        "input": "ugly",
+        "output": "sch\u00f6n"
+    },
+    {
+        "input": "frontal",
+        "output": "hinten"
+    },
+    {
+        "input": "partial",
+        "output": "vollst\u00e4ndig"
+    },
+    {
+        "input": "devil",
+        "output": "engel"
+    },
+    {
+        "input": "timid",
+        "output": "fett"
+    },
+    {
+        "input": "atomic",
+        "output": "molybd\u00e4n"
+    },
+    {
+        "input": "inside",
+        "output": "au\u00dferhalb"
+    },
+    {
+        "input": "separation",
+        "output": "gewerkschaft"
+    },
+    {
+        "input": "unrestricted",
+        "output": "eingeschr\u00e4nkt"
+    },
+    {
+        "input": "tough",
+        "output": "leicht"
+    },
+    {
+        "input": "nude",
+        "output": "mit"
+    },
+    {
+        "input": "future",
+        "output": "vergangenheit"
+    },
+    {
+        "input": "inaccurate",
+        "output": "genau"
+    },
+    {
+        "input": "agricultural",
+        "output": "industrie"
+    },
+    {
+        "input": "tails",
+        "output": "kopf"
+    },
+    {
+        "input": "northwestern",
+        "output": "s\u00fcdosten"
+    },
+    {
+        "input": "emotional",
+        "output": "unemotional"
+    },
+    {
+        "input": "bull",
+        "output": "kuh"
+    },
+    {
+        "input": "cause",
+        "output": "wirkung"
+    },
+    {
+        "input": "documentary",
+        "output": "fiktion"
+    },
+    {
+        "input": "incoming",
+        "output": "ausgehend"
+    },
+    {
+        "input": "total",
+        "output": "teilweise"
+    },
+    {
+        "input": "raw",
+        "output": "gekocht"
+    },
+    {
+        "input": "unreliable",
+        "output": "zuverl\u00e4ssig"
+    },
+    {
+        "input": "sticky",
+        "output": "rutschig"
+    },
+    {
+        "input": "premature",
+        "output": "reif"
+    },
+    {
+        "input": "tighten",
+        "output": "l\u00f6sen"
+    },
+    {
+        "input": "settle",
+        "output": "unterbrechung"
+    },
+    {
+        "input": "oral",
+        "output": "geschrieben"
+    },
+    {
+        "input": "intact",
+        "output": "gebrochen"
+    },
+    {
+        "input": "please",
+        "output": "vielen"
+    },
+    {
+        "input": "short",
+        "output": "lang"
+    },
+    {
+        "input": "goofy",
+        "output": "schwerwiegend"
+    },
+    {
+        "input": "unconditional",
+        "output": "bedingt"
+    },
+    {
+        "input": "stand",
+        "output": "sitzen"
+    },
+    {
+        "input": "sack",
+        "output": "packung"
+    },
+    {
+        "input": "weighted",
+        "output": "ungewichtet"
+    },
+    {
+        "input": "stick",
+        "output": "freigabe"
+    },
+    {
+        "input": "intimidate",
+        "output": "beruhigen"
+    },
+    {
+        "input": "subdued",
+        "output": "vibrierend"
+    },
+    {
+        "input": "average",
+        "output": "ausnahmsweise"
+    },
+    {
+        "input": "unmarked",
+        "output": "markiert"
+    },
+    {
+        "input": "human",
+        "output": "tierart"
+    },
+    {
+        "input": "shorten",
+        "output": "l\u00e4ngenl\u00e4ngen"
+    },
+    {
+        "input": "extension",
+        "output": "kontraktion"
+    },
+    {
+        "input": "paste",
+        "output": "schnitt"
+    },
+    {
+        "input": "object",
+        "output": "gegenstand"
+    },
+    {
+        "input": "illegal",
+        "output": "rechts-"
+    },
+    {
+        "input": "appreciation",
+        "output": "kritik"
+    },
+    {
+        "input": "empirical",
+        "output": "theoretische"
+    },
+    {
+        "input": "back",
+        "output": "vorderseite"
+    },
+    {
+        "input": "omit",
+        "output": "einschlie\u00dflich"
+    },
+    {
+        "input": "literary",
+        "output": "analphabeten"
+    },
+    {
+        "input": "cool",
+        "output": "warm"
+    },
+    {
+        "input": "depression",
+        "output": "entwicklung"
+    },
+    {
+        "input": "pessimistic",
+        "output": "optimistisch"
+    },
+    {
+        "input": "fortunate",
+        "output": "ungl\u00fccklich"
+    },
+    {
+        "input": "old",
+        "output": "neu"
+    },
+    {
+        "input": "discredit",
+        "output": "kredit"
+    },
+    {
+        "input": "safe",
+        "output": "gef\u00e4hrlich"
+    },
+    {
+        "input": "wide",
+        "output": "schmal"
+    },
+    {
+        "input": "arise",
+        "output": "abgleich"
+    },
+    {
+        "input": "unfortunate",
+        "output": "gl\u00fccklich"
+    },
+    {
+        "input": "recession",
+        "output": "hochkonjunktur"
+    },
+    {
+        "input": "swim",
+        "output": "spaziergang"
+    },
+    {
+        "input": "passive",
+        "output": "aktiv"
+    },
+    {
+        "input": "check",
+        "output": "auschecken"
+    },
+    {
+        "input": "monarchy",
+        "output": "rechtssache"
+    },
+    {
+        "input": "retrieve",
+        "output": "verwerfen"
+    },
+    {
+        "input": "uncertainty",
+        "output": "sicherheit"
+    },
+    {
+        "input": "cooperate",
+        "output": "wettbewerb"
+    },
+    {
+        "input": "ridicule",
+        "output": "lob"
+    },
+    {
+        "input": "mortal",
+        "output": "unsterblich"
+    },
+    {
+        "input": "imbalance",
+        "output": "saldo"
+    },
+    {
+        "input": "popular",
+        "output": "unpopul\u00e4r"
+    },
+    {
+        "input": "disappointed",
+        "output": "zufrieden"
+    },
+    {
+        "input": "view",
+        "output": "blindheit"
+    },
+    {
+        "input": "feasible",
+        "output": "undurchf\u00fchrbar"
+    },
+    {
+        "input": "problematic",
+        "output": "unproblematisch"
+    },
+    {
+        "input": "wreck",
+        "output": "erhaltung"
+    },
+    {
+        "input": "upstairs",
+        "output": "unten"
+    },
+    {
+        "input": "feed",
+        "output": "verhungern"
+    },
+    {
+        "input": "annual",
+        "output": "mehrj\u00e4hrige"
+    },
+    {
+        "input": "demand",
+        "output": "versorgung"
+    },
+    {
+        "input": "medical",
+        "output": "nicht-medizinische"
+    },
+    {
+        "input": "damn",
+        "output": "segnen"
+    },
+    {
+        "input": "citizen",
+        "output": "ausl\u00e4nder"
+    },
+    {
+        "input": "belief",
+        "output": "zweifel"
+    },
+    {
+        "input": "arrival",
+        "output": "abreise"
+    },
+    {
+        "input": "marvelous",
+        "output": "schrecklich"
+    },
+    {
+        "input": "northern",
+        "output": "s\u00fcdliche"
+    },
+    {
+        "input": "eligible",
+        "output": "nicht"
+    },
+    {
+        "input": "parallel",
+        "output": "senkrecht"
+    },
+    {
+        "input": "reciprocal",
+        "output": "direkt"
+    },
+    {
+        "input": "cosmic",
+        "output": "terrestrisch"
+    },
+    {
+        "input": "justify",
+        "output": "verurteilen"
+    },
+    {
+        "input": "unethical",
+        "output": "ethisch"
+    },
+    {
+        "input": "international",
+        "output": "im"
+    },
+    {
+        "input": "upside",
+        "output": "abw\u00e4rtstrend"
+    },
+    {
+        "input": "subsidy",
+        "output": "steuer"
+    },
+    {
+        "input": "intellectual",
+        "output": "unintellektuell"
+    },
+    {
+        "input": "daytime",
+        "output": "nacht"
+    },
+    {
+        "input": "enforce",
+        "output": "aufhebung"
+    },
+    {
+        "input": "elaborate",
+        "output": "einfach"
+    },
+    {
+        "input": "beg",
+        "output": "ende"
+    },
+    {
+        "input": "simplistic",
+        "output": "komplex"
+    },
+    {
+        "input": "laugh",
+        "output": "schreien"
+    },
+    {
+        "input": "overweight",
+        "output": "untergewicht"
+    },
+    {
+        "input": "addition",
+        "output": "subtraktion"
+    },
+    {
+        "input": "awkward",
+        "output": "anmutig"
+    },
+    {
+        "input": "oval",
+        "output": "rund"
+    },
+    {
+        "input": "nobody",
+        "output": "jeder"
+    },
+    {
+        "input": "acid",
+        "output": "basis"
+    },
+    {
+        "input": "have",
+        "output": "mangel"
+    },
+    {
+        "input": "red",
+        "output": "blau"
+    },
+    {
+        "input": "veto",
+        "output": "genehmigung"
+    },
+    {
+        "input": "skew",
+        "output": "gerade"
+    },
+    {
+        "input": "conceal",
+        "output": "enth\u00fcllen"
+    },
+    {
+        "input": "modern",
+        "output": "traditionelle"
+    },
+    {
+        "input": "meaningful",
+        "output": "bedeutungslos"
+    },
+    {
+        "input": "mobile",
+        "output": "station\u00e4r"
+    },
+    {
+        "input": "intrinsic",
+        "output": "extrinsisch"
+    },
+    {
+        "input": "contract",
+        "output": "expandieren"
+    },
+    {
+        "input": "valley",
+        "output": "berg"
+    },
+    {
+        "input": "second",
+        "output": "zuerst"
+    },
+    {
+        "input": "common",
+        "output": "selten"
+    },
+    {
+        "input": "harvest",
+        "output": "pflanzung"
+    },
+    {
+        "input": "illegitimate",
+        "output": "legitim"
+    },
+    {
+        "input": "troubled",
+        "output": "friedlich"
+    },
+    {
+        "input": "anxious",
+        "output": "ruhe"
+    },
+    {
+        "input": "unwilling",
+        "output": "bereit"
+    },
+    {
+        "input": "longtime",
+        "output": "kurze"
+    },
+    {
+        "input": "infield",
+        "output": "au\u00dfenfeld"
+    },
+    {
+        "input": "honest",
+        "output": "unehrlich"
+    },
+    {
+        "input": "closed",
+        "output": "ge\u00f6ffnet"
+    },
+    {
+        "input": "match",
+        "output": "inkongruenz"
+    },
+    {
+        "input": "promote",
+        "output": "degradieren"
+    },
+    {
+        "input": "makeshift",
+        "output": "dauerhaft"
+    },
+    {
+        "input": "raise",
+        "output": "niedriger"
+    },
+    {
+        "input": "imperfect",
+        "output": "perfekt"
+    },
+    {
+        "input": "isolated",
+        "output": "verbunden"
+    },
+    {
+        "input": "periodic",
+        "output": "aperiodisch"
+    },
+    {
+        "input": "query",
+        "output": "antwort"
+    },
+    {
+        "input": "sovereign",
+        "output": "unterw\u00fcrfig"
+    },
+    {
+        "input": "intensive",
+        "output": "entspannt"
+    },
+    {
+        "input": "tight",
+        "output": "lose"
+    },
+    {
+        "input": "affirm",
+        "output": "leugnen"
+    },
+    {
+        "input": "conventional",
+        "output": "unkonventionell"
+    },
+    {
+        "input": "judicial",
+        "output": "au\u00dfergerichtlich"
+    },
+    {
+        "input": "liabilities",
+        "output": "aktiva"
+    },
+    {
+        "input": "oust",
+        "output": "installieren"
+    },
+    {
+        "input": "terrible",
+        "output": "wunderbar"
+    },
+    {
+        "input": "interim",
+        "output": "dauerhaft"
+    },
+    {
+        "input": "blindness",
+        "output": "sehverm\u00f6gen"
+    },
+    {
+        "input": "impossible",
+        "output": "m\u00f6glich"
+    },
+    {
+        "input": "extinct",
+        "output": "lebend"
+    },
+    {
+        "input": "deep",
+        "output": "flach"
+    },
+    {
+        "input": "advantage",
+        "output": "nachteil"
+    },
+    {
+        "input": "faulty",
+        "output": "einwandfrei"
+    },
+    {
+        "input": "luxury",
+        "output": "armut"
+    },
+    {
+        "input": "confused",
+        "output": "klar"
+    },
+    {
+        "input": "deliberate",
+        "output": "impulsiv"
+    },
+    {
+        "input": "applied",
+        "output": "theoretische"
+    },
+    {
+        "input": "fantastic",
+        "output": "schrecklich"
+    },
+    {
+        "input": "laughter",
+        "output": "tr\u00e4nen"
+    },
+    {
+        "input": "mono",
+        "output": "stereoanlage"
+    },
+    {
+        "input": "only",
+        "output": "viele"
+    },
+    {
+        "input": "context",
+        "output": "inhalt"
+    },
+    {
+        "input": "capable",
+        "output": "unf\u00e4hig"
+    },
+    {
+        "input": "finish",
+        "output": "anfang"
+    },
+    {
+        "input": "servicing",
+        "output": "vernachl\u00e4ssigung"
+    },
+    {
+        "input": "origin",
+        "output": "bestimmung"
+    },
+    {
+        "input": "fill",
+        "output": "leer"
+    },
+    {
+        "input": "victory",
+        "output": "niederlage"
+    },
+    {
+        "input": "understatement",
+        "output": "\u00fcbertreibung"
+    },
+    {
+        "input": "satisfy",
+        "output": "unzufrieden"
+    },
+    {
+        "input": "formal",
+        "output": "informell"
+    },
+    {
+        "input": "mental",
+        "output": "physikalisch"
+    },
+    {
+        "input": "disrespect",
+        "output": "achtung"
+    },
+    {
+        "input": "lavish",
+        "output": "frugal"
+    },
+    {
+        "input": "woman",
+        "output": "mann"
+    },
+    {
+        "input": "dead",
+        "output": "lebend"
+    },
+    {
+        "input": "explicit",
+        "output": "implizit"
+    },
+    {
+        "input": "due",
+        "output": "\u00fcberf\u00e4llig"
+    },
+    {
+        "input": "open",
+        "output": "geschlossen"
+    },
+    {
+        "input": "knockout",
+        "output": "wiederbelebung"
+    },
+    {
+        "input": "graduate",
+        "output": "undergraduate"
+    },
+    {
+        "input": "permission",
+        "output": "verbot"
+    },
+    {
+        "input": "ornament",
+        "output": "klar"
+    },
+    {
+        "input": "tangible",
+        "output": "immaterielle"
+    },
+    {
+        "input": "undo",
+        "output": "tun"
+    },
+    {
+        "input": "respect",
+        "output": "respektlosigkeit"
+    },
+    {
+        "input": "bold",
+        "output": "\u00e4ngstlich"
+    },
+    {
+        "input": "arrogant",
+        "output": "bescheiden"
+    },
+    {
+        "input": "succeed",
+        "output": "fehlschlagen"
+    },
+    {
+        "input": "import",
+        "output": "ausfuhr"
+    },
+    {
+        "input": "partisan",
+        "output": "zweiparteien"
+    },
+    {
+        "input": "nonpartisan",
+        "output": "partisan"
+    },
+    {
+        "input": "slow",
+        "output": "schnell"
+    },
+    {
+        "input": "husband",
+        "output": "ehefrau"
+    },
+    {
+        "input": "regular",
+        "output": "unregelm\u00e4\u00dfig"
+    },
+    {
+        "input": "hind",
+        "output": "vorderseite"
+    },
+    {
+        "input": "south",
+        "output": "norden"
+    },
+    {
+        "input": "geographic",
+        "output": "nichtgeografisch"
+    },
+    {
+        "input": "catch",
+        "output": "freigabe"
+    },
+    {
+        "input": "angry",
+        "output": "gl\u00fccklich"
+    },
+    {
+        "input": "casual",
+        "output": "f\u00f6rmliche"
+    },
+    {
+        "input": "consumer",
+        "output": "hersteller"
+    },
+    {
+        "input": "mutual",
+        "output": "individuell"
+    },
+    {
+        "input": "change",
+        "output": "bleiben"
+    },
+    {
+        "input": "spectral",
+        "output": "nicht-spektral"
+    },
+    {
+        "input": "specific",
+        "output": "allgemeines"
+    },
+    {
+        "input": "extreme",
+        "output": "mittelschwer"
+    },
+    {
+        "input": "mythical",
+        "output": "realistisch"
+    },
+    {
+        "input": "improvement",
+        "output": "verschlechterung"
+    },
+    {
+        "input": "sudden",
+        "output": "schrittweise"
+    },
+    {
+        "input": "attract",
+        "output": "absto\u00dfung"
+    },
+    {
+        "input": "disorder",
+        "output": "reihenfolge"
+    },
+    {
+        "input": "segregated",
+        "output": "integriert"
+    },
+    {
+        "input": "unconventional",
+        "output": "konventionell"
+    },
+    {
+        "input": "original",
+        "output": "kopie"
+    },
+    {
+        "input": "retrospect",
+        "output": "aussicht"
+    },
+    {
+        "input": "anarchy",
+        "output": "reihenfolge"
+    },
+    {
+        "input": "spiritual",
+        "output": "materialistisch"
+    },
+    {
+        "input": "moot",
+        "output": "\u00fcberpr\u00fcfbar"
+    },
+    {
+        "input": "mistrust",
+        "output": "vertrauen"
+    },
+    {
+        "input": "blessed",
+        "output": "verflucht"
+    },
+    {
+        "input": "emphasize",
+        "output": "downplay"
+    },
+    {
+        "input": "insane",
+        "output": "sachverst\u00e4ndig"
+    },
+    {
+        "input": "ready",
+        "output": "unvorbereitet"
+    },
+    {
+        "input": "wake",
+        "output": "schlaf"
+    },
+    {
+        "input": "loud",
+        "output": "ruhig"
+    },
+    {
+        "input": "income",
+        "output": "ausgaben"
+    },
+    {
+        "input": "employee",
+        "output": "arbeitgeber"
+    },
+    {
+        "input": "true",
+        "output": "falsch"
+    },
+    {
+        "input": "marriage",
+        "output": "scheidung"
+    },
+    {
+        "input": "recall",
+        "output": "vergessen"
+    },
+    {
+        "input": "bra",
+        "output": "h\u00f6schen"
+    },
+    {
+        "input": "offset",
+        "output": "ausgerichtet"
+    },
+    {
+        "input": "dislike",
+        "output": "wie"
+    },
+    {
+        "input": "decode",
+        "output": "kodieren"
+    },
+    {
+        "input": "weak",
+        "output": "stark"
+    },
+    {
+        "input": "chill",
+        "output": "w\u00e4rme"
+    },
+    {
+        "input": "sister",
+        "output": "bruder"
+    },
+    {
+        "input": "even",
+        "output": "komisch"
+    },
+    {
+        "input": "digital",
+        "output": "analog"
+    },
+    {
+        "input": "adjective",
+        "output": "substantiv"
+    },
+    {
+        "input": "astronomical",
+        "output": "terrestrisch"
+    },
+    {
+        "input": "partner",
+        "output": "gegner"
+    },
+    {
+        "input": "fresh",
+        "output": "schl\u00e4frigkeit"
+    },
+    {
+        "input": "redundant",
+        "output": "wichtig"
+    },
+    {
+        "input": "mention",
+        "output": "ignorieren"
+    },
+    {
+        "input": "base",
+        "output": "spitzenwert"
+    },
+    {
+        "input": "virtuous",
+        "output": "s\u00fcndig"
+    },
+    {
+        "input": "imaginative",
+        "output": "praktisch"
+    },
+    {
+        "input": "absolute",
+        "output": "relativ"
+    },
+    {
+        "input": "disappear",
+        "output": "erscheinen"
+    },
+    {
+        "input": "sober",
+        "output": "betrunken"
+    },
+    {
+        "input": "relieve",
+        "output": "verschlimmerung"
+    },
+    {
+        "input": "miss",
+        "output": "getroffen"
+    },
+    {
+        "input": "stern",
+        "output": "nachgiebigkeit"
+    },
+    {
+        "input": "imprison",
+        "output": "frei"
+    },
+    {
+        "input": "artificial",
+        "output": "nat\u00fcrliche"
+    },
+    {
+        "input": "primary",
+        "output": "sekundarbereich"
+    },
+    {
+        "input": "believe",
+        "output": "zweifel"
+    }
+]

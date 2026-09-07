@@ -1,0 +1,4002 @@
+[
+    {
+        "input": "d723ba",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "794244",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "ffd906",
+        "output": "aqua"
+    },
+    {
+        "input": "51338d",
+        "output": "sienna"
+    },
+    {
+        "input": "8ee302",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "4b02d3",
+        "output": "chocolate"
+    },
+    {
+        "input": "b595d3",
+        "output": "tan"
+    },
+    {
+        "input": "2c4501",
+        "output": "midnightblue"
+    },
+    {
+        "input": "b83322",
+        "output": "limegreen"
+    },
+    {
+        "input": "9ca388",
+        "output": "lightslategray"
+    },
+    {
+        "input": "03d003",
+        "output": "mediumblue"
+    },
+    {
+        "input": "74267d",
+        "output": "olivedrab"
+    },
+    {
+        "input": "ab2be0",
+        "output": "goldenrod"
+    },
+    {
+        "input": "9c6827",
+        "output": "seagreen"
+    },
+    {
+        "input": "0a112d",
+        "output": "black"
+    },
+    {
+        "input": "10f04c",
+        "output": "blueviolet"
+    },
+    {
+        "input": "85cb3b",
+        "output": "steelblue"
+    },
+    {
+        "input": "2be587",
+        "output": "blueviolet"
+    },
+    {
+        "input": "a69bfc",
+        "output": "lightsalmon"
+    },
+    {
+        "input": "1303c2",
+        "output": "firebrick"
+    },
+    {
+        "input": "6430b0",
+        "output": "sienna"
+    },
+    {
+        "input": "00e17d",
+        "output": "darkviolet"
+    },
+    {
+        "input": "9f3efe",
+        "output": "coral"
+    },
+    {
+        "input": "a9b9d4",
+        "output": "silver"
+    },
+    {
+        "input": "efd30d",
+        "output": "darkturquoise"
+    },
+    {
+        "input": "ded369",
+        "output": "mediumturquoise"
+    },
+    {
+        "input": "0ccb3c",
+        "output": "mediumblue"
+    },
+    {
+        "input": "5f65aa",
+        "output": "indianred"
+    },
+    {
+        "input": "8a2e3a",
+        "output": "forestgreen"
+    },
+    {
+        "input": "8c2b26",
+        "output": "forestgreen"
+    },
+    {
+        "input": "9cc28d",
+        "output": "darkgray"
+    },
+    {
+        "input": "306b36",
+        "output": "midnightblue"
+    },
+    {
+        "input": "420797",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "6e51c1",
+        "output": "indianred"
+    },
+    {
+        "input": "0ae31f",
+        "output": "mediumblue"
+    },
+    {
+        "input": "27f5e6",
+        "output": "fuchsia"
+    },
+    {
+        "input": "d84319",
+        "output": "limegreen"
+    },
+    {
+        "input": "4d09b4",
+        "output": "sienna"
+    },
+    {
+        "input": "06dd4a",
+        "output": "blueviolet"
+    },
+    {
+        "input": "f81279",
+        "output": "lawngreen"
+    },
+    {
+        "input": "a005ea",
+        "output": "orange"
+    },
+    {
+        "input": "789e69",
+        "output": "slategray"
+    },
+    {
+        "input": "07b9e5",
+        "output": "deeppink"
+    },
+    {
+        "input": "53f302",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "673e29",
+        "output": "darkslategray"
+    },
+    {
+        "input": "4afa2b",
+        "output": "royalblue"
+    },
+    {
+        "input": "604a94",
+        "output": "sienna"
+    },
+    {
+        "input": "fe8a61",
+        "output": "lightgreen"
+    },
+    {
+        "input": "ca7b46",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "fd5677",
+        "output": "lightgreen"
+    },
+    {
+        "input": "baccbf",
+        "output": "silver"
+    },
+    {
+        "input": "08e15d",
+        "output": "blueviolet"
+    },
+    {
+        "input": "aced22",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "adfca3",
+        "output": "lightsteelblue"
+    },
+    {
+        "input": "4060c1",
+        "output": "indianred"
+    },
+    {
+        "input": "0ccb2a",
+        "output": "mediumblue"
+    },
+    {
+        "input": "e6b0f0",
+        "output": "palegoldenrod"
+    },
+    {
+        "input": "69d02d",
+        "output": "royalblue"
+    },
+    {
+        "input": "c8f46b",
+        "output": "lightskyblue"
+    },
+    {
+        "input": "72cde9",
+        "output": "orchid"
+    },
+    {
+        "input": "db1950",
+        "output": "limegreen"
+    },
+    {
+        "input": "2628cd",
+        "output": "firebrick"
+    },
+    {
+        "input": "5e02d7",
+        "output": "chocolate"
+    },
+    {
+        "input": "f9172e",
+        "output": "lime"
+    },
+    {
+        "input": "2fa044",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "a4edf7",
+        "output": "plum"
+    },
+    {
+        "input": "5b1fbf",
+        "output": "chocolate"
+    },
+    {
+        "input": "f70343",
+        "output": "lawngreen"
+    },
+    {
+        "input": "58537d",
+        "output": "dimgray"
+    },
+    {
+        "input": "a3206a",
+        "output": "olivedrab"
+    },
+    {
+        "input": "7c0c1e",
+        "output": "forestgreen"
+    },
+    {
+        "input": "2fdac5",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "4a3e70",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "3547b0",
+        "output": "brown"
+    },
+    {
+        "input": "2ad51e",
+        "output": "mediumblue"
+    },
+    {
+        "input": "5efb98",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "2a51b3",
+        "output": "brown"
+    },
+    {
+        "input": "57044b",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "0488c3",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "b5543f",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "77d84b",
+        "output": "royalblue"
+    },
+    {
+        "input": "7abb49",
+        "output": "steelblue"
+    },
+    {
+        "input": "048117",
+        "output": "navy"
+    },
+    {
+        "input": "1ef5de",
+        "output": "fuchsia"
+    },
+    {
+        "input": "0203fc",
+        "output": "red"
+    },
+    {
+        "input": "89a3a5",
+        "output": "rosybrown"
+    },
+    {
+        "input": "43c719",
+        "output": "royalblue"
+    },
+    {
+        "input": "024ebb",
+        "output": "crimson"
+    },
+    {
+        "input": "6ef2ae",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "680a4f",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "bf1c4f",
+        "output": "limegreen"
+    },
+    {
+        "input": "4f0bc5",
+        "output": "chocolate"
+    },
+    {
+        "input": "822d92",
+        "output": "olivedrab"
+    },
+    {
+        "input": "f3db98",
+        "output": "aquamarine"
+    },
+    {
+        "input": "b6aa0a",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "6f360a",
+        "output": "forestgreen"
+    },
+    {
+        "input": "c89408",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "8dd8c2",
+        "output": "plum"
+    },
+    {
+        "input": "23546e",
+        "output": "purple"
+    },
+    {
+        "input": "eeece0",
+        "output": "lavender"
+    },
+    {
+        "input": "502064",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "53b9cd",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "25f2a5",
+        "output": "blueviolet"
+    },
+    {
+        "input": "3b55e3",
+        "output": "indianred"
+    },
+    {
+        "input": "eee0e6",
+        "output": "beige"
+    },
+    {
+        "input": "170112",
+        "output": "black"
+    },
+    {
+        "input": "79a685",
+        "output": "lightslategray"
+    },
+    {
+        "input": "5042a3",
+        "output": "sienna"
+    },
+    {
+        "input": "abd36e",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "898aeb",
+        "output": "lightcoral"
+    },
+    {
+        "input": "497b97",
+        "output": "dimgray"
+    },
+    {
+        "input": "3384c5",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "b3ceb4",
+        "output": "silver"
+    },
+    {
+        "input": "c6e9d0",
+        "output": "thistle"
+    },
+    {
+        "input": "cb2632",
+        "output": "limegreen"
+    },
+    {
+        "input": "96ff8f",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "78c86c",
+        "output": "slateblue"
+    },
+    {
+        "input": "a93701",
+        "output": "forestgreen"
+    },
+    {
+        "input": "d937d8",
+        "output": "goldenrod"
+    },
+    {
+        "input": "9d8893",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "56a02a",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "95973c",
+        "output": "steelblue"
+    },
+    {
+        "input": "7d1c20",
+        "output": "forestgreen"
+    },
+    {
+        "input": "b80f70",
+        "output": "olivedrab"
+    },
+    {
+        "input": "df77fe",
+        "output": "khaki"
+    },
+    {
+        "input": "b467fb",
+        "output": "sandybrown"
+    },
+    {
+        "input": "a287e9",
+        "output": "darksalmon"
+    },
+    {
+        "input": "6ef3f8",
+        "output": "violet"
+    },
+    {
+        "input": "543b42",
+        "output": "darkslategray"
+    },
+    {
+        "input": "250c6f",
+        "output": "maroon"
+    },
+    {
+        "input": "28a6a7",
+        "output": "darkorchid"
+    },
+    {
+        "input": "4443fc",
+        "output": "tomato"
+    },
+    {
+        "input": "cfc4b9",
+        "output": "silver"
+    },
+    {
+        "input": "da34a5",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "db6170",
+        "output": "lightgreen"
+    },
+    {
+        "input": "a69d42",
+        "output": "cadetblue"
+    },
+    {
+        "input": "9c8527",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "064185",
+        "output": "brown"
+    },
+    {
+        "input": "d70ae9",
+        "output": "gold"
+    },
+    {
+        "input": "bb7d4f",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "411d79",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "839156",
+        "output": "slategray"
+    },
+    {
+        "input": "5fa035",
+        "output": "steelblue"
+    },
+    {
+        "input": "139308",
+        "output": "darkblue"
+    },
+    {
+        "input": "36f2f5",
+        "output": "fuchsia"
+    },
+    {
+        "input": "cab1bf",
+        "output": "silver"
+    },
+    {
+        "input": "583bed",
+        "output": "tomato"
+    },
+    {
+        "input": "1e8c0b",
+        "output": "darkblue"
+    },
+    {
+        "input": "4114d2",
+        "output": "chocolate"
+    },
+    {
+        "input": "fc3f39",
+        "output": "limegreen"
+    },
+    {
+        "input": "43b5c2",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "7d8e38",
+        "output": "steelblue"
+    },
+    {
+        "input": "90e4f7",
+        "output": "violet"
+    },
+    {
+        "input": "a4bdaf",
+        "output": "darkgray"
+    },
+    {
+        "input": "45f70e",
+        "output": "royalblue"
+    },
+    {
+        "input": "4857f6",
+        "output": "tomato"
+    },
+    {
+        "input": "93e47e",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "027f24",
+        "output": "midnightblue"
+    },
+    {
+        "input": "3df4b7",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "011d2e",
+        "output": "black"
+    },
+    {
+        "input": "60fb9f",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "4d9a00",
+        "output": "teal"
+    },
+    {
+        "input": "201f11",
+        "output": "black"
+    },
+    {
+        "input": "552fc1",
+        "output": "chocolate"
+    },
+    {
+        "input": "67b8f6",
+        "output": "hotpink"
+    },
+    {
+        "input": "859447",
+        "output": "steelblue"
+    },
+    {
+        "input": "6639de",
+        "output": "chocolate"
+    },
+    {
+        "input": "f35bf0",
+        "output": "khaki"
+    },
+    {
+        "input": "a6fcd4",
+        "output": "plum"
+    },
+    {
+        "input": "afcd2e",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "935d54",
+        "output": "seagreen"
+    },
+    {
+        "input": "94f530",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "b08710",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "56657c",
+        "output": "dimgray"
+    },
+    {
+        "input": "4fd3a9",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "36a7d0",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "49a132",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "ceb5b9",
+        "output": "silver"
+    },
+    {
+        "input": "00f7da",
+        "output": "fuchsia"
+    },
+    {
+        "input": "b51d5d",
+        "output": "olivedrab"
+    },
+    {
+        "input": "ee9761",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "03cc27",
+        "output": "mediumblue"
+    },
+    {
+        "input": "7002ae",
+        "output": "darkgoldenrod"
+    },
+    {
+        "input": "b49e8b",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "78a08f",
+        "output": "lightslategray"
+    },
+    {
+        "input": "6f1d17",
+        "output": "forestgreen"
+    },
+    {
+        "input": "a20e68",
+        "output": "olivedrab"
+    },
+    {
+        "input": "c967b5",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "5e4038",
+        "output": "darkslategray"
+    },
+    {
+        "input": "4e8880",
+        "output": "dimgray"
+    },
+    {
+        "input": "d76007",
+        "output": "springgreen"
+    },
+    {
+        "input": "0c438e",
+        "output": "brown"
+    },
+    {
+        "input": "76e8c1",
+        "output": "orchid"
+    },
+    {
+        "input": "4e91f4",
+        "output": "palevioletred"
+    },
+    {
+        "input": "69f04d",
+        "output": "royalblue"
+    },
+    {
+        "input": "365f65",
+        "output": "dimgray"
+    },
+    {
+        "input": "b7f074",
+        "output": "skyblue"
+    },
+    {
+        "input": "117c89",
+        "output": "purple"
+    },
+    {
+        "input": "8f61e6",
+        "output": "sandybrown"
+    },
+    {
+        "input": "561f4c",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "7f6693",
+        "output": "gray"
+    },
+    {
+        "input": "30b864",
+        "output": "slateblue"
+    },
+    {
+        "input": "f500e4",
+        "output": "yellow"
+    },
+    {
+        "input": "8cbf2a",
+        "output": "steelblue"
+    },
+    {
+        "input": "228d6a",
+        "output": "purple"
+    },
+    {
+        "input": "57924c",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "381c65",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "f8551c",
+        "output": "springgreen"
+    },
+    {
+        "input": "199e14",
+        "output": "darkblue"
+    },
+    {
+        "input": "0b2581",
+        "output": "maroon"
+    },
+    {
+        "input": "854314",
+        "output": "seagreen"
+    },
+    {
+        "input": "453a8e",
+        "output": "sienna"
+    },
+    {
+        "input": "9ca188",
+        "output": "lightslategray"
+    },
+    {
+        "input": "a6cdc9",
+        "output": "plum"
+    },
+    {
+        "input": "1f2aff",
+        "output": "crimson"
+    },
+    {
+        "input": "9492b8",
+        "output": "rosybrown"
+    },
+    {
+        "input": "020f41",
+        "output": "maroon"
+    },
+    {
+        "input": "c0207b",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "2e74c9",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "c7b741",
+        "output": "mediumturquoise"
+    },
+    {
+        "input": "af3ab6",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "d2ca59",
+        "output": "mediumturquoise"
+    },
+    {
+        "input": "b21a54",
+        "output": "olivedrab"
+    },
+    {
+        "input": "fdaa0c",
+        "output": "mediumspringgreen"
+    },
+    {
+        "input": "30d167",
+        "output": "blueviolet"
+    },
+    {
+        "input": "c05711",
+        "output": "limegreen"
+    },
+    {
+        "input": "c88d22",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "be548a",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "645b95",
+        "output": "dimgray"
+    },
+    {
+        "input": "434cb9",
+        "output": "indianred"
+    },
+    {
+        "input": "410a62",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "298a27",
+        "output": "midnightblue"
+    },
+    {
+        "input": "79df30",
+        "output": "royalblue"
+    },
+    {
+        "input": "f773d6",
+        "output": "khaki"
+    },
+    {
+        "input": "c356e0",
+        "output": "sandybrown"
+    },
+    {
+        "input": "354db6",
+        "output": "brown"
+    },
+    {
+        "input": "8d8d5d",
+        "output": "slategray"
+    },
+    {
+        "input": "ed3459",
+        "output": "limegreen"
+    },
+    {
+        "input": "4cad20",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "18ac2c",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "80c2da",
+        "output": "orchid"
+    },
+    {
+        "input": "bc6653",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "0c9e3b",
+        "output": "indigo"
+    },
+    {
+        "input": "0e42bd",
+        "output": "crimson"
+    },
+    {
+        "input": "5c339e",
+        "output": "sienna"
+    },
+    {
+        "input": "238b11",
+        "output": "midnightblue"
+    },
+    {
+        "input": "d2b68b",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "07e200",
+        "output": "mediumblue"
+    },
+    {
+        "input": "505fcf",
+        "output": "indianred"
+    },
+    {
+        "input": "f10eaf",
+        "output": "greenyellow"
+    },
+    {
+        "input": "4fcbfd",
+        "output": "hotpink"
+    },
+    {
+        "input": "adb112",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "2ba33c",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "bcb292",
+        "output": "darkgray"
+    },
+    {
+        "input": "b809cf",
+        "output": "goldenrod"
+    },
+    {
+        "input": "944dfd",
+        "output": "coral"
+    },
+    {
+        "input": "759e2b",
+        "output": "steelblue"
+    },
+    {
+        "input": "9cd7a1",
+        "output": "lightsteelblue"
+    },
+    {
+        "input": "e527ed",
+        "output": "gold"
+    },
+    {
+        "input": "0aac2b",
+        "output": "indigo"
+    },
+    {
+        "input": "5ad091",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "330cce",
+        "output": "firebrick"
+    },
+    {
+        "input": "94b4c0",
+        "output": "darkgray"
+    },
+    {
+        "input": "7ff395",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "0191c4",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "8cee0d",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "843b68",
+        "output": "olivedrab"
+    },
+    {
+        "input": "63a23d",
+        "output": "steelblue"
+    },
+    {
+        "input": "456a75",
+        "output": "dimgray"
+    },
+    {
+        "input": "ba415a",
+        "output": "limegreen"
+    },
+    {
+        "input": "61e01c",
+        "output": "royalblue"
+    },
+    {
+        "input": "315666",
+        "output": "dimgray"
+    },
+    {
+        "input": "abcb66",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "a729b6",
+        "output": "goldenrod"
+    },
+    {
+        "input": "69201e",
+        "output": "forestgreen"
+    },
+    {
+        "input": "065c5a",
+        "output": "indigo"
+    },
+    {
+        "input": "5f5561",
+        "output": "dimgray"
+    },
+    {
+        "input": "c89fb4",
+        "output": "darkgray"
+    },
+    {
+        "input": "b30830",
+        "output": "forestgreen"
+    },
+    {
+        "input": "2da242",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "854a75",
+        "output": "olivedrab"
+    },
+    {
+        "input": "9fcaf7",
+        "output": "lightpink"
+    },
+    {
+        "input": "7df9f4",
+        "output": "violet"
+    },
+    {
+        "input": "7351fb",
+        "output": "coral"
+    },
+    {
+        "input": "427bc2",
+        "output": "indianred"
+    },
+    {
+        "input": "49faf4",
+        "output": "violet"
+    },
+    {
+        "input": "95323c",
+        "output": "forestgreen"
+    },
+    {
+        "input": "d946e6",
+        "output": "sandybrown"
+    },
+    {
+        "input": "3fcfb5",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "329c1d",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "084448",
+        "output": "indigo"
+    },
+    {
+        "input": "17bad1",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "8b3144",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "fbabb8",
+        "output": "palegreen"
+    },
+    {
+        "input": "f71428",
+        "output": "lime"
+    },
+    {
+        "input": "2c5cf3",
+        "output": "crimson"
+    },
+    {
+        "input": "ad31f3",
+        "output": "goldenrod"
+    },
+    {
+        "input": "bcac20",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "53c194",
+        "output": "darkorchid"
+    },
+    {
+        "input": "d75a1a",
+        "output": "limegreen"
+    },
+    {
+        "input": "210de2",
+        "output": "red"
+    },
+    {
+        "input": "4a154d",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "a62960",
+        "output": "olivedrab"
+    },
+    {
+        "input": "e22d53",
+        "output": "limegreen"
+    },
+    {
+        "input": "46155b",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "587f17",
+        "output": "teal"
+    },
+    {
+        "input": "42b184",
+        "output": "darkorchid"
+    },
+    {
+        "input": "3defb6",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "3a33ee",
+        "output": "crimson"
+    },
+    {
+        "input": "07a9b2",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "1a036c",
+        "output": "maroon"
+    },
+    {
+        "input": "55dfac",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "13186c",
+        "output": "maroon"
+    },
+    {
+        "input": "11bf48",
+        "output": "indigo"
+    },
+    {
+        "input": "82dd7d",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "eda8aa",
+        "output": "palegreen"
+    },
+    {
+        "input": "41650e",
+        "output": "darkslategray"
+    },
+    {
+        "input": "2890e3",
+        "output": "deeppink"
+    },
+    {
+        "input": "aed55a",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "9aad64",
+        "output": "cadetblue"
+    },
+    {
+        "input": "94f716",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "c30ac0",
+        "output": "goldenrod"
+    },
+    {
+        "input": "f08ff7",
+        "output": "khaki"
+    },
+    {
+        "input": "86a000",
+        "output": "darkcyan"
+    },
+    {
+        "input": "e3ca8f",
+        "output": "aquamarine"
+    },
+    {
+        "input": "e23ec8",
+        "output": "greenyellow"
+    },
+    {
+        "input": "2e53ba",
+        "output": "brown"
+    },
+    {
+        "input": "b04abd",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "7f4251",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "ad9948",
+        "output": "cadetblue"
+    },
+    {
+        "input": "b47b77",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "868526",
+        "output": "teal"
+    },
+    {
+        "input": "0bab38",
+        "output": "indigo"
+    },
+    {
+        "input": "37984f",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "747f0e",
+        "output": "teal"
+    },
+    {
+        "input": "b3d56d",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "914ee5",
+        "output": "sandybrown"
+    },
+    {
+        "input": "c5e6e6",
+        "output": "thistle"
+    },
+    {
+        "input": "fb25b5",
+        "output": "greenyellow"
+    },
+    {
+        "input": "ae6dcd",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "fdd557",
+        "output": "turquoise"
+    },
+    {
+        "input": "8a5a4f",
+        "output": "seagreen"
+    },
+    {
+        "input": "a758c9",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "a993f9",
+        "output": "lightsalmon"
+    },
+    {
+        "input": "ca3b71",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "56c0c4",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "d839b0",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "dd09b6",
+        "output": "greenyellow"
+    },
+    {
+        "input": "d8e7b6",
+        "output": "lightblue"
+    },
+    {
+        "input": "ee95b5",
+        "output": "palegreen"
+    },
+    {
+        "input": "9fe6bb",
+        "output": "plum"
+    },
+    {
+        "input": "969e6a",
+        "output": "cadetblue"
+    },
+    {
+        "input": "db4d2a",
+        "output": "limegreen"
+    },
+    {
+        "input": "0b26d2",
+        "output": "crimson"
+    },
+    {
+        "input": "e7cd09",
+        "output": "darkturquoise"
+    },
+    {
+        "input": "e30e43",
+        "output": "limegreen"
+    },
+    {
+        "input": "f9c037",
+        "output": "turquoise"
+    },
+    {
+        "input": "29f4f8",
+        "output": "fuchsia"
+    },
+    {
+        "input": "fb85b0",
+        "output": "palegreen"
+    },
+    {
+        "input": "b01ed5",
+        "output": "goldenrod"
+    },
+    {
+        "input": "242f07",
+        "output": "black"
+    },
+    {
+        "input": "55a7ca",
+        "output": "palevioletred"
+    },
+    {
+        "input": "7cb898",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "0e9263",
+        "output": "indigo"
+    },
+    {
+        "input": "ac6170",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "318c94",
+        "output": "darkmagenta"
+    },
+    {
+        "input": "5e29dc",
+        "output": "chocolate"
+    },
+    {
+        "input": "f6adf2",
+        "output": "palegoldenrod"
+    },
+    {
+        "input": "29fd2e",
+        "output": "blue"
+    },
+    {
+        "input": "1dc744",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "7a5c19",
+        "output": "seagreen"
+    },
+    {
+        "input": "eb971a",
+        "output": "mediumspringgreen"
+    },
+    {
+        "input": "fc656c",
+        "output": "lightgreen"
+    },
+    {
+        "input": "9519d7",
+        "output": "goldenrod"
+    },
+    {
+        "input": "0e1a1b",
+        "output": "black"
+    },
+    {
+        "input": "7c97a9",
+        "output": "rosybrown"
+    },
+    {
+        "input": "a44dd8",
+        "output": "sandybrown"
+    },
+    {
+        "input": "8bb045",
+        "output": "steelblue"
+    },
+    {
+        "input": "c295c0",
+        "output": "tan"
+    },
+    {
+        "input": "fda15e",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "7727d7",
+        "output": "chocolate"
+    },
+    {
+        "input": "b29fea",
+        "output": "burlywood"
+    },
+    {
+        "input": "c0d880",
+        "output": "skyblue"
+    },
+    {
+        "input": "6e639c",
+        "output": "gray"
+    },
+    {
+        "input": "2170ec",
+        "output": "deeppink"
+    },
+    {
+        "input": "5c41e2",
+        "output": "tomato"
+    },
+    {
+        "input": "c65d1e",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "1cf4d3",
+        "output": "fuchsia"
+    },
+    {
+        "input": "5b46de",
+        "output": "indianred"
+    },
+    {
+        "input": "07f7c6",
+        "output": "fuchsia"
+    },
+    {
+        "input": "67ce57",
+        "output": "slateblue"
+    },
+    {
+        "input": "e01a70",
+        "output": "lawngreen"
+    },
+    {
+        "input": "0b8934",
+        "output": "indigo"
+    },
+    {
+        "input": "b58e94",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "f08453",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "f31f13",
+        "output": "lime"
+    },
+    {
+        "input": "e658db",
+        "output": "khaki"
+    },
+    {
+        "input": "38e81e",
+        "output": "royalblue"
+    },
+    {
+        "input": "8a7209",
+        "output": "teal"
+    },
+    {
+        "input": "56082e",
+        "output": "darkgreen"
+    },
+    {
+        "input": "a12c9f",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "bd8105",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "5bde9e",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "19c5ae",
+        "output": "darkorchid"
+    },
+    {
+        "input": "58b55e",
+        "output": "slateblue"
+    },
+    {
+        "input": "4efd6e",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "68f59a",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "e20799",
+        "output": "chartreuse"
+    },
+    {
+        "input": "9dfd83",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "712973",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "c299be",
+        "output": "tan"
+    },
+    {
+        "input": "7f178c",
+        "output": "olive"
+    },
+    {
+        "input": "976f1d",
+        "output": "seagreen"
+    },
+    {
+        "input": "889934",
+        "output": "steelblue"
+    },
+    {
+        "input": "df2c64",
+        "output": "limegreen"
+    },
+    {
+        "input": "20aa2d",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "11c627",
+        "output": "mediumblue"
+    },
+    {
+        "input": "6f94fb",
+        "output": "lightcoral"
+    },
+    {
+        "input": "00b0a4",
+        "output": "darkviolet"
+    },
+    {
+        "input": "c291ce",
+        "output": "tan"
+    },
+    {
+        "input": "f9a4dc",
+        "output": "palegoldenrod"
+    },
+    {
+        "input": "3e73ee",
+        "output": "indianred"
+    },
+    {
+        "input": "9f7a29",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "61009b",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "7d9b01",
+        "output": "darkcyan"
+    },
+    {
+        "input": "8f77c3",
+        "output": "rosybrown"
+    },
+    {
+        "input": "85e0be",
+        "output": "orchid"
+    },
+    {
+        "input": "1244c4",
+        "output": "crimson"
+    },
+    {
+        "input": "3526c1",
+        "output": "firebrick"
+    },
+    {
+        "input": "1f690b",
+        "output": "midnightblue"
+    },
+    {
+        "input": "f919ff",
+        "output": "yellow"
+    },
+    {
+        "input": "53f0bb",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "483d19",
+        "output": "darkslategray"
+    },
+    {
+        "input": "c99356",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "4bf978",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "df7bbe",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "da15eb",
+        "output": "gold"
+    },
+    {
+        "input": "b38efb",
+        "output": "lightsalmon"
+    },
+    {
+        "input": "e05e67",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "f5d44f",
+        "output": "turquoise"
+    },
+    {
+        "input": "c0e28b",
+        "output": "skyblue"
+    },
+    {
+        "input": "8c8d7b",
+        "output": "lightslategray"
+    },
+    {
+        "input": "3b02b2",
+        "output": "firebrick"
+    },
+    {
+        "input": "2a2486",
+        "output": "brown"
+    },
+    {
+        "input": "829a6b",
+        "output": "slategray"
+    },
+    {
+        "input": "ddd404",
+        "output": "darkturquoise"
+    },
+    {
+        "input": "0b6779",
+        "output": "purple"
+    },
+    {
+        "input": "5445d0",
+        "output": "indianred"
+    },
+    {
+        "input": "bb848a",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "2dfb88",
+        "output": "blueviolet"
+    },
+    {
+        "input": "f03a43",
+        "output": "limegreen"
+    },
+    {
+        "input": "be0ba6",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "98e263",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "373ed9",
+        "output": "crimson"
+    },
+    {
+        "input": "9ed857",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "81a9fc",
+        "output": "hotpink"
+    },
+    {
+        "input": "f87817",
+        "output": "springgreen"
+    },
+    {
+        "input": "720296",
+        "output": "olive"
+    },
+    {
+        "input": "672d50",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "b42fac",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "99210a",
+        "output": "forestgreen"
+    },
+    {
+        "input": "a89f75",
+        "output": "cadetblue"
+    },
+    {
+        "input": "3cdf22",
+        "output": "royalblue"
+    },
+    {
+        "input": "e94a48",
+        "output": "limegreen"
+    },
+    {
+        "input": "e95178",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "76b236",
+        "output": "steelblue"
+    },
+    {
+        "input": "e3aa5d",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "3a435d",
+        "output": "darkslategray"
+    },
+    {
+        "input": "8ea10e",
+        "output": "darkcyan"
+    },
+    {
+        "input": "129ab7",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "82f3c0",
+        "output": "orchid"
+    },
+    {
+        "input": "842b13",
+        "output": "forestgreen"
+    },
+    {
+        "input": "c3f269",
+        "output": "skyblue"
+    },
+    {
+        "input": "4c96df",
+        "output": "palevioletred"
+    },
+    {
+        "input": "7b9252",
+        "output": "slategray"
+    },
+    {
+        "input": "4a020e",
+        "output": "darkgreen"
+    },
+    {
+        "input": "8a1549",
+        "output": "olivedrab"
+    },
+    {
+        "input": "000ab1",
+        "output": "darkred"
+    },
+    {
+        "input": "42312e",
+        "output": "darkslategray"
+    },
+    {
+        "input": "e65139",
+        "output": "limegreen"
+    },
+    {
+        "input": "e81656",
+        "output": "lawngreen"
+    },
+    {
+        "input": "65c9d3",
+        "output": "orchid"
+    },
+    {
+        "input": "71a279",
+        "output": "lightslategray"
+    },
+    {
+        "input": "f849f8",
+        "output": "khaki"
+    },
+    {
+        "input": "71cef8",
+        "output": "hotpink"
+    },
+    {
+        "input": "1afd2a",
+        "output": "blue"
+    },
+    {
+        "input": "40938c",
+        "output": "darkorchid"
+    },
+    {
+        "input": "397d0c",
+        "output": "midnightblue"
+    },
+    {
+        "input": "21903f",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "97772f",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "5279cc",
+        "output": "indianred"
+    },
+    {
+        "input": "d71b68",
+        "output": "lawngreen"
+    },
+    {
+        "input": "ae6554",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "8c6676",
+        "output": "gray"
+    },
+    {
+        "input": "39e0a7",
+        "output": "darkorchid"
+    },
+    {
+        "input": "d6d2e6",
+        "output": "gainsboro"
+    },
+    {
+        "input": "c17f9f",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "2d0b3c",
+        "output": "black"
+    },
+    {
+        "input": "f32cc1",
+        "output": "greenyellow"
+    },
+    {
+        "input": "34f557",
+        "output": "blueviolet"
+    },
+    {
+        "input": "62521e",
+        "output": "darkslategray"
+    },
+    {
+        "input": "805c9b",
+        "output": "gray"
+    },
+    {
+        "input": "1dd2f9",
+        "output": "fuchsia"
+    },
+    {
+        "input": "e171d5",
+        "output": "khaki"
+    },
+    {
+        "input": "5d9d08",
+        "output": "teal"
+    },
+    {
+        "input": "06f6f2",
+        "output": "fuchsia"
+    },
+    {
+        "input": "ec6a78",
+        "output": "lightgreen"
+    },
+    {
+        "input": "3feb9a",
+        "output": "blueviolet"
+    },
+    {
+        "input": "1dbc81",
+        "output": "darkorchid"
+    },
+    {
+        "input": "7eec9f",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "0c7d69",
+        "output": "purple"
+    },
+    {
+        "input": "9ab4b1",
+        "output": "darkgray"
+    },
+    {
+        "input": "891405",
+        "output": "green"
+    },
+    {
+        "input": "dad5f9",
+        "output": "mistyrose"
+    },
+    {
+        "input": "8a57fe",
+        "output": "coral"
+    },
+    {
+        "input": "f89a49",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "94c617",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "0f6492",
+        "output": "purple"
+    },
+    {
+        "input": "35beb7",
+        "output": "darkorchid"
+    },
+    {
+        "input": "57f307",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "7b6c7d",
+        "output": "gray"
+    },
+    {
+        "input": "6ff3f3",
+        "output": "violet"
+    },
+    {
+        "input": "56030f",
+        "output": "darkgreen"
+    },
+    {
+        "input": "089cc3",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "ab159c",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "9fc3d1",
+        "output": "plum"
+    },
+    {
+        "input": "3c8fbe",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "bda9a9",
+        "output": "darkgray"
+    },
+    {
+        "input": "a3122d",
+        "output": "forestgreen"
+    },
+    {
+        "input": "8175c3",
+        "output": "rosybrown"
+    },
+    {
+        "input": "970f7f",
+        "output": "olive"
+    },
+    {
+        "input": "d08a82",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "a78381",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "7a8b04",
+        "output": "teal"
+    },
+    {
+        "input": "97d4c8",
+        "output": "plum"
+    },
+    {
+        "input": "bd4f8a",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "5a04bd",
+        "output": "chocolate"
+    },
+    {
+        "input": "799470",
+        "output": "slategray"
+    },
+    {
+        "input": "c55a77",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "cd026e",
+        "output": "lawngreen"
+    },
+    {
+        "input": "b62860",
+        "output": "olivedrab"
+    },
+    {
+        "input": "dd9df3",
+        "output": "palegoldenrod"
+    },
+    {
+        "input": "8fc01e",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "6f4ca9",
+        "output": "sienna"
+    },
+    {
+        "input": "8993ea",
+        "output": "lightcoral"
+    },
+    {
+        "input": "2a3944",
+        "output": "darkslategray"
+    },
+    {
+        "input": "bcab4c",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "97932d",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "78f075",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "2fa56e",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "52bba0",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "247ee2",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "385e51",
+        "output": "darkslategray"
+    },
+    {
+        "input": "71abc4",
+        "output": "palevioletred"
+    },
+    {
+        "input": "3d8567",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "75e170",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "1f0561",
+        "output": "maroon"
+    },
+    {
+        "input": "ad21c3",
+        "output": "goldenrod"
+    },
+    {
+        "input": "5f5494",
+        "output": "sienna"
+    },
+    {
+        "input": "96519c",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "4c88d4",
+        "output": "palevioletred"
+    },
+    {
+        "input": "e96bba",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "0fb618",
+        "output": "mediumblue"
+    },
+    {
+        "input": "f0d964",
+        "output": "aquamarine"
+    },
+    {
+        "input": "342333",
+        "output": "darkslategray"
+    },
+    {
+        "input": "02f300",
+        "output": "blue"
+    },
+    {
+        "input": "8ebe33",
+        "output": "steelblue"
+    },
+    {
+        "input": "85fcac",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "eba4b9",
+        "output": "palegreen"
+    },
+    {
+        "input": "44656c",
+        "output": "dimgray"
+    },
+    {
+        "input": "41c4ad",
+        "output": "darkorchid"
+    },
+    {
+        "input": "58c55a",
+        "output": "slateblue"
+    },
+    {
+        "input": "971099",
+        "output": "darkgoldenrod"
+    },
+    {
+        "input": "535660",
+        "output": "dimgray"
+    },
+    {
+        "input": "7f590e",
+        "output": "seagreen"
+    },
+    {
+        "input": "527048",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "b75dc2",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "38b947",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "176bc9",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "ecf5c5",
+        "output": "paleturquoise"
+    },
+    {
+        "input": "648a86",
+        "output": "gray"
+    },
+    {
+        "input": "cc8e2b",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "372cc5",
+        "output": "firebrick"
+    },
+    {
+        "input": "93cada",
+        "output": "plum"
+    },
+    {
+        "input": "8f962c",
+        "output": "steelblue"
+    },
+    {
+        "input": "628d07",
+        "output": "teal"
+    },
+    {
+        "input": "1345d8",
+        "output": "crimson"
+    },
+    {
+        "input": "fd2722",
+        "output": "lime"
+    },
+    {
+        "input": "fa3a3a",
+        "output": "limegreen"
+    },
+    {
+        "input": "db4669",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "667b92",
+        "output": "gray"
+    },
+    {
+        "input": "1c7735",
+        "output": "midnightblue"
+    },
+    {
+        "input": "976cd4",
+        "output": "darksalmon"
+    },
+    {
+        "input": "cd0df1",
+        "output": "gold"
+    },
+    {
+        "input": "41361f",
+        "output": "darkslategray"
+    },
+    {
+        "input": "0b9bf5",
+        "output": "deeppink"
+    },
+    {
+        "input": "0ee340",
+        "output": "mediumblue"
+    },
+    {
+        "input": "4be083",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "5421bc",
+        "output": "chocolate"
+    },
+    {
+        "input": "3826e6",
+        "output": "crimson"
+    },
+    {
+        "input": "d3f78f",
+        "output": "lightskyblue"
+    },
+    {
+        "input": "991b55",
+        "output": "olivedrab"
+    },
+    {
+        "input": "820279",
+        "output": "olive"
+    },
+    {
+        "input": "0e394e",
+        "output": "indigo"
+    },
+    {
+        "input": "c7e8d8",
+        "output": "thistle"
+    },
+    {
+        "input": "f898e3",
+        "output": "khaki"
+    },
+    {
+        "input": "810e53",
+        "output": "olivedrab"
+    },
+    {
+        "input": "09e3fc",
+        "output": "fuchsia"
+    },
+    {
+        "input": "fca6c0",
+        "output": "palegreen"
+    },
+    {
+        "input": "36d290",
+        "output": "darkorchid"
+    },
+    {
+        "input": "14b660",
+        "output": "indigo"
+    },
+    {
+        "input": "cd2963",
+        "output": "limegreen"
+    },
+    {
+        "input": "1c08bf",
+        "output": "firebrick"
+    },
+    {
+        "input": "cef96a",
+        "output": "lightskyblue"
+    },
+    {
+        "input": "6d971d",
+        "output": "teal"
+    },
+    {
+        "input": "46a0fe",
+        "output": "hotpink"
+    },
+    {
+        "input": "8342bc",
+        "output": "peru"
+    },
+    {
+        "input": "e62cbe",
+        "output": "greenyellow"
+    },
+    {
+        "input": "97cbb3",
+        "output": "darkgray"
+    },
+    {
+        "input": "8fb2c2",
+        "output": "rosybrown"
+    },
+    {
+        "input": "0373d6",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "22a0f1",
+        "output": "deeppink"
+    },
+    {
+        "input": "042719",
+        "output": "black"
+    },
+    {
+        "input": "fe896e",
+        "output": "lightgreen"
+    },
+    {
+        "input": "b88a81",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "414b03",
+        "output": "darkslategray"
+    },
+    {
+        "input": "1849a9",
+        "output": "brown"
+    },
+    {
+        "input": "0dcccc",
+        "output": "darkviolet"
+    },
+    {
+        "input": "8d6415",
+        "output": "seagreen"
+    },
+    {
+        "input": "e70599",
+        "output": "chartreuse"
+    },
+    {
+        "input": "90f92c",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "03f0e8",
+        "output": "fuchsia"
+    },
+    {
+        "input": "9e66ff",
+        "output": "sandybrown"
+    },
+    {
+        "input": "8fae08",
+        "output": "darkcyan"
+    },
+    {
+        "input": "ae0550",
+        "output": "olivedrab"
+    },
+    {
+        "input": "711f84",
+        "output": "olive"
+    },
+    {
+        "input": "f14fc3",
+        "output": "greenyellow"
+    },
+    {
+        "input": "7ebcb5",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "0f0a09",
+        "output": "black"
+    },
+    {
+        "input": "2a29f5",
+        "output": "crimson"
+    },
+    {
+        "input": "8abff7",
+        "output": "hotpink"
+    },
+    {
+        "input": "db7fbe",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "1facdb",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "05a570",
+        "output": "darkmagenta"
+    },
+    {
+        "input": "2da510",
+        "output": "darkblue"
+    },
+    {
+        "input": "3ebff2",
+        "output": "hotpink"
+    },
+    {
+        "input": "9257f6",
+        "output": "sandybrown"
+    },
+    {
+        "input": "b20cff",
+        "output": "orange"
+    },
+    {
+        "input": "192533",
+        "output": "black"
+    },
+    {
+        "input": "916c44",
+        "output": "seagreen"
+    },
+    {
+        "input": "8bcece",
+        "output": "plum"
+    },
+    {
+        "input": "814919",
+        "output": "seagreen"
+    },
+    {
+        "input": "05cc6c",
+        "output": "darkviolet"
+    },
+    {
+        "input": "37c80b",
+        "output": "mediumblue"
+    },
+    {
+        "input": "d20482",
+        "output": "lawngreen"
+    },
+    {
+        "input": "e8fcc2",
+        "output": "paleturquoise"
+    },
+    {
+        "input": "134c66",
+        "output": "purple"
+    },
+    {
+        "input": "f352fb",
+        "output": "khaki"
+    },
+    {
+        "input": "e5453d",
+        "output": "limegreen"
+    },
+    {
+        "input": "5621cc",
+        "output": "chocolate"
+    },
+    {
+        "input": "8e0349",
+        "output": "olivedrab"
+    },
+    {
+        "input": "451a54",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "82fb56",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "f4d110",
+        "output": "darkturquoise"
+    },
+    {
+        "input": "9c0be1",
+        "output": "goldenrod"
+    },
+    {
+        "input": "619e20",
+        "output": "teal"
+    },
+    {
+        "input": "ec214c",
+        "output": "limegreen"
+    },
+    {
+        "input": "f6f80f",
+        "output": "aqua"
+    },
+    {
+        "input": "c198ff",
+        "output": "navajowhite"
+    },
+    {
+        "input": "f37482",
+        "output": "lightgreen"
+    },
+    {
+        "input": "462f00",
+        "output": "darkgreen"
+    },
+    {
+        "input": "e4f425",
+        "output": "turquoise"
+    },
+    {
+        "input": "4ed528",
+        "output": "royalblue"
+    },
+    {
+        "input": "14b5b6",
+        "output": "darkorchid"
+    },
+    {
+        "input": "ce9095",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "dc7c61",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "e85ad7",
+        "output": "khaki"
+    },
+    {
+        "input": "6fe5d2",
+        "output": "orchid"
+    },
+    {
+        "input": "44e65a",
+        "output": "slateblue"
+    },
+    {
+        "input": "f13254",
+        "output": "limegreen"
+    },
+    {
+        "input": "4dd8e0",
+        "output": "orchid"
+    },
+    {
+        "input": "76895b",
+        "output": "slategray"
+    },
+    {
+        "input": "f891da",
+        "output": "khaki"
+    },
+    {
+        "input": "acfaf9",
+        "output": "plum"
+    },
+    {
+        "input": "569e2c",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "e1d97f",
+        "output": "skyblue"
+    },
+    {
+        "input": "a4835d",
+        "output": "cadetblue"
+    },
+    {
+        "input": "ee868e",
+        "output": "lightgreen"
+    },
+    {
+        "input": "7feb56",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "d9a24e",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "fc3975",
+        "output": "lawngreen"
+    },
+    {
+        "input": "f79c0e",
+        "output": "mediumspringgreen"
+    },
+    {
+        "input": "aa678d",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "49f87f",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "a35484",
+        "output": "gray"
+    },
+    {
+        "input": "c313d4",
+        "output": "goldenrod"
+    },
+    {
+        "input": "7d6c82",
+        "output": "gray"
+    },
+    {
+        "input": "60faeb",
+        "output": "violet"
+    },
+    {
+        "input": "dc3148",
+        "output": "limegreen"
+    },
+    {
+        "input": "991a85",
+        "output": "olivedrab"
+    },
+    {
+        "input": "67001b",
+        "output": "darkgreen"
+    },
+    {
+        "input": "a9beb7",
+        "output": "darkgray"
+    },
+    {
+        "input": "f5e2fc",
+        "output": "oldlace"
+    },
+    {
+        "input": "8b1982",
+        "output": "olivedrab"
+    },
+    {
+        "input": "0a3fc7",
+        "output": "crimson"
+    },
+    {
+        "input": "2240af",
+        "output": "brown"
+    },
+    {
+        "input": "093522",
+        "output": "midnightblue"
+    },
+    {
+        "input": "d2594a",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "4385e3",
+        "output": "palevioletred"
+    },
+    {
+        "input": "46e181",
+        "output": "blueviolet"
+    },
+    {
+        "input": "69bc55",
+        "output": "steelblue"
+    },
+    {
+        "input": "aeac36",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "5f5f31",
+        "output": "darkslategray"
+    },
+    {
+        "input": "4c7ba7",
+        "output": "indianred"
+    },
+    {
+        "input": "9c0590",
+        "output": "olive"
+    },
+    {
+        "input": "b2da29",
+        "output": "mediumturquoise"
+    },
+    {
+        "input": "0deb76",
+        "output": "blueviolet"
+    },
+    {
+        "input": "f34b86",
+        "output": "greenyellow"
+    },
+    {
+        "input": "aefad6",
+        "output": "plum"
+    },
+    {
+        "input": "b4a511",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "e7d071",
+        "output": "aquamarine"
+    },
+    {
+        "input": "794cc1",
+        "output": "peru"
+    },
+    {
+        "input": "c67e1f",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "d599af",
+        "output": "lightgreen"
+    },
+    {
+        "input": "b70bc0",
+        "output": "goldenrod"
+    },
+    {
+        "input": "e1f5a3",
+        "output": "paleturquoise"
+    },
+    {
+        "input": "e16b11",
+        "output": "springgreen"
+    },
+    {
+        "input": "736e92",
+        "output": "gray"
+    },
+    {
+        "input": "360b8b",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "1572c6",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "7d5bd1",
+        "output": "peru"
+    },
+    {
+        "input": "415911",
+        "output": "darkslategray"
+    },
+    {
+        "input": "c6083c",
+        "output": "limegreen"
+    },
+    {
+        "input": "069fbd",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "fb5de8",
+        "output": "khaki"
+    },
+    {
+        "input": "dfbf93",
+        "output": "aquamarine"
+    },
+    {
+        "input": "fce0a7",
+        "output": "paleturquoise"
+    },
+    {
+        "input": "a01c1e",
+        "output": "forestgreen"
+    },
+    {
+        "input": "c9a164",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "8dcb54",
+        "output": "steelblue"
+    },
+    {
+        "input": "feb705",
+        "output": "mediumspringgreen"
+    },
+    {
+        "input": "44a7ba",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "315010",
+        "output": "midnightblue"
+    },
+    {
+        "input": "b0a631",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "78a601",
+        "output": "darkcyan"
+    },
+    {
+        "input": "e179c0",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "3379fc",
+        "output": "deeppink"
+    },
+    {
+        "input": "5bd3f0",
+        "output": "orchid"
+    },
+    {
+        "input": "cd2e1d",
+        "output": "limegreen"
+    },
+    {
+        "input": "ee08c0",
+        "output": "greenyellow"
+    },
+    {
+        "input": "241289",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "7b9f2a",
+        "output": "steelblue"
+    },
+    {
+        "input": "0a6b2d",
+        "output": "midnightblue"
+    },
+    {
+        "input": "7ddf8c",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "b340c5",
+        "output": "goldenrod"
+    },
+    {
+        "input": "aeb06b",
+        "output": "cadetblue"
+    },
+    {
+        "input": "936bcf",
+        "output": "darksalmon"
+    },
+    {
+        "input": "5fb0e8",
+        "output": "hotpink"
+    },
+    {
+        "input": "9f2e50",
+        "output": "olivedrab"
+    },
+    {
+        "input": "f6ba00",
+        "output": "mediumspringgreen"
+    },
+    {
+        "input": "7dd209",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "4b5b5d",
+        "output": "dimgray"
+    },
+    {
+        "input": "5c094f",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "4f612b",
+        "output": "darkslategray"
+    },
+    {
+        "input": "a39ad8",
+        "output": "tan"
+    },
+    {
+        "input": "2fa3eb",
+        "output": "deeppink"
+    },
+    {
+        "input": "32ff50",
+        "output": "blueviolet"
+    },
+    {
+        "input": "917c56",
+        "output": "slategray"
+    },
+    {
+        "input": "d3f9d0",
+        "output": "lavender"
+    },
+    {
+        "input": "6ed775",
+        "output": "slateblue"
+    },
+    {
+        "input": "86fff8",
+        "output": "violet"
+    },
+    {
+        "input": "522b8e",
+        "output": "sienna"
+    },
+    {
+        "input": "dddc07",
+        "output": "darkturquoise"
+    },
+    {
+        "input": "6db028",
+        "output": "steelblue"
+    },
+    {
+        "input": "1ac6f4",
+        "output": "deeppink"
+    },
+    {
+        "input": "322cb6",
+        "output": "firebrick"
+    },
+    {
+        "input": "e78844",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "7eda84",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "9f59f0",
+        "output": "sandybrown"
+    },
+    {
+        "input": "a2acdb",
+        "output": "tan"
+    },
+    {
+        "input": "99094e",
+        "output": "olivedrab"
+    },
+    {
+        "input": "526369",
+        "output": "dimgray"
+    },
+    {
+        "input": "56a477",
+        "output": "slateblue"
+    },
+    {
+        "input": "2763fe",
+        "output": "deeppink"
+    },
+    {
+        "input": "eb7491",
+        "output": "lightgreen"
+    },
+    {
+        "input": "7caf0b",
+        "output": "darkcyan"
+    },
+    {
+        "input": "dd25dc",
+        "output": "gold"
+    },
+    {
+        "input": "8e73ad",
+        "output": "rosybrown"
+    },
+    {
+        "input": "12a33c",
+        "output": "indigo"
+    },
+    {
+        "input": "a9bb05",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "1ddd44",
+        "output": "blueviolet"
+    },
+    {
+        "input": "ddc0fb",
+        "output": "peachpuff"
+    },
+    {
+        "input": "dd00bd",
+        "output": "greenyellow"
+    },
+    {
+        "input": "e5e148",
+        "output": "turquoise"
+    },
+    {
+        "input": "614050",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "9261ed",
+        "output": "sandybrown"
+    },
+    {
+        "input": "ce80c1",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "ba4e9c",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "373fae",
+        "output": "brown"
+    },
+    {
+        "input": "28dd80",
+        "output": "blueviolet"
+    },
+    {
+        "input": "f9e245",
+        "output": "turquoise"
+    },
+    {
+        "input": "e2f6d6",
+        "output": "lavender"
+    },
+    {
+        "input": "2aad5c",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "9efd6a",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "24d14a",
+        "output": "slateblue"
+    },
+    {
+        "input": "37a7fa",
+        "output": "deeppink"
+    },
+    {
+        "input": "89f358",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "d55494",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "c8f8af",
+        "output": "lightblue"
+    },
+    {
+        "input": "f7d034",
+        "output": "turquoise"
+    },
+    {
+        "input": "acef9f",
+        "output": "lightsteelblue"
+    },
+    {
+        "input": "ed2a18",
+        "output": "limegreen"
+    },
+    {
+        "input": "2210c3",
+        "output": "firebrick"
+    },
+    {
+        "input": "2e16b5",
+        "output": "firebrick"
+    },
+    {
+        "input": "da4e14",
+        "output": "limegreen"
+    },
+    {
+        "input": "4296ce",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "f791f8",
+        "output": "khaki"
+    },
+    {
+        "input": "3934ee",
+        "output": "crimson"
+    },
+    {
+        "input": "faa8ec",
+        "output": "palegoldenrod"
+    },
+    {
+        "input": "b5b451",
+        "output": "cadetblue"
+    },
+    {
+        "input": "7e6739",
+        "output": "seagreen"
+    },
+    {
+        "input": "17f4d6",
+        "output": "fuchsia"
+    },
+    {
+        "input": "fc3775",
+        "output": "lawngreen"
+    },
+    {
+        "input": "b130d2",
+        "output": "goldenrod"
+    },
+    {
+        "input": "9abb62",
+        "output": "cadetblue"
+    },
+    {
+        "input": "cb5a44",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "039ae5",
+        "output": "deeppink"
+    },
+    {
+        "input": "d75584",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "d609dc",
+        "output": "gold"
+    },
+    {
+        "input": "70400d",
+        "output": "forestgreen"
+    },
+    {
+        "input": "b96108",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "e90864",
+        "output": "lawngreen"
+    },
+    {
+        "input": "d12255",
+        "output": "limegreen"
+    },
+    {
+        "input": "03c1dd",
+        "output": "deeppink"
+    },
+    {
+        "input": "5fc3fa",
+        "output": "hotpink"
+    },
+    {
+        "input": "9ad8b9",
+        "output": "plum"
+    },
+    {
+        "input": "923875",
+        "output": "olivedrab"
+    },
+    {
+        "input": "9dd1c1",
+        "output": "plum"
+    },
+    {
+        "input": "7eeb7a",
+        "output": "mediumslateblue"
+    },
+    {
+        "input": "09d809",
+        "output": "mediumblue"
+    },
+    {
+        "input": "6a36af",
+        "output": "sienna"
+    },
+    {
+        "input": "39d332",
+        "output": "royalblue"
+    },
+    {
+        "input": "7f3b04",
+        "output": "forestgreen"
+    },
+    {
+        "input": "af88dc",
+        "output": "burlywood"
+    },
+    {
+        "input": "8681fc",
+        "output": "lightcoral"
+    },
+    {
+        "input": "190ab5",
+        "output": "firebrick"
+    },
+    {
+        "input": "cbf41d",
+        "output": "deepskyblue"
+    },
+    {
+        "input": "257af8",
+        "output": "deeppink"
+    },
+    {
+        "input": "9d00d6",
+        "output": "goldenrod"
+    },
+    {
+        "input": "a36187",
+        "output": "gray"
+    },
+    {
+        "input": "1236b5",
+        "output": "firebrick"
+    },
+    {
+        "input": "043e2f",
+        "output": "midnightblue"
+    },
+    {
+        "input": "4b92a3",
+        "output": "darkorchid"
+    },
+    {
+        "input": "8f9a49",
+        "output": "cadetblue"
+    },
+    {
+        "input": "d0418e",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "0f97e2",
+        "output": "deeppink"
+    },
+    {
+        "input": "c81e69",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "6b7551",
+        "output": "dimgray"
+    },
+    {
+        "input": "d085b0",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "42fcee",
+        "output": "orchid"
+    },
+    {
+        "input": "72d184",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "296d51",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "0e396b",
+        "output": "maroon"
+    },
+    {
+        "input": "f19bce",
+        "output": "palegoldenrod"
+    },
+    {
+        "input": "8a735a",
+        "output": "dimgray"
+    },
+    {
+        "input": "453927",
+        "output": "darkslategray"
+    },
+    {
+        "input": "45d97b",
+        "output": "slateblue"
+    },
+    {
+        "input": "9c08a6",
+        "output": "darkgoldenrod"
+    },
+    {
+        "input": "b4276c",
+        "output": "olivedrab"
+    },
+    {
+        "input": "cbdf5d",
+        "output": "mediumturquoise"
+    },
+    {
+        "input": "68febd",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "242c91",
+        "output": "brown"
+    },
+    {
+        "input": "c96922",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "177b15",
+        "output": "midnightblue"
+    },
+    {
+        "input": "1bc9bf",
+        "output": "darkorchid"
+    },
+    {
+        "input": "f92a4e",
+        "output": "limegreen"
+    },
+    {
+        "input": "ed8080",
+        "output": "lightgreen"
+    },
+    {
+        "input": "af14bd",
+        "output": "goldenrod"
+    },
+    {
+        "input": "6c51ac",
+        "output": "indianred"
+    },
+    {
+        "input": "172f47",
+        "output": "darkslategray"
+    },
+    {
+        "input": "696655",
+        "output": "dimgray"
+    },
+    {
+        "input": "f35868",
+        "output": "lightgreen"
+    },
+    {
+        "input": "af7aa3",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "2130e4",
+        "output": "crimson"
+    },
+    {
+        "input": "487f89",
+        "output": "dimgray"
+    },
+    {
+        "input": "400653",
+        "output": "saddlebrown"
+    },
+    {
+        "input": "f8976b",
+        "output": "lightgreen"
+    },
+    {
+        "input": "29a65a",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "4fc2dc",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "68b1a5",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "ad7b58",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "9634b5",
+        "output": "peru"
+    },
+    {
+        "input": "b1a563",
+        "output": "cadetblue"
+    },
+    {
+        "input": "d39f74",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "6c0607",
+        "output": "darkgreen"
+    },
+    {
+        "input": "d9cf9a",
+        "output": "lightblue"
+    },
+    {
+        "input": "a9ce92",
+        "output": "lightsteelblue"
+    },
+    {
+        "input": "0828ae",
+        "output": "firebrick"
+    },
+    {
+        "input": "da6463",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "270ce9",
+        "output": "orangered"
+    },
+    {
+        "input": "0b4f1f",
+        "output": "midnightblue"
+    },
+    {
+        "input": "39a9b1",
+        "output": "darkorchid"
+    },
+    {
+        "input": "43eb84",
+        "output": "blueviolet"
+    },
+    {
+        "input": "ccefc8",
+        "output": "lightsteelblue"
+    },
+    {
+        "input": "570c54",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "7087c6",
+        "output": "palevioletred"
+    },
+    {
+        "input": "9e77ca",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "8cd475",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "2d7bf8",
+        "output": "deeppink"
+    },
+    {
+        "input": "bbd7df",
+        "output": "thistle"
+    },
+    {
+        "input": "44755b",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "930403",
+        "output": "green"
+    },
+    {
+        "input": "84f070",
+        "output": "cornflowerblue"
+    },
+    {
+        "input": "2ea6c4",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "eee004",
+        "output": "darkturquoise"
+    },
+    {
+        "input": "39c3c7",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "a52732",
+        "output": "forestgreen"
+    },
+    {
+        "input": "912927",
+        "output": "forestgreen"
+    },
+    {
+        "input": "e5065a",
+        "output": "lawngreen"
+    },
+    {
+        "input": "c3e9b9",
+        "output": "lightsteelblue"
+    },
+    {
+        "input": "a2b93b",
+        "output": "steelblue"
+    },
+    {
+        "input": "3ecfad",
+        "output": "darkorchid"
+    },
+    {
+        "input": "acc812",
+        "output": "lightseagreen"
+    },
+    {
+        "input": "33546f",
+        "output": "dimgray"
+    },
+    {
+        "input": "342409",
+        "output": "darkgreen"
+    },
+    {
+        "input": "f9046d",
+        "output": "lawngreen"
+    },
+    {
+        "input": "4ce6ff",
+        "output": "orchid"
+    },
+    {
+        "input": "f89fc5",
+        "output": "palegoldenrod"
+    },
+    {
+        "input": "4530f5",
+        "output": "tomato"
+    },
+    {
+        "input": "b42bc1",
+        "output": "goldenrod"
+    },
+    {
+        "input": "898b46",
+        "output": "cadetblue"
+    },
+    {
+        "input": "7015ee",
+        "output": "chocolate"
+    },
+    {
+        "input": "061069",
+        "output": "maroon"
+    },
+    {
+        "input": "79f4bd",
+        "output": "orchid"
+    },
+    {
+        "input": "17b689",
+        "output": "darkorchid"
+    },
+    {
+        "input": "5fb8c1",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "3064b8",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "25d9a6",
+        "output": "darkorchid"
+    },
+    {
+        "input": "b354c4",
+        "output": "darkkhaki"
+    },
+    {
+        "input": "9286f9",
+        "output": "lightsalmon"
+    },
+    {
+        "input": "df9d5b",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "286380",
+        "output": "purple"
+    },
+    {
+        "input": "2b76d2",
+        "output": "mediumvioletred"
+    },
+    {
+        "input": "6c3d49",
+        "output": "darkolivegreen"
+    },
+    {
+        "input": "419864",
+        "output": "darkslateblue"
+    },
+    {
+        "input": "98ca9d",
+        "output": "darkgray"
+    },
+    {
+        "input": "7e714c",
+        "output": "dimgray"
+    },
+    {
+        "input": "9baae6",
+        "output": "lightpink"
+    },
+    {
+        "input": "ed60db",
+        "output": "khaki"
+    },
+    {
+        "input": "e41cf0",
+        "output": "gold"
+    },
+    {
+        "input": "92b637",
+        "output": "steelblue"
+    },
+    {
+        "input": "094218",
+        "output": "midnightblue"
+    },
+    {
+        "input": "94dd1f",
+        "output": "dodgerblue"
+    },
+    {
+        "input": "7ad368",
+        "output": "slateblue"
+    },
+    {
+        "input": "3e3829",
+        "output": "darkslategray"
+    },
+    {
+        "input": "f1c024",
+        "output": "turquoise"
+    },
+    {
+        "input": "c1bb4c",
+        "output": "mediumturquoise"
+    },
+    {
+        "input": "84aab8",
+        "output": "rosybrown"
+    },
+    {
+        "input": "b72964",
+        "output": "olivedrab"
+    },
+    {
+        "input": "a566ef",
+        "output": "sandybrown"
+    },
+    {
+        "input": "7ac5e4",
+        "output": "orchid"
+    },
+    {
+        "input": "0c4a7e",
+        "output": "purple"
+    },
+    {
+        "input": "718dc5",
+        "output": "palevioletred"
+    },
+    {
+        "input": "b1bfab",
+        "output": "darkgray"
+    },
+    {
+        "input": "6cd20e",
+        "output": "royalblue"
+    },
+    {
+        "input": "99f7a4",
+        "output": "lightsteelblue"
+    },
+    {
+        "input": "ba399e",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "ef8a27",
+        "output": "mediumspringgreen"
+    },
+    {
+        "input": "3a810e",
+        "output": "midnightblue"
+    },
+    {
+        "input": "7cb36a",
+        "output": "lightslategray"
+    },
+    {
+        "input": "5ac6b8",
+        "output": "mediumorchid"
+    },
+    {
+        "input": "8707e0",
+        "output": "darkorange"
+    },
+    {
+        "input": "c125d5",
+        "output": "goldenrod"
+    },
+    {
+        "input": "bc0940",
+        "output": "limegreen"
+    },
+    {
+        "input": "004a75",
+        "output": "purple"
+    },
+    {
+        "input": "d2869e",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "cc1f18",
+        "output": "limegreen"
+    },
+    {
+        "input": "e926ce",
+        "output": "greenyellow"
+    },
+    {
+        "input": "c99d86",
+        "output": "darkseagreen"
+    },
+    {
+        "input": "c3bb7a",
+        "output": "mediumaquamarine"
+    },
+    {
+        "input": "9368f7",
+        "output": "sandybrown"
+    },
+    {
+        "input": "de3b2a",
+        "output": "limegreen"
+    },
+    {
+        "input": "d5ca07",
+        "output": "darkturquoise"
+    },
+    {
+        "input": "0eee1c",
+        "output": "blue"
+    },
+    {
+        "input": "f4350e",
+        "output": "limegreen"
+    },
+    {
+        "input": "b937b6",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "1c2fb7",
+        "output": "firebrick"
+    },
+    {
+        "input": "40c779",
+        "output": "slateblue"
+    },
+    {
+        "input": "3ec5f5",
+        "output": "hotpink"
+    },
+    {
+        "input": "e15082",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "ae8145",
+        "output": "mediumseagreen"
+    },
+    {
+        "input": "5729a0",
+        "output": "sienna"
+    },
+    {
+        "input": "83daf5",
+        "output": "violet"
+    },
+    {
+        "input": "424344",
+        "output": "darkslategray"
+    },
+    {
+        "input": "18d58a",
+        "output": "blueviolet"
+    },
+    {
+        "input": "9ae69a",
+        "output": "mediumpurple"
+    },
+    {
+        "input": "55c786",
+        "output": "slateblue"
+    },
+    {
+        "input": "d795d9",
+        "output": "khaki"
+    },
+    {
+        "input": "d92972",
+        "output": "yellowgreen"
+    },
+    {
+        "input": "cc907a",
+        "output": "darkseagreen"
+    }
+]

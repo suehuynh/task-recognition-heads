@@ -1,0 +1,7618 @@
+[
+    {
+        "input": "Samsung Galaxy A04",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nintendo Switch",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mercedes-Benz L3000",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia C2-01",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 1011",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Windows 2000",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Nokia X2-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "UUM-125 Sea Lance",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "SEAT 600",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Windows Me",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Volkswagen Karmann Ghia",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nokia 3300",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Super NES Classic Edition",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Aston Martin Bulldog",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Apple A5",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Ipsum",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "\u0160koda 1200",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Volkswagen Polo R WRC",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volvo 200 Series",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Audi Q8",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "VK 45.02 (P)",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Lexus LS",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Apple A6X",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ford RS200",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Android TV",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Audi S5",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Toyota Crown",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota Isis",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volkswagen K70",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "IBM 650",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Volvo PV 36 Carioca",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nissan Be-1",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Vellfire",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Cadillac XTS",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Belta",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volvo 940",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "SEAT 850",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Samsung Galaxy A34 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Deep Blue",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Oldsmobile Aurora",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cadillac CT5",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Bel Air",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz GL-Class",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volkswagen Passat B6",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy Round",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Lexus SC",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "SEAT Malaga",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "1949 Ford",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia C5-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Northrop Grumman E-10 MC2A",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Japanese battleship Tosa",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Ford Bronco II",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Porsche 956",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Audi Q2",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Cadillac DTS",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Ativ S",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Google Search Appliance",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Samsung Galaxy Tab S2 8.0",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Cadillac Cien",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "iPhone SE (1st generation)",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nissan Kicks",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Lincoln Aviator",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 1616",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia Lumia 510",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Daimler-Benz DB 605",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Samsung Galaxy S II",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Porsche WSC-95",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Toyota Coaster",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy A3 (2016)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Samsung Galaxy A01",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "M61 Vulcan",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Nokia 6710 Navigator",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6210",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Porsche 918 Spyder",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Toyota Tercel",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 5320 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Venza",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy J7",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ford Model K",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Boeing New Large Airplane",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nokia Asha 305",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cadillac Series 62",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Joy-Con",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "\u0160koda Karoq",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nissan Skyline",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "DK Bongos",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Volkswagen Vento",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nintendo 3DS",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Samsung Galaxy A20",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 5610 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Pontiac GTO",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 9210 Communicator",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Pontiac Star Chief",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia N81",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Rolls-Royce Vulture",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Cessna 620",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Power Mac G4 Cube",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia 6101",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Microsoft XCPU",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Nokia 9300",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "USS Ranger",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Ford Kuga",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "1941 Ford",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Volkswagen EA489 Basistransporter",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Hino Profia",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Lincoln Corsair",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Pontiac Chieftain",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cessna Citation Longitude",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Super Nintendo Entertainment System",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "BlackBerry PlayBook",
+        "output": "John S. Chen"
+    },
+    {
+        "input": "Isuzu VehiCROSS",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 6210 Navigator",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 3510i",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Uplander",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Thunderbird",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "P-75 Eagle",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Datsun Go",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 1110",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Windows Phone 8.1",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Nissan Stagea",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Bell Boeing Quad TiltRotor",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Isuzu Bellett",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "AGM-84E Standoff Land Attack Missile",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Mercedes-Benz GLE-Class",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Ford Probe",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mars Science Laboratory",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Aston Martin DBS",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "TW 6000",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Aston Martin DB10",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Daewoo Tico",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia E90 Communicator",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz W211",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Lexus LC",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy Z Flip 4",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ulysses",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Toyota Corolla E90",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford Transit",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan NV",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia N810",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota GR Yaris Rally1",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volkswagen ID.5",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy A3",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Samsung Galaxy A15",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Comfort",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford Del Rey",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Volkswagen Bras\u00edlia",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mitsubishi Ki-15",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Chevrolet Corvette C8",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy Z Flip 5",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ford Contour",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan Avenir",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Mercedes-Benz C11",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Pontiac Tempest",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mitsubishi 1MT",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Apple I",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Samsung Galaxy M40",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Porsche 911 GT1",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "EBRC Jaguar",
+        "output": "Patrice Caine"
+    },
+    {
+        "input": "Nissan Pao",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 1600",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6120 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Boeing X-40",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nokia Lumia 820",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan R390 GT1",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Samsung Galaxy Fold",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Sisu XA-180",
+        "output": "Ville Jaakonsalo"
+    },
+    {
+        "input": "Toyota Sienna",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy Note 10",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mercedes-Benz R171",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Mercedes-Benz W124",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Super NES CD-ROM",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Porsche 907",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercedes-Benz R172",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Daewoo Nexia",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy Note Edge",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Aston Martin DB4 GT Zagato",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Aston Martin Rapide",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Ford Pinto",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Game Boy Pocket",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Toyota Ist",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "SEAT Toledo",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Volkswagen Iltis",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Audi A2",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia Asha 202",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volkswagen Golf Mk3",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volkswagen Taro",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Lagonda Rapide",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nike+iPod",
+        "output": "Elliott Hill"
+    },
+    {
+        "input": "SEAT Mii",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Volkswagen Golf Mk7",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercedes-Benz W 113",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Nokia 2760",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy J SGH",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 7110",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Soviet locomotive class \u0427\u04217",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Pixel Camera",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Google Nexus",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Nokia 6131",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz O 404",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Ford Edge",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy J6",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 9500 Communicator",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 5110",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volkswagen New Beetle",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nokia 2310",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Rogue",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Aston Martin V12 Zagato",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia 5730 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Laurel",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "DB Class 111",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Nokia X3-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Equinox",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Corvair",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nissan Pixo",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 6303 Classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "IBM System/360",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Pleiades",
+        "output": "Antonio Neri"
+    },
+    {
+        "input": "Ford Capri EV",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia N93i",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 9000 Communicator",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Apple A5X",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ford Focus RS WRC",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "T-2",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Type 75 155 mm self-propelled howitzer",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "New Nintendo 2DS XL",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Audi 50",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "\u0160koda Fabia R5",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Daewoo Leganza",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volvo Concept Coupe",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Mercedes-Benz X 164",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia E70",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "iPhone 7",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Audi Avus quattro",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Porsche 962",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Oldsmobile Alero",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia C6-01",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Chevelle",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Chevette",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia Asha 302",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia N800",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Infiniti Q45",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "\u0160koda 440",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Toyota Granvia",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Harvard Mark I",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Aston Martin DBS Superleggera",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Pontiac Sunfire",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Porsche 695",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Siemens Combino",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Ford E83W",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Hakuto-R M1",
+        "output": "Martin Sion"
+    },
+    {
+        "input": "Mercedes-Benz X167",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "X-20 Dyna-Soar",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota TF109",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "IBM 701",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "M8 Greyhound",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Rumble Pak",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Toyota Highlander",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota TF102",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota concept vehicles, 2000\u20132009#A-BAT",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Game Boy",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mercedes-Benz C215",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volkswagen ID.3",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "IBM Personal Computer",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Mercedes-Benz V-Class",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "\u0160koda 1203",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Columbia",
+        "output": "Antonio Neri"
+    },
+    {
+        "input": "Volvo XC90",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Apple III",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia 5200",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "AMOS-6",
+        "output": "Martin Sion"
+    },
+    {
+        "input": "Opel Sintra",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia E5-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volvo C70",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Ford Transit Courier",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan NV200",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nissan Teana",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Google Jamboard",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Blue Brain Project",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Volkswagen Polo Mk2",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Game Boy Camera",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Smart Fortwo",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volvo PV444",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Aston Martin DBS V12",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Big N' Tasty",
+        "output": "Chris Kempczinski"
+    },
+    {
+        "input": "Nissan Pino",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Samsung Wave II S8530",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "iPhone 14",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "M151 MUTT",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Volkswagen Beetle",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercedes-Benz R107 and C107",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Xbox 360",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Ford LTD Crown Victoria",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Ford Flex",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Audi S8",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Samsung CorbyPRO",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ford Sierra RS Cosworth",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Porsche 912",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Audi Quattro",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Mercedes-Benz M-Class",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Macintosh Plus",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Vauxhall Victor",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Republic-Ford JB-2",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Monte Carlo",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Saab 900",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Isuzu Aska",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ingenuity",
+        "output": "Cristiano Amon"
+    },
+    {
+        "input": "Boeing XF6B",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Space Shuttle",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nokia 3250",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Murano",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Chevrolet Bolt",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Buick Skyhawk",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Porsche 993",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nokia 2115i",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz SLC-Class",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Chevrolet Agile",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cadillac CTS",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nissan 300ZX",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Ford Explorer",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Lexus HS",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nevsky Express",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Nissan Sentra",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 6650",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Advance Design",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lagonda 2.6-Litre",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Samsung Galaxy A5 (2016)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota GT-One",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "X-47B",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Chevrolet Spark",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Microsoft Surface",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Cadillac BLS",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 8310",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Nomad",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Golf Mk4",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Porsche 961",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Chevrolet Traverse",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "N-Gage QD",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Rolls-Royce RB.50 Trent",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Toyota Soarer",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Rolls-Royce Griffon",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Buick Regal",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "\u0160koda Yeti",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nokia 5000",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz W31",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "\u010cD Class 380",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Isuzu Forward",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mitsubishi B1M",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Porsche 959",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercury Capri",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy Ace Plus",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia E65",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "YC-14",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Chevrolet Silverado",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Daimler-Benz DB 601",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Samsung Galaxy S5 Mini",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Grosstraktor",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "AT4",
+        "output": "Vimal Kapur"
+    },
+    {
+        "input": "Nokia 2650",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "SEAT Alhambra",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Nokia 6230",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Corolla Cross",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Oldsmobile Silhouette",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Oldsmobile Cutlass Calais",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy Mini",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Volkswagen Polo Mk4",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Cadillac ATS",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Aston Martin V8",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Porsche 944",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "ICE T",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Porsche 919 Hybrid",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "MIM-72 Chaparral",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Suzuki Across",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Apple A12 Bionic",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Audi e-tron GT",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "iPhone 16",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Chevrolet Blazer (2018)",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Subaru Solterra",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "\u0160koda Octavia (1959)",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Fairphone 2",
+        "output": "Raymond van Eck"
+    },
+    {
+        "input": "Samsung Galaxy A33 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Isuzu Rodeo",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chromebook Pixel",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Toyota TF103",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Xbox Series X",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Toyota Aqua",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy Gear",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia N78",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "XB-15",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota Vios",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Game Boy Micro",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Samsung Galaxy Note N7000",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia Lumia 630",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia C2-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Aston Martin DBR5",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "SBB-CFF-FFS Re 460",
+        "output": "Morten Wierod"
+    },
+    {
+        "input": "Nokia 5700 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "N-Gage",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A50",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nissan GT-R LM Nismo",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nissan Tiida",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Volvo YCC",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "X-47A Pegasus",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Nokia 770",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Quest",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Maschinengewehrkraftwagen",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Chevrolet Beretta",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz W187",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia 7600",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volkswagen Jetta II",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Japanese cruiser Kashii",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "MQ-25 Stingray",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Aston Martin Cygnet",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia 1650",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "YAL-1",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Pontiac Aztek",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volvo 850",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nissan Leopard",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Memphis Belle",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Samsung Galaxy Note 8",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 5510",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Suzuki Equator",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 3110 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy Z Fold 4",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Porsche 64",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Toyota Porte",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Boeing XPBB-1 Sea Ranger",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Mercedes-Benz EQB",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "XB-56",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Samsung Galaxy A02",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Aston Martin Vulcan",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Toyota Land Cruiser Prado",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "FAT32",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Porsche 968",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Chevrolet Corvette C1",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Game Boy Advance SP",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Samsung Galaxy Note 9",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 7360",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cessna DC-6",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Nissan S30",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Chevrolet 150",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia N72",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet C/K",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Corsica",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Fox",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "IBM Q System One",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Buick Centurion",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 2651",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz W166",
+        "output": "Tobias Moers"
+    },
+    {
+        "input": "1955 Ford",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Ford Puma",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 5800 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Harrier",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota ZZ engine",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volkswagen Gol",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Aston Martin Lagonda",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Toyota bZ4X",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volkswagen Passat B3",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercury Monterey",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Cessna 188",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Isuzu 117 Coup\u00e9",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Aston Martin DBX",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Aston Martin One-77",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Boeing C-32",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nissan Skyline GT-R",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Ford Figo",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia E6-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Surface Book",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Volkswagen Tiguan",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "M36 Gun Motor Carriage",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Model C",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Buick Rendezvous",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Porsche 908",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "BepiColombo",
+        "output": "Guillaume Faury"
+    },
+    {
+        "input": "Microsoft Lumia 535",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Rhaetian Railway ABe 4/4 III",
+        "output": "Morten Wierod"
+    },
+    {
+        "input": "IBM 3270",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Nokia 6260 slide",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Lexus IS F",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Google Nest",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Volkswagen Transporter T5",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy A8 (2016)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ford Torino",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan Cube",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Pontiac Phoenix",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Model N",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy J7 2017",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Tesla Cyberquad",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Oldsmobile 442",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "iPhone 13",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Ford Fiesta RS WRC",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 6555",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Pontiac 6000",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy Note 3",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "\u0160koda Slavia",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Infiniti FX",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Ford Mainline",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Captiva",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cadillac CTS-V",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 6020",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Patria NEMO",
+        "output": "Ville Jaakonsalo"
+    },
+    {
+        "input": "Toyota 4Runner",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Chevrolet Camaro",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 7390",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia N76",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz C217",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "eMate 300",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Willys MB",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Airbus Beluga XL",
+        "output": "Guillaume Faury"
+    },
+    {
+        "input": "Apple Thunderbolt Display",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Samsung Galaxy J3 (2016)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Super FX",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "EADS/Northrop Grumman KC-45",
+        "output": "Guillaume Faury"
+    },
+    {
+        "input": "Apple A7",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 6010",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Elgrand",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Chevrolet Delray",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Apple IIc",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Japanese cruiser Haguro",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Nokia Asha 205",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "MareNostrum",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Nokia Asha 200",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "French aircraft carrier PA2",
+        "output": "Patrice Caine"
+    },
+    {
+        "input": "Volkswagen Passat B1",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "M3 submachine gun",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercury Marquis",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan S-Cargo",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Ford Ranchero",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "\u0160koda 120",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nokia 2630",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Yaris Cross",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "YF-22",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Cessna T303 Crusader",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "SEAT 127",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Samsung Galaxy Tab 7.0",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "DUKW",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Land Cruiser",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "iPhone 16e",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Samsung Galaxy Young",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia E55",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Eifel",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "RAD6000",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Mercedes-Benz 190 SL",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Chromecast",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Mercedes-Benz MB100",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Surface Studio",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Mercury Montego",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Smart electric drive",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Audi A6 allroad quattro",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Ford Mustang V",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "\u0160koda Citigo",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nokia 1610",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Porsche 930",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy S20",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia C3 Touch and Type",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Five Hundred",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Lagonda 3-Litre",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia 3510",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Boeing X-48",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Samsung Galaxy A5 (2017)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Falcon 8X",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Nissan Vanette",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Mitsubishi B5M",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Chevrolet Master",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Impala",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lexus LFA",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volvo \u00d6V 4",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Ford Escape",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Windows 11",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "SEAT Inca",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Toyota Avalon",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Gear",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nintendo GameCube",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "SEAT Ronda",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Toyota Corona",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Porsche Taycan",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Pontiac Grand Prix",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Cobalt SS",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Patria 6x6",
+        "output": "Ville Jaakonsalo"
+    },
+    {
+        "input": "Chevrolet Citation",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cessna Citation Excel",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Lexus RC",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 6720 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz C218",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Samsung Galaxy i7500",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "GMC Terrain",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz W126",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Toyota Brevis",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mercedes Simplex",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Tesla Model X",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Volvo V60",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Toyota Verossa",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford E-Series",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 1800",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Falcon 7X",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Samsung Galaxy S4 Mini",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia N77",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Buick Encore GX",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "GMC Acadia",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cadillac XT4",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz C209",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia Lumia 710",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 701",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "British Rail Class 360",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Chevrolet S-10",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nintendo GameCube controller",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Cadillac ELR",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy M32",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Mega Cruiser",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Audi 200",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Boeing XB-59",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Samsung Galaxy Spica",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Samsung Galaxy Watch",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Model M keyboard",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Panasonic Q",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Ford Consul Classic",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Cessna Citation X",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Samsung Galaxy A22 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mercedes-Benz C111",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia Lumia Icon",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz SLR McLaren",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nissan Z-car",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Big Mac",
+        "output": "Chris Kempczinski"
+    },
+    {
+        "input": "Mercedes-Benz W220",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia Lumia 810",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volkswagen Golf Mk6",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nokia E50",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Terrano",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Urban Cruiser",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Dassault Falcon 50",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Chrysler Pacifica",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Ford Bantam",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Aston Martin Virage",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Apple Mighty Mouse",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Volkswagen Eos",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Daewoo Magnus",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Datsun Truck",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 6800",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "SEAT 132",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Apple QuickTake",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Volkswagen ID.6",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "RUR-5 ASROC",
+        "output": "Vimal Kapur"
+    },
+    {
+        "input": "McMuffin",
+        "output": "Chris Kempczinski"
+    },
+    {
+        "input": "Volkswagen Lupo",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "68HC11",
+        "output": "Kurt Sievers"
+    },
+    {
+        "input": "Chevrolet Deluxe",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen ID. Buzz",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Cadillac Series 70",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mitsubishi 2MR",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Ford Country Squire",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Cessna CH-1",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Volkswagen Phaeton",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Isuzu Florian",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Model B",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Northrop Grumman MQ-4C Triton",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Nissan Rasheen",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Mercedes-Benz 600",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Patria AMV",
+        "output": "Ville Jaakonsalo"
+    },
+    {
+        "input": "Buick Estate",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy Note 10.1",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota TF101",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia Lumia 900",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Titan",
+        "output": "Antonio Neri"
+    },
+    {
+        "input": "Chevrolet Monza USA",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Isuzu Ascender",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota TS030 Hybrid",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford Tempo",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 3120 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Bronco",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 3600 slide",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Noah",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy A11",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia N70",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Celebrity",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy R",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Lexus IS",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 150",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy Note Pro 12.2",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Dassault Mirage G",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "British Rail Class 92",
+        "output": "Morten Wierod"
+    },
+    {
+        "input": "Daewoo Lacetti",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lexus UX",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford Nucleon",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Bolt EUV",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Audi Rosemeyer",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Chevrolet Camaro (second generation)",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 3660",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Eagle",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Chevrolet K5 Blazer",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 1209",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 3210",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "BlackBerry Q10",
+        "output": "John S. Chen"
+    },
+    {
+        "input": "Ford Escort",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy Fame",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Cessna Citation I",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "IBM 6150 RT",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Samsung Galaxy A3 2015",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Pontiac Parisienne",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Excursion",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Astro",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 2700 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Super Game Boy",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Toyota LiteAce",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Cessna 140",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Summit",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Toyota TF104",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Porsche 909 Bergspyder",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volvo S40",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nissan GT-R",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Audi S1",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Microsoft Band",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Budweiser",
+        "output": "Michel Doukeris"
+    },
+    {
+        "input": "Apple A6",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "\u0160koda Enyaq iV",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Aston Martin DB2/4",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Boeing 367-80",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Pontiac Grand Ville",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Model F",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Ground Launched Small Diameter Bomb",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Buick Apollo",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lexus LX",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Tesla Semi",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Renault Duster/Dacia Duster",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Windows Server 2003",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Buick Electra",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Porsche 914",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Game & Watch series",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Nokia 6288",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Pontiac Fiero",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 5140",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "IBM POWER",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Nokia 1202",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Titan",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Mercedes-Benz W108",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nissan Wingroad",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Daewoo Tosca",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lexus LM",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nexus 5X",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Dassault \u00c9tendard II",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "DB Class 103",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Ultra Low Floor",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Volkswagen Tayron",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "\u0160koda Scala",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nissan Primastar",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Samsung Galaxy Beam i8530",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "SEAT C\u00f3rdoba WRC",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "SEAT Marbella",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Hummer H3",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Lamando",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Wii U",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "LGM-118 Peacekeeper",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nokia 1101",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia Lumia 920 smartphone",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Majorana 1",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Nissan 370Z",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "AVE Class 103",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Nokia E72",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Audi R15 TDI",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "SEAT Altea",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "GMC Envoy",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia Lumia 1520",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Caprice",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy A72",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mercedes-Benz W15",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Pok\u00e9mon Pikachu",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Airbus A330neo",
+        "output": "Guillaume Faury"
+    },
+    {
+        "input": "Mercedes-Benz GLK-Class",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "1963-1989 Porsche 911",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercedes-Benz 540K",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Oldsmobile Bravada",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia E7",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Corolla (E70)",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mercedes-Benz W202",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Toyota Yaris Verso",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Lincoln MKZ",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 2680 slide",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet HHR",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy A7 (2015)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nissan Primera",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "IBM Selectric typewriter",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Nokia N90",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "iPhone 11 Pro",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Apple IIGS",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia Lumia 1320",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Infiniti M",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Volkswagen Golf Mk8",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercury Cougar",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy A90 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "SEAT 1430",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Mercedes-Benz R170",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Mercedes-Benz O 303",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "S-IC",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "DB Class 151",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Chevrolet Task Force",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy A7 (2017)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Audi RS7",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia 103",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cessna Citation Sovereign",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Toyota Raum",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy A24",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 6103",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "list of Nokia products",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "\u0160koda Roomster",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Mercury Comet",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mercedes-Benz C257",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Audi S6",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia N75",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 3155",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz C219",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volvo P1900",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Boeing Phantom Eye",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Ford Maverick pickup",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan Xterra",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Chevrolet Chevy II / Nova",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Buick Lucerne",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen SP2",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "General Electric F101",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Nokia E75",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Ranch Wagon",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Buick Y-Job",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Aston Martin DB11",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia 3200",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz C112",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Boeing XB-55",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Daimler-Benz DB 603",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Porsche 718",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "M1918 Browning automatic rifle",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Destiny",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Elon Musk's Tesla Roadster",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Amiibo",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Volvo 900 Series",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Pontiac Trans Sport",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung SGH-i900",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Carina",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "iPhone 3GS",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Mercedes-Benz EQC",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia 1112",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6290",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "iPhone\u00a07 Plus",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia 6085",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Japanese battleship Musashi",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Samsung Galaxy Tab S7",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Lincoln Futura",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Buick Wildcat",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cadillac Calais",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Audi e-tron",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Ford D-series",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Ford Ranger",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia E51",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Apple Pro Display XDR",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia N79",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Oldsmobile 88",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Corolla E110",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mark 46",
+        "output": "Vimal Kapur"
+    },
+    {
+        "input": "Mercedes-Benz W140",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Samsung Galaxy E5",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Samsung Galaxy Tab S 10.5",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mirage 4000",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Nissan Magnite",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Tesla Cybertruck",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Lexus GX",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Audi 920",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Satellaview",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Samsung Galaxy Grand",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Rolls-Royce Trent",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Volkswagen Transporter T4",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy Note 3 Neo",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 2600 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia Asha 501",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Stratospheric Observatory for Infrared Astronomy",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Volkswagen Polo Mk5",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Dassault nEUROn",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Holden Caprice",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Audi A8",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Series 40",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "XP-15",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "XM214 Microgun",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Saturn Aura",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung SGH-E250",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Premio",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 101",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Yokosuka B4Y",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Volkswagen Passat B4",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercedes-Benz C208",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia E66",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy W",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Saturn Ion",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 5310 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Innova",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mitsubishi Proudia",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Windows Phone 8",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Audi V8",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia 8850",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A7 (2018)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Samsung i5500",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia N93",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Scion xB",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford Bronco Sport",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nintendo Switch Pro Controller",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "nirmatrelvir/ritonavir",
+        "output": "Albert Bourla"
+    },
+    {
+        "input": "Lexus RZ",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mercedes-Benz Arocs",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volvo S70",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Daewoo Nubira",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota TS040 Hybrid",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Lincoln Town Car",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 100",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Supra",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Porsche 356",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volkswagen Jetta V",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy Y",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Dassault Mirage F2",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "onasemnogene abeparvovec",
+        "output": "Joseph Jimenez"
+    },
+    {
+        "input": "Hummer HX",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lincoln-Zephyr",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Audi Front",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia 700",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz W136",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Xbox Series X and Series S",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Nissan 180SX",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "\u0160koda Kushaq",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nokia Lumia 720",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Granada North America",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mitsubishi 1MF",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Isuzu Elf",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volvo EX90",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Toyota Avensis Verso",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Buick Park Avenue",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "list of Google easter eggs",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Nissan Almera Tino",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Audi R8",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia Lumia 735",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy Ace 2",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "blind spot monitor",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Pixel 9 Pro Fold",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Porsche 804",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Ford Aerostar",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Cadillac Eldorado",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cadillac Escalade",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Buick Century",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Audi Shooting Brake",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Volkswagen Taigun",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Toyota Caldina",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy S8",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Corolla E100",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Oldsmobile Curved Dash",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Saturn S-Series",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Magic Keyboard",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nissan Gloria",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia E61",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Cressida",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "IBM Sequoia",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Sega TeraDrive",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Volkswagen Passat B5",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Porsche 963",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy J8",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "\u0160koda Favorit",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nissan Cefiro",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Buick Encore",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nintendo DSi",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mercedes-Benz Vaneo",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "L-15 Scout",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Pfizer\u2013BioNTech COVID-19 vaccine",
+        "output": "Albert Bourla"
+    },
+    {
+        "input": "Nokia 8110",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Dassault Mirage IIIV",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Radschlepper Ost",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Samsung Galaxy A71",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Sports 800",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nissan NX",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "iPhone 16 Pro",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "General Electric T700",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Fully Integrated Robotised Engine",
+        "output": "Michael Manley"
+    },
+    {
+        "input": "Super \u00c9tendard",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Tesla Cybercab",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Nokia Lumia 505",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6500 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Pontiac G8",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Trax",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Infiniti G",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Isuzu Trooper",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz W180",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Pepsi Max",
+        "output": "Ramon Laguarta"
+    },
+    {
+        "input": "Porsche 917",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Ford LTD II",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Toyota 2000GT",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota Paseo",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia N85",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Apple Network Server",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Ford Elite",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "GA-1",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Buick Invicta",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 2110",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-AMG GT 4-Door Coup\u00e9",
+        "output": "Tobias Moers"
+    },
+    {
+        "input": "Aston Martin DB Mark III",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia N80",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia N73",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Gear VR",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 6600 fold",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "SEAT 1200 Sport",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "M18 Hellcat",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nissan Caravan",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Corolla Verso",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mars 2020",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota iQ",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mercedes-Benz Citan",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Audi R18",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Aston Martin Valkyrie",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia N95",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A55 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Isuzu D-Max",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cupra Born",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Buick Rainier",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford GT90",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy A53 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "James Webb Space Telescope",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Dasani",
+        "output": "James Quincey"
+    },
+    {
+        "input": "Nissan Livina",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "\u0160koda 14Tr",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Boeing Pelican",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Mercedes-Benz type 223",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Ford Taurus",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan Almera",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Merlin",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Mercedes-Benz W206",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Mercedes 35 hp",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia 1280",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Super Duty",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "SEAT 128",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Mercedes-Benz F700",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volvo C30",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Chevrolet Blazer",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Quest Joint Airlock",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Samsung Galaxy A31",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Ford Del Rio",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan Altima",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Boeing E-7 Wedgetail",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Chevrolet Corvette C7",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Wii",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Nissan Pivo",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Infiniti Q50",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Samsung Galaxy A5 (2015)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia E60",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Pixel 4",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Volkswagen Golf Mk5",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy A13 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Cadillac Sixteen",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lincoln Continental",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy A8 (2018)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Porsche 550",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nissan 240SX",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Hummer H2",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford F-150 Lightning",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Volkswagen Polo Mk3",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercedes-Benz W638",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Zune",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Porsche Super",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Ford Model C Ten",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 6265",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "IBM 7090",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Nissan Prairie",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Mirai",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mercedes-Benz W222",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Porsche 989",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Oldsmobile Intrigue",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Apple IIe",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "E231 series",
+        "output": "Y\u014dichi Kise"
+    },
+    {
+        "input": "Volkswagen Passat CC",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "\u0160koda 15 T",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "BlackBerry Passport",
+        "output": "John S. Chen"
+    },
+    {
+        "input": "Nokia N91",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz O 405",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Nokia 6100",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Daewoo Lanos",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nissan Figaro",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Ford Taurus X",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Audi Cabriolet",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Chevrolet Corvette C5",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 2626",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Wii MotionPlus",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mercedes-Benz W203",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Samsung Galaxy Z Fold 2",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "LaserWriter",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Game Boy Advance",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Nokia 7250",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "T18 Boarhound",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Audi 100 Coup\u00e9 S",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Famicom Disk System",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Aston Martin DB5",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "\u0160koda 110 R",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Porsche 991",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercedes-Benz W112",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Mercedes-Benz GLA",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia 6600 slide",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Audi A5",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "GE C36-7",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Nissan Serena",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Yaris",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota C+pod",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Stella Artois",
+        "output": "Michel Doukeris"
+    },
+    {
+        "input": "Soviet locomotive class \u0427\u04218",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "iPad Air (5th generation)",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Snipping Tool",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Power Mac G5",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Mercedes-Benz W204",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Porsche Macan",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "\u0160koda Praktik",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Ford 7Y",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Aston Martin 2-Litre Sports",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nintendo 2DS",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Audi RS 2 Avant",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Mercedes-Benz 300 SL",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volvo XC60",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Audi RS6",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Pontiac G5",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz R129",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Nissan R'nessa",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Game Boy Player",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "\u0160koda Rapid (India)",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Samsung Galaxy Mega 6.3",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia Lumia 625",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volvo ES90",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Windows 7",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Mercedes-Benz W110",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "USS Mississippi",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Mercedes-Benz W205",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Oldsmobile 98",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Biscayne",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Malibu",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Mark X",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota Century",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 106",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz EQS",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia Asha 303",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A70",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Lexus CT",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Lexus NX",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 6136",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Buick LaCrosse",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Sienta",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "\u0160koda 1101/1102",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Apple II Plus",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Ford Model A",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 6670",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Explorer Sport Trac",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Northrop Grumman MQ-8C Fire Scout",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Hummer H1",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Lincoln MKX",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Volkswagen Type 4",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Porsche 996",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Porsche 992",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volvo 740",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Porsche 928",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Apple II",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Volvo VESC",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Oldsmobile Cutlass Ciera",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "64DD",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Ford EXP",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mercedes-Benz 170S",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia E52",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz W212",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Volkswagen ID.7",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "IBM Roadrunner",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Mercedes-Benz NG",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Nokia 2730 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6610i",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Pontiac Torrent",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford S-Max",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Cessna 425 Conquest I",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "SEAT Panda",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "GMC Yukon",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nissan Trade",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Mercedes-Benz W111",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Chevrolet Lumina APV",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Golf Plus",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy M31",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "InterCityExperimental",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Daihatsu Consorte",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford Territory",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 7900",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "AN/TWQ-1 Avenger",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Type 2 Ke-To",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Mercedes-Benz EQS SUV",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Ford B-Max",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Lincoln MKT",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 3110",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 5630 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "SEAT Fura",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Nokia Lumia 1020",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Curren",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mercedes-Benz EQA",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Chevrolet Trailblazer",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Aston Martin Valhalla",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Game Boy Light",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "SEAT Exeo",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Boeing Starliner",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota Origin",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Elefant",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nissan Z",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nissan Maxima",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "M134 Minigun",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "IBM 704",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Samsung Galaxy S III mini",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "SEAT C\u00f3rdoba",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Nokia 6030",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "X-46",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota TF106",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volvo XC40",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Toyota Camry Solara",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford Model TT",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 603",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Audi Nuvolari quattro",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Toyota HiAce",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Cadillac Fleetwood",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia X3 Touch and Type",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "GMC Typhoon",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz C216",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Northrop Grumman RQ-180",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "SEAT Tarraco",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Nokia Lumia 2520",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Model AA",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 6630",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6600",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Fusion Americas",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Toyota Corolla Spacio",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Windows Phone 7",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Macintosh XL",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nissan Leaf",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Suzuki Swace",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia N96",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Ranger Americas",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Camaro (first generation)",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "\u0160koda Kamiq",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "\u0160koda 100",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Toyota RAV4 EV",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "ASM-1",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Toyota Tundra",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "list of Toyota vehicles",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "J85",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Samsung Galaxy S6 Active",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mercedes-Benz W116",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Toyota Dyna",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia C7-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Porsche 935",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Windows CE 5.0",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Buick Roadmaster",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Porsche 906",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung i8000",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Vista",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Aston Martin DB9",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Toyota C-HR",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mercury Sable",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Toyota Mark X ZiO",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "B & W Seaplane",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Volvo V40",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Mac",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Aston Martin DB AR1",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia 105",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "\u010cD Class 471",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Toyota Prius V",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung i5800",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "VC-25",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Volkswagen Up!",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Ford Explorer EV",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "EADS Mako/HEAT",
+        "output": "Guillaume Faury"
+    },
+    {
+        "input": "Kestrel",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Schwimmwagen",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volkswagen W12",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "WC-135 Constant Phoenix",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota Gaia",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Windows Script Host",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Mercedes-Benz W639",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Ford Quadricycle",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Japanese cruiser Kashima",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Pennsylvania Railroad GG1",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Toyota Alphard",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Ford GPA",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "\u0160koda Felicia",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Volvo Amazon",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Toyota Platz",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Aston Martin DB7",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Ford Fairmont",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mercedes-Benz W120",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia 7380",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Tacoma",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota Matrix",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota Probox",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Zune HD",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "\u0160koda VOS",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "iPhone 12",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Cadillac Cimarron",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung SGH-A177",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 2100",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford 999",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "1937 Ford",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nintendo DS",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mercedes-Benz 260 D",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Nokia Morph",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Aveo T200",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota AA",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "kleine Panzerbefehlswagen",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Datsun Sports",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia E62",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Saturn Outlook",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz W114",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Oldsmobile Toronado",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Tesla Model Y",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Volvo RM12",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nokia 6820",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Previa",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia C3-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "7.5 cm Feldkanone 18",
+        "output": "Miguel \u00c1ngel L\u00f3pez Borrego"
+    },
+    {
+        "input": "M163 Vulcan Air Defense System",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Minotaur I",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "M-V",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 5233",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota TF107",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Cessna Citation III",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Volkswagen Corrado",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Gear 2",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Buick Terraza",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "New Nintendo 3DS",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Audi 80",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Mac mini",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Volvo V50",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Volkswagen Polo Mk1",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nokia E71",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Aston Martin DB12",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Nokia 6310i",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy J7 Crown",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Boeing 747 Supertanker",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Porsche 997",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy Core",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Windows\u00a010 Mobile",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Aston Martin DBR4",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Cessna C-106 Loadmaster",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Google Authenticator",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Tesla Roadster",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Ford Windstar",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mercedes-Benz CLC-Class",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nissan Sunny",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Wii Classic Controller",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "XP-4",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nissan Presage",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 5100",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A25 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Tay",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Nokia 6070",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Shelby GR-1",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Volvo S60",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "ICE 3",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Cadillac V-16",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Google Pixel",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Nintendo Switch Lite",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Pontiac G6",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volvo 140 Series",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Chevrolet Vega",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Porsche RS Spyder",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Tesla Model S",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Volkswagen Passat B8",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Broadway",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Porsche 934",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Microsoft HoloLens",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "IBM 5100",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Samsung Galaxy A12",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Apple Lisa",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Filet-O-Fish",
+        "output": "Chris Kempczinski"
+    },
+    {
+        "input": "Buick Riviera",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia N97",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "AAM-3",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Monomail",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Macintosh Portable",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Brahma",
+        "output": "Michel Doukeris"
+    },
+    {
+        "input": "Nokia 2610",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Rolls-Royce RB211",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "CC-150 Polaris",
+        "output": "Guillaume Faury"
+    },
+    {
+        "input": "Audi RSQ",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "GMC Syclone",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Landsat 1",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Mercedes-Benz W196",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Pontiac Vibe",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Saturn Vue",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy A73 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Volvo C40",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Porsche 964",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nissan S130",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 5",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "iPod touch 5",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia Lumia 525",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy Z Flip 3",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Porsche 360",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "My\u014dk\u014d-class cruiser",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Volkswagen 181",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "SuperMUC",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Tosa-class battleship",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "X-50 Dragonfly",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota Ractis",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Audi S3",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Daimler-Benz DB 600",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Nokia 7280",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6110",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Telstar",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 3720 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Suburban",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Opel Frontera",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford C-Max",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 3330",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Etios",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Buick Envista",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mitsubishi Dignity",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "MacBook Air",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "McGriddles",
+        "output": "Chris Kempczinski"
+    },
+    {
+        "input": "Toyota Aygo X",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Audi S2",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "SEAT 1400",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Maybach 57 and 62",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Toyota Wish",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 7500 Prism",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cessna Model A",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Apple Display Connector",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Buick Skylark",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Santana",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volvo P1800",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nissan Fuga",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Baojun 630",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Unity",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Dassault Communaut\u00e9",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Audi Le Mans quattro",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia 6151",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz W213",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "iPhone 14 Pro",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Ford Freestar",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Buick Somerset",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nissan Silvia",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Chevrolet Camaro (third generation)",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Vinci",
+        "output": "Martin Sion"
+    },
+    {
+        "input": "IBM PC Convertible",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Boeing X-32",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Volkswagen Golf Mk2",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Rolls-Royce armoured car",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "Mercedes-Benz 300 SLR",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Porsche 936",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "dalteparin",
+        "output": "Albert Bourla"
+    },
+    {
+        "input": "Nokia Lumia 520",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia C6-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "T34 Calliope",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Samsung Galaxy Alpha",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "\u0160koda Rapid",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Pontiac Bonneville",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Cadillac XLR",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz Atego",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Samsung Galaxy A7 (2016)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Volvo V90",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Ford Falcon",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "General Motors EV1",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Fairlane",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 6301",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A54 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 2600",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Sequoia",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Lexus LBX",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "HomePod Mini",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "FP-45 Liberator",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Crown Victoria",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 5300 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "RS/6000",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Boeing EA-18G Growler",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nokia 3220",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volvo PV51",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nokia E63",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia N92",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volvo 66",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Toyota bB",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Chevrolet S-10 Blazer",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 5070",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy E7",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Toyota Verso",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy A9 (2016)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Watson",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Nokia 3230",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volvo EX30",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "iPhone",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Ford Maverick",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan Ariya",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 5210",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota GR Yaris",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nissan NV400",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Chevrolet Express",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Isuzu Piazza",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Wiesel AWC",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Chevrolet Kodiak",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz R231",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "\u0160koda 13 T",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Samsung Galaxy S9",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Cadillac Seville",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Apple TV",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Samsung Galaxy Z Flip",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia X7-00",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Volvo S80",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Suzuki XL-7",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Starlet",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Mitsubishi Ki-20",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Samsung Galaxy Z Fold 3",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Volkswagen Type 3",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Samsung Galaxy J1",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Oldsmobile Cutlass Supreme",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz X166",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Toyota Avensis",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia X",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Net Promoter Score",
+        "output": "Christophe De Vusser"
+    },
+    {
+        "input": "X-51 Waverider",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nissan 350Z",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Xbox Series S",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Holden Barina",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Corvette (C4)",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Passat B2",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Schneider CA1",
+        "output": "Peter Herweck"
+    },
+    {
+        "input": "Nokia 3100",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Airlander 10",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Nokia 6700 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Isuzu Axiom",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nintendo DS Lite",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "SEAT Arosa",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Porsche 904",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Inertial Upper Stage",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Audi Q6 e-tron",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Holden Commodore",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "\u0160koda Octavia",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Daewoo Tacuma",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford Consul",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "GMC CCKW",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "M110",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volvo Duett",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Chevrolet Colorado",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Pontiac LeMans",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Chevrolet Menlo",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Delta III",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nokia 7610",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy Ace",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Pontiac Grand Am",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia N95 8GB",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "\u0160koda 15Tr",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Saturn Sky",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Audi Q7",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Mercedes-Benz Econic",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia N86 8MP",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Mercedes-Benz W177",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nissan President",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Google Pixelbook",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Oldsmobile Cutlass",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Virtual Boy",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Android Automotive",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Ki-83",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Macintosh SE/30",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "T20 Medium Tank",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford 7W",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Toyota Mark II",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Dassault MD 315 Flamant",
+        "output": "\u00c9ric Trappier"
+    },
+    {
+        "input": "Volvo ECC",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "iMac G3",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Samsung Galaxy A80",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Lexus RX",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Chevrolet SSR",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Phideon",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Opel Monterey",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy Win",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mercedes-Benz W214",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "iPod Hi-Fi",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Toyota GR010 Hybrid",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "XAT-15",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Toyota Allion",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 5500 Sport",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cadillac Brougham",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Windows Nashville",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Nokia X6",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Lumina",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 6822",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6220 Classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Wii U GamePad",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mark 48 torpedo",
+        "output": "Vimal Kapur"
+    },
+    {
+        "input": "Liberty L-12",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Samsung Galaxy Note 8.0",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "\u010cD Class 810",
+        "output": "Tom\u00e1\u0161 Igna\u010d\u00e1k"
+    },
+    {
+        "input": "Chevrolet Volt",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Wii Balance Board",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Cadillac XT6",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Celica GT-Four",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Boeing T-7 Red Hawk",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Audi A6 e-tron",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Samsung Galaxy A10",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nissan Cima",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Volvo S90",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nissan Bluebird",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Crown Majesta",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Saturn Relay",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 7210",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Isuzu Faster",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 6280",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia N900",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Aston Martin DBR9",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Samsung Galaxy A8 (2015)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 7700",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6300",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "\u0160koda Superb",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nissan Juke",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Volkswagen Citi Golf",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Ford Courier",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Venture",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercury Marauder",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Astazou",
+        "output": "Tufan Erginbilgi\u00e7"
+    },
+    {
+        "input": "\u0160koda Garde",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Nokia Lumia 928",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "\u0160koda 03 T",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Toyota Progr\u00e8s",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 5230",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Aston Martin DB6",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Frontier",
+        "output": "Antonio Neri"
+    },
+    {
+        "input": "Samsung Galaxy J7 Prime",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Pok\u00e9mon Mini",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Nokia 3650",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "XF8B-1",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Chevrolet Fleetline",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 8600 Luna",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Powerade",
+        "output": "James Quincey"
+    },
+    {
+        "input": "Volkswagen 1-litre car",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "GMC Hummer EV",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "SEAT 1500",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "iPhone 15 Pro",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Lexus ES",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 130",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia N8",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A23",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nissan Terra",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Cessna 404 Titan",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Infiniti QX50",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "SEAT Arona",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Volkswagen ID.4",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Toyota Auris",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Pixel 3",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Combino Supra",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Porsche Carrera GT",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Cessna 162 Skycatcher",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Buick Reatta",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "ICE 2",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Mk44 Bushmaster II",
+        "output": "Kathy J. Warden"
+    },
+    {
+        "input": "Cessna Citation Latitude",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "GAU-8 Avenger",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Ford Mustang Mach-E",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 8910",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cessna Citation Mustang",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Ford GT40",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mercedes-Benz Zetros",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Chevrolet LUV",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Hino Dutro",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Xbox Live Vision",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Infiniti J30",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Audi A6 C7",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nintendo Entertainment System",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Magic Trackpad",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Porsche 910",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Leichttraktor",
+        "output": "Miguel \u00c1ngel L\u00f3pez Borrego"
+    },
+    {
+        "input": "Nokia 206",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Soviet locomotive class \u0427\u04214",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Mercedes-AMG R232",
+        "output": "Tobias Moers"
+    },
+    {
+        "input": "Nokia 6810",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy S",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "K\u00fcbelwagen",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Volkswagen Passat B7",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "ICE 1",
+        "output": "Morten Wierod"
+    },
+    {
+        "input": "Toyota Fortuner",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 1208",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy Fit",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 6111",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6681",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Wave S8500",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nissan Prince Royal",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Sera",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Audi RS4",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia 7230",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy S10",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 3410",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cadillac Series 60",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz TN",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Sauber C9",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "BlackBerry Z10",
+        "output": "John S. Chen"
+    },
+    {
+        "input": "Nokia 808 PureView",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Lincoln Navigator",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 6021",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy S5",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "SEAT Le\u00f3n",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "LAPV Enok",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia N9",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy S20 FE",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Cessna 340",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Audi Q4 e-tron",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Game Boy Color",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Samsung Galaxy S III",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "iPod Mini",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Toyota Cresta",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "\u0160koda Fabia S2000",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Oldsmobile Vista Cruiser",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "NES Classic Edition",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mercedes-Benz W201",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Ford Galaxie",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Montana",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "\u0160koda 1000 MB",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "SEAT 133",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "Samsung Galaxy J5 (2016)",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 1680 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A42 5G",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "bleomycin",
+        "output": "Albert Bourla"
+    },
+    {
+        "input": "Infiniti QX60",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Audi Coup\u00e9",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Tesla Model 3",
+        "output": "Elon Musk"
+    },
+    {
+        "input": "Shelby Mustang",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Ford Anglia",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "VK 30.01 (P)",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Ford Escort North America",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Ford F-650",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Baden-W\u00fcrttemberg-class frigate",
+        "output": "Miguel \u00c1ngel L\u00f3pez Borrego"
+    },
+    {
+        "input": "Volvo 164",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Toyota Publica",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia Asha 311",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Mondeo Sport",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nissan Civilian",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Boeing 80",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Magic Mouse",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Isuzu Giga",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz L 319",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Ford 3-Ton M1918",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia Lumia 830",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "NES-101",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Chevrolet Fleetmaster",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volvo 760",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Volkswagen Amarok",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Mercury Mystique",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia Asha 300",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "XP-8",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Samsung Galaxy Note II",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Volvo V70",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Pontiac Solstice",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota T100",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Chevrolet 210",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy A03",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 5220 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Sileighty",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Mercedes-Benz T80",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Cessna 152",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Vauxhall Viva",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "SIMATIC",
+        "output": "Roland Busch"
+    },
+    {
+        "input": "Nokia 7710",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "General Electric J79",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Samsung Galaxy Gio",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 3500 classic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota TF105",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Daewoo Matiz",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nissan Presea",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "O-2 Skymaster",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Ford Transit Connect",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Buick LeSabre",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-AMG ONE",
+        "output": "Tobias Moers"
+    },
+    {
+        "input": "iMac Pro",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia 6233",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy A14",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nokia 8210",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Vitz",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Porsche 924",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Nokia 6170",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Ford Ikon",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "SBB-CFF-FFS Re 450",
+        "output": "Morten Wierod"
+    },
+    {
+        "input": "Nokia 500",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota Chaser",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Cessna CitationJet",
+        "output": "Scott Ernest"
+    },
+    {
+        "input": "Skype for Business",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Lexus GS",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Toyota Corolla (E210)",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Intel 80486",
+        "output": "Arvind Krishna"
+    },
+    {
+        "input": "Scion tC",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "ARM Cortex-A9",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nexus Q",
+        "output": "Sundar Pichai"
+    },
+    {
+        "input": "Audi RS5",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Mercedes-Benz EQE",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Nokia 6620",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Aston Martin Vanquish",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "\u0160koda 14 T",
+        "output": "Petr Novotn\u00fd"
+    },
+    {
+        "input": "Nokia 1200",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "SEAT Ateca",
+        "output": "Wayne Griffiths"
+    },
+    {
+        "input": "CIM-10 Bomarc",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Nissan Frontier",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Cadillac Allant\u00e9",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Porsche Cayman",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Holt gas electric tank",
+        "output": "H. Lawrence Culp Jr."
+    },
+    {
+        "input": "Volvo 262C",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Samsung Galaxy S6",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Chevrolet Van",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 2690",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Iore",
+        "output": "\u00c9ric Martel"
+    },
+    {
+        "input": "Macintosh SE",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Nokia Lumia 800",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chicken McNuggets",
+        "output": "Chris Kempczinski"
+    },
+    {
+        "input": "Nissan Sylphy",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 1",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "B-1",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Bonaqua",
+        "output": "James Quincey"
+    },
+    {
+        "input": "Nokia Lumia 620",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nissan Cherry",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Nokia 7370",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "iPhone 6S Plus",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Audi F103",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia 7650",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia N82",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Cadillac SRX",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Windows Vista",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Aston Martin DB4",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Samsung Galaxy A52",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nissan Note",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Toyota Corolla E140",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Samsung Galaxy S4",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mercedes-Benz W210",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Toyota FJ Cruiser",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nissan Pulsar",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "\u0160koda Kodiaq",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Volvo 480",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Toyota Corolla E120",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Audi MP01",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Aston Martin Vantage",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "izba",
+        "output": "Joseph Jimenez"
+    },
+    {
+        "input": "Tiger (P)",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Pontiac Montana",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nintendo 64",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Ford Cougar",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Mercury Grand Marquis",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 1100",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy S7",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Nintendo Switch OLED",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Apple Mouse",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Volvo XC70",
+        "output": "H\u00e5kan Samuelsson"
+    },
+    {
+        "input": "Nokia C5-03",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Samsung Galaxy Note 7",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Samsung Galaxy A40",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Samsung Galaxy A30",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "\u0160koda Rapid (2012-)",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Audi Type C",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Volkswagen Type 2 (T1)",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Ford Everest",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Wii Remote",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Toyota Aygo",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 5130 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 8800",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Hakuto-R M2",
+        "output": "Martin Sion"
+    },
+    {
+        "input": "Volkswagen Derby",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Wide-Field Infrared Explorer",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Ford Model T",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet El Camino",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Daewoo Prince",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 5250",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 3120",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia C1-01",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Chevrolet Avalanche",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Samsung Galaxy A41",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Mitsubishi Ki-1",
+        "output": "Takehiko Kakiuchi"
+    },
+    {
+        "input": "Vauxhall Firenza",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota Kijang",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "iPhone 15",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Samsung Galaxy A8s",
+        "output": "Lee Jae-yong"
+    },
+    {
+        "input": "Audi 90",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia 6270",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Toyota GR Corolla",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Aston Martin DB2",
+        "output": "Amedeo Felisa"
+    },
+    {
+        "input": "Isuzu Oasis",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Ford P100",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Porsche 597",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Quarter Pounder",
+        "output": "Chris Kempczinski"
+    },
+    {
+        "input": "Buick Verano",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Volkswagen Golf Mk1",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Chevrolet Tracker",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Mercedes-Benz W221",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Audi A4 B8",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Saturn L-Series",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "XP-7",
+        "output": "Kelly Ortberg"
+    },
+    {
+        "input": "Oldsmobile Achieva",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Toyota TF108",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Volkswagen Touran",
+        "output": "Oliver Blume"
+    },
+    {
+        "input": "Toyota Picnic",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nokia 5530 XpressMusic",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Nokia 6110 Navigator",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Saab 9-4X",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Nokia 6680",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Windows 8",
+        "output": "Satya Nadella"
+    },
+    {
+        "input": "Toyota RAV4",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Nissan Stanza",
+        "output": "Makoto Uchida"
+    },
+    {
+        "input": "Ford LTD",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Chevrolet Corvette C6",
+        "output": "Mary Barra"
+    },
+    {
+        "input": "Macintosh Classic",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Audi R10 TDI",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Audi TT",
+        "output": "Gernot D\u00f6llner"
+    },
+    {
+        "input": "Nokia N71",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "Wii Speak",
+        "output": "Shuntaro Furukawa"
+    },
+    {
+        "input": "Mercedes-Benz T2",
+        "output": "J\u00fcrgen E. Schrempp"
+    },
+    {
+        "input": "Toyota Opa",
+        "output": "K\u014dji Seto"
+    },
+    {
+        "input": "Macintosh 512K",
+        "output": "Tim Cook"
+    },
+    {
+        "input": "Ford F-Series",
+        "output": "Jim Farley"
+    },
+    {
+        "input": "Nokia 6500 slide",
+        "output": "Justin Hotard"
+    },
+    {
+        "input": "\u0160koda Octavia WRC",
+        "output": "Klaus Zellmer"
+    },
+    {
+        "input": "Mercedes-Benz Vario",
+        "output": "Ola K\u00e4llenius"
+    },
+    {
+        "input": "Bird of Prey",
+        "output": "Kelly Ortberg"
+    }
+]

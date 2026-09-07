@@ -1,0 +1,8914 @@
+[
+    {
+        "input": "The Mirror Crack'd from Side to Side",
+        "output": "1890"
+    },
+    {
+        "input": "Me Before You",
+        "output": "1969"
+    },
+    {
+        "input": "The Blizzard",
+        "output": "1799"
+    },
+    {
+        "input": "The Revolt of the Masses",
+        "output": "1883"
+    },
+    {
+        "input": "Bug-Jargal",
+        "output": "1802"
+    },
+    {
+        "input": "Ruhnama",
+        "output": "1940"
+    },
+    {
+        "input": "The Princess and the Pea",
+        "output": "1805"
+    },
+    {
+        "input": "The Tenant of Wildfell Hall",
+        "output": "1820"
+    },
+    {
+        "input": "The Murders in the Rue Morgue",
+        "output": "1809"
+    },
+    {
+        "input": "The Adventure of the Devil's Foot",
+        "output": "1859"
+    },
+    {
+        "input": "Emilia Galotti",
+        "output": "1729"
+    },
+    {
+        "input": "The General in His Labyrinth",
+        "output": "1927"
+    },
+    {
+        "input": "Contemplation",
+        "output": "1883"
+    },
+    {
+        "input": "Ringworld",
+        "output": "1938"
+    },
+    {
+        "input": "The Defense",
+        "output": "1899"
+    },
+    {
+        "input": "Paradise Regained",
+        "output": "1608"
+    },
+    {
+        "input": "Shuowen Jiezi",
+        "output": "58"
+    },
+    {
+        "input": "The Lady of the Camellias",
+        "output": "1824"
+    },
+    {
+        "input": "A Drama in Mexico",
+        "output": "1828"
+    },
+    {
+        "input": "Soul Music",
+        "output": "1948"
+    },
+    {
+        "input": "Wilhelm Meister's Apprenticeship",
+        "output": "1749"
+    },
+    {
+        "input": "Antiquities of the Jews",
+        "output": "37"
+    },
+    {
+        "input": "The Mysterious Stranger",
+        "output": "1835"
+    },
+    {
+        "input": "Historia Brittonum",
+        "output": "800"
+    },
+    {
+        "input": "Botchan",
+        "output": "1867"
+    },
+    {
+        "input": "The Happy Prince and Other Tales",
+        "output": "1854"
+    },
+    {
+        "input": "The Murder at the Vicarage",
+        "output": "1890"
+    },
+    {
+        "input": "\u00c0 rebours",
+        "output": "1848"
+    },
+    {
+        "input": "Norwegian Wood",
+        "output": "1949"
+    },
+    {
+        "input": "Hopscotch",
+        "output": "1914"
+    },
+    {
+        "input": "Doomsday Book",
+        "output": "1945"
+    },
+    {
+        "input": "My Brilliant Friend",
+        "output": "1943"
+    },
+    {
+        "input": "Bambi, A Life in the Woods",
+        "output": "1869"
+    },
+    {
+        "input": "Bonjour tristesse",
+        "output": "1935"
+    },
+    {
+        "input": "Hannibal Rising",
+        "output": "1940"
+    },
+    {
+        "input": "Strange Case of Dr Jekyll and Mr Hyde",
+        "output": "1850"
+    },
+    {
+        "input": "Jin Ping Mei",
+        "output": "1530"
+    },
+    {
+        "input": "The Adventure of the Solitary Cyclist",
+        "output": "1859"
+    },
+    {
+        "input": "Bostan",
+        "output": "1210"
+    },
+    {
+        "input": "The Well of Loneliness",
+        "output": "1880"
+    },
+    {
+        "input": "Don Carlos",
+        "output": "1759"
+    },
+    {
+        "input": "The Thirty-nine Steps",
+        "output": "1875"
+    },
+    {
+        "input": "Heart of Darkness",
+        "output": "1857"
+    },
+    {
+        "input": "La Araucana",
+        "output": "1533"
+    },
+    {
+        "input": "Charaka Samhita",
+        "output": "50"
+    },
+    {
+        "input": "William Tell",
+        "output": "1759"
+    },
+    {
+        "input": "Cards on the Table",
+        "output": "1890"
+    },
+    {
+        "input": "The Song of Roland",
+        "output": "1050"
+    },
+    {
+        "input": "The Crying of Lot 49",
+        "output": "1937"
+    },
+    {
+        "input": "The Adventure of the Reigate Squire",
+        "output": "1859"
+    },
+    {
+        "input": "Sonnet 44",
+        "output": "1564"
+    },
+    {
+        "input": "The Unparalleled Adventure of One Hans Pfaall",
+        "output": "1809"
+    },
+    {
+        "input": "Tha\u00efs",
+        "output": "1844"
+    },
+    {
+        "input": "Anna Christie",
+        "output": "1888"
+    },
+    {
+        "input": "The Adventure of Wisteria Lodge",
+        "output": "1859"
+    },
+    {
+        "input": "Holes",
+        "output": "1954"
+    },
+    {
+        "input": "Dumb Witness",
+        "output": "1890"
+    },
+    {
+        "input": "Discourse on Voluntary Servitude",
+        "output": "1530"
+    },
+    {
+        "input": "The Spy Who Came in from the Cold",
+        "output": "1931"
+    },
+    {
+        "input": "For Your Eyes Only",
+        "output": "1908"
+    },
+    {
+        "input": "I quattro libri dell'architettura",
+        "output": "1508"
+    },
+    {
+        "input": "The Call of Cthulhu",
+        "output": "1890"
+    },
+    {
+        "input": "Critique of Hegel's 'Philosophy of Right'",
+        "output": "1818"
+    },
+    {
+        "input": "The Age of Innocence",
+        "output": "1862"
+    },
+    {
+        "input": "Perfume",
+        "output": "1949"
+    },
+    {
+        "input": "The Adventure of Charles Augustus Milverton",
+        "output": "1859"
+    },
+    {
+        "input": "Metzengerstein",
+        "output": "1809"
+    },
+    {
+        "input": "Mistborn: The Final Empire",
+        "output": "1975"
+    },
+    {
+        "input": "Robur the Conqueror",
+        "output": "1828"
+    },
+    {
+        "input": "Marriage",
+        "output": "1809"
+    },
+    {
+        "input": "Anna Karenina",
+        "output": "1828"
+    },
+    {
+        "input": "The Secret Agent",
+        "output": "1857"
+    },
+    {
+        "input": "Cat on a Hot Tin Roof",
+        "output": "1911"
+    },
+    {
+        "input": "Moll Flanders",
+        "output": "1660"
+    },
+    {
+        "input": "Interview with the Vampire",
+        "output": "1941"
+    },
+    {
+        "input": "The Body",
+        "output": "1947"
+    },
+    {
+        "input": "Hercule Poirot's Christmas",
+        "output": "1890"
+    },
+    {
+        "input": "The Dark Tower VI: Song of Susannah",
+        "output": "1947"
+    },
+    {
+        "input": "Anne of Ingleside",
+        "output": "1874"
+    },
+    {
+        "input": "The Conference of the Birds",
+        "output": "1145"
+    },
+    {
+        "input": "The Man Who Was Thursday",
+        "output": "1874"
+    },
+    {
+        "input": "Thirteen Reasons Why",
+        "output": "1975"
+    },
+    {
+        "input": "American Psycho",
+        "output": "1964"
+    },
+    {
+        "input": "The Wonderful Adventures of Nils",
+        "output": "1858"
+    },
+    {
+        "input": "Six of Crows",
+        "output": "1975"
+    },
+    {
+        "input": "The Very Hungry Caterpillar",
+        "output": "1929"
+    },
+    {
+        "input": "The House of the Sleeping Beauties",
+        "output": "1899"
+    },
+    {
+        "input": "Bouvard et P\u00e9cuchet",
+        "output": "1821"
+    },
+    {
+        "input": "The Night in Lisbon",
+        "output": "1898"
+    },
+    {
+        "input": "The Yiddish Policemen's Union",
+        "output": "1963"
+    },
+    {
+        "input": "The Pale Horse",
+        "output": "1890"
+    },
+    {
+        "input": "The Jewish War",
+        "output": "37"
+    },
+    {
+        "input": "Soumission",
+        "output": "1956"
+    },
+    {
+        "input": "The Poison Belt",
+        "output": "1859"
+    },
+    {
+        "input": "Epistle to the Philippians",
+        "output": "5"
+    },
+    {
+        "input": "The Sirens of Titan",
+        "output": "1922"
+    },
+    {
+        "input": "The Girl in the Spider's Web",
+        "output": "1962"
+    },
+    {
+        "input": "Paradiso",
+        "output": "1265"
+    },
+    {
+        "input": "The Kingdom of God Is Within You",
+        "output": "1828"
+    },
+    {
+        "input": "The Gulag Archipelago",
+        "output": "1918"
+    },
+    {
+        "input": "White Noise",
+        "output": "1936"
+    },
+    {
+        "input": "The Paul Street Boys",
+        "output": "1878"
+    },
+    {
+        "input": "Twenty Thousand Leagues Under the Sea",
+        "output": "1828"
+    },
+    {
+        "input": "Moving Pictures",
+        "output": "1948"
+    },
+    {
+        "input": "The Unknown Soldier",
+        "output": "1920"
+    },
+    {
+        "input": "The Facts in the Case of M. Valdemar",
+        "output": "1809"
+    },
+    {
+        "input": "The Golden Bough",
+        "output": "1854"
+    },
+    {
+        "input": "Ynglinga saga",
+        "output": "1179"
+    },
+    {
+        "input": "The Psychopathology of Everyday Life",
+        "output": "1856"
+    },
+    {
+        "input": "The Ego and Its Own",
+        "output": "1806"
+    },
+    {
+        "input": "The Judgment",
+        "output": "1883"
+    },
+    {
+        "input": "A Caribbean Mystery",
+        "output": "1890"
+    },
+    {
+        "input": "The Pillow Book",
+        "output": "966"
+    },
+    {
+        "input": "Foundation and Earth",
+        "output": "1920"
+    },
+    {
+        "input": "The Fox and the Hound",
+        "output": "1911"
+    },
+    {
+        "input": "The World as Will and Representation",
+        "output": "1788"
+    },
+    {
+        "input": "Chanson d'automne",
+        "output": "1844"
+    },
+    {
+        "input": "The Voyage of the Dawn Treader",
+        "output": "1898"
+    },
+    {
+        "input": "The Black Arrow: A Tale of the Two Roses",
+        "output": "1850"
+    },
+    {
+        "input": "LTI \u2013 Lingua Tertii Imperii",
+        "output": "1881"
+    },
+    {
+        "input": "Ozymandias",
+        "output": "1792"
+    },
+    {
+        "input": "Carmilla",
+        "output": "1814"
+    },
+    {
+        "input": "The New Land",
+        "output": "1905"
+    },
+    {
+        "input": "New Atlantis",
+        "output": "1561"
+    },
+    {
+        "input": "The Children of H\u00farin",
+        "output": "1892"
+    },
+    {
+        "input": "At Bertram's Hotel",
+        "output": "1890"
+    },
+    {
+        "input": "Dune",
+        "output": "1920"
+    },
+    {
+        "input": "Ignorance",
+        "output": "1929"
+    },
+    {
+        "input": "Artemis Fowl and the Arctic Incident",
+        "output": "1965"
+    },
+    {
+        "input": "Morella",
+        "output": "1809"
+    },
+    {
+        "input": "Keep the Aspidistra Flying",
+        "output": "1903"
+    },
+    {
+        "input": "Rikki-Tikki-Tavi",
+        "output": "1865"
+    },
+    {
+        "input": "Critique of the Gotha Program",
+        "output": "1818"
+    },
+    {
+        "input": "The Turn of the Screw",
+        "output": "1843"
+    },
+    {
+        "input": "Murder Is Easy",
+        "output": "1890"
+    },
+    {
+        "input": "Brief Answers to the Big Questions",
+        "output": "1942"
+    },
+    {
+        "input": "Look Who's Back",
+        "output": "1967"
+    },
+    {
+        "input": "Fuenteovejuna",
+        "output": "1562"
+    },
+    {
+        "input": "The Portrait",
+        "output": "1809"
+    },
+    {
+        "input": "Congo",
+        "output": "1942"
+    },
+    {
+        "input": "Dead Souls",
+        "output": "1809"
+    },
+    {
+        "input": "The Book of Disquiet",
+        "output": "1888"
+    },
+    {
+        "input": "Kuzari",
+        "output": "1075"
+    },
+    {
+        "input": "Nadja",
+        "output": "1896"
+    },
+    {
+        "input": "The Witch of Portobello",
+        "output": "1947"
+    },
+    {
+        "input": "Three Men in a Boat",
+        "output": "1859"
+    },
+    {
+        "input": "The General of the Dead Army",
+        "output": "1936"
+    },
+    {
+        "input": "Oku no Hosomichi",
+        "output": "1644"
+    },
+    {
+        "input": "April Theses",
+        "output": "1870"
+    },
+    {
+        "input": "The Alchemist",
+        "output": "1947"
+    },
+    {
+        "input": "The Winds of Winter",
+        "output": "1948"
+    },
+    {
+        "input": "The Adventures of the Little Onion",
+        "output": "1920"
+    },
+    {
+        "input": "The Adventure of the Empty House",
+        "output": "1859"
+    },
+    {
+        "input": "The Man in the High Castle",
+        "output": "1928"
+    },
+    {
+        "input": "The Cement Garden",
+        "output": "1948"
+    },
+    {
+        "input": "Ainulindal\u00eb",
+        "output": "1892"
+    },
+    {
+        "input": "The Castle From Carpathians",
+        "output": "1828"
+    },
+    {
+        "input": "The World According to Garp",
+        "output": "1942"
+    },
+    {
+        "input": "Charley's Aunt",
+        "output": "1848"
+    },
+    {
+        "input": "The Windup Girl",
+        "output": "1972"
+    },
+    {
+        "input": "Metro 2035",
+        "output": "1979"
+    },
+    {
+        "input": "The Lost Honour of Katharina Blum",
+        "output": "1917"
+    },
+    {
+        "input": "Dictionnaire Infernal",
+        "output": "1794"
+    },
+    {
+        "input": "Shiki",
+        "output": "1960"
+    },
+    {
+        "input": "The Scholars",
+        "output": "1701"
+    },
+    {
+        "input": "La Femme de trente ans",
+        "output": "1799"
+    },
+    {
+        "input": "Thumbelina",
+        "output": "1805"
+    },
+    {
+        "input": "Luther's Large Catechism",
+        "output": "1483"
+    },
+    {
+        "input": "The Decameron",
+        "output": "1313"
+    },
+    {
+        "input": "Siyasatnama",
+        "output": "1018"
+    },
+    {
+        "input": "The Last of the Mohicans",
+        "output": "1789"
+    },
+    {
+        "input": "Atala",
+        "output": "1768"
+    },
+    {
+        "input": "Giovanni's Room",
+        "output": "1924"
+    },
+    {
+        "input": "The Rape of Lucrece",
+        "output": "1564"
+    },
+    {
+        "input": "The Last Temptation of Christ",
+        "output": "1883"
+    },
+    {
+        "input": "An Inspector Calls",
+        "output": "1894"
+    },
+    {
+        "input": "Sleeping Murder",
+        "output": "1890"
+    },
+    {
+        "input": "The Hundred and One Dalmatians",
+        "output": "1896"
+    },
+    {
+        "input": "Pale Fire",
+        "output": "1899"
+    },
+    {
+        "input": "Lord of Light",
+        "output": "1937"
+    },
+    {
+        "input": "Yvain, the Knight of the Lion",
+        "output": "1135"
+    },
+    {
+        "input": "Hearts in Atlantis",
+        "output": "1947"
+    },
+    {
+        "input": "The Picture in the House",
+        "output": "1890"
+    },
+    {
+        "input": "The Dark Tower II: The Drawing of the Three",
+        "output": "1947"
+    },
+    {
+        "input": "Daisy Miller",
+        "output": "1843"
+    },
+    {
+        "input": "Fathers and Sons",
+        "output": "1818"
+    },
+    {
+        "input": "Syntagma Musicum",
+        "output": "1571"
+    },
+    {
+        "input": "Double Sin and Other Stories",
+        "output": "1890"
+    },
+    {
+        "input": "Equus",
+        "output": "1926"
+    },
+    {
+        "input": "The Structure of Scientific Revolutions",
+        "output": "1922"
+    },
+    {
+        "input": "Origin",
+        "output": "1964"
+    },
+    {
+        "input": "The Once and Future King",
+        "output": "1906"
+    },
+    {
+        "input": "Gulliver's Travels",
+        "output": "1667"
+    },
+    {
+        "input": "The Gadfly",
+        "output": "1864"
+    },
+    {
+        "input": "Lady Chatterley's Lover",
+        "output": "1885"
+    },
+    {
+        "input": "Insomnia",
+        "output": "1947"
+    },
+    {
+        "input": "The Fortune of the Rougons",
+        "output": "1840"
+    },
+    {
+        "input": "Childe Harold's Pilgrimage",
+        "output": "1788"
+    },
+    {
+        "input": "The Visit",
+        "output": "1921"
+    },
+    {
+        "input": "The Will of an Eccentric",
+        "output": "1828"
+    },
+    {
+        "input": "Contact",
+        "output": "1934"
+    },
+    {
+        "input": "Industrial Society and Its Future",
+        "output": "1942"
+    },
+    {
+        "input": "The Prince",
+        "output": "1469"
+    },
+    {
+        "input": "Mazeppa",
+        "output": "1788"
+    },
+    {
+        "input": "Buddenbrooks",
+        "output": "1875"
+    },
+    {
+        "input": "G\u00f6sta Berlings Saga",
+        "output": "1858"
+    },
+    {
+        "input": "Gil Blas",
+        "output": "1668"
+    },
+    {
+        "input": "Silence",
+        "output": "1923"
+    },
+    {
+        "input": "Confusion",
+        "output": "1881"
+    },
+    {
+        "input": "Mother Night",
+        "output": "1922"
+    },
+    {
+        "input": "The Adventure of the Copper Beeches",
+        "output": "1859"
+    },
+    {
+        "input": "The Winner Stands Alone",
+        "output": "1947"
+    },
+    {
+        "input": "The Adventure of the Bruce-Partington Plans",
+        "output": "1859"
+    },
+    {
+        "input": "La Religieuse",
+        "output": "1713"
+    },
+    {
+        "input": "Slaughterhouse-Five",
+        "output": "1922"
+    },
+    {
+        "input": "The Colour Out of Space",
+        "output": "1890"
+    },
+    {
+        "input": "Book of Revelation",
+        "output": "50"
+    },
+    {
+        "input": "Quotations from Chairman Mao Tse-tung",
+        "output": "1893"
+    },
+    {
+        "input": "The Lord of the Rings",
+        "output": "1892"
+    },
+    {
+        "input": "Penguin Island",
+        "output": "1844"
+    },
+    {
+        "input": "On the Eve",
+        "output": "1818"
+    },
+    {
+        "input": "The Narrative of Arthur Gordon Pym of Nantucket",
+        "output": "1809"
+    },
+    {
+        "input": "Infinite Jest",
+        "output": "1962"
+    },
+    {
+        "input": "Les Fleurs du mal",
+        "output": "1821"
+    },
+    {
+        "input": "Persian Letters",
+        "output": "1689"
+    },
+    {
+        "input": "Dubliners",
+        "output": "1882"
+    },
+    {
+        "input": "The Library of Babel",
+        "output": "1899"
+    },
+    {
+        "input": "The Nigger of the 'Narcissus'",
+        "output": "1857"
+    },
+    {
+        "input": "Rudin",
+        "output": "1818"
+    },
+    {
+        "input": "Perelandra",
+        "output": "1898"
+    },
+    {
+        "input": "De Ceremoniis",
+        "output": "905"
+    },
+    {
+        "input": "A Little Princess",
+        "output": "1849"
+    },
+    {
+        "input": "Blaze",
+        "output": "1947"
+    },
+    {
+        "input": "The Blockade Runners",
+        "output": "1828"
+    },
+    {
+        "input": "Germinal",
+        "output": "1840"
+    },
+    {
+        "input": "The Hound",
+        "output": "1890"
+    },
+    {
+        "input": "Eden",
+        "output": "1921"
+    },
+    {
+        "input": "Hortus Cliffortianus",
+        "output": "1707"
+    },
+    {
+        "input": "The Hobbit",
+        "output": "1892"
+    },
+    {
+        "input": "Moby-Dick",
+        "output": "1819"
+    },
+    {
+        "input": "Le Grand Meaulnes",
+        "output": "1886"
+    },
+    {
+        "input": "Men at Arms",
+        "output": "1948"
+    },
+    {
+        "input": "Egmont",
+        "output": "1749"
+    },
+    {
+        "input": "Mrs McGinty's Dead",
+        "output": "1890"
+    },
+    {
+        "input": "The Peach Blossom Spring",
+        "output": "365"
+    },
+    {
+        "input": "The Tale of How Ivan Ivanovich Quarreled with Ivan Nikiforovich",
+        "output": "1809"
+    },
+    {
+        "input": "The Moving Finger",
+        "output": "1890"
+    },
+    {
+        "input": "La Celestina",
+        "output": "1475"
+    },
+    {
+        "input": "Samguk Yusa",
+        "output": "1206"
+    },
+    {
+        "input": "Gulistan",
+        "output": "1210"
+    },
+    {
+        "input": "L'homme r\u00e9volt\u00e9",
+        "output": "1913"
+    },
+    {
+        "input": "Salammb\u00f4",
+        "output": "1821"
+    },
+    {
+        "input": "Anarchy, State, and Utopia",
+        "output": "1938"
+    },
+    {
+        "input": "The Three-Body Problem",
+        "output": "1963"
+    },
+    {
+        "input": "Martin Chuzzlewit",
+        "output": "1812"
+    },
+    {
+        "input": "The Consolation of Philosophy",
+        "output": "480"
+    },
+    {
+        "input": "Home of the Gentry",
+        "output": "1818"
+    },
+    {
+        "input": "Chronicle of Henry of Livonia",
+        "output": "1187"
+    },
+    {
+        "input": "Dom Casmurro",
+        "output": "1839"
+    },
+    {
+        "input": "The Phoenix and the Turtle",
+        "output": "1564"
+    },
+    {
+        "input": "The Graveyard Book",
+        "output": "1960"
+    },
+    {
+        "input": "Riquet with the Tuft",
+        "output": "1628"
+    },
+    {
+        "input": "Martin Paz",
+        "output": "1828"
+    },
+    {
+        "input": "A Gentle Creature",
+        "output": "1821"
+    },
+    {
+        "input": "In the Year 2889",
+        "output": "1861"
+    },
+    {
+        "input": "Second Epistle to the Corinthians",
+        "output": "5"
+    },
+    {
+        "input": "The House of Hades",
+        "output": "1964"
+    },
+    {
+        "input": "Sonnet 16",
+        "output": "1564"
+    },
+    {
+        "input": "Sk\u00e1ldskaparm\u00e1l",
+        "output": "1179"
+    },
+    {
+        "input": "One Hundred Years of Solitude",
+        "output": "1927"
+    },
+    {
+        "input": "The Man with the Twisted Lip",
+        "output": "1859"
+    },
+    {
+        "input": "The Little Mermaid",
+        "output": "1805"
+    },
+    {
+        "input": "Brisingr",
+        "output": "1983"
+    },
+    {
+        "input": "The Collector",
+        "output": "1926"
+    },
+    {
+        "input": "All My Sons",
+        "output": "1915"
+    },
+    {
+        "input": "Materialism and Empirio-criticism",
+        "output": "1870"
+    },
+    {
+        "input": "Family Without a Name",
+        "output": "1828"
+    },
+    {
+        "input": "Book of Sui",
+        "output": "580"
+    },
+    {
+        "input": "Dance Dance Dance",
+        "output": "1949"
+    },
+    {
+        "input": "Sourcery",
+        "output": "1948"
+    },
+    {
+        "input": "God Emperor of Dune",
+        "output": "1920"
+    },
+    {
+        "input": "The Fall of the House of Usher",
+        "output": "1809"
+    },
+    {
+        "input": "Rocannon's World",
+        "output": "1929"
+    },
+    {
+        "input": "Moominland Midwinter",
+        "output": "1914"
+    },
+    {
+        "input": "Le roi s'amuse",
+        "output": "1802"
+    },
+    {
+        "input": "Franny and Zooey",
+        "output": "1919"
+    },
+    {
+        "input": "Spring Awakening",
+        "output": "1864"
+    },
+    {
+        "input": "C\u00e9sar Cascabel",
+        "output": "1828"
+    },
+    {
+        "input": "Artemis Fowl and the Eternity Code",
+        "output": "1965"
+    },
+    {
+        "input": "The Old New Land",
+        "output": "1860"
+    },
+    {
+        "input": "On the Jewish Question",
+        "output": "1818"
+    },
+    {
+        "input": "The Stranger",
+        "output": "1913"
+    },
+    {
+        "input": "The Just Assassins",
+        "output": "1913"
+    },
+    {
+        "input": "The Story of Doctor Dolittle",
+        "output": "1886"
+    },
+    {
+        "input": "Middlemarch",
+        "output": "1819"
+    },
+    {
+        "input": "The Master and Margarita",
+        "output": "1891"
+    },
+    {
+        "input": "The Testaments",
+        "output": "1939"
+    },
+    {
+        "input": "Little Dorrit",
+        "output": "1812"
+    },
+    {
+        "input": "Diamonds and Toads",
+        "output": "1628"
+    },
+    {
+        "input": "The Tombs of Atuan",
+        "output": "1929"
+    },
+    {
+        "input": "Foundations of Geopolitics",
+        "output": "1962"
+    },
+    {
+        "input": "A Suitable Boy",
+        "output": "1952"
+    },
+    {
+        "input": "Rip Van Winkle",
+        "output": "1783"
+    },
+    {
+        "input": "Everything's Eventual",
+        "output": "1947"
+    },
+    {
+        "input": "Les Mis\u00e9rables",
+        "output": "1802"
+    },
+    {
+        "input": "The World of Yesterday",
+        "output": "1881"
+    },
+    {
+        "input": "Four Past Midnight",
+        "output": "1947"
+    },
+    {
+        "input": "Tutinama",
+        "output": "1301"
+    },
+    {
+        "input": "Ruy Blas",
+        "output": "1802"
+    },
+    {
+        "input": "The Case of Wagner",
+        "output": "1844"
+    },
+    {
+        "input": "Suicide",
+        "output": "1858"
+    },
+    {
+        "input": "The Left Hand of Darkness",
+        "output": "1929"
+    },
+    {
+        "input": "The Seven Dials Mystery",
+        "output": "1890"
+    },
+    {
+        "input": "War and Peace",
+        "output": "1828"
+    },
+    {
+        "input": "Los Trabajos de Persiles y Sigismunda",
+        "output": "1547"
+    },
+    {
+        "input": "The Book of the City of Ladies",
+        "output": "1364"
+    },
+    {
+        "input": "Little Women",
+        "output": "1832"
+    },
+    {
+        "input": "The Mayor of Zalamea",
+        "output": "1600"
+    },
+    {
+        "input": "The Wreck of the Titan: Or, Futility",
+        "output": "1861"
+    },
+    {
+        "input": "The Adventures of Three Englishmen and Three Russians in South Africa",
+        "output": "1828"
+    },
+    {
+        "input": "Aethiopica",
+        "output": "250"
+    },
+    {
+        "input": "Sonnet 17",
+        "output": "1564"
+    },
+    {
+        "input": "Donkeyskin",
+        "output": "1628"
+    },
+    {
+        "input": "The Marvelous Land of Oz",
+        "output": "1856"
+    },
+    {
+        "input": "The Man Who Laughs",
+        "output": "1802"
+    },
+    {
+        "input": "Lord of the Flies",
+        "output": "1911"
+    },
+    {
+        "input": "The Torture Garden",
+        "output": "1848"
+    },
+    {
+        "input": "The Help",
+        "output": "1969"
+    },
+    {
+        "input": "Diary of Anne Frank",
+        "output": "1929"
+    },
+    {
+        "input": "The Name of the Rose",
+        "output": "1932"
+    },
+    {
+        "input": "Le Silence de la mer",
+        "output": "1902"
+    },
+    {
+        "input": "Red Storm Rising",
+        "output": "1947"
+    },
+    {
+        "input": "The City & the City",
+        "output": "1972"
+    },
+    {
+        "input": "The Reptile Room",
+        "output": "1970"
+    },
+    {
+        "input": "Elantris",
+        "output": "1975"
+    },
+    {
+        "input": "Goldilocks and the Three Bears",
+        "output": "1774"
+    },
+    {
+        "input": "I Am Legend",
+        "output": "1926"
+    },
+    {
+        "input": "Harry Potter and the Chamber of Secrets",
+        "output": "1965"
+    },
+    {
+        "input": "The Gold-Bug",
+        "output": "1809"
+    },
+    {
+        "input": "The Country of the Blind",
+        "output": "1866"
+    },
+    {
+        "input": "Desperation",
+        "output": "1947"
+    },
+    {
+        "input": "Rosencrantz and Guildenstern Are Dead",
+        "output": "1937"
+    },
+    {
+        "input": "The Varieties of Religious Experience",
+        "output": "1842"
+    },
+    {
+        "input": "Confessions of Felix Krull",
+        "output": "1875"
+    },
+    {
+        "input": "The Buried Giant",
+        "output": "1954"
+    },
+    {
+        "input": "The Red Pyramid",
+        "output": "1964"
+    },
+    {
+        "input": "The Royal Game",
+        "output": "1881"
+    },
+    {
+        "input": "Emil and the Detectives",
+        "output": "1899"
+    },
+    {
+        "input": "Little Brother",
+        "output": "1971"
+    },
+    {
+        "input": "The Tomb",
+        "output": "1890"
+    },
+    {
+        "input": "Catch-22",
+        "output": "1923"
+    },
+    {
+        "input": "21 Lessons for the 21st Century",
+        "output": "1976"
+    },
+    {
+        "input": "What Men Live By",
+        "output": "1828"
+    },
+    {
+        "input": "Book of Qi",
+        "output": "489"
+    },
+    {
+        "input": "Half Earth",
+        "output": "1929"
+    },
+    {
+        "input": "Rendezvous with Rama",
+        "output": "1917"
+    },
+    {
+        "input": "Anne's House of Dreams",
+        "output": "1874"
+    },
+    {
+        "input": "Maus",
+        "output": "1948"
+    },
+    {
+        "input": "The Songs of Distant Earth",
+        "output": "1917"
+    },
+    {
+        "input": "Story of Your Life",
+        "output": "1967"
+    },
+    {
+        "input": "Chameleon",
+        "output": "1860"
+    },
+    {
+        "input": "The Sense of an Ending",
+        "output": "1946"
+    },
+    {
+        "input": "The Will to Power",
+        "output": "1844"
+    },
+    {
+        "input": "The Fatal Eggs",
+        "output": "1891"
+    },
+    {
+        "input": "Eric",
+        "output": "1948"
+    },
+    {
+        "input": "Of Human Bondage",
+        "output": "1874"
+    },
+    {
+        "input": "Guards! Guards!",
+        "output": "1948"
+    },
+    {
+        "input": "The End of Eternity",
+        "output": "1920"
+    },
+    {
+        "input": "Mozart and Salieri",
+        "output": "1799"
+    },
+    {
+        "input": "Life Is Elsewhere",
+        "output": "1929"
+    },
+    {
+        "input": "I, Robot",
+        "output": "1920"
+    },
+    {
+        "input": "The Prince and the Pauper",
+        "output": "1835"
+    },
+    {
+        "input": "Murder on the Orient Express",
+        "output": "1890"
+    },
+    {
+        "input": "The Loneliness of the Long Distance Runner",
+        "output": "1928"
+    },
+    {
+        "input": "Die Aufzeichnungen des Malte Laurids Brigge",
+        "output": "1875"
+    },
+    {
+        "input": "Life of Galileo",
+        "output": "1898"
+    },
+    {
+        "input": "Philosophical Investigations",
+        "output": "1889"
+    },
+    {
+        "input": "The Tale of the Golden Cockerel",
+        "output": "1799"
+    },
+    {
+        "input": "The Charterhouse of Parma",
+        "output": "1783"
+    },
+    {
+        "input": "Men Are from Mars, Women Are from Venus",
+        "output": "1951"
+    },
+    {
+        "input": "The Life Before Us",
+        "output": "1914"
+    },
+    {
+        "input": "Paris in the Twentieth Century",
+        "output": "1828"
+    },
+    {
+        "input": "Sanditon",
+        "output": "1775"
+    },
+    {
+        "input": "Gender Trouble",
+        "output": "1956"
+    },
+    {
+        "input": "The Proletarian Revolution and the Renegade Kautsky",
+        "output": "1870"
+    },
+    {
+        "input": "The Host",
+        "output": "1973"
+    },
+    {
+        "input": "Coraline",
+        "output": "1960"
+    },
+    {
+        "input": "The Shadow Over Innsmouth",
+        "output": "1890"
+    },
+    {
+        "input": "Beloved",
+        "output": "1931"
+    },
+    {
+        "input": "The Wild Swans",
+        "output": "1805"
+    },
+    {
+        "input": "The Labours of Hercules",
+        "output": "1890"
+    },
+    {
+        "input": "The Wee Free Men",
+        "output": "1948"
+    },
+    {
+        "input": "2010: Odyssey Two",
+        "output": "1917"
+    },
+    {
+        "input": "Pan",
+        "output": "1859"
+    },
+    {
+        "input": "The Silver Key",
+        "output": "1890"
+    },
+    {
+        "input": "The Sittaford Mystery",
+        "output": "1890"
+    },
+    {
+        "input": "Cryptonomicon",
+        "output": "1959"
+    },
+    {
+        "input": "The Return of Sherlock Holmes",
+        "output": "1859"
+    },
+    {
+        "input": "Sh\u014db\u014dgenz\u014d",
+        "output": "1200"
+    },
+    {
+        "input": "Manhattan Transfer",
+        "output": "1896"
+    },
+    {
+        "input": "The Fir-Tree",
+        "output": "1805"
+    },
+    {
+        "input": "Les Liaisons dangereuses",
+        "output": "1741"
+    },
+    {
+        "input": "Dagon",
+        "output": "1890"
+    },
+    {
+        "input": "The Hidden Oracle",
+        "output": "1964"
+    },
+    {
+        "input": "Thebaid",
+        "output": "45"
+    },
+    {
+        "input": "Lottie and Lisa",
+        "output": "1899"
+    },
+    {
+        "input": "Dick Sand, A Captain at Fifteen",
+        "output": "1828"
+    },
+    {
+        "input": "The Thorn Birds",
+        "output": "1937"
+    },
+    {
+        "input": "Clear and Present Danger",
+        "output": "1947"
+    },
+    {
+        "input": "Areopagitica",
+        "output": "1608"
+    },
+    {
+        "input": "Anne of the Island",
+        "output": "1874"
+    },
+    {
+        "input": "Peril at End House",
+        "output": "1890"
+    },
+    {
+        "input": "His Master's Voice",
+        "output": "1921"
+    },
+    {
+        "input": "The Snowman",
+        "output": "1960"
+    },
+    {
+        "input": "A Murder Is Announced",
+        "output": "1890"
+    },
+    {
+        "input": "La Princesse de Cl\u00e8ves",
+        "output": "1634"
+    },
+    {
+        "input": "The Horse and His Boy",
+        "output": "1898"
+    },
+    {
+        "input": "Blood Wedding",
+        "output": "1898"
+    },
+    {
+        "input": "A Hero of Our Time",
+        "output": "1814"
+    },
+    {
+        "input": "The Whisperer in Darkness",
+        "output": "1890"
+    },
+    {
+        "input": "Our Town",
+        "output": "1897"
+    },
+    {
+        "input": "Ludwig Feuerbach and the End of Classical German Philosophy",
+        "output": "1820"
+    },
+    {
+        "input": "The Canterbury Tales",
+        "output": "1343"
+    },
+    {
+        "input": "The Book of the Law",
+        "output": "1875"
+    },
+    {
+        "input": "The Baron in the Trees",
+        "output": "1923"
+    },
+    {
+        "input": "Anthem",
+        "output": "1905"
+    },
+    {
+        "input": "Gone Girl",
+        "output": "1971"
+    },
+    {
+        "input": "Pet Sematary",
+        "output": "1947"
+    },
+    {
+        "input": "Microm\u00e9gas",
+        "output": "1694"
+    },
+    {
+        "input": "The Other Boleyn Girl",
+        "output": "1954"
+    },
+    {
+        "input": "The Lesson",
+        "output": "1909"
+    },
+    {
+        "input": "Childhood",
+        "output": "1828"
+    },
+    {
+        "input": "Dream Pool Essays",
+        "output": "1031"
+    },
+    {
+        "input": "The Thing on the Doorstep",
+        "output": "1890"
+    },
+    {
+        "input": "Becoming",
+        "output": "1964"
+    },
+    {
+        "input": "The Stepford Wives",
+        "output": "1929"
+    },
+    {
+        "input": "The Story of the Western Wing",
+        "output": "1250"
+    },
+    {
+        "input": "The Premature Burial",
+        "output": "1809"
+    },
+    {
+        "input": "Dandelion Wine",
+        "output": "1920"
+    },
+    {
+        "input": "Normal People",
+        "output": "1991"
+    },
+    {
+        "input": "The Sicilian",
+        "output": "1920"
+    },
+    {
+        "input": "Mathias Sandorf",
+        "output": "1828"
+    },
+    {
+        "input": "The Gift of the Magi",
+        "output": "1862"
+    },
+    {
+        "input": "The Bridges of Madison County",
+        "output": "1939"
+    },
+    {
+        "input": "The Bat",
+        "output": "1960"
+    },
+    {
+        "input": "The Chairs",
+        "output": "1909"
+    },
+    {
+        "input": "The Queen's Necklace",
+        "output": "1802"
+    },
+    {
+        "input": "The Last Unicorn",
+        "output": "1939"
+    },
+    {
+        "input": "Sonnet 138",
+        "output": "1564"
+    },
+    {
+        "input": "2001: A Space Odyssey",
+        "output": "1917"
+    },
+    {
+        "input": "The Godfather",
+        "output": "1920"
+    },
+    {
+        "input": "After the Funeral",
+        "output": "1890"
+    },
+    {
+        "input": "Humiliated and Insulted",
+        "output": "1821"
+    },
+    {
+        "input": "Skeleton Crew",
+        "output": "1947"
+    },
+    {
+        "input": "From Russia, with Love",
+        "output": "1908"
+    },
+    {
+        "input": "The Richest Man in Babylon",
+        "output": "1874"
+    },
+    {
+        "input": "Childhood's End",
+        "output": "1917"
+    },
+    {
+        "input": "Rhinoceros",
+        "output": "1909"
+    },
+    {
+        "input": "On the Genealogy of Morality",
+        "output": "1844"
+    },
+    {
+        "input": "Politics and the English Language",
+        "output": "1903"
+    },
+    {
+        "input": "The Man in the Brown Suit",
+        "output": "1890"
+    },
+    {
+        "input": "Sonnet 13",
+        "output": "1564"
+    },
+    {
+        "input": "Nicholas Nickleby",
+        "output": "1812"
+    },
+    {
+        "input": "Pollyanna",
+        "output": "1868"
+    },
+    {
+        "input": "Vanka",
+        "output": "1860"
+    },
+    {
+        "input": "Joseph Andrews",
+        "output": "1707"
+    },
+    {
+        "input": "Three Comrades",
+        "output": "1898"
+    },
+    {
+        "input": "Masnavi",
+        "output": "1207"
+    },
+    {
+        "input": "The Doom that Came to Sarnath",
+        "output": "1890"
+    },
+    {
+        "input": "Dream of the Red Chamber",
+        "output": "1724"
+    },
+    {
+        "input": "A Wizard of Earthsea",
+        "output": "1929"
+    },
+    {
+        "input": "Small Is Beautiful",
+        "output": "1911"
+    },
+    {
+        "input": "Fatherland",
+        "output": "1957"
+    },
+    {
+        "input": "The Black Cat",
+        "output": "1809"
+    },
+    {
+        "input": "Klara and the Sun",
+        "output": "1954"
+    },
+    {
+        "input": "Tender Is the Night",
+        "output": "1896"
+    },
+    {
+        "input": "The Chimes",
+        "output": "1812"
+    },
+    {
+        "input": "The Song of the Stormy Petrel",
+        "output": "1868"
+    },
+    {
+        "input": "The Grand Inquisitor",
+        "output": "1821"
+    },
+    {
+        "input": "Kidnapped",
+        "output": "1850"
+    },
+    {
+        "input": "The Eighteenth Brumaire of Louis Bonaparte",
+        "output": "1818"
+    },
+    {
+        "input": "Kashtanka",
+        "output": "1860"
+    },
+    {
+        "input": "The Fur Country",
+        "output": "1828"
+    },
+    {
+        "input": "The Logic of Scientific Discovery",
+        "output": "1902"
+    },
+    {
+        "input": "Pakistan Declaration",
+        "output": "1897"
+    },
+    {
+        "input": "Breakfast at Tiffany's",
+        "output": "1924"
+    },
+    {
+        "input": "Our Mutual Friend",
+        "output": "1812"
+    },
+    {
+        "input": "The Good Person of Szechwan",
+        "output": "1898"
+    },
+    {
+        "input": "Sonnet 47",
+        "output": "1564"
+    },
+    {
+        "input": "Sons and Lovers",
+        "output": "1885"
+    },
+    {
+        "input": "A Tedious Story",
+        "output": "1860"
+    },
+    {
+        "input": "The End of History and the Last Man",
+        "output": "1952"
+    },
+    {
+        "input": "The Forest Song",
+        "output": "1871"
+    },
+    {
+        "input": "The Count of Chanteleine",
+        "output": "1828"
+    },
+    {
+        "input": "The Metamorphosis",
+        "output": "1883"
+    },
+    {
+        "input": "The Lucifer Effect",
+        "output": "1933"
+    },
+    {
+        "input": "Chronicle of a Death Foretold",
+        "output": "1927"
+    },
+    {
+        "input": "We the Living",
+        "output": "1905"
+    },
+    {
+        "input": "The Dark Forest",
+        "output": "1963"
+    },
+    {
+        "input": "Forward the Foundation",
+        "output": "1920"
+    },
+    {
+        "input": "The Red Badge of Courage",
+        "output": "1871"
+    },
+    {
+        "input": "Novum Organum",
+        "output": "1561"
+    },
+    {
+        "input": "Runaround",
+        "output": "1920"
+    },
+    {
+        "input": "Sonnet 40",
+        "output": "1564"
+    },
+    {
+        "input": "Golden Legend",
+        "output": "1228"
+    },
+    {
+        "input": "Angels & Demons",
+        "output": "1964"
+    },
+    {
+        "input": "The First Man",
+        "output": "1913"
+    },
+    {
+        "input": "Mona Lisa Overdrive",
+        "output": "1948"
+    },
+    {
+        "input": "Sonnet 18",
+        "output": "1564"
+    },
+    {
+        "input": "Ars\u00e8ne Lupin, Gentleman Burglar",
+        "output": "1864"
+    },
+    {
+        "input": "A House of Pomegranates",
+        "output": "1854"
+    },
+    {
+        "input": "Natalka Poltavka",
+        "output": "1769"
+    },
+    {
+        "input": "The Mousetrap",
+        "output": "1890"
+    },
+    {
+        "input": "Eldest",
+        "output": "1983"
+    },
+    {
+        "input": "The Bicentennial Man",
+        "output": "1920"
+    },
+    {
+        "input": "Witches Abroad",
+        "output": "1948"
+    },
+    {
+        "input": "The Ballad of Reading Gaol",
+        "output": "1854"
+    },
+    {
+        "input": "Ham on Rye",
+        "output": "1920"
+    },
+    {
+        "input": "Lives of the Most Excellent Painters, Sculptors, and Architects",
+        "output": "1511"
+    },
+    {
+        "input": "Lotte in Weimar: The Beloved Returns",
+        "output": "1875"
+    },
+    {
+        "input": "Hadji Murat",
+        "output": "1828"
+    },
+    {
+        "input": "Ynglingatal",
+        "output": "900"
+    },
+    {
+        "input": "Kallocain",
+        "output": "1900"
+    },
+    {
+        "input": "The Girl with the Dragon Tattoo",
+        "output": "1954"
+    },
+    {
+        "input": "The Tommyknockers",
+        "output": "1947"
+    },
+    {
+        "input": "The Hostile Hospital",
+        "output": "1970"
+    },
+    {
+        "input": "The Adventure of the Dying Detective",
+        "output": "1859"
+    },
+    {
+        "input": "Under the Dome",
+        "output": "1947"
+    },
+    {
+        "input": "Pride and Prejudice",
+        "output": "1775"
+    },
+    {
+        "input": "Demian",
+        "output": "1877"
+    },
+    {
+        "input": "The Pickwick Papers",
+        "output": "1812"
+    },
+    {
+        "input": "The Condition of the Working Class in England",
+        "output": "1820"
+    },
+    {
+        "input": "Dr. No",
+        "output": "1908"
+    },
+    {
+        "input": "Eugene Onegin",
+        "output": "1799"
+    },
+    {
+        "input": "Book of Idols",
+        "output": "737"
+    },
+    {
+        "input": "Homage to Catalonia",
+        "output": "1903"
+    },
+    {
+        "input": "Artemis Fowl",
+        "output": "1965"
+    },
+    {
+        "input": "Agnes Grey",
+        "output": "1820"
+    },
+    {
+        "input": "Woyzeck",
+        "output": "1813"
+    },
+    {
+        "input": "The Handmaid's Tale",
+        "output": "1939"
+    },
+    {
+        "input": "The Great Gatsby",
+        "output": "1896"
+    },
+    {
+        "input": "The Penultimate Peril",
+        "output": "1970"
+    },
+    {
+        "input": "Sonnet 15",
+        "output": "1564"
+    },
+    {
+        "input": "Notes from Underground",
+        "output": "1821"
+    },
+    {
+        "input": "The Amber Spyglass",
+        "output": "1945"
+    },
+    {
+        "input": "Convivio",
+        "output": "1265"
+    },
+    {
+        "input": "Harry Potter and the Philosopher's Stone",
+        "output": "1965"
+    },
+    {
+        "input": "The Resistible Rise of Arturo Ui",
+        "output": "1898"
+    },
+    {
+        "input": "The English Patient",
+        "output": "1943"
+    },
+    {
+        "input": "Professor Dowell's Head",
+        "output": "1884"
+    },
+    {
+        "input": "The Fair at Sorochyntsi",
+        "output": "1809"
+    },
+    {
+        "input": "Coming Up for Air",
+        "output": "1903"
+    },
+    {
+        "input": "Sonnet 2",
+        "output": "1564"
+    },
+    {
+        "input": "Jude the Obscure",
+        "output": "1840"
+    },
+    {
+        "input": "Finn Family Moomintroll",
+        "output": "1914"
+    },
+    {
+        "input": "A Princess of Mars",
+        "output": "1875"
+    },
+    {
+        "input": "First Love",
+        "output": "1818"
+    },
+    {
+        "input": "The Three Musketeers",
+        "output": "1802"
+    },
+    {
+        "input": "Waiting for Godot",
+        "output": "1906"
+    },
+    {
+        "input": "Love Story",
+        "output": "1937"
+    },
+    {
+        "input": "In the Penal Colony",
+        "output": "1883"
+    },
+    {
+        "input": "Pickman's Model",
+        "output": "1890"
+    },
+    {
+        "input": "The Maid of Orleans",
+        "output": "1759"
+    },
+    {
+        "input": "The Shining",
+        "output": "1947"
+    },
+    {
+        "input": "In Search of Lost Time",
+        "output": "1871"
+    },
+    {
+        "input": "The Tales of Beedle the Bard",
+        "output": "1965"
+    },
+    {
+        "input": "De vulgari eloquentia",
+        "output": "1265"
+    },
+    {
+        "input": "The Secret History",
+        "output": "1963"
+    },
+    {
+        "input": "Epistle to Titus",
+        "output": "5"
+    },
+    {
+        "input": "The Hitchhiker's Guide to the Galaxy",
+        "output": "1952"
+    },
+    {
+        "input": "The Wealth of Nations",
+        "output": "1723"
+    },
+    {
+        "input": "The Catcher in the Rye",
+        "output": "1919"
+    },
+    {
+        "input": "A Gentleman Friend",
+        "output": "1860"
+    },
+    {
+        "input": "Orlando Furioso",
+        "output": "1474"
+    },
+    {
+        "input": "Purple Hibiscus",
+        "output": "1977"
+    },
+    {
+        "input": "Annihilation",
+        "output": "1968"
+    },
+    {
+        "input": "Mumu",
+        "output": "1818"
+    },
+    {
+        "input": "Vita Nuova",
+        "output": "1265"
+    },
+    {
+        "input": "Parkinson's law",
+        "output": "1909"
+    },
+    {
+        "input": "Heidi",
+        "output": "1827"
+    },
+    {
+        "input": "The Pearl",
+        "output": "1902"
+    },
+    {
+        "input": "Swann's Way",
+        "output": "1871"
+    },
+    {
+        "input": "The Book Thief",
+        "output": "1975"
+    },
+    {
+        "input": "Sonnet 33",
+        "output": "1564"
+    },
+    {
+        "input": "Madame Bovary",
+        "output": "1821"
+    },
+    {
+        "input": "The Forty Days of Musa Dagh",
+        "output": "1890"
+    },
+    {
+        "input": "The Work of Art in the Age of Mechanical Reproduction",
+        "output": "1892"
+    },
+    {
+        "input": "The Hunchback of Notre Dame",
+        "output": "1802"
+    },
+    {
+        "input": "The Cricket on the Hearth",
+        "output": "1812"
+    },
+    {
+        "input": "El T\u00fanel",
+        "output": "1911"
+    },
+    {
+        "input": "Man la yahduruhu al-Faqih",
+        "output": "918"
+    },
+    {
+        "input": "The End",
+        "output": "1970"
+    },
+    {
+        "input": "The Adventure of Black Peter",
+        "output": "1859"
+    },
+    {
+        "input": "A Room with a View",
+        "output": "1879"
+    },
+    {
+        "input": "Anne of Windy Poplars",
+        "output": "1874"
+    },
+    {
+        "input": "Extremely Loud & Incredibly Close",
+        "output": "1977"
+    },
+    {
+        "input": "Kane and Abel",
+        "output": "1940"
+    },
+    {
+        "input": "Perpetual peace",
+        "output": "1724"
+    },
+    {
+        "input": "The Moon and Sixpence",
+        "output": "1874"
+    },
+    {
+        "input": "Pulp",
+        "output": "1920"
+    },
+    {
+        "input": "Empire of the Ants",
+        "output": "1961"
+    },
+    {
+        "input": "Peter Schlemihl",
+        "output": "1781"
+    },
+    {
+        "input": "Kim Ji-young, Born 1982",
+        "output": "1978"
+    },
+    {
+        "input": "The Book of Good Love",
+        "output": "1283"
+    },
+    {
+        "input": "The History of Rome",
+        "output": "1817"
+    },
+    {
+        "input": "Life of Pi",
+        "output": "1963"
+    },
+    {
+        "input": "An Essay on the Principle of Population",
+        "output": "1766"
+    },
+    {
+        "input": "Where the Wild Things Are",
+        "output": "1928"
+    },
+    {
+        "input": "The Oval Portrait",
+        "output": "1809"
+    },
+    {
+        "input": "The Tragedy of Man",
+        "output": "1823"
+    },
+    {
+        "input": "Y Gododdin",
+        "output": "525"
+    },
+    {
+        "input": "When Nietzsche Wept",
+        "output": "1931"
+    },
+    {
+        "input": "Rage",
+        "output": "1947"
+    },
+    {
+        "input": "Egils saga",
+        "output": "1179"
+    },
+    {
+        "input": "Faust",
+        "output": "1749"
+    },
+    {
+        "input": "Sonnet 56",
+        "output": "1564"
+    },
+    {
+        "input": "Thunderball",
+        "output": "1908"
+    },
+    {
+        "input": "Stabat Mater",
+        "output": "1236"
+    },
+    {
+        "input": "Oliver Twist",
+        "output": "1812"
+    },
+    {
+        "input": "Diwan-e Shams-e Tabrizi",
+        "output": "1207"
+    },
+    {
+        "input": "The Myth of the Twentieth Century",
+        "output": "1893"
+    },
+    {
+        "input": "The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared",
+        "output": "1961"
+    },
+    {
+        "input": "The Queen of Spades",
+        "output": "1799"
+    },
+    {
+        "input": "Cos\u00ec \u00e8",
+        "output": "1867"
+    },
+    {
+        "input": "Heart",
+        "output": "1846"
+    },
+    {
+        "input": "The Gods Themselves",
+        "output": "1920"
+    },
+    {
+        "input": "Silas Marner",
+        "output": "1819"
+    },
+    {
+        "input": "Colonel Chabert",
+        "output": "1799"
+    },
+    {
+        "input": "Doctor Zhivago",
+        "output": "1890"
+    },
+    {
+        "input": "Goldfinger",
+        "output": "1908"
+    },
+    {
+        "input": "The Last Man",
+        "output": "1797"
+    },
+    {
+        "input": "The Idiot",
+        "output": "1821"
+    },
+    {
+        "input": "The Star Rover",
+        "output": "1876"
+    },
+    {
+        "input": "The Ballad of Songbirds and Snakes",
+        "output": "1962"
+    },
+    {
+        "input": "End of Watch",
+        "output": "1947"
+    },
+    {
+        "input": "Emily of New Moon",
+        "output": "1874"
+    },
+    {
+        "input": "The Girl Who Loved Tom Gordon",
+        "output": "1947"
+    },
+    {
+        "input": "The Bell Jar",
+        "output": "1932"
+    },
+    {
+        "input": "Second Variety",
+        "output": "1928"
+    },
+    {
+        "input": "The Final Problem",
+        "output": "1859"
+    },
+    {
+        "input": "Rita Hayworth and Shawshank Redemption",
+        "output": "1947"
+    },
+    {
+        "input": "A Canticle for Leibowitz",
+        "output": "1923"
+    },
+    {
+        "input": "Satyricon",
+        "output": "27"
+    },
+    {
+        "input": "Calligrammes",
+        "output": "1880"
+    },
+    {
+        "input": "The Steppe",
+        "output": "1860"
+    },
+    {
+        "input": "The Holocaust Industry",
+        "output": "1953"
+    },
+    {
+        "input": "Predator's Gold",
+        "output": "1966"
+    },
+    {
+        "input": "Bridget Jones's Diary",
+        "output": "1958"
+    },
+    {
+        "input": "Vathek",
+        "output": "1760"
+    },
+    {
+        "input": "The Mystery of the Yellow Room",
+        "output": "1868"
+    },
+    {
+        "input": "The Adolescent",
+        "output": "1821"
+    },
+    {
+        "input": "Civil Disobedience",
+        "output": "1817"
+    },
+    {
+        "input": "A Scandal in Bohemia",
+        "output": "1859"
+    },
+    {
+        "input": "Memoirs of a Geisha",
+        "output": "1956"
+    },
+    {
+        "input": "Ethics",
+        "output": "1632"
+    },
+    {
+        "input": "Julie, or the New Heloise",
+        "output": "1712"
+    },
+    {
+        "input": "Max Havelaar",
+        "output": "1820"
+    },
+    {
+        "input": "The Adventures of Tom Sawyer",
+        "output": "1835"
+    },
+    {
+        "input": "Finnegans Wake",
+        "output": "1882"
+    },
+    {
+        "input": "First Epistle to the Thessalonians",
+        "output": "5"
+    },
+    {
+        "input": "Sonnet 14",
+        "output": "1564"
+    },
+    {
+        "input": "Welcome to the N.H.K.",
+        "output": "1978"
+    },
+    {
+        "input": "The Mountain Wreath",
+        "output": "1813"
+    },
+    {
+        "input": "The Bourne Identity",
+        "output": "1927"
+    },
+    {
+        "input": "In Desert and Wilderness",
+        "output": "1846"
+    },
+    {
+        "input": "\u00cdslendingab\u00f3k",
+        "output": "1067"
+    },
+    {
+        "input": "The Clown",
+        "output": "1917"
+    },
+    {
+        "input": "Dead Man's Folly",
+        "output": "1890"
+    },
+    {
+        "input": "Mostly Harmless",
+        "output": "1952"
+    },
+    {
+        "input": "The Magus",
+        "output": "1926"
+    },
+    {
+        "input": "Ring",
+        "output": "1957"
+    },
+    {
+        "input": "One Step Forward, Two Steps Back",
+        "output": "1870"
+    },
+    {
+        "input": "Under the Yoke",
+        "output": "1850"
+    },
+    {
+        "input": "The Double",
+        "output": "1821"
+    },
+    {
+        "input": "Struwwelpeter",
+        "output": "1809"
+    },
+    {
+        "input": "The Fifth Elephant",
+        "output": "1948"
+    },
+    {
+        "input": "Tongdian",
+        "output": "735"
+    },
+    {
+        "input": "Lord Jim",
+        "output": "1857"
+    },
+    {
+        "input": "Erewhon",
+        "output": "1835"
+    },
+    {
+        "input": "Shan Hai Jing",
+        "output": "276"
+    },
+    {
+        "input": "Lethal White",
+        "output": "1965"
+    },
+    {
+        "input": "Being There",
+        "output": "1933"
+    },
+    {
+        "input": "Justine",
+        "output": "1740"
+    },
+    {
+        "input": "Les Aventures de T\u00e9l\u00e9maque",
+        "output": "1651"
+    },
+    {
+        "input": "The Running Man",
+        "output": "1947"
+    },
+    {
+        "input": "Manon Lescaut",
+        "output": "1697"
+    },
+    {
+        "input": "A True Story",
+        "output": "120"
+    },
+    {
+        "input": "Il servitore di due padroni",
+        "output": "1707"
+    },
+    {
+        "input": "Shulchan Aruch",
+        "output": "1488"
+    },
+    {
+        "input": "Ai no Kusabi",
+        "output": "1965"
+    },
+    {
+        "input": "The Mysterious Affair at Styles",
+        "output": "1890"
+    },
+    {
+        "input": "Invisible Cities",
+        "output": "1923"
+    },
+    {
+        "input": "Michael Strogoff",
+        "output": "1828"
+    },
+    {
+        "input": "The Archipelago on Fire",
+        "output": "1828"
+    },
+    {
+        "input": "Cyrano de Bergerac",
+        "output": "1868"
+    },
+    {
+        "input": "The White Guard",
+        "output": "1891"
+    },
+    {
+        "input": "Goodbye, Mr. Chips",
+        "output": "1900"
+    },
+    {
+        "input": "Love in the Time of Cholera",
+        "output": "1927"
+    },
+    {
+        "input": "The Hero with a Thousand Faces",
+        "output": "1904"
+    },
+    {
+        "input": "Viy",
+        "output": "1809"
+    },
+    {
+        "input": "Lords and Ladies",
+        "output": "1948"
+    },
+    {
+        "input": "Jane Eyre",
+        "output": "1816"
+    },
+    {
+        "input": "Cousin Bette",
+        "output": "1799"
+    },
+    {
+        "input": "Darkly Dreaming Dexter",
+        "output": "1952"
+    },
+    {
+        "input": "My Life",
+        "output": "1860"
+    },
+    {
+        "input": "La Galatea",
+        "output": "1547"
+    },
+    {
+        "input": "Hunger",
+        "output": "1859"
+    },
+    {
+        "input": "Midnight Sun",
+        "output": "1973"
+    },
+    {
+        "input": "Duino Elegies",
+        "output": "1875"
+    },
+    {
+        "input": "The Betrothed",
+        "output": "1785"
+    },
+    {
+        "input": "An American Tragedy",
+        "output": "1871"
+    },
+    {
+        "input": "The Fault in Our Stars",
+        "output": "1977"
+    },
+    {
+        "input": "A Connecticut Yankee in King Arthur's Court",
+        "output": "1835"
+    },
+    {
+        "input": "Kit\u00e1b-i-\u00cdq\u00e1n",
+        "output": "1817"
+    },
+    {
+        "input": "Investiture of the Gods",
+        "output": "1550"
+    },
+    {
+        "input": "Paper Towns",
+        "output": "1977"
+    },
+    {
+        "input": "Distichs of Cato",
+        "output": "300"
+    },
+    {
+        "input": "Book of Common Prayer",
+        "output": "1489"
+    },
+    {
+        "input": "The Tale of Kieu",
+        "output": "1766"
+    },
+    {
+        "input": "Mat'",
+        "output": "1868"
+    },
+    {
+        "input": "Kama Sutra",
+        "output": "500"
+    },
+    {
+        "input": "The Man in the Moone",
+        "output": "1562"
+    },
+    {
+        "input": "The House of the Dead",
+        "output": "1821"
+    },
+    {
+        "input": "New Moon",
+        "output": "1973"
+    },
+    {
+        "input": "Tonio Kr\u00f6ger",
+        "output": "1875"
+    },
+    {
+        "input": "La Dame de Monsoreau",
+        "output": "1802"
+    },
+    {
+        "input": "Of Mice and Men",
+        "output": "1902"
+    },
+    {
+        "input": "Mortal Engines",
+        "output": "1966"
+    },
+    {
+        "input": "The System of Doctor Tarr and Professor Fether",
+        "output": "1809"
+    },
+    {
+        "input": "Deception Point",
+        "output": "1964"
+    },
+    {
+        "input": "A Case of Identity",
+        "output": "1859"
+    },
+    {
+        "input": "Night Flight",
+        "output": "1900"
+    },
+    {
+        "input": "Babel-17",
+        "output": "1942"
+    },
+    {
+        "input": "The Stars, Like Dust",
+        "output": "1920"
+    },
+    {
+        "input": "The Devil and Miss Prym",
+        "output": "1947"
+    },
+    {
+        "input": "A Pale View of Hills",
+        "output": "1954"
+    },
+    {
+        "input": "The Adventures of Pinocchio",
+        "output": "1826"
+    },
+    {
+        "input": "The Disappearance of Lady Frances Carfax",
+        "output": "1859"
+    },
+    {
+        "input": "The Government Inspector",
+        "output": "1809"
+    },
+    {
+        "input": "All the Light We Cannot See",
+        "output": "1973"
+    },
+    {
+        "input": "Shantaram",
+        "output": "1952"
+    },
+    {
+        "input": "Night Shift",
+        "output": "1947"
+    },
+    {
+        "input": "History of Yuan",
+        "output": "1310"
+    },
+    {
+        "input": "Smith of Wootton Major",
+        "output": "1892"
+    },
+    {
+        "input": "Maskerade",
+        "output": "1948"
+    },
+    {
+        "input": "The Cats of Ulthar",
+        "output": "1890"
+    },
+    {
+        "input": "Gerald's Game",
+        "output": "1947"
+    },
+    {
+        "input": "Planet of the Apes",
+        "output": "1912"
+    },
+    {
+        "input": "Dreamsnake",
+        "output": "1948"
+    },
+    {
+        "input": "Dubrovsky",
+        "output": "1799"
+    },
+    {
+        "input": "Michael Kohlhaas",
+        "output": "1777"
+    },
+    {
+        "input": "By the Pricking of My Thumbs",
+        "output": "1890"
+    },
+    {
+        "input": "Eragon",
+        "output": "1983"
+    },
+    {
+        "input": "First Folio",
+        "output": "1564"
+    },
+    {
+        "input": "From the New World",
+        "output": "1959"
+    },
+    {
+        "input": "The Haunter of the Dark",
+        "output": "1890"
+    },
+    {
+        "input": "Youcat",
+        "output": "1945"
+    },
+    {
+        "input": "World Without End",
+        "output": "1949"
+    },
+    {
+        "input": "The Black Tulip",
+        "output": "1802"
+    },
+    {
+        "input": "Dombey and Son",
+        "output": "1812"
+    },
+    {
+        "input": "Farmer Giles of Ham",
+        "output": "1892"
+    },
+    {
+        "input": "The Reader",
+        "output": "1944"
+    },
+    {
+        "input": "Exemplary Novels",
+        "output": "1547"
+    },
+    {
+        "input": "Perceval, the Story of the Grail",
+        "output": "1135"
+    },
+    {
+        "input": "Gesta Hungarorum",
+        "output": "1200"
+    },
+    {
+        "input": "In Cold Blood",
+        "output": "1924"
+    },
+    {
+        "input": "Amphibian Man",
+        "output": "1884"
+    },
+    {
+        "input": "Sentimental Education",
+        "output": "1821"
+    },
+    {
+        "input": "How the Steel Was Tempered",
+        "output": "1904"
+    },
+    {
+        "input": "Landn\u00e1mab\u00f3k",
+        "output": "1067"
+    },
+    {
+        "input": "Eclipse",
+        "output": "1973"
+    },
+    {
+        "input": "Evil Under the Sun",
+        "output": "1890"
+    },
+    {
+        "input": "Harry Potter prequel",
+        "output": "1965"
+    },
+    {
+        "input": "Pyramids",
+        "output": "1948"
+    },
+    {
+        "input": "Reaper Man",
+        "output": "1948"
+    },
+    {
+        "input": "The Fall of Gondolin",
+        "output": "1892"
+    },
+    {
+        "input": "Midnight's Children",
+        "output": "1947"
+    },
+    {
+        "input": "2312",
+        "output": "1952"
+    },
+    {
+        "input": "The Painted Veil",
+        "output": "1874"
+    },
+    {
+        "input": "Turtles All the Way Down",
+        "output": "1977"
+    },
+    {
+        "input": "Parallel Lives",
+        "output": "40"
+    },
+    {
+        "input": "Parker Pyne Investigates",
+        "output": "1890"
+    },
+    {
+        "input": "Career of Evil",
+        "output": "1965"
+    },
+    {
+        "input": "The Adventure of the Second Stain",
+        "output": "1859"
+    },
+    {
+        "input": "Moses and Monotheism",
+        "output": "1856"
+    },
+    {
+        "input": "The Child of the Cavern",
+        "output": "1828"
+    },
+    {
+        "input": "The White Castle",
+        "output": "1952"
+    },
+    {
+        "input": "Histoire de ma vie",
+        "output": "1725"
+    },
+    {
+        "input": "Snow",
+        "output": "1952"
+    },
+    {
+        "input": "The Shot",
+        "output": "1799"
+    },
+    {
+        "input": "Hernani",
+        "output": "1802"
+    },
+    {
+        "input": "The Snow Queen",
+        "output": "1805"
+    },
+    {
+        "input": "Tales of Count Lucanor",
+        "output": "1282"
+    },
+    {
+        "input": "The Barber of Seville",
+        "output": "1732"
+    },
+    {
+        "input": "The Pit and the Pendulum",
+        "output": "1809"
+    },
+    {
+        "input": "Book of Shadows",
+        "output": "1884"
+    },
+    {
+        "input": "The Dragon Reborn",
+        "output": "1948"
+    },
+    {
+        "input": "As We May Think",
+        "output": "1890"
+    },
+    {
+        "input": "The Girl on the Train",
+        "output": "1972"
+    },
+    {
+        "input": "The Adventure of the Lion's Mane",
+        "output": "1859"
+    },
+    {
+        "input": "Breaking Dawn",
+        "output": "1973"
+    },
+    {
+        "input": "Orlando: A Biography",
+        "output": "1882"
+    },
+    {
+        "input": "Boule de Suif",
+        "output": "1850"
+    },
+    {
+        "input": "De arte venandi cum avibus",
+        "output": "1195"
+    },
+    {
+        "input": "Four Books",
+        "output": "1130"
+    },
+    {
+        "input": "Hallowe'en Party",
+        "output": "1890"
+    },
+    {
+        "input": "A Tale of Two Cities",
+        "output": "1812"
+    },
+    {
+        "input": "Heretics of Dune",
+        "output": "1920"
+    },
+    {
+        "input": "Lassie Come-Home",
+        "output": "1897"
+    },
+    {
+        "input": "Sonnet 29",
+        "output": "1564"
+    },
+    {
+        "input": "Little Lord Fauntleroy",
+        "output": "1849"
+    },
+    {
+        "input": "Witness for the Prosecution",
+        "output": "1890"
+    },
+    {
+        "input": "The Hunger Games",
+        "output": "1962"
+    },
+    {
+        "input": "La Reine Margot",
+        "output": "1802"
+    },
+    {
+        "input": "To Have and Have Not",
+        "output": "1899"
+    },
+    {
+        "input": "The Egyptian",
+        "output": "1908"
+    },
+    {
+        "input": "Second Foundation",
+        "output": "1920"
+    },
+    {
+        "input": "Mahomet",
+        "output": "1694"
+    },
+    {
+        "input": "Cathedral of the Sea",
+        "output": "1959"
+    },
+    {
+        "input": "Just After Sunset",
+        "output": "1947"
+    },
+    {
+        "input": "Polaris",
+        "output": "1890"
+    },
+    {
+        "input": "Epistle to the Romans",
+        "output": "5"
+    },
+    {
+        "input": "Rule of St. Augustine",
+        "output": "354"
+    },
+    {
+        "input": "Cosmos",
+        "output": "1934"
+    },
+    {
+        "input": "The Dead Zone",
+        "output": "1947"
+    },
+    {
+        "input": "The Curious Incident of the Dog in the Night-Time",
+        "output": "1962"
+    },
+    {
+        "input": "The Remains of the Day",
+        "output": "1954"
+    },
+    {
+        "input": "Minima Moralia",
+        "output": "1903"
+    },
+    {
+        "input": "Indian Camp",
+        "output": "1899"
+    },
+    {
+        "input": "The Adventure of the Sussex Vampire",
+        "output": "1859"
+    },
+    {
+        "input": "Maps of Meaning",
+        "output": "1962"
+    },
+    {
+        "input": "Confessions of an Economic Hit Man",
+        "output": "1945"
+    },
+    {
+        "input": "Matilda",
+        "output": "1916"
+    },
+    {
+        "input": "The Poverty of Philosophy",
+        "output": "1818"
+    },
+    {
+        "input": "The Shock Doctrine",
+        "output": "1970"
+    },
+    {
+        "input": "The Three Little Pigs",
+        "output": "1820"
+    },
+    {
+        "input": "Gal\u00e1pagos",
+        "output": "1922"
+    },
+    {
+        "input": "The Sign of Four",
+        "output": "1859"
+    },
+    {
+        "input": "Radetzky March",
+        "output": "1894"
+    },
+    {
+        "input": "The Adventure of the Three Students",
+        "output": "1859"
+    },
+    {
+        "input": "At the Mountains of Madness",
+        "output": "1890"
+    },
+    {
+        "input": "The Secret of Chimneys",
+        "output": "1890"
+    },
+    {
+        "input": "The Anatomy of Melancholy",
+        "output": "1577"
+    },
+    {
+        "input": "The Mighty Orinoco",
+        "output": "1828"
+    },
+    {
+        "input": "Evenings on a Farm Near Dikanka",
+        "output": "1809"
+    },
+    {
+        "input": "Asya",
+        "output": "1818"
+    },
+    {
+        "input": "Red Sorghum",
+        "output": "1955"
+    },
+    {
+        "input": "The Road to Serfdom",
+        "output": "1899"
+    },
+    {
+        "input": "Beware of Pity",
+        "output": "1881"
+    },
+    {
+        "input": "The Adventure of the Creeping Man",
+        "output": "1859"
+    },
+    {
+        "input": "Mistress Branican",
+        "output": "1828"
+    },
+    {
+        "input": "La B\u00eate humaine",
+        "output": "1840"
+    },
+    {
+        "input": "Lost in America",
+        "output": "1883"
+    },
+    {
+        "input": "The Secret",
+        "output": "1951"
+    },
+    {
+        "input": "The Three Stigmata of Palmer Eldritch",
+        "output": "1928"
+    },
+    {
+        "input": "Absent in the Spring",
+        "output": "1890"
+    },
+    {
+        "input": "Life, the Universe and Everything",
+        "output": "1952"
+    },
+    {
+        "input": "Kujiki",
+        "output": "788"
+    },
+    {
+        "input": "Venus and Adonis",
+        "output": "1564"
+    },
+    {
+        "input": "Angels in America",
+        "output": "1956"
+    },
+    {
+        "input": "The Bet",
+        "output": "1860"
+    },
+    {
+        "input": "A Storm of Swords",
+        "output": "1948"
+    },
+    {
+        "input": "Three Act Tragedy",
+        "output": "1890"
+    },
+    {
+        "input": "West\u2013Eastern Diwan",
+        "output": "1749"
+    },
+    {
+        "input": "The Adventures of Sherlock Holmes",
+        "output": "1859"
+    },
+    {
+        "input": "The History of the Kings of Britain",
+        "output": "1100"
+    },
+    {
+        "input": "How Much Land Does a Man Need?",
+        "output": "1828"
+    },
+    {
+        "input": "Demons",
+        "output": "1821"
+    },
+    {
+        "input": "The Tin Drum",
+        "output": "1927"
+    },
+    {
+        "input": "Death with Interruptions",
+        "output": "1922"
+    },
+    {
+        "input": "Eaters of the Dead",
+        "output": "1942"
+    },
+    {
+        "input": "Tamburlaine",
+        "output": "1564"
+    },
+    {
+        "input": "The Listerdale Mystery",
+        "output": "1890"
+    },
+    {
+        "input": "Nana",
+        "output": "1840"
+    },
+    {
+        "input": "The Adventure of the Dancing Men",
+        "output": "1859"
+    },
+    {
+        "input": "2061: Odyssey Three",
+        "output": "1917"
+    },
+    {
+        "input": "A Pocket Full of Rye",
+        "output": "1890"
+    },
+    {
+        "input": "Watership Down",
+        "output": "1920"
+    },
+    {
+        "input": "The Son of Neptune",
+        "output": "1964"
+    },
+    {
+        "input": "Wyrd Sisters",
+        "output": "1948"
+    },
+    {
+        "input": "The Tale of Genji",
+        "output": "970"
+    },
+    {
+        "input": "Gylfaginning",
+        "output": "1179"
+    },
+    {
+        "input": "Rash\u014dmon",
+        "output": "1892"
+    },
+    {
+        "input": "Red Dragon",
+        "output": "1940"
+    },
+    {
+        "input": "Chronica Boemorum",
+        "output": "1045"
+    },
+    {
+        "input": "Caligula",
+        "output": "1913"
+    },
+    {
+        "input": "Different Seasons",
+        "output": "1947"
+    },
+    {
+        "input": "The Rats in the Walls",
+        "output": "1890"
+    },
+    {
+        "input": "The Institute",
+        "output": "1947"
+    },
+    {
+        "input": "Sonnet 55",
+        "output": "1564"
+    },
+    {
+        "input": "The Music of Erich Zann",
+        "output": "1890"
+    },
+    {
+        "input": "The City and the Stars",
+        "output": "1917"
+    },
+    {
+        "input": "La Belle Dame sans Merci",
+        "output": "1795"
+    },
+    {
+        "input": "A Study of History",
+        "output": "1889"
+    },
+    {
+        "input": "The Mill on the Floss",
+        "output": "1819"
+    },
+    {
+        "input": "Ben-Hur: A Tale of the Christ",
+        "output": "1827"
+    },
+    {
+        "input": "Sonnet 130",
+        "output": "1564"
+    },
+    {
+        "input": "Prince Caspian",
+        "output": "1898"
+    },
+    {
+        "input": "Darkness at Noon",
+        "output": "1905"
+    },
+    {
+        "input": "The Currents of Space",
+        "output": "1920"
+    },
+    {
+        "input": "Hortus deliciarum",
+        "output": "1130"
+    },
+    {
+        "input": "The Imp of the Perverse",
+        "output": "1809"
+    },
+    {
+        "input": "The Plague",
+        "output": "1913"
+    },
+    {
+        "input": "Psycho",
+        "output": "1917"
+    },
+    {
+        "input": "The Dream of a Ridiculous Man",
+        "output": "1821"
+    },
+    {
+        "input": "Edward II",
+        "output": "1564"
+    },
+    {
+        "input": "The Lovely Bones",
+        "output": "1963"
+    },
+    {
+        "input": "If on a Winter\u2019s Night a Traveler",
+        "output": "1923"
+    },
+    {
+        "input": "The Restaurant at the End of the Universe",
+        "output": "1952"
+    },
+    {
+        "input": "The Line of Beauty",
+        "output": "1954"
+    },
+    {
+        "input": "Hai Rui Dismissed from Office",
+        "output": "1909"
+    },
+    {
+        "input": "The Adventure of the Veiled Lodger",
+        "output": "1859"
+    },
+    {
+        "input": "Jaws",
+        "output": "1940"
+    },
+    {
+        "input": "Time Enough for Love",
+        "output": "1907"
+    },
+    {
+        "input": "Who's Afraid of Virginia Woolf?",
+        "output": "1928"
+    },
+    {
+        "input": "The Devil Wears Prada",
+        "output": "1977"
+    },
+    {
+        "input": "Soul Mountain",
+        "output": "1940"
+    },
+    {
+        "input": "The Portrait of a Lady",
+        "output": "1843"
+    },
+    {
+        "input": "The Monk Who Sold His Ferrari",
+        "output": "1964"
+    },
+    {
+        "input": "The Postman",
+        "output": "1950"
+    },
+    {
+        "input": "The Golem",
+        "output": "1868"
+    },
+    {
+        "input": "And Another Thing...",
+        "output": "1965"
+    },
+    {
+        "input": "Politics as a Vocation",
+        "output": "1864"
+    },
+    {
+        "input": "Sonnet 1",
+        "output": "1564"
+    },
+    {
+        "input": "Il Canzoniere",
+        "output": "1304"
+    },
+    {
+        "input": "The Adventure of the Greek Interpreter",
+        "output": "1859"
+    },
+    {
+        "input": "Dracula",
+        "output": "1847"
+    },
+    {
+        "input": "The Old Capital",
+        "output": "1899"
+    },
+    {
+        "input": "2666",
+        "output": "1953"
+    },
+    {
+        "input": "The Slippery Slope",
+        "output": "1970"
+    },
+    {
+        "input": "Abhidharma-kosa",
+        "output": "300"
+    },
+    {
+        "input": "The Fountainhead",
+        "output": "1905"
+    },
+    {
+        "input": "The Da Vinci Code",
+        "output": "1964"
+    },
+    {
+        "input": "Hong Gildong jeon",
+        "output": "1569"
+    },
+    {
+        "input": "Thud!",
+        "output": "1948"
+    },
+    {
+        "input": "The Queen's Gambit",
+        "output": "1928"
+    },
+    {
+        "input": "Tarzan of the Apes",
+        "output": "1875"
+    },
+    {
+        "input": "The Love of the Last Tycoon",
+        "output": "1896"
+    },
+    {
+        "input": "Sunrise on the Reaping",
+        "output": "1962"
+    },
+    {
+        "input": "Sense and Sensibility",
+        "output": "1775"
+    },
+    {
+        "input": "Atlas Shrugged",
+        "output": "1905"
+    },
+    {
+        "input": "War's Unwomanly Face",
+        "output": "1948"
+    },
+    {
+        "input": "Anansi Boys",
+        "output": "1960"
+    },
+    {
+        "input": "Half of a Yellow Sun",
+        "output": "1977"
+    },
+    {
+        "input": "On the Beach",
+        "output": "1899"
+    },
+    {
+        "input": "The Dream-Quest of Unknown Kadath",
+        "output": "1890"
+    },
+    {
+        "input": "Postern of Fate",
+        "output": "1890"
+    },
+    {
+        "input": "The Mysterious Flame of Queen culona",
+        "output": "1932"
+    },
+    {
+        "input": "A Journey to the Center of the Earth",
+        "output": "1828"
+    },
+    {
+        "input": "The Fall",
+        "output": "1913"
+    },
+    {
+        "input": "Platero",
+        "output": "1880"
+    },
+    {
+        "input": "Khosrow and Shirin",
+        "output": "1141"
+    },
+    {
+        "input": "The Lathe of Heaven",
+        "output": "1929"
+    },
+    {
+        "input": "Gay Science",
+        "output": "1844"
+    },
+    {
+        "input": "Oryx and Crake",
+        "output": "1939"
+    },
+    {
+        "input": "Captain Blood",
+        "output": "1875"
+    },
+    {
+        "input": "Schindler's Ark",
+        "output": "1935"
+    },
+    {
+        "input": "Prey",
+        "output": "1942"
+    },
+    {
+        "input": "Mirgorod",
+        "output": "1809"
+    },
+    {
+        "input": "Horace",
+        "output": "1606"
+    },
+    {
+        "input": "The Adventure of the Blanched Soldier",
+        "output": "1859"
+    },
+    {
+        "input": "Platform Sutra",
+        "output": "638"
+    },
+    {
+        "input": "The House of the Spirits",
+        "output": "1942"
+    },
+    {
+        "input": "Mockingjay",
+        "output": "1962"
+    },
+    {
+        "input": "The Tell-Tale Heart",
+        "output": "1809"
+    },
+    {
+        "input": "An Essay on the Inequality of the Human Races",
+        "output": "1816"
+    },
+    {
+        "input": "The Mythical Man-Month",
+        "output": "1931"
+    },
+    {
+        "input": "The Nightingale",
+        "output": "1805"
+    },
+    {
+        "input": "Problem at Pollensa Bay and Other Stories",
+        "output": "1890"
+    },
+    {
+        "input": "The Intelligent Investor",
+        "output": "1894"
+    },
+    {
+        "input": "Baal",
+        "output": "1898"
+    },
+    {
+        "input": "The Magellanic Cloud",
+        "output": "1921"
+    },
+    {
+        "input": "First they came...",
+        "output": "1892"
+    },
+    {
+        "input": "The Scarlet Plague",
+        "output": "1876"
+    },
+    {
+        "input": "The Sum of All Fears",
+        "output": "1947"
+    },
+    {
+        "input": "The Problem of Thor Bridge",
+        "output": "1859"
+    },
+    {
+        "input": "The Maltese Falcon",
+        "output": "1894"
+    },
+    {
+        "input": "Das Judenthum in der Musik",
+        "output": "1813"
+    },
+    {
+        "input": "One Day in the Life of Ivan Denisovich",
+        "output": "1918"
+    },
+    {
+        "input": "A Happy Death",
+        "output": "1913"
+    },
+    {
+        "input": "Erec and Enide",
+        "output": "1135"
+    },
+    {
+        "input": "Endgame",
+        "output": "1906"
+    },
+    {
+        "input": "Free Culture",
+        "output": "1961"
+    },
+    {
+        "input": "I Am a Cat",
+        "output": "1867"
+    },
+    {
+        "input": "The Devil's Elixirs",
+        "output": "1776"
+    },
+    {
+        "input": "Le Cid",
+        "output": "1606"
+    },
+    {
+        "input": "Invasion of the Sea",
+        "output": "1828"
+    },
+    {
+        "input": "Follas Novas",
+        "output": "1837"
+    },
+    {
+        "input": "The Three Princes of Serendip",
+        "output": "1534"
+    },
+    {
+        "input": "Dictionary of the Khazars",
+        "output": "1929"
+    },
+    {
+        "input": "Letter to His Father",
+        "output": "1883"
+    },
+    {
+        "input": "Killing Commendatore",
+        "output": "1949"
+    },
+    {
+        "input": "Bluebeard",
+        "output": "1628"
+    },
+    {
+        "input": "Sonnet 10",
+        "output": "1564"
+    },
+    {
+        "input": "The Eye of the World",
+        "output": "1948"
+    },
+    {
+        "input": "The Minority Report",
+        "output": "1928"
+    },
+    {
+        "input": "Grundrisse",
+        "output": "1818"
+    },
+    {
+        "input": "The Green Ray",
+        "output": "1828"
+    },
+    {
+        "input": "Ethan Frome",
+        "output": "1862"
+    },
+    {
+        "input": "The Eternal Husband",
+        "output": "1821"
+    },
+    {
+        "input": "The Bridge on the Drina",
+        "output": "1892"
+    },
+    {
+        "input": "Miss Peregrine's Home of Peculiar Children",
+        "output": "1979"
+    },
+    {
+        "input": "Tsurezuregusa",
+        "output": "1283"
+    },
+    {
+        "input": "Solaris",
+        "output": "1921"
+    },
+    {
+        "input": "Journey to the End of the Night",
+        "output": "1894"
+    },
+    {
+        "input": "The Case of Charles Dexter Ward",
+        "output": "1890"
+    },
+    {
+        "input": "al-Muwa\u1e6d\u1e6da\u02bc",
+        "output": "711"
+    },
+    {
+        "input": "Ficciones",
+        "output": "1899"
+    },
+    {
+        "input": "Sunan al-Darimi",
+        "output": "797"
+    },
+    {
+        "input": "The Vampyre",
+        "output": "1795"
+    },
+    {
+        "input": "Hayy ibn Yaqdhan",
+        "output": "1110"
+    },
+    {
+        "input": "The God of Small Things",
+        "output": "1961"
+    },
+    {
+        "input": "A Passage to India",
+        "output": "1879"
+    },
+    {
+        "input": "The Man Without Qualities",
+        "output": "1880"
+    },
+    {
+        "input": "The Duchess of Malfi",
+        "output": "1578"
+    },
+    {
+        "input": "Player Piano",
+        "output": "1922"
+    },
+    {
+        "input": "Hard-Boiled Wonderland and the End of the World",
+        "output": "1949"
+    },
+    {
+        "input": "Master of the World",
+        "output": "1828"
+    },
+    {
+        "input": "First Epistle to Timothy",
+        "output": "5"
+    },
+    {
+        "input": "The Good Soldier \u0160vejk",
+        "output": "1883"
+    },
+    {
+        "input": "Human, All Too Human",
+        "output": "1844"
+    },
+    {
+        "input": "Fantastic Beasts and Where to Find Them",
+        "output": "1965"
+    },
+    {
+        "input": "First Epistle of Clement",
+        "output": "100"
+    },
+    {
+        "input": "The Sword of Destiny",
+        "output": "1948"
+    },
+    {
+        "input": "The Eyes of the Dragon",
+        "output": "1947"
+    },
+    {
+        "input": "Henry IV",
+        "output": "1867"
+    },
+    {
+        "input": "Taras Bulba",
+        "output": "1809"
+    },
+    {
+        "input": "A Wrinkle in Time",
+        "output": "1918"
+    },
+    {
+        "input": "The Coming Race",
+        "output": "1803"
+    },
+    {
+        "input": "Aelita",
+        "output": "1883"
+    },
+    {
+        "input": "The Dark Tower: The Gunslinger",
+        "output": "1947"
+    },
+    {
+        "input": "Out of Africa",
+        "output": "1885"
+    },
+    {
+        "input": "Jacques the Fatalist",
+        "output": "1713"
+    },
+    {
+        "input": "Breakfast of Champions",
+        "output": "1922"
+    },
+    {
+        "input": "Mishnah Berurah",
+        "output": "1838"
+    },
+    {
+        "input": "Poem of Sidi Boushaki",
+        "output": "1394"
+    },
+    {
+        "input": "The Mist",
+        "output": "1947"
+    },
+    {
+        "input": "Martian Time-Slip",
+        "output": "1928"
+    },
+    {
+        "input": "Long Day's Journey into Night",
+        "output": "1888"
+    },
+    {
+        "input": "Count Zero",
+        "output": "1948"
+    },
+    {
+        "input": "The French Lieutenant's Woman",
+        "output": "1926"
+    },
+    {
+        "input": "The Development of Capitalism in Russia",
+        "output": "1870"
+    },
+    {
+        "input": "Americanah",
+        "output": "1977"
+    },
+    {
+        "input": "The Sun Also Rises",
+        "output": "1899"
+    },
+    {
+        "input": "Leaf by Niggle",
+        "output": "1892"
+    },
+    {
+        "input": "As I Lay Dying",
+        "output": "1897"
+    },
+    {
+        "input": "Sophie's Choice",
+        "output": "1925"
+    },
+    {
+        "input": "Prometheus",
+        "output": "1749"
+    },
+    {
+        "input": "Inkheart",
+        "output": "1958"
+    },
+    {
+        "input": "Zazie in the Metro",
+        "output": "1903"
+    },
+    {
+        "input": "The Colour of Magic",
+        "output": "1948"
+    },
+    {
+        "input": "City of Ashes",
+        "output": "1973"
+    },
+    {
+        "input": "The Black Obelisk",
+        "output": "1898"
+    },
+    {
+        "input": "The Kip Brothers",
+        "output": "1828"
+    },
+    {
+        "input": "Far from the Madding Crowd",
+        "output": "1840"
+    },
+    {
+        "input": "Cranford",
+        "output": "1810"
+    },
+    {
+        "input": "The origin of the family, private property and the state",
+        "output": "1820"
+    },
+    {
+        "input": "Ligeia",
+        "output": "1809"
+    },
+    {
+        "input": "Diary of a Madman",
+        "output": "1809"
+    },
+    {
+        "input": "Tabaqat-i Nasiri",
+        "output": "1193"
+    },
+    {
+        "input": "Stranger in a Strange Land",
+        "output": "1907"
+    },
+    {
+        "input": "Harry Potter and the Half-Blood Prince",
+        "output": "1965"
+    },
+    {
+        "input": "It Can't Happen Here",
+        "output": "1885"
+    },
+    {
+        "input": "The Yellow Wall Paper",
+        "output": "1860"
+    },
+    {
+        "input": "The Wonderful Wizard of Oz",
+        "output": "1856"
+    },
+    {
+        "input": "The Seven Beauties",
+        "output": "1141"
+    },
+    {
+        "input": "Nine Stories",
+        "output": "1919"
+    },
+    {
+        "input": "The Silence of the Lambs",
+        "output": "1940"
+    },
+    {
+        "input": "Kvachi Kvachantiradze",
+        "output": "1880"
+    },
+    {
+        "input": "Le Secret de Wilhelm Storitz",
+        "output": "1828"
+    },
+    {
+        "input": "The Adventure of the Three Garridebs",
+        "output": "1859"
+    },
+    {
+        "input": "The Rime of the Ancient Mariner",
+        "output": "1772"
+    },
+    {
+        "input": "And did those feet in ancient time",
+        "output": "1757"
+    },
+    {
+        "input": "The Assayer",
+        "output": "1564"
+    },
+    {
+        "input": "Tinker Tailor Soldier Spy",
+        "output": "1931"
+    },
+    {
+        "input": "The Orange Girl",
+        "output": "1952"
+    },
+    {
+        "input": "Xenocide",
+        "output": "1951"
+    },
+    {
+        "input": "The Shadow of the Wind",
+        "output": "1964"
+    },
+    {
+        "input": "Pebble in the Sky",
+        "output": "1920"
+    },
+    {
+        "input": "The Notebook",
+        "output": "1965"
+    },
+    {
+        "input": "Nightfall",
+        "output": "1920"
+    },
+    {
+        "input": "The Forty Rules of Love",
+        "output": "1971"
+    },
+    {
+        "input": "An Honest Thief",
+        "output": "1821"
+    },
+    {
+        "input": "Emile, or On Education",
+        "output": "1712"
+    },
+    {
+        "input": "Liber Abaci",
+        "output": "1170"
+    },
+    {
+        "input": "Hyouka",
+        "output": "1978"
+    },
+    {
+        "input": "Sh\u014dgun",
+        "output": "1921"
+    },
+    {
+        "input": "The Day Lasts More Than a Hundred Years",
+        "output": "1928"
+    },
+    {
+        "input": "Rub\u00e1iy\u00e1t of Omar Khayy\u00e1m",
+        "output": "1048"
+    },
+    {
+        "input": "Imperialism, the Highest Stage of Capitalism",
+        "output": "1870"
+    },
+    {
+        "input": "The Ocean at the End of the Lane",
+        "output": "1960"
+    },
+    {
+        "input": "Roadwork",
+        "output": "1947"
+    },
+    {
+        "input": "Snow Crash",
+        "output": "1959"
+    },
+    {
+        "input": "The Iron Heel",
+        "output": "1876"
+    },
+    {
+        "input": "Foundation",
+        "output": "1920"
+    },
+    {
+        "input": "The Spanish Tragedy",
+        "output": "1558"
+    },
+    {
+        "input": "The Leopard",
+        "output": "1896"
+    },
+    {
+        "input": "Children of Gebelawi",
+        "output": "1911"
+    },
+    {
+        "input": "Men Without Women",
+        "output": "1949"
+    },
+    {
+        "input": "Twilight of the Idols",
+        "output": "1844"
+    },
+    {
+        "input": "Mir\u00e8io",
+        "output": "1830"
+    },
+    {
+        "input": "The Firm",
+        "output": "1955"
+    },
+    {
+        "input": "Kitab al-Kafi",
+        "output": "864"
+    },
+    {
+        "input": "Fate of a Man",
+        "output": "1905"
+    },
+    {
+        "input": "Joseph and His Brothers",
+        "output": "1875"
+    },
+    {
+        "input": "AMRITOSSE",
+        "output": "1910"
+    },
+    {
+        "input": "L'Oeuvre au noir",
+        "output": "1903"
+    },
+    {
+        "input": "Harry Potter and the Deathly Hallows",
+        "output": "1965"
+    },
+    {
+        "input": "The Mysterious Mr Quin",
+        "output": "1890"
+    },
+    {
+        "input": "Life & Times of Michael K",
+        "output": "1940"
+    },
+    {
+        "input": "The Duel",
+        "output": "1860"
+    },
+    {
+        "input": "Yngvars saga v\u00ed\u00f0f\u00f6rla",
+        "output": "1101"
+    },
+    {
+        "input": "Inheritance",
+        "output": "1983"
+    },
+    {
+        "input": "Uncle's Dream",
+        "output": "1821"
+    },
+    {
+        "input": "While the Light Lasts and Other Stories",
+        "output": "1890"
+    },
+    {
+        "input": "The Adventure of the Red-Headed League",
+        "output": "1859"
+    },
+    {
+        "input": "'Salem's Lot",
+        "output": "1947"
+    },
+    {
+        "input": "Kafka on the Shore",
+        "output": "1949"
+    },
+    {
+        "input": "Berenice",
+        "output": "1809"
+    },
+    {
+        "input": "Monadology",
+        "output": "1646"
+    },
+    {
+        "input": "Zorba the Greek",
+        "output": "1883"
+    },
+    {
+        "input": "De doctrina Christiana",
+        "output": "354"
+    },
+    {
+        "input": "The Temple of the Golden Pavilion",
+        "output": "1925"
+    },
+    {
+        "input": "Gesta Hammaburgensis ecclesiae pontificum",
+        "output": "1100"
+    },
+    {
+        "input": "Le Ventre de Paris",
+        "output": "1840"
+    },
+    {
+        "input": "Rameau's Nephew",
+        "output": "1713"
+    },
+    {
+        "input": "The Philosophy of Composition",
+        "output": "1809"
+    },
+    {
+        "input": "Ecclesiastical History of the English People",
+        "output": "672"
+    },
+    {
+        "input": "The Museum of Innocence",
+        "output": "1952"
+    },
+    {
+        "input": "A Sound of Thunder",
+        "output": "1920"
+    },
+    {
+        "input": "Oblomov",
+        "output": "1812"
+    },
+    {
+        "input": "Naked Lunch",
+        "output": "1914"
+    },
+    {
+        "input": "Sonnet 12",
+        "output": "1564"
+    },
+    {
+        "input": "Curtain",
+        "output": "1890"
+    },
+    {
+        "input": "Candy Candy",
+        "output": "1949"
+    },
+    {
+        "input": "The Begum's Fortune",
+        "output": "1828"
+    },
+    {
+        "input": "Common Sense",
+        "output": "1737"
+    },
+    {
+        "input": "An Outcast of the Islands",
+        "output": "1857"
+    },
+    {
+        "input": "The Adventure of the Golden Pince-Nez",
+        "output": "1859"
+    },
+    {
+        "input": "Winnie-the-Pooh",
+        "output": "1882"
+    },
+    {
+        "input": "Philosophy in the Bedroom",
+        "output": "1740"
+    },
+    {
+        "input": "No Country for Old Men",
+        "output": "1933"
+    },
+    {
+        "input": "Of Love and Other Demons",
+        "output": "1927"
+    },
+    {
+        "input": "The Fountains of Paradise",
+        "output": "1917"
+    },
+    {
+        "input": "Post Office",
+        "output": "1920"
+    },
+    {
+        "input": "The Grapes of Wrath",
+        "output": "1902"
+    },
+    {
+        "input": "Murder in Mesopotamia",
+        "output": "1890"
+    },
+    {
+        "input": "P\u00e8re Goriot",
+        "output": "1799"
+    },
+    {
+        "input": "His Last Bow",
+        "output": "1859"
+    },
+    {
+        "input": "Nathan the Wise",
+        "output": "1729"
+    },
+    {
+        "input": "Wuthering Heights",
+        "output": "1818"
+    },
+    {
+        "input": "Looking Backward",
+        "output": "1850"
+    },
+    {
+        "input": "Sad Cypress",
+        "output": "1890"
+    },
+    {
+        "input": "The Obelisk Gate",
+        "output": "1972"
+    },
+    {
+        "input": "The Snows of Kilimanjaro",
+        "output": "1899"
+    },
+    {
+        "input": "Pale Blue Dot",
+        "output": "1934"
+    },
+    {
+        "input": "Harry Potter and the Order of the Phoenix",
+        "output": "1965"
+    },
+    {
+        "input": "Texar's Revenge, or, North Against South",
+        "output": "1828"
+    },
+    {
+        "input": "The Last Day of a Condemned Man",
+        "output": "1802"
+    },
+    {
+        "input": "Barnaby Rudge",
+        "output": "1812"
+    },
+    {
+        "input": "The Scorch Trials",
+        "output": "1972"
+    },
+    {
+        "input": "The Song of Hiawatha",
+        "output": "1807"
+    },
+    {
+        "input": "Woe from Wit",
+        "output": "1795"
+    },
+    {
+        "input": "Auto-da-F\u00e9",
+        "output": "1905"
+    },
+    {
+        "input": "Chitty-Chitty-Bang-Bang",
+        "output": "1908"
+    },
+    {
+        "input": "Kojiki",
+        "output": "700"
+    },
+    {
+        "input": "Sonnets to Orpheus",
+        "output": "1875"
+    },
+    {
+        "input": "A Moveable Feast",
+        "output": "1899"
+    },
+    {
+        "input": "Fahrenheit 451",
+        "output": "1920"
+    },
+    {
+        "input": "The Pillars of the Earth",
+        "output": "1949"
+    },
+    {
+        "input": "Death in Venice",
+        "output": "1875"
+    },
+    {
+        "input": "Samguk sagi",
+        "output": "1075"
+    },
+    {
+        "input": "Bel-Ami",
+        "output": "1850"
+    },
+    {
+        "input": "Sans Famille",
+        "output": "1830"
+    },
+    {
+        "input": "The Stand",
+        "output": "1947"
+    },
+    {
+        "input": "A Madman's Diary",
+        "output": "1881"
+    },
+    {
+        "input": "The Hound of the Baskervilles",
+        "output": "1859"
+    },
+    {
+        "input": "Carrie",
+        "output": "1947"
+    },
+    {
+        "input": "The Body in the Library",
+        "output": "1890"
+    },
+    {
+        "input": "The Crocodile",
+        "output": "1821"
+    },
+    {
+        "input": "The Adventure of Silver Blaze",
+        "output": "1859"
+    },
+    {
+        "input": "Gita Govinda",
+        "output": "1170"
+    },
+    {
+        "input": "C\u00e9sar Birotteau",
+        "output": "1799"
+    },
+    {
+        "input": "Prose Edda",
+        "output": "1179"
+    },
+    {
+        "input": "Alice's Adventures in Wonderland",
+        "output": "1832"
+    },
+    {
+        "input": "The Tales of my Mother Goose",
+        "output": "1628"
+    },
+    {
+        "input": "Second Epistle to the Thessalonians",
+        "output": "5"
+    },
+    {
+        "input": "Ready Player One",
+        "output": "1972"
+    },
+    {
+        "input": "Tartarin of Tarascon",
+        "output": "1840"
+    },
+    {
+        "input": "Mist",
+        "output": "1864"
+    },
+    {
+        "input": "Leaves of Grass",
+        "output": "1819"
+    },
+    {
+        "input": "Historia Francorum",
+        "output": "538"
+    },
+    {
+        "input": "The Angel's Game",
+        "output": "1964"
+    },
+    {
+        "input": "Th\u00e9r\u00e8se Desqueyroux",
+        "output": "1885"
+    },
+    {
+        "input": "The True Story of Ah Q",
+        "output": "1881"
+    },
+    {
+        "input": "Ali and Nino",
+        "output": "1905"
+    },
+    {
+        "input": "Wolf Hall",
+        "output": "1952"
+    },
+    {
+        "input": "Tess of the d'Urbervilles",
+        "output": "1840"
+    },
+    {
+        "input": "Let the Right One In",
+        "output": "1968"
+    },
+    {
+        "input": "The Mysteries of Udolpho",
+        "output": "1764"
+    },
+    {
+        "input": "De Monarchia",
+        "output": "1265"
+    },
+    {
+        "input": "Claudius Bombarnac",
+        "output": "1828"
+    },
+    {
+        "input": "The House of Bernarda Alba",
+        "output": "1898"
+    },
+    {
+        "input": "The Pillowman",
+        "output": "1970"
+    },
+    {
+        "input": "The Camp of the Saints",
+        "output": "1925"
+    },
+    {
+        "input": "The Goose That Laid the Golden Eggs",
+        "output": "400"
+    },
+    {
+        "input": "The Woman in White",
+        "output": "1824"
+    },
+    {
+        "input": "Lisey's Story",
+        "output": "1947"
+    },
+    {
+        "input": "The Adventure of the Red Circle",
+        "output": "1859"
+    },
+    {
+        "input": "The Pilgrim's Progress",
+        "output": "1628"
+    },
+    {
+        "input": "The Turner Diaries",
+        "output": "1933"
+    },
+    {
+        "input": "The Second World War",
+        "output": "1874"
+    },
+    {
+        "input": "Flow My Tears, the Policeman Said",
+        "output": "1928"
+    },
+    {
+        "input": "Essays",
+        "output": "1533"
+    },
+    {
+        "input": "The Dawn of Day",
+        "output": "1844"
+    },
+    {
+        "input": "No Longer Human",
+        "output": "1909"
+    },
+    {
+        "input": "Why Didn't They Ask Evans?",
+        "output": "1890"
+    },
+    {
+        "input": "The Casual Vacancy",
+        "output": "1965"
+    },
+    {
+        "input": "Rose Madder",
+        "output": "1947"
+    },
+    {
+        "input": "Rules for the Direction of the Mind",
+        "output": "1596"
+    },
+    {
+        "input": "The Lily of the Valley",
+        "output": "1799"
+    },
+    {
+        "input": "The Door into Summer",
+        "output": "1907"
+    },
+    {
+        "input": "The Scarlet Flower",
+        "output": "1791"
+    },
+    {
+        "input": "To the Lighthouse",
+        "output": "1882"
+    },
+    {
+        "input": "Look Back in Anger",
+        "output": "1929"
+    },
+    {
+        "input": "Last and First Men",
+        "output": "1886"
+    },
+    {
+        "input": "The Second Sex",
+        "output": "1908"
+    },
+    {
+        "input": "Totem and Taboo",
+        "output": "1856"
+    },
+    {
+        "input": "The Shepherd of Hermas",
+        "output": "150"
+    },
+    {
+        "input": "Go Set a Watchman",
+        "output": "1926"
+    },
+    {
+        "input": "Bridge to Terabithia",
+        "output": "1932"
+    },
+    {
+        "input": "Casino Royale",
+        "output": "1908"
+    },
+    {
+        "input": "The Adventure of the Blue Carbuncle",
+        "output": "1859"
+    },
+    {
+        "input": "The Heart of a Dog",
+        "output": "1891"
+    },
+    {
+        "input": "Baptism of Fire",
+        "output": "1948"
+    },
+    {
+        "input": "My Name Is Red",
+        "output": "1952"
+    },
+    {
+        "input": "Elements of the Philosophy of Right",
+        "output": "1770"
+    },
+    {
+        "input": "La G\u00e9om\u00e9trie",
+        "output": "1596"
+    },
+    {
+        "input": "Lullaby",
+        "output": "1962"
+    },
+    {
+        "input": "4.50 from Paddington",
+        "output": "1890"
+    },
+    {
+        "input": "The Adventure of the Six Napoleons",
+        "output": "1859"
+    },
+    {
+        "input": "The Lost Hero",
+        "output": "1964"
+    },
+    {
+        "input": "The Cask of Amontillado",
+        "output": "1809"
+    },
+    {
+        "input": "A Clergyman's Daughter",
+        "output": "1903"
+    },
+    {
+        "input": "The Sea of Monsters",
+        "output": "1964"
+    },
+    {
+        "input": "Existentialism and Humanism",
+        "output": "1905"
+    },
+    {
+        "input": "The Statement of Randolph Carter",
+        "output": "1890"
+    },
+    {
+        "input": "The Little Humpbacked Horse",
+        "output": "1815"
+    },
+    {
+        "input": "One-Dimensional Man",
+        "output": "1898"
+    },
+    {
+        "input": "The Trickster of Seville and the Stone Guest",
+        "output": "1583"
+    },
+    {
+        "input": "The Captain's Daughter",
+        "output": "1799"
+    },
+    {
+        "input": "The Masque of the Red Death",
+        "output": "1809"
+    },
+    {
+        "input": "The Flying Trunk",
+        "output": "1805"
+    },
+    {
+        "input": "Mario and the Magician",
+        "output": "1875"
+    },
+    {
+        "input": "Dune Messiah",
+        "output": "1920"
+    },
+    {
+        "input": "Little Flowers of St. Francis",
+        "output": "1262"
+    },
+    {
+        "input": "Accidental Death of an Anarchist",
+        "output": "1926"
+    },
+    {
+        "input": "Hillbilly Elegy",
+        "output": "1984"
+    },
+    {
+        "input": "Brida",
+        "output": "1947"
+    },
+    {
+        "input": "The Mystery of Marie Rog\u00eat",
+        "output": "1809"
+    },
+    {
+        "input": "A Dance with Dragons",
+        "output": "1948"
+    },
+    {
+        "input": "American Pastoral",
+        "output": "1933"
+    },
+    {
+        "input": "The Respectful Prostitute",
+        "output": "1905"
+    },
+    {
+        "input": "A Modest Proposal",
+        "output": "1667"
+    },
+    {
+        "input": "A Confession",
+        "output": "1828"
+    },
+    {
+        "input": "The Adventure of the Three Gables",
+        "output": "1859"
+    },
+    {
+        "input": "Through the Looking-Glass",
+        "output": "1832"
+    },
+    {
+        "input": "Death in the Clouds",
+        "output": "1890"
+    },
+    {
+        "input": "Theophanes Continuatus",
+        "output": "759"
+    },
+    {
+        "input": "The Last Question",
+        "output": "1920"
+    },
+    {
+        "input": "Digital Fortress",
+        "output": "1964"
+    },
+    {
+        "input": "The Adventure of the Abbey Grange",
+        "output": "1859"
+    },
+    {
+        "input": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn",
+        "output": "1233"
+    },
+    {
+        "input": "The Valley of Fear",
+        "output": "1859"
+    },
+    {
+        "input": "Unua Libro",
+        "output": "1859"
+    },
+    {
+        "input": "Business is business",
+        "output": "1848"
+    },
+    {
+        "input": "Principles of Philosophy",
+        "output": "1596"
+    },
+    {
+        "input": "The Headless Horseman",
+        "output": "1818"
+    },
+    {
+        "input": "The Last Continent",
+        "output": "1948"
+    },
+    {
+        "input": "Hard Times: For These Times",
+        "output": "1812"
+    },
+    {
+        "input": "Passenger to Frankfurt",
+        "output": "1890"
+    },
+    {
+        "input": "Palatine Anthology",
+        "output": "536"
+    },
+    {
+        "input": "Sonnet 50",
+        "output": "1564"
+    },
+    {
+        "input": "The Fall of Hyperion",
+        "output": "1948"
+    },
+    {
+        "input": "The Festival",
+        "output": "1890"
+    },
+    {
+        "input": "Gabriela, Clove and Cinnamon",
+        "output": "1912"
+    },
+    {
+        "input": "Guerrilla Warfare",
+        "output": "1928"
+    },
+    {
+        "input": "Full Dark, No Stars",
+        "output": "1947"
+    },
+    {
+        "input": "The Princess and the Goblin",
+        "output": "1824"
+    },
+    {
+        "input": "Neverwhere",
+        "output": "1960"
+    },
+    {
+        "input": "Purge",
+        "output": "1977"
+    },
+    {
+        "input": "Brave New World",
+        "output": "1894"
+    },
+    {
+        "input": "City of Bones",
+        "output": "1973"
+    },
+    {
+        "input": "Do Androids Dream of Electric Sheep?",
+        "output": "1928"
+    },
+    {
+        "input": "The Naked Sun",
+        "output": "1920"
+    },
+    {
+        "input": "Adagia",
+        "output": "1466"
+    },
+    {
+        "input": "Disgrace",
+        "output": "1940"
+    },
+    {
+        "input": "Waltharius",
+        "output": "910"
+    },
+    {
+        "input": "Stardust",
+        "output": "1960"
+    },
+    {
+        "input": "Don Quixote",
+        "output": "1547"
+    },
+    {
+        "input": "The Return of the King",
+        "output": "1892"
+    },
+    {
+        "input": "Persuasion",
+        "output": "1775"
+    },
+    {
+        "input": "Left-Wing\" Communism: An Infantile Disorder",
+        "output": "1870"
+    },
+    {
+        "input": "The Tower of the Swallow",
+        "output": "1948"
+    },
+    {
+        "input": "The Maids",
+        "output": "1910"
+    },
+    {
+        "input": "The Flying Classroom",
+        "output": "1899"
+    },
+    {
+        "input": "Ramcharitmanas",
+        "output": "1532"
+    },
+    {
+        "input": "The Golden Notebook",
+        "output": "1919"
+    },
+    {
+        "input": "Yerma",
+        "output": "1898"
+    },
+    {
+        "input": "Broken April",
+        "output": "1936"
+    },
+    {
+        "input": "Numero Zero",
+        "output": "1932"
+    },
+    {
+        "input": "New History of the Five Dynasties",
+        "output": "1007"
+    },
+    {
+        "input": "The Emperor's New Clothes",
+        "output": "1805"
+    },
+    {
+        "input": "Old History of the Five Dynasties",
+        "output": "912"
+    },
+    {
+        "input": "The Tatami Galaxy",
+        "output": "1979"
+    },
+    {
+        "input": "The Witches",
+        "output": "1916"
+    },
+    {
+        "input": "A Feast for Crows",
+        "output": "1948"
+    },
+    {
+        "input": "Villette",
+        "output": "1816"
+    },
+    {
+        "input": "El filibusterismo",
+        "output": "1861"
+    },
+    {
+        "input": "The Adventure of the Gloria Scott",
+        "output": "1859"
+    },
+    {
+        "input": "Cat's Cradle",
+        "output": "1922"
+    },
+    {
+        "input": "Howl's Moving Castle",
+        "output": "1934"
+    },
+    {
+        "input": "Tl\u00f6n, Uqbar, Orbis Tertius",
+        "output": "1899"
+    },
+    {
+        "input": "Sparkling Cyanide",
+        "output": "1890"
+    },
+    {
+        "input": "Misery",
+        "output": "1947"
+    },
+    {
+        "input": "Anne of Avonlea",
+        "output": "1874"
+    },
+    {
+        "input": "Flight to Arras",
+        "output": "1900"
+    },
+    {
+        "input": "A Portrait of the Artist as a Young Man",
+        "output": "1882"
+    },
+    {
+        "input": "Adventures of Huckleberry Finn",
+        "output": "1835"
+    },
+    {
+        "input": "Thus Spoke Zarathustra",
+        "output": "1844"
+    },
+    {
+        "input": "Battle Royale",
+        "output": "1969"
+    },
+    {
+        "input": "Jean-Christophe",
+        "output": "1866"
+    },
+    {
+        "input": "Elegy Written in a Country Churchyard",
+        "output": "1716"
+    },
+    {
+        "input": "The Joke",
+        "output": "1929"
+    },
+    {
+        "input": "Beyond Good and Evil",
+        "output": "1844"
+    },
+    {
+        "input": "The Little Match Girl",
+        "output": "1805"
+    },
+    {
+        "input": "Heptam\u00e9ron",
+        "output": "1492"
+    },
+    {
+        "input": "Foundation and Empire",
+        "output": "1920"
+    },
+    {
+        "input": "Geography",
+        "output": "100"
+    },
+    {
+        "input": "The Unbearable Lightness of Being",
+        "output": "1929"
+    },
+    {
+        "input": "Capital: A Critique of Political Economy",
+        "output": "1818"
+    },
+    {
+        "input": "The Diary of Lady Murasaki",
+        "output": "970"
+    },
+    {
+        "input": "The Brothers Karamazov",
+        "output": "1821"
+    },
+    {
+        "input": "The Old Man and the Sea",
+        "output": "1899"
+    },
+    {
+        "input": "3001: The Final Odyssey",
+        "output": "1917"
+    },
+    {
+        "input": "Romance of the States in Eastern Zhou Dynasty",
+        "output": "1574"
+    },
+    {
+        "input": "Les Mauvais Bergers",
+        "output": "1848"
+    },
+    {
+        "input": "Getica",
+        "output": "600"
+    },
+    {
+        "input": "Billy Budd, Sailor",
+        "output": "1819"
+    },
+    {
+        "input": "Smoke",
+        "output": "1818"
+    },
+    {
+        "input": "Blood Meridian",
+        "output": "1933"
+    },
+    {
+        "input": "Faust, Part One",
+        "output": "1749"
+    },
+    {
+        "input": "To Kill a Mockingbird",
+        "output": "1926"
+    },
+    {
+        "input": "The Magician's Nephew",
+        "output": "1898"
+    },
+    {
+        "input": "Saturday",
+        "output": "1948"
+    },
+    {
+        "input": "Charlotte's Web",
+        "output": "1899"
+    },
+    {
+        "input": "Socialism: Utopian and Scientific",
+        "output": "1820"
+    },
+    {
+        "input": "Book of Jin",
+        "output": "578"
+    },
+    {
+        "input": "Small Gods",
+        "output": "1948"
+    },
+    {
+        "input": "Gukansh\u014d",
+        "output": "1155"
+    },
+    {
+        "input": "Foucault's Pendulum",
+        "output": "1932"
+    },
+    {
+        "input": "Scarlet Sails",
+        "output": "1880"
+    },
+    {
+        "input": "The Expression of the Emotions in Man and Animals",
+        "output": "1809"
+    },
+    {
+        "input": "Portnoy's Complaint",
+        "output": "1933"
+    },
+    {
+        "input": "The Tale of Tsar Saltan",
+        "output": "1799"
+    },
+    {
+        "input": "The Old Curiosity Shop",
+        "output": "1812"
+    },
+    {
+        "input": "Ninety-three",
+        "output": "1802"
+    },
+    {
+        "input": "Elephants Can Remember",
+        "output": "1890"
+    },
+    {
+        "input": "The Adventure of the Crooked Man",
+        "output": "1859"
+    },
+    {
+        "input": "Metro 2033",
+        "output": "1979"
+    },
+    {
+        "input": "Sonnet 21",
+        "output": "1564"
+    },
+    {
+        "input": "The Time of the Hero",
+        "output": "1936"
+    },
+    {
+        "input": "The Last Leaf",
+        "output": "1862"
+    },
+    {
+        "input": "The Vicar of Wakefield",
+        "output": "1728"
+    },
+    {
+        "input": "O Captain! My Captain!",
+        "output": "1819"
+    },
+    {
+        "input": "Invisible Monsters",
+        "output": "1962"
+    },
+    {
+        "input": "The Prisoner of the Caucasus",
+        "output": "1828"
+    },
+    {
+        "input": "South of the Border, West of the Sun",
+        "output": "1949"
+    },
+    {
+        "input": "The Ring of the Dove",
+        "output": "994"
+    },
+    {
+        "input": "The Temple",
+        "output": "1890"
+    },
+    {
+        "input": "Emma",
+        "output": "1775"
+    },
+    {
+        "input": "Knulp",
+        "output": "1877"
+    },
+    {
+        "input": "Cat Among the Pigeons",
+        "output": "1890"
+    },
+    {
+        "input": "Speaker for the Dead",
+        "output": "1951"
+    },
+    {
+        "input": "The Bluest Eye",
+        "output": "1931"
+    },
+    {
+        "input": "The Talented Mr. Ripley",
+        "output": "1921"
+    },
+    {
+        "input": "Roman Elegies",
+        "output": "1749"
+    },
+    {
+        "input": "The Thirteen Problems",
+        "output": "1890"
+    },
+    {
+        "input": "Before the Law",
+        "output": "1883"
+    },
+    {
+        "input": "The Song of Achilles",
+        "output": "1978"
+    },
+    {
+        "input": "The Bastard of Istanbul",
+        "output": "1971"
+    },
+    {
+        "input": "The Red Shoes",
+        "output": "1805"
+    },
+    {
+        "input": "Think and Grow Rich",
+        "output": "1883"
+    },
+    {
+        "input": "A Descent into the Maelstr\u00f6m",
+        "output": "1809"
+    },
+    {
+        "input": "The Doll",
+        "output": "1847"
+    },
+    {
+        "input": "Strange Stories from a Chinese Studio",
+        "output": "1640"
+    },
+    {
+        "input": "Poltava",
+        "output": "1799"
+    },
+    {
+        "input": "Time to Live and Time to Die",
+        "output": "1898"
+    },
+    {
+        "input": "The Adventure of Shoscombe Old Place",
+        "output": "1859"
+    },
+    {
+        "input": "A Scanner Darkly",
+        "output": "1928"
+    },
+    {
+        "input": "Catching Fire",
+        "output": "1962"
+    },
+    {
+        "input": "Valis",
+        "output": "1928"
+    },
+    {
+        "input": "Farewell, My Lovely",
+        "output": "1888"
+    },
+    {
+        "input": "The Coral Island",
+        "output": "1825"
+    },
+    {
+        "input": "Dersu Uzala",
+        "output": "1872"
+    },
+    {
+        "input": "Shrek!",
+        "output": "1907"
+    },
+    {
+        "input": "A Dog of Flanders",
+        "output": "1839"
+    },
+    {
+        "input": "Gateway",
+        "output": "1919"
+    },
+    {
+        "input": "Never Let Me Go",
+        "output": "1954"
+    },
+    {
+        "input": "Lettres provinciales",
+        "output": "1623"
+    },
+    {
+        "input": "Jonathan Strange & Mr Norrell",
+        "output": "1959"
+    },
+    {
+        "input": "Jefferson Bible",
+        "output": "1743"
+    },
+    {
+        "input": "The Adventure of the Cardboard Box",
+        "output": "1859"
+    },
+    {
+        "input": "William Wilson",
+        "output": "1809"
+    },
+    {
+        "input": "Typee",
+        "output": "1819"
+    },
+    {
+        "input": "The Sympathizer",
+        "output": "1971"
+    },
+    {
+        "input": "The Mystery of the Blue Train",
+        "output": "1890"
+    },
+    {
+        "input": "Rights of Man",
+        "output": "1737"
+    },
+    {
+        "input": "The Farthest Shore",
+        "output": "1929"
+    },
+    {
+        "input": "Peter Pan",
+        "output": "1860"
+    },
+    {
+        "input": "The Death of a Government Clerk",
+        "output": "1860"
+    },
+    {
+        "input": "The Woman in the Dunes",
+        "output": "1924"
+    },
+    {
+        "input": "The Vagina Monologues",
+        "output": "1953"
+    },
+    {
+        "input": "Go, Dog. Go!",
+        "output": "1909"
+    },
+    {
+        "input": "Makar Chudra",
+        "output": "1868"
+    },
+    {
+        "input": "The Truth About the Harry Quebert Affair",
+        "output": "1985"
+    },
+    {
+        "input": "A Dream Within a Dream",
+        "output": "1809"
+    },
+    {
+        "input": "The Shadow Rising",
+        "output": "1948"
+    },
+    {
+        "input": "Cycle of the Werewolf",
+        "output": "1947"
+    },
+    {
+        "input": "Hop-o'-My-Thumb",
+        "output": "1628"
+    },
+    {
+        "input": "The Pilgrimage",
+        "output": "1947"
+    },
+    {
+        "input": "The Ladies' Paradise",
+        "output": "1840"
+    },
+    {
+        "input": "Animal Farm",
+        "output": "1903"
+    },
+    {
+        "input": "The Wall",
+        "output": "1905"
+    },
+    {
+        "input": "Appointment with Death",
+        "output": "1890"
+    },
+    {
+        "input": "The Futurological Congress",
+        "output": "1921"
+    },
+    {
+        "input": "Murder in the Mews",
+        "output": "1890"
+    },
+    {
+        "input": "Frritt-Flacc",
+        "output": "1828"
+    },
+    {
+        "input": "Outlander",
+        "output": "1952"
+    },
+    {
+        "input": "The History of Tom Jones, a Foundling",
+        "output": "1707"
+    },
+    {
+        "input": "Death of a Salesman",
+        "output": "1915"
+    },
+    {
+        "input": "Forrest Gump",
+        "output": "1943"
+    },
+    {
+        "input": "The Green Mile",
+        "output": "1947"
+    },
+    {
+        "input": "Pharsalia",
+        "output": "39"
+    },
+    {
+        "input": "Christine",
+        "output": "1947"
+    },
+    {
+        "input": "Les Enfants du capitaine Grant",
+        "output": "1828"
+    },
+    {
+        "input": "Somnium",
+        "output": "1572"
+    },
+    {
+        "input": "The Interpretation of Dreams",
+        "output": "1856"
+    },
+    {
+        "input": "Les Chants de Maldoror",
+        "output": "1846"
+    },
+    {
+        "input": "De mulieribus claris",
+        "output": "1313"
+    },
+    {
+        "input": "The Golden Pot",
+        "output": "1776"
+    },
+    {
+        "input": "The Merchant of Venice",
+        "output": "1564"
+    },
+    {
+        "input": "The Mandarins",
+        "output": "1908"
+    },
+    {
+        "input": "A Study in Scarlet",
+        "output": "1859"
+    },
+    {
+        "input": "Robbie",
+        "output": "1920"
+    },
+    {
+        "input": "Harry Potter and the Goblet of Fire",
+        "output": "1965"
+    },
+    {
+        "input": "Ender's Game",
+        "output": "1951"
+    },
+    {
+        "input": "Sidereus Nuncius",
+        "output": "1564"
+    },
+    {
+        "input": "Walden",
+        "output": "1817"
+    },
+    {
+        "input": "Pal\u00e4stinalied",
+        "output": "1170"
+    },
+    {
+        "input": "The Adventure of the Priory School",
+        "output": "1859"
+    },
+    {
+        "input": "Quiet Night Thought",
+        "output": "701"
+    },
+    {
+        "input": "The Caucasian Chalk Circle",
+        "output": "1898"
+    },
+    {
+        "input": "Principia Discordia",
+        "output": "1938"
+    },
+    {
+        "input": "The Demon-Haunted World",
+        "output": "1934"
+    },
+    {
+        "input": "A Fall of Moondust",
+        "output": "1917"
+    },
+    {
+        "input": "Bobok",
+        "output": "1821"
+    },
+    {
+        "input": "Mrs Dalloway",
+        "output": "1882"
+    },
+    {
+        "input": "The Waves",
+        "output": "1882"
+    },
+    {
+        "input": "The Adventure of the Illustrious Client",
+        "output": "1859"
+    },
+    {
+        "input": "Robots and Empire",
+        "output": "1920"
+    },
+    {
+        "input": "Homo Deus: A Brief History of Tomorrow",
+        "output": "1976"
+    },
+    {
+        "input": "Another Man's Wife and the Husband under the Bed",
+        "output": "1821"
+    },
+    {
+        "input": "The Ladder of Divine Ascent",
+        "output": "579"
+    },
+    {
+        "input": "So Long, and Thanks for All the Fish",
+        "output": "1952"
+    },
+    {
+        "input": "G\u00f6tz von Berlichingen",
+        "output": "1749"
+    },
+    {
+        "input": "Pentamerone",
+        "output": "1566"
+    },
+    {
+        "input": "Ada or Ardor: A Family Chronicle",
+        "output": "1899"
+    },
+    {
+        "input": "Patriot Games",
+        "output": "1947"
+    },
+    {
+        "input": "Lais of Marie de France",
+        "output": "1101"
+    },
+    {
+        "input": "The Boscombe Valley Mystery",
+        "output": "1859"
+    },
+    {
+        "input": "Doctor Faustus",
+        "output": "1875"
+    },
+    {
+        "input": "City of Illusions",
+        "output": "1929"
+    },
+    {
+        "input": "The Overcoat",
+        "output": "1809"
+    },
+    {
+        "input": "Der Zauberlehrling",
+        "output": "1749"
+    },
+    {
+        "input": "Sonnet 60",
+        "output": "1564"
+    },
+    {
+        "input": "The Sceptical Chymist",
+        "output": "1627"
+    },
+    {
+        "input": "The Lower Depths",
+        "output": "1868"
+    },
+    {
+        "input": "The Fifth Season",
+        "output": "1972"
+    },
+    {
+        "input": "Captain Antifer",
+        "output": "1828"
+    },
+    {
+        "input": "The Other Gods",
+        "output": "1890"
+    },
+    {
+        "input": "The War of the Worlds",
+        "output": "1866"
+    },
+    {
+        "input": "The Moonstone",
+        "output": "1824"
+    },
+    {
+        "input": "Infernal Devices",
+        "output": "1966"
+    },
+    {
+        "input": "Exile and the Kingdom",
+        "output": "1913"
+    },
+    {
+        "input": "The Imperial Gazetteer of India",
+        "output": "1840"
+    },
+    {
+        "input": "And Quiet Flows the Don",
+        "output": "1905"
+    },
+    {
+        "input": "Desidera",
+        "output": "1872"
+    },
+    {
+        "input": "Down and Out in Paris and London",
+        "output": "1903"
+    },
+    {
+        "input": "The Lottery",
+        "output": "1916"
+    },
+    {
+        "input": "Juliette",
+        "output": "1740"
+    },
+    {
+        "input": "Island",
+        "output": "1894"
+    },
+    {
+        "input": "Homo Faber",
+        "output": "1911"
+    },
+    {
+        "input": "The White Man's Burden",
+        "output": "1865"
+    },
+    {
+        "input": "Jonathan Livingston Seagull",
+        "output": "1936"
+    },
+    {
+        "input": "The Mysterious Island",
+        "output": "1828"
+    },
+    {
+        "input": "A Wild Sheep Chase",
+        "output": "1949"
+    },
+    {
+        "input": "Why I Am Not a Christian",
+        "output": "1872"
+    },
+    {
+        "input": "The Marriage of Heaven and Hell",
+        "output": "1757"
+    },
+    {
+        "input": "The Village of Stepanchikovo",
+        "output": "1821"
+    },
+    {
+        "input": "Hear the Wind Sing",
+        "output": "1949"
+    },
+    {
+        "input": "The Flies",
+        "output": "1905"
+    },
+    {
+        "input": "Spin",
+        "output": "1953"
+    },
+    {
+        "input": "The Little Prince",
+        "output": "1900"
+    },
+    {
+        "input": "Insurgent",
+        "output": "1988"
+    },
+    {
+        "input": "Call Me By Your Name",
+        "output": "1951"
+    },
+    {
+        "input": "The Kindly Ones",
+        "output": "1967"
+    },
+    {
+        "input": "Endless Night",
+        "output": "1890"
+    },
+    {
+        "input": "Silappatikaram",
+        "output": "200"
+    },
+    {
+        "input": "The Hidden Words",
+        "output": "1817"
+    },
+    {
+        "input": "The Fable of the Bees",
+        "output": "1670"
+    },
+    {
+        "input": "Visuddhimagga",
+        "output": "401"
+    },
+    {
+        "input": "Off on a Comet",
+        "output": "1828"
+    },
+    {
+        "input": "Jabberwocky",
+        "output": "1832"
+    },
+    {
+        "input": "From the Earth to the Moon",
+        "output": "1828"
+    },
+    {
+        "input": "Orientalism",
+        "output": "1935"
+    },
+    {
+        "input": "The Knights of the Cross",
+        "output": "1846"
+    },
+    {
+        "input": "The Satanic Verses",
+        "output": "1947"
+    },
+    {
+        "input": "King Solomon's Mines",
+        "output": "1856"
+    },
+    {
+        "input": "The Castle",
+        "output": "1883"
+    },
+    {
+        "input": "Death and the Dervish",
+        "output": "1910"
+    },
+    {
+        "input": "The Power of Now",
+        "output": "1948"
+    },
+    {
+        "input": "Amadeus",
+        "output": "1926"
+    },
+    {
+        "input": "The Shadow Out of Time",
+        "output": "1890"
+    },
+    {
+        "input": "The Prisoner of Zenda",
+        "output": "1863"
+    },
+    {
+        "input": "The Life and Opinions of the Tomcat Murr",
+        "output": "1776"
+    },
+    {
+        "input": "A Game of Thrones",
+        "output": "1948"
+    },
+    {
+        "input": "The First Circle",
+        "output": "1918"
+    },
+    {
+        "input": "Mr. Mercedes",
+        "output": "1947"
+    },
+    {
+        "input": "Mart\u00edn Fierro",
+        "output": "1834"
+    },
+    {
+        "input": "Tractatus de Intellectus Emendatione",
+        "output": "1632"
+    },
+    {
+        "input": "Roman de Brut",
+        "output": "1100"
+    },
+    {
+        "input": "The Phantom of the Opera",
+        "output": "1868"
+    },
+    {
+        "input": "Clovis Dardentor",
+        "output": "1828"
+    },
+    {
+        "input": "The Carnivorous Carnival",
+        "output": "1970"
+    },
+    {
+        "input": "Northanger Abbey",
+        "output": "1775"
+    },
+    {
+        "input": "Absalom, Absalom!",
+        "output": "1897"
+    },
+    {
+        "input": "The Glass Bead Game",
+        "output": "1877"
+    },
+    {
+        "input": "A Drama in Livonia",
+        "output": "1828"
+    },
+    {
+        "input": "Toilers of the Sea",
+        "output": "1802"
+    },
+    {
+        "input": "God of Carnage",
+        "output": "1959"
+    },
+    {
+        "input": "The Four Books",
+        "output": "571"
+    },
+    {
+        "input": "Twilight",
+        "output": "1973"
+    },
+    {
+        "input": "Doctor Sleep",
+        "output": "1947"
+    },
+    {
+        "input": "Fanny Hill",
+        "output": "1709"
+    },
+    {
+        "input": "11/22/63",
+        "output": "1947"
+    },
+    {
+        "input": "Tortilla Flat",
+        "output": "1902"
+    },
+    {
+        "input": "Propeller Island",
+        "output": "1828"
+    },
+    {
+        "input": "Father Sergius",
+        "output": "1828"
+    },
+    {
+        "input": "Resurrection",
+        "output": "1828"
+    },
+    {
+        "input": "Escape from Freedom",
+        "output": "1900"
+    },
+    {
+        "input": "Gitanjali",
+        "output": "1861"
+    },
+    {
+        "input": "The Glass Menagerie",
+        "output": "1911"
+    },
+    {
+        "input": "Sonnet 9",
+        "output": "1564"
+    },
+    {
+        "input": "Epistle to the Galatians",
+        "output": "5"
+    },
+    {
+        "input": "Iskandarnama",
+        "output": "1141"
+    },
+    {
+        "input": "Howards End",
+        "output": "1879"
+    },
+    {
+        "input": "Frankenstein; or, The Modern Prometheus",
+        "output": "1797"
+    },
+    {
+        "input": "One Flew Over the Cuckoo's Nest",
+        "output": "1935"
+    },
+    {
+        "input": "Manfred",
+        "output": "1788"
+    },
+    {
+        "input": "Twelve Years a Slave",
+        "output": "1808"
+    },
+    {
+        "input": "Eug\u00e9nie Grandet",
+        "output": "1799"
+    },
+    {
+        "input": "The Midnight Library",
+        "output": "1975"
+    },
+    {
+        "input": "High Fidelity",
+        "output": "1957"
+    },
+    {
+        "input": "V.",
+        "output": "1937"
+    },
+    {
+        "input": "Charlie and the Chocolate Factory",
+        "output": "1916"
+    },
+    {
+        "input": "Sputnik Sweetheart",
+        "output": "1949"
+    },
+    {
+        "input": "The Boy in the Striped Pyjamas",
+        "output": "1971"
+    },
+    {
+        "input": "The Great Hunt",
+        "output": "1948"
+    },
+    {
+        "input": "Roots: The Saga of an American Family",
+        "output": "1921"
+    },
+    {
+        "input": "The Adventure of the Stockbroker's Clerk",
+        "output": "1859"
+    },
+    {
+        "input": "The Formation of Vegetable Mould through the Action of Worms",
+        "output": "1809"
+    },
+    {
+        "input": "Five Little Pigs",
+        "output": "1890"
+    },
+    {
+        "input": "Quo Vadis",
+        "output": "1846"
+    },
+    {
+        "input": "One, Two, Buckle My Shoe",
+        "output": "1890"
+    },
+    {
+        "input": "Ecce Homo",
+        "output": "1844"
+    },
+    {
+        "input": "The Island of the Day Before",
+        "output": "1932"
+    },
+    {
+        "input": "Lolita",
+        "output": "1899"
+    },
+    {
+        "input": "Kathasaritsagara",
+        "output": "1100"
+    },
+    {
+        "input": "100 Famous Japanese Mountains",
+        "output": "1903"
+    },
+    {
+        "input": "Six Characters in Search of an Author",
+        "output": "1867"
+    },
+    {
+        "input": "An Antarctic Mystery",
+        "output": "1828"
+    },
+    {
+        "input": "This Side of Paradise",
+        "output": "1896"
+    },
+    {
+        "input": "Who Moved My Cheese?",
+        "output": "1938"
+    },
+    {
+        "input": "The Lighthouse at the End of the World",
+        "output": "1828"
+    },
+    {
+        "input": "James and the Giant Peach",
+        "output": "1916"
+    },
+    {
+        "input": "The First Men in the Moon",
+        "output": "1866"
+    },
+    {
+        "input": "Shui Jing Zhu",
+        "output": "401"
+    },
+    {
+        "input": "Divergent",
+        "output": "1988"
+    },
+    {
+        "input": "The Adventure of the Missing Three-Quarter",
+        "output": "1859"
+    },
+    {
+        "input": "The Girl Who Kicked the Hornets' Nest",
+        "output": "1954"
+    },
+    {
+        "input": "No Logo",
+        "output": "1970"
+    },
+    {
+        "input": "Abb\u00e9 Jules",
+        "output": "1848"
+    },
+    {
+        "input": "The Right to be Lazy",
+        "output": "1842"
+    },
+    {
+        "input": "Traveling Scholarships",
+        "output": "1828"
+    },
+    {
+        "input": "Taiping Yulan",
+        "output": "925"
+    },
+    {
+        "input": "A Streetcar Named Desire",
+        "output": "1911"
+    },
+    {
+        "input": "The Master of Ballantrae",
+        "output": "1850"
+    },
+    {
+        "input": "Three Blind Mice and Other Stories",
+        "output": "1890"
+    },
+    {
+        "input": "The Horla",
+        "output": "1850"
+    },
+    {
+        "input": "Th\u00e9r\u00e8se Raquin",
+        "output": "1840"
+    },
+    {
+        "input": "The Essence of Christianity",
+        "output": "1804"
+    },
+    {
+        "input": "Apt Pupil",
+        "output": "1947"
+    },
+    {
+        "input": "The Wind-Up Bird Chronicle",
+        "output": "1949"
+    },
+    {
+        "input": "The Div\u0101n of Hafez",
+        "output": "1325"
+    },
+    {
+        "input": "Mutual Aid: A Factor of Evolution",
+        "output": "1842"
+    },
+    {
+        "input": "First Epistle to the Corinthians",
+        "output": "5"
+    },
+    {
+        "input": "The BFG",
+        "output": "1916"
+    },
+    {
+        "input": "Dolores Claiborne",
+        "output": "1947"
+    },
+    {
+        "input": "A Brief History of Time",
+        "output": "1942"
+    },
+    {
+        "input": "Pedro P\u00e1ramo",
+        "output": "1917"
+    },
+    {
+        "input": "If This Is a Man",
+        "output": "1919"
+    },
+    {
+        "input": "The Trial",
+        "output": "1883"
+    },
+    {
+        "input": "The Seven Brothers",
+        "output": "1834"
+    },
+    {
+        "input": "H\u014dj\u014dki",
+        "output": "1155"
+    },
+    {
+        "input": "Atonement",
+        "output": "1948"
+    },
+    {
+        "input": "The Kite Runner",
+        "output": "1965"
+    },
+    {
+        "input": "The Good Earth",
+        "output": "1892"
+    },
+    {
+        "input": "The Tale of the Body Thief",
+        "output": "1941"
+    },
+    {
+        "input": "The Manuscript Found in Saragossa",
+        "output": "1761"
+    },
+    {
+        "input": "Fifty Shades of Grey",
+        "output": "1963"
+    },
+    {
+        "input": "Feet of Clay",
+        "output": "1948"
+    },
+    {
+        "input": "Anne of Green Gables",
+        "output": "1874"
+    },
+    {
+        "input": "Meditations",
+        "output": "121"
+    },
+    {
+        "input": "Equal Rites",
+        "output": "1948"
+    },
+    {
+        "input": "Dreamcatcher",
+        "output": "1947"
+    },
+    {
+        "input": "Steppenwolf",
+        "output": "1877"
+    },
+    {
+        "input": "The Life and Opinions of Tristram Shandy, Gentleman",
+        "output": "1713"
+    },
+    {
+        "input": "Startide Rising",
+        "output": "1950"
+    },
+    {
+        "input": "The Diary of a Chambermaid",
+        "output": "1848"
+    },
+    {
+        "input": "Maurice",
+        "output": "1879"
+    },
+    {
+        "input": "Church History",
+        "output": "265"
+    },
+    {
+        "input": "Thinking, Fast and Slow",
+        "output": "1934"
+    },
+    {
+        "input": "Third Girl",
+        "output": "1890"
+    },
+    {
+        "input": "Tahdhib al-Ahkam",
+        "output": "995"
+    },
+    {
+        "input": "Sonnet 5",
+        "output": "1564"
+    },
+    {
+        "input": "The Nine Billion Names of God",
+        "output": "1917"
+    },
+    {
+        "input": "The Mark of Athena",
+        "output": "1964"
+    },
+    {
+        "input": "A Fire Upon the Deep",
+        "output": "1944"
+    },
+    {
+        "input": "Destination Unknown",
+        "output": "1890"
+    },
+    {
+        "input": "Ten Days that Shook the World",
+        "output": "1887"
+    },
+    {
+        "input": "Mein Kampf",
+        "output": "1889"
+    },
+    {
+        "input": "The Outsiders",
+        "output": "1948"
+    },
+    {
+        "input": "Chapterhouse: Dune",
+        "output": "1920"
+    },
+    {
+        "input": "The Sleeper Awakes",
+        "output": "1866"
+    },
+    {
+        "input": "Marat/Sade",
+        "output": "1916"
+    },
+    {
+        "input": "Wind, Sand and Stars",
+        "output": "1900"
+    },
+    {
+        "input": "Poirot's Early Cases",
+        "output": "1890"
+    },
+    {
+        "input": "Effi Briest",
+        "output": "1819"
+    },
+    {
+        "input": "The Demolished Man",
+        "output": "1913"
+    },
+    {
+        "input": "Foundling Mick",
+        "output": "1828"
+    },
+    {
+        "input": "The Long Goodbye",
+        "output": "1888"
+    },
+    {
+        "input": "The Raven",
+        "output": "1809"
+    },
+    {
+        "input": "Across the River and into the Trees",
+        "output": "1899"
+    },
+    {
+        "input": "Heidenr\u00f6slein",
+        "output": "1749"
+    },
+    {
+        "input": "The Man in the Case",
+        "output": "1860"
+    },
+    {
+        "input": "Kobzar",
+        "output": "1814"
+    },
+    {
+        "input": "The Mutineers of the Bounty",
+        "output": "1828"
+    },
+    {
+        "input": "The Hunting of the Snark",
+        "output": "1832"
+    },
+    {
+        "input": "Germany. A Winter's Tale",
+        "output": "1797"
+    },
+    {
+        "input": "The Death Cure",
+        "output": "1972"
+    },
+    {
+        "input": "The Prestige",
+        "output": "1943"
+    },
+    {
+        "input": "Record of the Western Regions",
+        "output": "602"
+    },
+    {
+        "input": "Ordeal by Innocence",
+        "output": "1890"
+    },
+    {
+        "input": "Needful Things",
+        "output": "1947"
+    },
+    {
+        "input": "The Ugly Duckling",
+        "output": "1805"
+    },
+    {
+        "input": "Little Men: Life at Plumfield with Jo\u2019s Boys",
+        "output": "1832"
+    },
+    {
+        "input": "I Have No Mouth, and I Must Scream",
+        "output": "1934"
+    },
+    {
+        "input": "The Vegetarian",
+        "output": "1970"
+    },
+    {
+        "input": "Rainbow Six",
+        "output": "1947"
+    },
+    {
+        "input": "The Peony Pavilion",
+        "output": "1550"
+    },
+    {
+        "input": "White Fang",
+        "output": "1876"
+    },
+    {
+        "input": "Paradise Lost",
+        "output": "1608"
+    },
+    {
+        "input": "Fire & Blood",
+        "output": "1948"
+    },
+    {
+        "input": "Epistle to Philemon",
+        "output": "5"
+    },
+    {
+        "input": "Dr. Ox's Experiment",
+        "output": "1828"
+    },
+    {
+        "input": "Middlesex",
+        "output": "1960"
+    },
+    {
+        "input": "The Prague Cemetery",
+        "output": "1932"
+    },
+    {
+        "input": "Le Spleen de Paris",
+        "output": "1821"
+    },
+    {
+        "input": "Hatha Yoga Pradipika",
+        "output": "1400"
+    },
+    {
+        "input": "The Mayor of Casterbridge",
+        "output": "1840"
+    },
+    {
+        "input": "The Bald Soprano",
+        "output": "1909"
+    },
+    {
+        "input": "The 120 Days of Sodom",
+        "output": "1740"
+    },
+    {
+        "input": "Virgin Soil",
+        "output": "1818"
+    },
+    {
+        "input": "Dirty Hands",
+        "output": "1905"
+    },
+    {
+        "input": "From a Buick 8",
+        "output": "1947"
+    },
+    {
+        "input": "Revival",
+        "output": "1947"
+    },
+    {
+        "input": "The Sound and the Fury",
+        "output": "1897"
+    },
+    {
+        "input": "The Dark Tower IV: Wizard and Glass",
+        "output": "1947"
+    },
+    {
+        "input": "Une Vie",
+        "output": "1850"
+    },
+    {
+        "input": "Baudolino",
+        "output": "1932"
+    },
+    {
+        "input": "Eleonora",
+        "output": "1809"
+    },
+    {
+        "input": "The Happy Prince",
+        "output": "1854"
+    },
+    {
+        "input": "No Exit",
+        "output": "1905"
+    },
+    {
+        "input": "Life is a Dream",
+        "output": "1600"
+    },
+    {
+        "input": "Children of Dune",
+        "output": "1920"
+    },
+    {
+        "input": "Shams al-Ma'arif",
+        "output": "1200"
+    },
+    {
+        "input": "1Q84",
+        "output": "1949"
+    },
+    {
+        "input": "The Stars My Destination",
+        "output": "1913"
+    },
+    {
+        "input": "The Canterville Ghost",
+        "output": "1854"
+    },
+    {
+        "input": "Twenty-Four Hours in the Life of a Woman",
+        "output": "1881"
+    },
+    {
+        "input": "Uncle Tom's Cabin",
+        "output": "1811"
+    },
+    {
+        "input": "The Cyberiad",
+        "output": "1921"
+    },
+    {
+        "input": "Allegiant",
+        "output": "1988"
+    },
+    {
+        "input": "Hasht-Bihisht",
+        "output": "1253"
+    },
+    {
+        "input": "The Game of Love and Chance",
+        "output": "1688"
+    },
+    {
+        "input": "The Color Purple",
+        "output": "1944"
+    },
+    {
+        "input": "The Wide Window",
+        "output": "1970"
+    },
+    {
+        "input": "The Call of the Wild",
+        "output": "1876"
+    },
+    {
+        "input": "The Flight to France",
+        "output": "1828"
+    },
+    {
+        "input": "Bartleby, the Scrivener",
+        "output": "1819"
+    },
+    {
+        "input": "The Picture of Dorian Gray",
+        "output": "1854"
+    },
+    {
+        "input": "The Monk",
+        "output": "1775"
+    },
+    {
+        "input": "The Lightning Thief",
+        "output": "1964"
+    },
+    {
+        "input": "The Screwtape Letters",
+        "output": "1898"
+    },
+    {
+        "input": "Froth on the Daydream",
+        "output": "1920"
+    },
+    {
+        "input": "The Terrible Old Man",
+        "output": "1890"
+    },
+    {
+        "input": "Lost Horizon",
+        "output": "1900"
+    },
+    {
+        "input": "Unfinished Tales",
+        "output": "1892"
+    },
+    {
+        "input": "Anandamath",
+        "output": "1838"
+    },
+    {
+        "input": "A Man Called Ove",
+        "output": "1981"
+    },
+    {
+        "input": "The Future of an Illusion",
+        "output": "1856"
+    },
+    {
+        "input": "Towards Zero",
+        "output": "1890"
+    },
+    {
+        "input": "By the River Piedra I Sat Down and Wept",
+        "output": "1947"
+    },
+    {
+        "input": "Ren\u00e9",
+        "output": "1768"
+    },
+    {
+        "input": "Sonnet 11",
+        "output": "1564"
+    },
+    {
+        "input": "Petersburg Tales",
+        "output": "1809"
+    },
+    {
+        "input": "The Memoirs of Sherlock Holmes",
+        "output": "1859"
+    },
+    {
+        "input": "The Andromeda Strain",
+        "output": "1942"
+    },
+    {
+        "input": "Jamilia",
+        "output": "1928"
+    },
+    {
+        "input": "The Dreams in the Witch House",
+        "output": "1890"
+    },
+    {
+        "input": "Cujo",
+        "output": "1947"
+    },
+    {
+        "input": "The Food of the Gods and How It Came to Earth",
+        "output": "1866"
+    },
+    {
+        "input": "The Adventure of the Yellow Face",
+        "output": "1859"
+    },
+    {
+        "input": "The Wretched of the Earth",
+        "output": "1925"
+    },
+    {
+        "input": "Group Psychology and the Analysis of the Ego",
+        "output": "1856"
+    },
+    {
+        "input": "Just So Stories",
+        "output": "1865"
+    },
+    {
+        "input": "We",
+        "output": "1884"
+    },
+    {
+        "input": "Nine Princes in Amber",
+        "output": "1937"
+    },
+    {
+        "input": "The Goldfinch",
+        "output": "1963"
+    },
+    {
+        "input": "Ivanhoe",
+        "output": "1771"
+    },
+    {
+        "input": "Zuleikha",
+        "output": "1977"
+    },
+    {
+        "input": "The Truth",
+        "output": "1948"
+    },
+    {
+        "input": "Nostromo",
+        "output": "1857"
+    },
+    {
+        "input": "The Illustrated Man",
+        "output": "1920"
+    },
+    {
+        "input": "The Light of Asia",
+        "output": "1832"
+    },
+    {
+        "input": "The Angel",
+        "output": "1805"
+    },
+    {
+        "input": "Gomorrah",
+        "output": "1979"
+    },
+    {
+        "input": "The Austere Academy",
+        "output": "1970"
+    },
+    {
+        "input": "Bag of Bones",
+        "output": "1947"
+    },
+    {
+        "input": "The Maze Runner",
+        "output": "1972"
+    },
+    {
+        "input": "Purgatorio",
+        "output": "1265"
+    },
+    {
+        "input": "Narcissus and Goldmund",
+        "output": "1877"
+    },
+    {
+        "input": "The Robots of Dawn",
+        "output": "1920"
+    },
+    {
+        "input": "The Light Fantastic",
+        "output": "1948"
+    },
+    {
+        "input": "Factotum",
+        "output": "1920"
+    },
+    {
+        "input": "The Lion, the Witch, and the Wardrobe",
+        "output": "1898"
+    },
+    {
+        "input": "Johnny Got His Gun",
+        "output": "1905"
+    },
+    {
+        "input": "Like Water for Chocolate",
+        "output": "1950"
+    },
+    {
+        "input": "The State and Revolution",
+        "output": "1870"
+    },
+    {
+        "input": "The Adventure of the Musgrave Ritual",
+        "output": "1859"
+    },
+    {
+        "input": "The Subtle Knife",
+        "output": "1945"
+    },
+    {
+        "input": "Christmas Eve",
+        "output": "1809"
+    },
+    {
+        "input": "The King in Yellow",
+        "output": "1865"
+    },
+    {
+        "input": "Going Postal",
+        "output": "1948"
+    },
+    {
+        "input": "Steve Jobs",
+        "output": "1952"
+    },
+    {
+        "input": "The Amulet of Samarkand",
+        "output": "1970"
+    },
+    {
+        "input": "Eleven Minutes",
+        "output": "1947"
+    },
+    {
+        "input": "The Broken Jug",
+        "output": "1777"
+    },
+    {
+        "input": "It Ends with Us",
+        "output": "1979"
+    },
+    {
+        "input": "I, Claudius",
+        "output": "1895"
+    },
+    {
+        "input": "Herbert West\u2014Reanimator",
+        "output": "1890"
+    },
+    {
+        "input": "In a Grove",
+        "output": "1892"
+    },
+    {
+        "input": "Progress and Poverty",
+        "output": "1839"
+    },
+    {
+        "input": "The Dark Tower III: The Waste Lands",
+        "output": "1947"
+    },
+    {
+        "input": "A Farewell to Arms",
+        "output": "1899"
+    },
+    {
+        "input": "The Case-Book of Sherlock Holmes",
+        "output": "1859"
+    },
+    {
+        "input": "The Green Book",
+        "output": "1942"
+    },
+    {
+        "input": "The Story of a Mother",
+        "output": "1805"
+    },
+    {
+        "input": "The Lost Symbol",
+        "output": "1964"
+    },
+    {
+        "input": "Vanity Fair",
+        "output": "1811"
+    },
+    {
+        "input": "The Death of Ivan Ilyich",
+        "output": "1828"
+    },
+    {
+        "input": "The Dictator",
+        "output": "1917"
+    },
+    {
+        "input": "The Knight in the Panther's Skin",
+        "output": "1172"
+    },
+    {
+        "input": "The Year of the Hare",
+        "output": "1942"
+    },
+    {
+        "input": "The Martian Chronicles",
+        "output": "1920"
+    },
+    {
+        "input": "The Jungle Book",
+        "output": "1865"
+    },
+    {
+        "input": "The Necklace",
+        "output": "1850"
+    },
+    {
+        "input": "The Landlady",
+        "output": "1821"
+    },
+    {
+        "input": "The Dybbuk",
+        "output": "1863"
+    },
+    {
+        "input": "Vita Karoli Magni",
+        "output": "774"
+    },
+    {
+        "input": "Sonnet 20",
+        "output": "1564"
+    },
+    {
+        "input": "Hermann and Dorothea",
+        "output": "1749"
+    },
+    {
+        "input": "Another",
+        "output": "1960"
+    },
+    {
+        "input": "A Time to Kill",
+        "output": "1955"
+    },
+    {
+        "input": "Berlin Alexanderplatz",
+        "output": "1878"
+    },
+    {
+        "input": "Elective Affinities",
+        "output": "1749"
+    },
+    {
+        "input": "The Birth of Tragedy",
+        "output": "1844"
+    },
+    {
+        "input": "All You Need Is Kill",
+        "output": "1970"
+    },
+    {
+        "input": "The Short Second Life of Bree Tanner",
+        "output": "1973"
+    },
+    {
+        "input": "A esmorga",
+        "output": "1897"
+    },
+    {
+        "input": "Arch of Triumph",
+        "output": "1898"
+    },
+    {
+        "input": "Simon vs. the Homo Sapiens Agenda",
+        "output": "1982"
+    },
+    {
+        "input": "Kiev Missal",
+        "output": "900"
+    },
+    {
+        "input": "The Dark Tower V: Wolves of the Calla",
+        "output": "1947"
+    },
+    {
+        "input": "The Two Towers",
+        "output": "1892"
+    },
+    {
+        "input": "'Tis Pity She's a Whore",
+        "output": "1586"
+    },
+    {
+        "input": "Killing Floor",
+        "output": "1954"
+    },
+    {
+        "input": "The Gambler",
+        "output": "1821"
+    },
+    {
+        "input": "The Swiss Family Robinson",
+        "output": "1743"
+    },
+    {
+        "input": "Fat and Thin",
+        "output": "1860"
+    },
+    {
+        "input": "A New Account of the Tales of the World",
+        "output": "403"
+    },
+    {
+        "input": "Dirk Gently's Holistic Detective Agency",
+        "output": "1952"
+    },
+    {
+        "input": "The Ones Who Walk Away from Omelas",
+        "output": "1929"
+    },
+    {
+        "input": "The Conquest of Bread",
+        "output": "1842"
+    },
+    {
+        "input": "The Tortoise and the Eagle",
+        "output": "400"
+    },
+    {
+        "input": "Wicked",
+        "output": "1954"
+    },
+    {
+        "input": "Fatelessness",
+        "output": "1929"
+    },
+    {
+        "input": "Gone with the Wind",
+        "output": "1900"
+    },
+    {
+        "input": "Oroonoko",
+        "output": "1640"
+    },
+    {
+        "input": "La Peau de chagrin",
+        "output": "1799"
+    },
+    {
+        "input": "Venus in Furs",
+        "output": "1836"
+    },
+    {
+        "input": "The Castaways of the Flag",
+        "output": "1828"
+    },
+    {
+        "input": "Cloud Atlas",
+        "output": "1969"
+    },
+    {
+        "input": "The Time Traveler's Wife",
+        "output": "1963"
+    },
+    {
+        "input": "Democracy in America",
+        "output": "1805"
+    },
+    {
+        "input": "No One Writes to the Colonel",
+        "output": "1927"
+    },
+    {
+        "input": "A Thousand Splendid Suns",
+        "output": "1965"
+    },
+    {
+        "input": "The Jew of Malta",
+        "output": "1564"
+    },
+    {
+        "input": "The Dark Tower VII: The Dark Tower",
+        "output": "1947"
+    },
+    {
+        "input": "Brideshead Revisited",
+        "output": "1903"
+    },
+    {
+        "input": "Nevsky Prospekt",
+        "output": "1809"
+    },
+    {
+        "input": "Lady Macbeth of the Mtsensk District",
+        "output": "1831"
+    },
+    {
+        "input": "The Works of Ossian",
+        "output": "1736"
+    },
+    {
+        "input": "Foundation's Edge",
+        "output": "1920"
+    },
+    {
+        "input": "They Do It with Mirrors",
+        "output": "1890"
+    },
+    {
+        "input": "Netochka Nezvanova",
+        "output": "1821"
+    },
+    {
+        "input": "The Devil",
+        "output": "1828"
+    },
+    {
+        "input": "The Giving Tree",
+        "output": "1930"
+    },
+    {
+        "input": "The Sea Serpent",
+        "output": "1828"
+    },
+    {
+        "input": "The Tinderbox",
+        "output": "1805"
+    },
+    {
+        "input": "The Swineherd",
+        "output": "1805"
+    },
+    {
+        "input": "Parzival",
+        "output": "1170"
+    },
+    {
+        "input": "The Crucible",
+        "output": "1915"
+    },
+    {
+        "input": "Miss Marple's Final Cases and Two Other Stories",
+        "output": "1890"
+    },
+    {
+        "input": "World War Z",
+        "output": "1972"
+    },
+    {
+        "input": "Sz\u00f3zat",
+        "output": "1800"
+    },
+    {
+        "input": "History of Liao",
+        "output": "1314"
+    },
+    {
+        "input": "The Red and the Black",
+        "output": "1783"
+    },
+    {
+        "input": "Howl",
+        "output": "1926"
+    },
+    {
+        "input": "Paul et Virginie",
+        "output": "1737"
+    },
+    {
+        "input": "The Forever War",
+        "output": "1943"
+    },
+    {
+        "input": "Zizhi Tongjian",
+        "output": "1019"
+    },
+    {
+        "input": "Tractatus Theologico-Politicus",
+        "output": "1632"
+    },
+    {
+        "input": "The Heart Is a Lonely Hunter",
+        "output": "1917"
+    },
+    {
+        "input": "The Age of Reason",
+        "output": "1737"
+    },
+    {
+        "input": "Lord Edgware Dies",
+        "output": "1890"
+    },
+    {
+        "input": "Nahj al-Balagha",
+        "output": "970"
+    },
+    {
+        "input": "D\u012bw\u0101n ul-Lughat al-Turk",
+        "output": "1029"
+    },
+    {
+        "input": "A Raisin in the Sun",
+        "output": "1930"
+    },
+    {
+        "input": "Atomised",
+        "output": "1956"
+    },
+    {
+        "input": "Growth of the Soil",
+        "output": "1859"
+    },
+    {
+        "input": "The Adventure of the Engineer's Thumb",
+        "output": "1859"
+    },
+    {
+        "input": "The Nose",
+        "output": "1809"
+    },
+    {
+        "input": "Iphigenia in Tauris",
+        "output": "1749"
+    },
+    {
+        "input": "The Five Orange Pips",
+        "output": "1859"
+    },
+    {
+        "input": "Choke",
+        "output": "1962"
+    },
+    {
+        "input": "Answering the Question: What Is Enlightenment?",
+        "output": "1724"
+    },
+    {
+        "input": "Compendium of Materia Medica",
+        "output": "1517"
+    },
+    {
+        "input": "The Rise and Fall of the Third Reich",
+        "output": "1904"
+    },
+    {
+        "input": "Ulalume",
+        "output": "1809"
+    },
+    {
+        "input": "Daddy-Long-Legs",
+        "output": "1876"
+    },
+    {
+        "input": "Season of Storms",
+        "output": "1948"
+    },
+    {
+        "input": "Henry VI",
+        "output": "1564"
+    },
+    {
+        "input": "History of the Lombards",
+        "output": "720"
+    },
+    {
+        "input": "Thousand Character Classic",
+        "output": "470"
+    },
+    {
+        "input": "Sebastopol Sketches",
+        "output": "1828"
+    },
+    {
+        "input": "Poor Folk",
+        "output": "1821"
+    },
+    {
+        "input": "Shinch\u014d k\u014dki",
+        "output": "1527"
+    },
+    {
+        "input": "1001 Albums You Must Hear Before You Die",
+        "output": "1950"
+    },
+    {
+        "input": "The Bad Beginning",
+        "output": "1970"
+    },
+    {
+        "input": "Two Years' Vacation",
+        "output": "1828"
+    },
+    {
+        "input": "Ozma of Oz",
+        "output": "1856"
+    },
+    {
+        "input": "N or M?",
+        "output": "1890"
+    },
+    {
+        "input": "The Subtle Art of Not Giving a Fuck",
+        "output": "1984"
+    },
+    {
+        "input": "Almagest",
+        "output": "100"
+    },
+    {
+        "input": "A Deepness in the Sky",
+        "output": "1944"
+    },
+    {
+        "input": "The Adventure of the Speckled Band",
+        "output": "1859"
+    },
+    {
+        "input": "The Nameless City",
+        "output": "1890"
+    },
+    {
+        "input": "Shirley",
+        "output": "1816"
+    },
+    {
+        "input": "The Dunwich Horror",
+        "output": "1890"
+    },
+    {
+        "input": "Crimes of the Heart",
+        "output": "1952"
+    },
+    {
+        "input": "Poimandres",
+        "output": "1433"
+    },
+    {
+        "input": "Joyland",
+        "output": "1947"
+    },
+    {
+        "input": "Fight Club",
+        "output": "1962"
+    },
+    {
+        "input": "The Polar Express",
+        "output": "1949"
+    },
+    {
+        "input": "Tractatus Logico-Philosophicus",
+        "output": "1889"
+    },
+    {
+        "input": "Black Coffee",
+        "output": "1890"
+    },
+    {
+        "input": "Sister Carrie",
+        "output": "1871"
+    },
+    {
+        "input": "A Perfect Day for Bananafish",
+        "output": "1919"
+    },
+    {
+        "input": "The Survivors of the Chancellor",
+        "output": "1828"
+    },
+    {
+        "input": "The Castle of Otranto",
+        "output": "1717"
+    },
+    {
+        "input": "The Silmarillion",
+        "output": "1892"
+    },
+    {
+        "input": "The Cloven Viscount",
+        "output": "1923"
+    },
+    {
+        "input": "Desire Under the Elms",
+        "output": "1888"
+    },
+    {
+        "input": "Candide",
+        "output": "1694"
+    },
+    {
+        "input": "The Decline of the West",
+        "output": "1880"
+    },
+    {
+        "input": "Death's End",
+        "output": "1963"
+    },
+    {
+        "input": "Wonder",
+        "output": "1963"
+    },
+    {
+        "input": "Al-Sahifa al-Sajjadiyya",
+        "output": "659"
+    },
+    {
+        "input": "The Golden Key, or the Adventures of Buratino",
+        "output": "1883"
+    },
+    {
+        "input": "The Vile Village",
+        "output": "1970"
+    },
+    {
+        "input": "The Hollow",
+        "output": "1890"
+    },
+    {
+        "input": "Istoriya Slavyanobolgarskaya",
+        "output": "1722"
+    },
+    {
+        "input": "Daphnis and Chloe",
+        "output": "200"
+    },
+    {
+        "input": "All Quiet on the Western Front",
+        "output": "1898"
+    },
+    {
+        "input": "The Titan's Curse",
+        "output": "1964"
+    },
+    {
+        "input": "The Rape of the Lock",
+        "output": "1688"
+    },
+    {
+        "input": "Harry Potter and the Prisoner of Azkaban",
+        "output": "1965"
+    },
+    {
+        "input": "Invictus",
+        "output": "1849"
+    },
+    {
+        "input": "Nightmares & Dreamscapes",
+        "output": "1947"
+    },
+    {
+        "input": "Meditations on First Philosophy",
+        "output": "1596"
+    },
+    {
+        "input": "Splendeurs et mis\u00e8res des courtisanes",
+        "output": "1799"
+    },
+    {
+        "input": "A Clockwork Orange",
+        "output": "1917"
+    },
+    {
+        "input": "Alexiad",
+        "output": "1083"
+    },
+    {
+        "input": "Le Morte d'Arthur",
+        "output": "1405"
+    },
+    {
+        "input": "Mansfield Park",
+        "output": "1775"
+    },
+    {
+        "input": "Things Fall Apart",
+        "output": "1930"
+    },
+    {
+        "input": "A Clash of Kings",
+        "output": "1948"
+    },
+    {
+        "input": "War with the Newts",
+        "output": "1890"
+    },
+    {
+        "input": "The Night of the Iguana",
+        "output": "1911"
+    },
+    {
+        "input": "The Perks of Being a Wallflower",
+        "output": "1970"
+    },
+    {
+        "input": "Decisive Moments in History",
+        "output": "1881"
+    },
+    {
+        "input": "The Sea-Wolf",
+        "output": "1876"
+    },
+    {
+        "input": "The Devil and the Good Lord",
+        "output": "1905"
+    },
+    {
+        "input": "Germania",
+        "output": "55"
+    },
+    {
+        "input": "For sale: baby shoes, never worn",
+        "output": "1899"
+    },
+    {
+        "input": "The Adventure of the Norwood Builder",
+        "output": "1859"
+    },
+    {
+        "input": "Interesting Times",
+        "output": "1948"
+    },
+    {
+        "input": "L'apr\u00e8s-midi d'un faune",
+        "output": "1842"
+    },
+    {
+        "input": "Salome",
+        "output": "1854"
+    },
+    {
+        "input": "Canticle of the Sun",
+        "output": "1182"
+    },
+    {
+        "input": "A Floating City",
+        "output": "1828"
+    },
+    {
+        "input": "Cell",
+        "output": "1947"
+    },
+    {
+        "input": "Out of the Silent Planet",
+        "output": "1898"
+    },
+    {
+        "input": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+        "output": "1949"
+    },
+    {
+        "input": "Diamonds Are Forever",
+        "output": "1908"
+    },
+    {
+        "input": "Way Station",
+        "output": "1904"
+    },
+    {
+        "input": "Don Juan",
+        "output": "1788"
+    },
+    {
+        "input": "Hop-Frog",
+        "output": "1809"
+    },
+    {
+        "input": "Northern Lights",
+        "output": "1945"
+    },
+    {
+        "input": "The Amazing Maurice and His Educated Rodents",
+        "output": "1948"
+    },
+    {
+        "input": "The Adventure of the Retired Colourman",
+        "output": "1859"
+    },
+    {
+        "input": "The Sandman",
+        "output": "1776"
+    },
+    {
+        "input": "The Battle of Life",
+        "output": "1812"
+    },
+    {
+        "input": "The Kreutzer Sonata",
+        "output": "1828"
+    },
+    {
+        "input": "Ubu roi",
+        "output": "1873"
+    },
+    {
+        "input": "Intrigue and Love",
+        "output": "1759"
+    },
+    {
+        "input": "Fire and Fury",
+        "output": "1953"
+    },
+    {
+        "input": "Dialogue Concerning the Two Chief World Systems",
+        "output": "1564"
+    },
+    {
+        "input": "The Devil in the Belfry",
+        "output": "1809"
+    },
+    {
+        "input": "The Classic of Tea",
+        "output": "733"
+    },
+    {
+        "input": "The Battle of the Labyrinth",
+        "output": "1964"
+    },
+    {
+        "input": "East of Eden",
+        "output": "1902"
+    },
+    {
+        "input": "Musashi",
+        "output": "1892"
+    },
+    {
+        "input": "Black Beauty",
+        "output": "1820"
+    },
+    {
+        "input": "The Giver",
+        "output": "1937"
+    },
+    {
+        "input": "The Girl Who Played with Fire",
+        "output": "1954"
+    },
+    {
+        "input": "The Island of Dr Moreau",
+        "output": "1866"
+    },
+    {
+        "input": "Second Epistle to Timothy",
+        "output": "5"
+    },
+    {
+        "input": "A Little Life",
+        "output": "1974"
+    },
+    {
+        "input": "The Myth of Sisyphus",
+        "output": "1913"
+    },
+    {
+        "input": "The Long Walk",
+        "output": "1947"
+    },
+    {
+        "input": "Spamalot",
+        "output": "1943"
+    },
+    {
+        "input": "The Selfish Giant",
+        "output": "1854"
+    },
+    {
+        "input": "The Dark Tower: The Wind Through the Keyhole",
+        "output": "1947"
+    },
+    {
+        "input": "Dream Story",
+        "output": "1862"
+    },
+    {
+        "input": "Shadow and Bone",
+        "output": "1975"
+    },
+    {
+        "input": "The Fellowship of the Ring",
+        "output": "1892"
+    },
+    {
+        "input": "The Oblong Box",
+        "output": "1809"
+    },
+    {
+        "input": "The Zahir",
+        "output": "1947"
+    },
+    {
+        "input": "The Last Days of Pompeii",
+        "output": "1803"
+    },
+    {
+        "input": "Barzaz Breiz",
+        "output": "1815"
+    },
+    {
+        "input": "The Lady with the Dog",
+        "output": "1860"
+    },
+    {
+        "input": "Alcools",
+        "output": "1880"
+    },
+    {
+        "input": "Winesburg, Ohio",
+        "output": "1876"
+    },
+    {
+        "input": "The Dispossessed",
+        "output": "1929"
+    },
+    {
+        "input": "Devdas",
+        "output": "1876"
+    },
+    {
+        "input": "Tehanu",
+        "output": "1929"
+    },
+    {
+        "input": "Fun Home",
+        "output": "1960"
+    },
+    {
+        "input": "Eight Hundred Leagues on the Amazon",
+        "output": "1828"
+    },
+    {
+        "input": "Godfrey Morgan",
+        "output": "1828"
+    },
+    {
+        "input": "The Name of the Wind",
+        "output": "1973"
+    },
+    {
+        "input": "Pharaoh",
+        "output": "1847"
+    },
+    {
+        "input": "The Sketch Book of Geoffrey Crayon, Gent.",
+        "output": "1783"
+    },
+    {
+        "input": "The Tragical History of Doctor Faustus",
+        "output": "1564"
+    },
+    {
+        "input": "Partners in Crime",
+        "output": "1890"
+    },
+    {
+        "input": "Ole Luk\u00f8je",
+        "output": "1805"
+    },
+    {
+        "input": "David Copperfield",
+        "output": "1812"
+    },
+    {
+        "input": "The Cuckoo's Calling",
+        "output": "1965"
+    },
+    {
+        "input": "The Adventure of the Mazarin Stone",
+        "output": "1859"
+    },
+    {
+        "input": "Amok",
+        "output": "1881"
+    },
+    {
+        "input": "The Murder of Roger Ackroyd",
+        "output": "1890"
+    },
+    {
+        "input": "The Time Machine",
+        "output": "1866"
+    },
+    {
+        "input": "Baron Munchausen's Narrative of his Marvellous Travels and Campaigns in Russia",
+        "output": "1736"
+    },
+    {
+        "input": "Great Expectations",
+        "output": "1812"
+    },
+    {
+        "input": "Pan Tadeusz",
+        "output": "1798"
+    },
+    {
+        "input": "Against Apion",
+        "output": "37"
+    },
+    {
+        "input": "Institutes of the Christian Religion",
+        "output": "1509"
+    },
+    {
+        "input": "Gil Braltar",
+        "output": "1828"
+    },
+    {
+        "input": "Blood of Elves",
+        "output": "1948"
+    },
+    {
+        "input": "The Man of the Crowd",
+        "output": "1809"
+    },
+    {
+        "input": "Flatland",
+        "output": "1838"
+    },
+    {
+        "input": "De Profundis",
+        "output": "1854"
+    },
+    {
+        "input": "In Search of the Supernatural",
+        "output": "201"
+    },
+    {
+        "input": "The Moon Is a Harsh Mistress",
+        "output": "1907"
+    },
+    {
+        "input": "Murder in the Cathedral",
+        "output": "1888"
+    },
+    {
+        "input": "The Water-Babies, A Fairy Tale for a Land Baby",
+        "output": "1819"
+    },
+    {
+        "input": "Sonnet 51",
+        "output": "1564"
+    },
+    {
+        "input": "Book of Liang",
+        "output": "557"
+    },
+    {
+        "input": "Theses on Feuerbach",
+        "output": "1818"
+    },
+    {
+        "input": "The Tale of the Heike",
+        "output": "1299"
+    },
+    {
+        "input": "Sophie's World",
+        "output": "1952"
+    },
+    {
+        "input": "Floris and Blancheflour",
+        "output": "1101"
+    },
+    {
+        "input": "The Steam House",
+        "output": "1828"
+    },
+    {
+        "input": "The Silver Chair",
+        "output": "1898"
+    },
+    {
+        "input": "The Confusions of Young T\u00f6rless",
+        "output": "1880"
+    },
+    {
+        "input": "The Lottery Ticket",
+        "output": "1828"
+    },
+    {
+        "input": "American Gods",
+        "output": "1960"
+    },
+    {
+        "input": "Taken at the Flood",
+        "output": "1890"
+    },
+    {
+        "input": "Clig\u00e8s",
+        "output": "1135"
+    },
+    {
+        "input": "The New Colossus",
+        "output": "1849"
+    },
+    {
+        "input": "The Silkworm",
+        "output": "1965"
+    },
+    {
+        "input": "The Invincible",
+        "output": "1921"
+    },
+    {
+        "input": "Nineteen Eighty-Four",
+        "output": "1903"
+    },
+    {
+        "input": "A Nasty Story",
+        "output": "1821"
+    },
+    {
+        "input": "La Regenta",
+        "output": "1852"
+    },
+    {
+        "input": "Wage Labour and Capital",
+        "output": "1818"
+    },
+    {
+        "input": "The Killers",
+        "output": "1899"
+    },
+    {
+        "input": "The Grim Grotto",
+        "output": "1970"
+    },
+    {
+        "input": "Ship of Fools",
+        "output": "1458"
+    },
+    {
+        "input": "The Deluge",
+        "output": "1846"
+    },
+    {
+        "input": "Enneads",
+        "output": "205"
+    },
+    {
+        "input": "The Steadfast Tin Soldier",
+        "output": "1805"
+    },
+    {
+        "input": "The People of the Abyss",
+        "output": "1876"
+    },
+    {
+        "input": "The Dharma Bums",
+        "output": "1922"
+    },
+    {
+        "input": "The Book of Abramelin",
+        "output": "1362"
+    },
+    {
+        "input": "Children of the Corn",
+        "output": "1947"
+    },
+    {
+        "input": "The Cossacks",
+        "output": "1828"
+    },
+    {
+        "input": "In Our Time",
+        "output": "1899"
+    },
+    {
+        "input": "The Invisible Man",
+        "output": "1866"
+    },
+    {
+        "input": "Sonnet 7",
+        "output": "1564"
+    },
+    {
+        "input": "The Scarlet Pimpernel",
+        "output": "1865"
+    },
+    {
+        "input": "Ormulum",
+        "output": "1200"
+    },
+    {
+        "input": "Letters From My Windmill",
+        "output": "1840"
+    },
+    {
+        "input": "Zadig or Destiny",
+        "output": "1694"
+    },
+    {
+        "input": "Octopussy and The Living Daylights",
+        "output": "1908"
+    },
+    {
+        "input": "The Bride of Lammermoor",
+        "output": "1771"
+    },
+    {
+        "input": "Finders Keepers",
+        "output": "1947"
+    },
+    {
+        "input": "MS. Found in a Bottle",
+        "output": "1809"
+    },
+    {
+        "input": "The Father Christmas Letters",
+        "output": "1892"
+    },
+    {
+        "input": "The Adventure of the Noble Bachelor",
+        "output": "1859"
+    },
+    {
+        "input": "Snow Country",
+        "output": "1899"
+    },
+    {
+        "input": "The Historian",
+        "output": "1964"
+    },
+    {
+        "input": "The Secret Adversary",
+        "output": "1890"
+    },
+    {
+        "input": "Crime and Punishment",
+        "output": "1821"
+    },
+    {
+        "input": "The Mists of Avalon",
+        "output": "1930"
+    },
+    {
+        "input": "Bleak House",
+        "output": "1812"
+    },
+    {
+        "input": "Jerusalem Delivered",
+        "output": "1544"
+    },
+    {
+        "input": "De Administrando Imperio",
+        "output": "905"
+    },
+    {
+        "input": "The Prophet",
+        "output": "1883"
+    },
+    {
+        "input": "Dongui Bogam",
+        "output": "1546"
+    },
+    {
+        "input": "The City of God",
+        "output": "354"
+    },
+    {
+        "input": "With Fire and Sword",
+        "output": "1846"
+    },
+    {
+        "input": "Rebecca",
+        "output": "1907"
+    },
+    {
+        "input": "The Family of Pascual Duarte",
+        "output": "1916"
+    },
+    {
+        "input": "Jingo",
+        "output": "1948"
+    },
+    {
+        "input": "Wujing Zongyao",
+        "output": "998"
+    },
+    {
+        "input": "Robinson Crusoe",
+        "output": "1660"
+    },
+    {
+        "input": "The Queen of the Damned",
+        "output": "1941"
+    },
+    {
+        "input": "Mort",
+        "output": "1948"
+    },
+    {
+        "input": "The Monkey's Paw",
+        "output": "1863"
+    },
+    {
+        "input": "Le Bateau ivre",
+        "output": "1854"
+    },
+    {
+        "input": "The Village in the Treetops",
+        "output": "1828"
+    },
+    {
+        "input": "How the Grinch Stole Christmas!",
+        "output": "1904"
+    },
+    {
+        "input": "Against Method",
+        "output": "1924"
+    },
+    {
+        "input": "Facts Concerning the Late Arthur Jermyn and His Family",
+        "output": "1890"
+    },
+    {
+        "input": "Shakespeare's sonnets",
+        "output": "1564"
+    },
+    {
+        "input": "The Scarlet Letter",
+        "output": "1804"
+    },
+    {
+        "input": "Ubik",
+        "output": "1928"
+    },
+    {
+        "input": "Hickory Dickory Dock",
+        "output": "1890"
+    },
+    {
+        "input": "Tales of Moonlight and Rain",
+        "output": "1734"
+    },
+    {
+        "input": "The Deerslayer",
+        "output": "1789"
+    },
+    {
+        "input": "Moralia",
+        "output": "40"
+    },
+    {
+        "input": "Prelude to Foundation",
+        "output": "1920"
+    },
+    {
+        "input": "The Last Battle",
+        "output": "1898"
+    },
+    {
+        "input": "Fundamento de Esperanto",
+        "output": "1859"
+    },
+    {
+        "input": "Siddhartha",
+        "output": "1877"
+    },
+    {
+        "input": "Hogfather",
+        "output": "1948"
+    },
+    {
+        "input": "Kalevala",
+        "output": "1802"
+    },
+    {
+        "input": "Rosemary's Baby",
+        "output": "1929"
+    },
+    {
+        "input": "Fire in the Steppe",
+        "output": "1846"
+    },
+    {
+        "input": "The A.B.C. Murders",
+        "output": "1890"
+    },
+    {
+        "input": "12 Rules for Life",
+        "output": "1962"
+    },
+    {
+        "input": "Kalila and Demna",
+        "output": "724"
+    },
+    {
+        "input": "The Purchase of the North Pole",
+        "output": "1828"
+    },
+    {
+        "input": "The Miserable Mill",
+        "output": "1970"
+    },
+    {
+        "input": "Starship Troopers",
+        "output": "1907"
+    },
+    {
+        "input": "Looking for Alaska",
+        "output": "1977"
+    },
+    {
+        "input": "A Christmas Carol",
+        "output": "1812"
+    },
+    {
+        "input": "The Diamond Age",
+        "output": "1959"
+    },
+    {
+        "input": "The Cider House Rules",
+        "output": "1942"
+    },
+    {
+        "input": "The Eyes of Darkness",
+        "output": "1945"
+    },
+    {
+        "input": "Jurassic Park",
+        "output": "1942"
+    },
+    {
+        "input": "Martin Eden",
+        "output": "1876"
+    },
+    {
+        "input": "The Soul of Man under Socialism",
+        "output": "1854"
+    },
+    {
+        "input": "The Nutcracker and the Mouse King",
+        "output": "1776"
+    },
+    {
+        "input": "Roverandom",
+        "output": "1892"
+    },
+    {
+        "input": "Time of Contempt",
+        "output": "1948"
+    },
+    {
+        "input": "Customs of Cambodia",
+        "output": "1266"
+    },
+    {
+        "input": "Neuromancer",
+        "output": "1948"
+    },
+    {
+        "input": "Al-Fiqh al-Akbar",
+        "output": "699"
+    },
+    {
+        "input": "The Ersatz Elevator",
+        "output": "1970"
+    },
+    {
+        "input": "Laudato si'",
+        "output": "1936"
+    },
+    {
+        "input": "What Is Art?",
+        "output": "1828"
+    },
+    {
+        "input": "Monstrous Regiment",
+        "output": "1948"
+    },
+    {
+        "input": "Burmese Days",
+        "output": "1903"
+    },
+    {
+        "input": "Facing the Flag",
+        "output": "1828"
+    },
+    {
+        "input": "The Power and the Glory",
+        "output": "1904"
+    },
+    {
+        "input": "Blindness",
+        "output": "1922"
+    },
+    {
+        "input": "Illusions perdues",
+        "output": "1799"
+    },
+    {
+        "input": "K\u00e9raban the Inflexible",
+        "output": "1828"
+    },
+    {
+        "input": "The Adventure of the Naval Treaty",
+        "output": "1859"
+    },
+    {
+        "input": "O\u011fuzname",
+        "output": "1247"
+    },
+    {
+        "input": "Quidditch Through the Ages",
+        "output": "1965"
+    },
+    {
+        "input": "The Road Back",
+        "output": "1898"
+    },
+    {
+        "input": "On the Road",
+        "output": "1922"
+    },
+    {
+        "input": "Crooked House",
+        "output": "1890"
+    },
+    {
+        "input": "Firestarter",
+        "output": "1947"
+    },
+    {
+        "input": "Danny the Champion of the World",
+        "output": "1916"
+    },
+    {
+        "input": "The Book of Five Rings",
+        "output": "1584"
+    },
+    {
+        "input": "An Essay Concerning Human Understanding",
+        "output": "1632"
+    },
+    {
+        "input": "Debt of Honor",
+        "output": "1947"
+    },
+    {
+        "input": "The Doors of Perception",
+        "output": "1894"
+    },
+    {
+        "input": "The Jungle",
+        "output": "1878"
+    },
+    {
+        "input": "The Golden Volcano",
+        "output": "1828"
+    },
+    {
+        "input": "Smilla's Sense of Snow",
+        "output": "1957"
+    },
+    {
+        "input": "A Short History of Nearly Everything",
+        "output": "1951"
+    },
+    {
+        "input": "God and the State",
+        "output": "1814"
+    },
+    {
+        "input": "Beren and L\u00fathien",
+        "output": "1892"
+    },
+    {
+        "input": "Gravity's Rainbow",
+        "output": "1937"
+    },
+    {
+        "input": "L'Assommoir",
+        "output": "1840"
+    },
+    {
+        "input": "Heimskringla",
+        "output": "1179"
+    },
+    {
+        "input": "The Adventure of the Beryl Coronet",
+        "output": "1859"
+    },
+    {
+        "input": "The Dark Half",
+        "output": "1947"
+    },
+    {
+        "input": "She: A History of Adventure",
+        "output": "1856"
+    },
+    {
+        "input": "Two New Sciences",
+        "output": "1564"
+    },
+    {
+        "input": "Where the Crawdads Sing",
+        "output": "1949"
+    },
+    {
+        "input": "The Big Sleep",
+        "output": "1888"
+    },
+    {
+        "input": "Charlie and the Great Glass Elevator",
+        "output": "1916"
+    },
+    {
+        "input": "It",
+        "output": "1947"
+    },
+    {
+        "input": "Women Painters of the World",
+        "output": "1862"
+    },
+    {
+        "input": "The Adventure of the Resident Patient",
+        "output": "1859"
+    },
+    {
+        "input": "The Dead",
+        "output": "1882"
+    },
+    {
+        "input": "Treasure Island",
+        "output": "1850"
+    },
+    {
+        "input": "Waiting for the Barbarians",
+        "output": "1940"
+    },
+    {
+        "input": "They Came to Baghdad",
+        "output": "1890"
+    },
+    {
+        "input": "The Regatta Mystery",
+        "output": "1890"
+    },
+    {
+        "input": "Waverley",
+        "output": "1771"
+    },
+    {
+        "input": "The Magic Mountain",
+        "output": "1875"
+    },
+    {
+        "input": "Veronika Decides to Die",
+        "output": "1947"
+    },
+    {
+        "input": "Twenty Years After",
+        "output": "1802"
+    },
+    {
+        "input": "Zakon Sudnyi Liudem",
+        "output": "815"
+    },
+    {
+        "input": "Lady of the Lake",
+        "output": "1948"
+    },
+    {
+        "input": "Meu P\u00e9 de Laranja Lima",
+        "output": "1920"
+    },
+    {
+        "input": "Memoirs Found in a Bathtub",
+        "output": "1921"
+    },
+    {
+        "input": "Ramavataram",
+        "output": "1180"
+    },
+    {
+        "input": "Morgante",
+        "output": "1432"
+    },
+    {
+        "input": "Mary Stuart",
+        "output": "1759"
+    },
+    {
+        "input": "The Secret Garden",
+        "output": "1849"
+    },
+    {
+        "input": "Buddhacarita",
+        "output": "80"
+    },
+    {
+        "input": "Metro 2034",
+        "output": "1979"
+    },
+    {
+        "input": "The Clocks",
+        "output": "1890"
+    },
+    {
+        "input": "Who Goes There?",
+        "output": "1910"
+    },
+    {
+        "input": "Harry Potter and the Methods of Rationality",
+        "output": "1979"
+    },
+    {
+        "input": "El licenciado Vidriera",
+        "output": "1547"
+    },
+    {
+        "input": "Altered Carbon",
+        "output": "1965"
+    },
+    {
+        "input": "A Season in Hell",
+        "output": "1854"
+    },
+    {
+        "input": "Gemeinschaft and Gesellschaft",
+        "output": "1855"
+    },
+    {
+        "input": "Kadambari",
+        "output": "585"
+    },
+    {
+        "input": "Survivor",
+        "output": "1962"
+    },
+    {
+        "input": "And the Mountains Echoed",
+        "output": "1965"
+    },
+    {
+        "input": "The Devil's Dictionary",
+        "output": "1842"
+    },
+    {
+        "input": "Kokoro",
+        "output": "1867"
+    },
+    {
+        "input": "Planet of Exile",
+        "output": "1929"
+    },
+    {
+        "input": "Vande Mataram",
+        "output": "1838"
+    },
+    {
+        "input": "Sonnet 6",
+        "output": "1564"
+    },
+    {
+        "input": "Noli Me T\u00e1ngere",
+        "output": "1861"
+    },
+    {
+        "input": "Duma Key",
+        "output": "1947"
+    },
+    {
+        "input": "Voices from Chernobyl",
+        "output": "1948"
+    },
+    {
+        "input": "Murder on the Links",
+        "output": "1890"
+    },
+    {
+        "input": "The Mandrake",
+        "output": "1469"
+    },
+    {
+        "input": "Beneath the Wheel",
+        "output": "1877"
+    },
+    {
+        "input": "The Road",
+        "output": "1933"
+    },
+    {
+        "input": "The Last Olympian",
+        "output": "1964"
+    },
+    {
+        "input": "Tribulations of a Chinaman in China",
+        "output": "1828"
+    },
+    {
+        "input": "Ode to a Nightingale",
+        "output": "1795"
+    },
+    {
+        "input": "Diatessaron",
+        "output": "120"
+    },
+    {
+        "input": "The Caves of Steel",
+        "output": "1920"
+    },
+    {
+        "input": "Kit\u00e1b-i-Aqdas",
+        "output": "1817"
+    },
+    {
+        "input": "Discourses on Livy",
+        "output": "1469"
+    },
+    {
+        "input": "The Count of Monte Cristo",
+        "output": "1802"
+    },
+    {
+        "input": "Around the Moon",
+        "output": "1828"
+    },
+    {
+        "input": "Primary Chronicle",
+        "output": "1056"
+    },
+    {
+        "input": "Madness and Civilization",
+        "output": "1926"
+    },
+    {
+        "input": "Luther's Small Catechism",
+        "output": "1483"
+    },
+    {
+        "input": "Storm of Steel",
+        "output": "1895"
+    },
+    {
+        "input": "The Big Four",
+        "output": "1890"
+    }
+]

@@ -1,0 +1,178 @@
+{
+    "antonym": [
+        "converse",
+        "opposing",
+        "contradiction",
+        "antonym",
+        "negation",
+        "antithesis",
+        "\u53cd",
+        "contrary",
+        "reverse",
+        "opposite"
+    ],
+    "synonym": [
+        "synonyms",
+        "interchangeable",
+        "synonym",
+        "synonymous",
+        "equivalent",
+        "\u8fd1\u4e49\u8bcd",
+        "analogous",
+        "\u76f8\u8fd1",
+        "alike",
+        "similar"
+    ],
+    "country-capital": [
+        "capitalcity",
+        "capitale",
+        "capital",
+        "capitals",
+        "cities",
+        "city",
+        "capitol"
+    ],
+    "country-currency": [
+        "coinage",
+        "currency",
+        "coin",
+        "monetary",
+        "cash",
+        "currencies",
+        "money"
+    ],
+    "english-french": [
+        "translate",
+        "traduire",
+        "french",
+        "\u6cd5\u8bed",
+        "fran\u00e7ais",
+        "Fran\u00e7ais",
+        "translation"
+    ],
+    "english-german": [
+        "deutsch",
+        "translate",
+        "\u5fb7\u8bed",
+        "german",
+        "Deutsch",
+        "\u00fcbersetzung",
+        "translation"
+    ],
+    "english-spanish": [
+        "translate",
+        "traducci\u00f3n",
+        "\u897f\u73ed\u7259\u8bed",
+        "espa\u00f1ol",
+        "spanish",
+        "translation",
+        "traduccion",
+        "Espa\u00f1ol"
+    ],
+    "landmark-country": [
+        "\u56fd\u5bb6",
+        "countries",
+        "country",
+        "nation"
+    ],
+    "park-country": [
+        "\u56fd\u5bb6",
+        "countries",
+        "country",
+        "nation"
+    ],
+    "next_item": [
+        "consecutive",
+        "progression",
+        "subsequent",
+        "\u63a5\u7740",
+        "-next",
+        "sequential",
+        "successive",
+        "succession",
+        "next",
+        "successor",
+        "continuation",
+        "after",
+        "following",
+        "Following",
+        ".next"
+    ],
+    "prev_item": [
+        "decrement",
+        "predecessor",
+        "preceding",
+        "last",
+        "previously",
+        "_previous",
+        "prev",
+        "earlier",
+        "previous",
+        "antecedent",
+        "before",
+        "prior"
+    ],
+    "person-instrument": [
+        "device",
+        "instrument",
+        "instruments",
+        "devices",
+        "apparatus"
+    ],
+    "person-occupation": [
+        "occupation",
+        "employment",
+        "career",
+        "profession",
+        "vocation",
+        "trade",
+        "work",
+        "jobs",
+        "job",
+        "role"
+    ],
+    "person-sport": [
+        "sport",
+        "sports",
+        "game",
+        "games"
+    ],
+    "present-past": [
+        "Preceding",
+        "previously",
+        "preterite",
+        "past",
+        "Earlier",
+        "previouslyhistorical"
+    ],
+    "product-company": [
+        "corporation",
+        "organisation",
+        "firm",
+        "producer",
+        "institutions",
+        "brand",
+        "manufacturers",
+        "corporations",
+        "maker",
+        "organisations",
+        "manufacturer",
+        "institution",
+        "manufacturerpublisher",
+        "company",
+        "firms",
+        "companies"
+    ],
+    "singular-plural": [
+        "pluralisation",
+        "\u591a",
+        "pluralise",
+        "multiple",
+        "_multiple",
+        "pluralization",
+        "plural",
+        "pluralize",
+        "Multiplicity",
+        "ones"
+    ]
+}

@@ -1,0 +1,9106 @@
+[
+    {
+        "input": "Suzuki Hayabusa",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "Nokia Lumia 930",
+        "output": "Espoo"
+    },
+    {
+        "input": "BMW M6",
+        "output": "Munich"
+    },
+    {
+        "input": "SMS K\u00f6nig",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Sputnik 1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Fiat Coup\u00e9",
+        "output": "Turin"
+    },
+    {
+        "input": "Lahti L-35",
+        "output": "Espoo"
+    },
+    {
+        "input": "North American AJ Savage",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "An-178",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Apollo Guidance Computer",
+        "output": "Waltham"
+    },
+    {
+        "input": "RMS Queen Mary",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Sophia",
+        "output": "Hong Kong"
+    },
+    {
+        "input": "Mercedes-Benz M-Class",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Milkor MGL",
+        "output": "Pretoria"
+    },
+    {
+        "input": "Peugeot 5008",
+        "output": "Poissy"
+    },
+    {
+        "input": "Ilyushin Il-102",
+        "output": "Moscow"
+    },
+    {
+        "input": "Soyuz 33",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Soyuz T-15",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Challenger",
+        "output": "United States"
+    },
+    {
+        "input": "Daewoo Lacetti",
+        "output": "Detroit"
+    },
+    {
+        "input": "TOS-1",
+        "output": "Omsk"
+    },
+    {
+        "input": "Tiger II",
+        "output": "Kassel"
+    },
+    {
+        "input": "\u0160koda Enyaq iV",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Volkswagen Golf Mk4",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Baykar Bayraktar K\u0131z\u0131lelma",
+        "output": "Bah\u00e7e\u015fehir"
+    },
+    {
+        "input": "Maybach 57 and 62",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Luna 2",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Dassault Falcon 50",
+        "output": "Paris"
+    },
+    {
+        "input": "Tianwen-1",
+        "output": "Haidian District"
+    },
+    {
+        "input": "Spruance-class destroyer",
+        "output": "Pascagoula"
+    },
+    {
+        "input": "Daewoo Precision Industries USAS-12",
+        "output": "Busan"
+    },
+    {
+        "input": "2S35 Koalitsiya-SV",
+        "output": "Yekaterinburg"
+    },
+    {
+        "input": "KOR-2",
+        "output": "Taganrog"
+    },
+    {
+        "input": "Sisu XA-180",
+        "output": "Kluuvi"
+    },
+    {
+        "input": "Mazda3",
+        "output": "Fuchu"
+    },
+    {
+        "input": "T-90",
+        "output": "Nizhny Tagil"
+    },
+    {
+        "input": "Opel GT",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Chevrolet Corvair",
+        "output": "Detroit"
+    },
+    {
+        "input": "Boeing Starliner",
+        "output": "Chicago"
+    },
+    {
+        "input": "Pennsylvania-class battleship",
+        "output": "Newport News"
+    },
+    {
+        "input": "Renault Vel Satis",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Samsung Galaxy Note 4",
+        "output": "Samsung Town"
+    },
+    {
+        "input": "Boeing 747-8",
+        "output": "Chicago"
+    },
+    {
+        "input": "Ferrari 575M Maranello",
+        "output": "Maranello"
+    },
+    {
+        "input": "Long March 1",
+        "output": "Moscow"
+    },
+    {
+        "input": "Transiting Exoplanet Survey Satellite",
+        "output": "Dulles"
+    },
+    {
+        "input": "SG-1000",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "Kawanishi E7K",
+        "output": "Hy\u014dgo Prefecture"
+    },
+    {
+        "input": "Agni-V",
+        "output": "Hyderabad"
+    },
+    {
+        "input": "Mauser 1918 T-Gewehr",
+        "output": "Isny im Allg\u00e4u"
+    },
+    {
+        "input": "Audi S3",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Ferrari F355",
+        "output": "Maranello"
+    },
+    {
+        "input": "M-84",
+        "output": "Slavonski Brod"
+    },
+    {
+        "input": "\u00c1lvaro de Baz\u00e1n-class frigate",
+        "output": "Madrid"
+    },
+    {
+        "input": "Hyundai i10",
+        "output": "Seoul"
+    },
+    {
+        "input": "Fiat 500X",
+        "output": "Turin"
+    },
+    {
+        "input": "Volkswagen Touran",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": ".32 ACP",
+        "output": "Herstal"
+    },
+    {
+        "input": "Subaru Legacy",
+        "output": "Ebisu"
+    },
+    {
+        "input": "HMS Duke of York",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Saab 9000",
+        "output": "Trollh\u00e4ttan"
+    },
+    {
+        "input": "Saab 900",
+        "output": "Detroit"
+    },
+    {
+        "input": "Lamborghini Revuelto",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "USS George Washington",
+        "output": "Newport News"
+    },
+    {
+        "input": "Advanced Medium Combat Aircraft",
+        "output": "Bengaluru"
+    },
+    {
+        "input": "Macedonian denar",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Apple M2",
+        "output": "Hsinchu Science Park"
+    },
+    {
+        "input": "Hyundai Kona",
+        "output": "Seoul"
+    },
+    {
+        "input": "Cadillac Lyriq",
+        "output": "Detroit"
+    },
+    {
+        "input": "Heckler & Koch HK33",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Suzuki Vitara",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "USS Hancock",
+        "output": "Quincy"
+    },
+    {
+        "input": "Toyota RAV4",
+        "output": "Toyota"
+    },
+    {
+        "input": "Volkswagen Fox",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Foxtrot-class submarine",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Lebel Model 1886 rifle",
+        "output": "Saint-\u00c9tienne"
+    },
+    {
+        "input": "Pioneer 5",
+        "output": "Euclid"
+    },
+    {
+        "input": "Alfa Romeo 158",
+        "output": "Turin"
+    },
+    {
+        "input": "Heckler & Koch P11",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "RIM-161 Standard Missile 3",
+        "output": "Waltham"
+    },
+    {
+        "input": "Seydlitz",
+        "output": "Bremen"
+    },
+    {
+        "input": "Sony Ericsson Xperia X1",
+        "output": "Minato"
+    },
+    {
+        "input": "Honda CR-Z",
+        "output": "Minato"
+    },
+    {
+        "input": "Accuracy International AWM",
+        "output": "Portsmouth"
+    },
+    {
+        "input": "HTC Dream",
+        "output": "New Taipei"
+    },
+    {
+        "input": "FN Model 1910",
+        "output": "Herstal"
+    },
+    {
+        "input": "Lamborghini 400 GT",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "LaFerrari",
+        "output": "Maranello"
+    },
+    {
+        "input": "Fender Mustang",
+        "output": "Nabari Station"
+    },
+    {
+        "input": "Ford Mustang Mach-E",
+        "output": "Dearborn"
+    },
+    {
+        "input": "H225M Caracal",
+        "output": "Marignane"
+    },
+    {
+        "input": "9K34 Strela-3",
+        "output": "Kolomna"
+    },
+    {
+        "input": "Soyuz 13",
+        "output": "Korolyov"
+    },
+    {
+        "input": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Emma M\u00e6rsk",
+        "output": "Munkebo"
+    },
+    {
+        "input": "Sturer Emil",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Bell AH-1 SuperCobra",
+        "output": "Fort Worth"
+    },
+    {
+        "input": "Ferrari F430",
+        "output": "Maranello"
+    },
+    {
+        "input": "Leclerc",
+        "output": "Versailles"
+    },
+    {
+        "input": "Nokia 2760",
+        "output": "Espoo"
+    },
+    {
+        "input": "BMW X7",
+        "output": "Munich"
+    },
+    {
+        "input": "Soyuz TM-32",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Horten Ho 229fkd",
+        "output": "Gotha"
+    },
+    {
+        "input": "\u0160koda Kodiaq",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Cessna Citation Mustang",
+        "output": "Wichita"
+    },
+    {
+        "input": "HMS Victory",
+        "output": "Chatham"
+    },
+    {
+        "input": "A-40 Krylya Tanka",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Toyota Century",
+        "output": "Toyota"
+    },
+    {
+        "input": "Windows Me",
+        "output": "Redmond"
+    },
+    {
+        "input": "Nokia N9",
+        "output": "Espoo"
+    },
+    {
+        "input": "Audi 50",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "VAZ-2106",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "Bugatti Type 35",
+        "output": "Molsheim"
+    },
+    {
+        "input": "Peugeot 306",
+        "output": "Poissy"
+    },
+    {
+        "input": "Soyuz MS-16",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Kanonenjagdpanzer",
+        "output": "Kassel"
+    },
+    {
+        "input": "Type 69 tank",
+        "output": "Baotou"
+    },
+    {
+        "input": "M1117 armored security vehicle",
+        "output": "New Orleans"
+    },
+    {
+        "input": "Brazilian real",
+        "output": "Rio de Janeiro"
+    },
+    {
+        "input": "Nokia Lumia 1520",
+        "output": "Espoo"
+    },
+    {
+        "input": "Ferrari 456",
+        "output": "Maranello"
+    },
+    {
+        "input": "Sapsan",
+        "output": "Munich"
+    },
+    {
+        "input": "Ferrari 488",
+        "output": "Maranello"
+    },
+    {
+        "input": "Nokia 6680",
+        "output": "Espoo"
+    },
+    {
+        "input": "USS Forrestal",
+        "output": "Newport News"
+    },
+    {
+        "input": "Socket 479",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Renault 12",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Flakpanzer 38(t)",
+        "output": "Prague"
+    },
+    {
+        "input": "Pontiac GTO",
+        "output": "Detroit"
+    },
+    {
+        "input": "Fender Jazz Bass",
+        "output": "Nabari Station"
+    },
+    {
+        "input": "Commodore 16",
+        "output": "West Chester"
+    },
+    {
+        "input": "Korabl-Sputnik 3",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Junkers Ju 90",
+        "output": "Dessau"
+    },
+    {
+        "input": "LAV-25",
+        "output": "Reston"
+    },
+    {
+        "input": "Venera 2",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Audi RS4",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Mossberg 500",
+        "output": "North Haven"
+    },
+    {
+        "input": "Fridtjof Nansen-class frigate",
+        "output": "Madrid"
+    },
+    {
+        "input": "Ford Orion",
+        "output": "Cologne"
+    },
+    {
+        "input": "Ferrari 288 GTO",
+        "output": "Maranello"
+    },
+    {
+        "input": "BMD-3",
+        "output": "Volgograd"
+    },
+    {
+        "input": "Suzuki Kizashi",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "IMI Tavor TAR-21",
+        "output": "Ramat HaSharon"
+    },
+    {
+        "input": "Aston Martin DB11",
+        "output": "Gaydon"
+    },
+    {
+        "input": "TAI/Leonardo T129 ATAK",
+        "output": "Ankara"
+    },
+    {
+        "input": "Lamborghini Urraco",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Koenigsegg Regera",
+        "output": "\u00c4ngelholm"
+    },
+    {
+        "input": "Fiat 124",
+        "output": "Turin"
+    },
+    {
+        "input": "Beretta M1934",
+        "output": "Brescia"
+    },
+    {
+        "input": "Ford Taurus",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Nokia 5220 XpressMusic",
+        "output": "Espoo"
+    },
+    {
+        "input": "German cruiser L\u00fctzow",
+        "output": "Bremen"
+    },
+    {
+        "input": "Borei-class submarine",
+        "output": "Severodvinsk"
+    },
+    {
+        "input": "Sony Xperia Z",
+        "output": "Minato"
+    },
+    {
+        "input": "RMS Mauretania",
+        "output": "River Tyne"
+    },
+    {
+        "input": "Nikon D70",
+        "output": "Minato"
+    },
+    {
+        "input": "Honda Legend",
+        "output": "Minato"
+    },
+    {
+        "input": "Renault 3",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Lada 110",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "T-26",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Raptor",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "VA-111 Shkval",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Subaru Impreza",
+        "output": "Ebisu"
+    },
+    {
+        "input": "Lamborghini Jarama",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Space Shuttle orbiter",
+        "output": "United States"
+    },
+    {
+        "input": "Nokia E52",
+        "output": "Espoo"
+    },
+    {
+        "input": "B & W Seaplane",
+        "output": "Chicago"
+    },
+    {
+        "input": "Potemkin",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "Audi Q7",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Lexus IS",
+        "output": "Toyota"
+    },
+    {
+        "input": "Barrett M95",
+        "output": "Christiana"
+    },
+    {
+        "input": "USS Texas",
+        "output": "Newport News"
+    },
+    {
+        "input": "Kia EV6",
+        "output": "Seoul"
+    },
+    {
+        "input": "BMW E32",
+        "output": "Munich"
+    },
+    {
+        "input": "Nokia 2700 classic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Nokia 6600",
+        "output": "Espoo"
+    },
+    {
+        "input": "Hyundai i30",
+        "output": "Seoul"
+    },
+    {
+        "input": "X-20 Dyna-Soar",
+        "output": "Chicago"
+    },
+    {
+        "input": "Roland TB-303",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "Opel Manta",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Jeep Compass",
+        "output": "Toledo"
+    },
+    {
+        "input": "T-15 Armata",
+        "output": "Nizhny Tagil"
+    },
+    {
+        "input": "Hyundai Lavita",
+        "output": "Seoul"
+    },
+    {
+        "input": "Nokia 5110",
+        "output": "Espoo"
+    },
+    {
+        "input": "Mark 83",
+        "output": "Reston"
+    },
+    {
+        "input": "Ford F-Series",
+        "output": "Dearborn"
+    },
+    {
+        "input": "iPhone 15",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Allure of the Seas",
+        "output": "Turku"
+    },
+    {
+        "input": "Hyundai Tiburon",
+        "output": "Seoul"
+    },
+    {
+        "input": "Vanguard 2",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bugatti EB110",
+        "output": "Campogalliano"
+    },
+    {
+        "input": "Trafalgar-class attack submarine",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Sukhoi Okhotnik",
+        "output": "Novosibirsk"
+    },
+    {
+        "input": "T-14 Armata",
+        "output": "Nizhny Tagil"
+    },
+    {
+        "input": "Nokia 7710",
+        "output": "Espoo"
+    },
+    {
+        "input": "Voskhod 2",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Delta III",
+        "output": "Chicago"
+    },
+    {
+        "input": "500 Series Shinkansen",
+        "output": "Marunouchi"
+    },
+    {
+        "input": "Jaguar E-Pace",
+        "output": "Coventry"
+    },
+    {
+        "input": "Type 214-class submarine",
+        "output": "Kiel"
+    },
+    {
+        "input": "Dacia Solenza",
+        "output": "Mioveni"
+    },
+    {
+        "input": "Volkswagen Gol",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Chevrolet Malibu",
+        "output": "Detroit"
+    },
+    {
+        "input": "Koenigsegg CCR",
+        "output": "\u00c4ngelholm"
+    },
+    {
+        "input": "Porsche 959",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "SS Chelyuskin",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Shahed 129",
+        "output": "Tehran"
+    },
+    {
+        "input": "Brimstone",
+        "output": "Le Plessis-Robinson"
+    },
+    {
+        "input": "Enterprise",
+        "output": "United States"
+    },
+    {
+        "input": "Tesla Semi",
+        "output": "Austin"
+    },
+    {
+        "input": "Nokia 8110",
+        "output": "Espoo"
+    },
+    {
+        "input": "Astute-class submarine",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Jaguar F-Pace",
+        "output": "Coventry"
+    },
+    {
+        "input": "Lada Vesta",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "TKS",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Ares I",
+        "output": "Arlington County"
+    },
+    {
+        "input": "USS Ranger",
+        "output": "Newport News"
+    },
+    {
+        "input": "Mitsubishi Outlander",
+        "output": "Minato"
+    },
+    {
+        "input": "HJ-8",
+        "output": "Beijing"
+    },
+    {
+        "input": "Volvo V70",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Nikon D7000",
+        "output": "Minato"
+    },
+    {
+        "input": "Apollo Lunar Module",
+        "output": "Bethpage"
+    },
+    {
+        "input": "Nexus 10",
+        "output": "Samsung Town"
+    },
+    {
+        "input": "Peugeot 408",
+        "output": "Poissy"
+    },
+    {
+        "input": "SS France",
+        "output": "Brewster"
+    },
+    {
+        "input": "HGM-25A Titan I",
+        "output": "Baltimore"
+    },
+    {
+        "input": "BMW 7 F01 F02",
+        "output": "Munich"
+    },
+    {
+        "input": "Peugeot 305",
+        "output": "Poissy"
+    },
+    {
+        "input": "Volkswagen Type 4",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "GAZ-69",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "Heckler & Koch Mark 23",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "North American XF-108 Rapier",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "Amiga 500",
+        "output": "West Chester"
+    },
+    {
+        "input": "German cruiser Karlsruhe",
+        "output": "Berlin"
+    },
+    {
+        "input": "H-IIB",
+        "output": "Minato"
+    },
+    {
+        "input": "Peugeot 508",
+        "output": "Poissy"
+    },
+    {
+        "input": "Renault FT",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Kinzhal",
+        "output": "Kolomna"
+    },
+    {
+        "input": "Lykan HyperSport",
+        "output": "Dubai"
+    },
+    {
+        "input": "T-28",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Bushmaster Protected Mobility Vehicle",
+        "output": "Sydney"
+    },
+    {
+        "input": "iPhone 15 Pro",
+        "output": "Cupertino"
+    },
+    {
+        "input": "German cruiser Prinz Eugen",
+        "output": "Kiel"
+    },
+    {
+        "input": "Nokia 1112",
+        "output": "Espoo"
+    },
+    {
+        "input": "Ford Pinto",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Lamborghini Veneno",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "IS-3",
+        "output": "Chelyabinsk"
+    },
+    {
+        "input": "Albatros D.I",
+        "output": "Berlin"
+    },
+    {
+        "input": "Zyklon B",
+        "output": "Frankfurt"
+    },
+    {
+        "input": "Hotchkiss M1914 machine gun",
+        "output": "France"
+    },
+    {
+        "input": "Chevrolet Chevelle",
+        "output": "Detroit"
+    },
+    {
+        "input": "German aircraft carrier Graf Zeppelin",
+        "output": "Berlin"
+    },
+    {
+        "input": "Fiat Ritmo",
+        "output": "Turin"
+    },
+    {
+        "input": "Fender Precision Bass",
+        "output": "Nabari Station"
+    },
+    {
+        "input": "USS Saratoga",
+        "output": "Camden"
+    },
+    {
+        "input": "IAI Harpy",
+        "output": "Lod"
+    },
+    {
+        "input": "Mitsubishi i-MiEV",
+        "output": "Minato"
+    },
+    {
+        "input": "Mercedes-Benz 190 SL",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Tatra T1",
+        "output": "Prague"
+    },
+    {
+        "input": "John F. Kennedy",
+        "output": "Newport News"
+    },
+    {
+        "input": "Socket 5",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Chevrolet Trax",
+        "output": "Detroit"
+    },
+    {
+        "input": "Aston Martin Rapide",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Toyota HiAce",
+        "output": "Toyota"
+    },
+    {
+        "input": "Airbus A330neo",
+        "output": "Blagnac"
+    },
+    {
+        "input": "Smith & Wesson Model 29",
+        "output": "Springfield"
+    },
+    {
+        "input": "M249 SAW",
+        "output": "Herstal"
+    },
+    {
+        "input": "Discovery",
+        "output": "United States"
+    },
+    {
+        "input": "Kia Mohave",
+        "output": "Seoul"
+    },
+    {
+        "input": "R-27",
+        "output": "Moscow"
+    },
+    {
+        "input": "Juno",
+        "output": "Denver"
+    },
+    {
+        "input": "Ford Thunderbird",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Nokia N70",
+        "output": "Espoo"
+    },
+    {
+        "input": "RRS Discovery",
+        "output": "Dundee"
+    },
+    {
+        "input": "Luna 13",
+        "output": "Khimki"
+    },
+    {
+        "input": "Staropramen",
+        "output": "Prague"
+    },
+    {
+        "input": "Microsoft HoloLens",
+        "output": "Redmond"
+    },
+    {
+        "input": "Nokia Lumia 1020",
+        "output": "Espoo"
+    },
+    {
+        "input": "S-500 Prometheus",
+        "output": "Moscow"
+    },
+    {
+        "input": "Gabriel",
+        "output": "Lod"
+    },
+    {
+        "input": "Seawise Giant",
+        "output": "\u014csaki"
+    },
+    {
+        "input": "Rolls-Royce Silver Cloud",
+        "output": "Derby"
+    },
+    {
+        "input": "HMS Warrior",
+        "output": "London"
+    },
+    {
+        "input": "S-125",
+        "output": "Moscow"
+    },
+    {
+        "input": "GAZ-M20 Pobeda",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "Fiat Idea",
+        "output": "Turin"
+    },
+    {
+        "input": "RSM-56 Bulava",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "Ferrari F2005",
+        "output": "Maranello"
+    },
+    {
+        "input": "Casio Loopy",
+        "output": "Shibuya-ku"
+    },
+    {
+        "input": "Hera",
+        "output": "Bremen"
+    },
+    {
+        "input": "Mercedes-Benz W212",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "PT-76",
+        "output": "Volgograd"
+    },
+    {
+        "input": "Volkswagen T-Roc",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Opel Mokka",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "OnePlus One",
+        "output": "Shenzhen"
+    },
+    {
+        "input": "Saab 2000",
+        "output": "Stockholm"
+    },
+    {
+        "input": "VAZ-2103",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "PlayStation Move",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Boeing 2707",
+        "output": "Chicago"
+    },
+    {
+        "input": "FN M1900",
+        "output": "Herstal"
+    },
+    {
+        "input": "HMS Vanguard",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Ordnance QF 25 pounder",
+        "output": "London"
+    },
+    {
+        "input": "Kh-31",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Dacia Lodgy",
+        "output": "Mioveni"
+    },
+    {
+        "input": "LG G4",
+        "output": "Seoul"
+    },
+    {
+        "input": "Peugeot 104",
+        "output": "Poissy"
+    },
+    {
+        "input": "Zune",
+        "output": "Redmond"
+    },
+    {
+        "input": "Lamborghini Sesto Elemento",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "KV-1",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "2S9 Nona",
+        "output": "Perm"
+    },
+    {
+        "input": "Powerade",
+        "output": "Atlanta"
+    },
+    {
+        "input": "D-30",
+        "output": "Yekaterinburg"
+    },
+    {
+        "input": "Altay",
+        "output": "Sakarya Province"
+    },
+    {
+        "input": "Google Nest",
+        "output": "Googleplex"
+    },
+    {
+        "input": "Saab 93",
+        "output": "Trollh\u00e4ttan"
+    },
+    {
+        "input": "Fiat 850",
+        "output": "Turin"
+    },
+    {
+        "input": "Volvo XC40",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Comac C919",
+        "output": "Shanghai"
+    },
+    {
+        "input": "2023 Rolls-Royce Phantom",
+        "output": "Munich"
+    },
+    {
+        "input": "Renault Kadjar",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Richelieu-class battleship",
+        "output": "Brewster"
+    },
+    {
+        "input": "Nokia 6230",
+        "output": "Espoo"
+    },
+    {
+        "input": "Chevrolet Bel Air",
+        "output": "Detroit"
+    },
+    {
+        "input": "iMac Pro",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Lexus CT",
+        "output": "Toyota"
+    },
+    {
+        "input": "PlayStation TV",
+        "output": "Minato"
+    },
+    {
+        "input": "Chevrolet HHR",
+        "output": "Detroit"
+    },
+    {
+        "input": "onasemnogene abeparvovec",
+        "output": "Basel"
+    },
+    {
+        "input": "R-12 Dvina",
+        "output": "Dnipro"
+    },
+    {
+        "input": "MIM-72 Chaparral",
+        "output": "Dearborn"
+    },
+    {
+        "input": "RD-180",
+        "output": "Khimki"
+    },
+    {
+        "input": "Fiat Multipla",
+        "output": "Turin"
+    },
+    {
+        "input": "Saab 340",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Nikon D3100",
+        "output": "Minato"
+    },
+    {
+        "input": "new shekel",
+        "output": "Zurich"
+    },
+    {
+        "input": "Toyota bZ4X",
+        "output": "Toyota"
+    },
+    {
+        "input": "Mazda MX-5",
+        "output": "Fuchu"
+    },
+    {
+        "input": "F-82 Twin Mustang",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "Soyuz 11",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Lamborghini Aventador",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Steyr AUG",
+        "output": "Sankt Ulrich bei Steyr"
+    },
+    {
+        "input": "quetzal",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Renault 25",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Mikoyan Skat",
+        "output": "Moscow"
+    },
+    {
+        "input": "German cruiser K\u00f6nigsberg",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Chevrolet Orlando",
+        "output": "Incheon"
+    },
+    {
+        "input": "Vanguard-class submarine",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Toyota Fortuner",
+        "output": "Toyota"
+    },
+    {
+        "input": "Cavour",
+        "output": "Trieste"
+    },
+    {
+        "input": "Opel Kapit\u00e4n",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "IBM 5100",
+        "output": "Armonk"
+    },
+    {
+        "input": "X-47B",
+        "output": "Falls Church"
+    },
+    {
+        "input": "Jetstream 41",
+        "output": "Farnborough"
+    },
+    {
+        "input": "Hyundai Ioniq 5",
+        "output": "Seoul"
+    },
+    {
+        "input": "Surinamese dollar",
+        "output": "Llantrisant"
+    },
+    {
+        "input": "Soyuz MS-09",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Kitty Hawk-class aircraft carrier",
+        "output": "Camden"
+    },
+    {
+        "input": "HMS Anson",
+        "output": "River Tyne"
+    },
+    {
+        "input": "T-40",
+        "output": "Moscow"
+    },
+    {
+        "input": "Iryda",
+        "output": "Mielec"
+    },
+    {
+        "input": "McLaren MP4-22",
+        "output": "Woking"
+    },
+    {
+        "input": "RMS Queen Elizabeth",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Yak-24",
+        "output": "Moscow"
+    },
+    {
+        "input": "Oasis of the Seas",
+        "output": "Turku"
+    },
+    {
+        "input": "Hammond organ",
+        "output": "Chicago"
+    },
+    {
+        "input": "Peugeot 106",
+        "output": "Poissy"
+    },
+    {
+        "input": "Fiat Croma",
+        "output": "Turin"
+    },
+    {
+        "input": "PC-12",
+        "output": "Stans"
+    },
+    {
+        "input": "Aston Martin DBX",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Nokia 5320 XpressMusic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Soyuz 27",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Nokia N71",
+        "output": "Espoo"
+    },
+    {
+        "input": "LADA Kalina",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "Antonov An-10 Ukraina",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Gloster E.28/39",
+        "output": "Hucclecote"
+    },
+    {
+        "input": "PlayStation 4",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Mars Reconnaissance Orbiter",
+        "output": "Denver"
+    },
+    {
+        "input": "Renault 20/30",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Virgin Atlantic GlobalFlyer",
+        "output": "Mojave"
+    },
+    {
+        "input": "Renault Zoe",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Orbital Sciences X-34",
+        "output": "Dulles"
+    },
+    {
+        "input": "Honda HR-V",
+        "output": "Minato"
+    },
+    {
+        "input": "Citro\u00ebn Traction Avant",
+        "output": "PSA Poissy Plant"
+    },
+    {
+        "input": "Saab J 21R",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Iveco Stralis",
+        "output": "Turin"
+    },
+    {
+        "input": "Soyuz MS-06",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Suzuki Ignis",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "Peugeot 108",
+        "output": "Poissy"
+    },
+    {
+        "input": "Lotus Elise",
+        "output": "Hethel"
+    },
+    {
+        "input": "Volvo S40",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Soyuz TMA-11M",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Peugeot 2008",
+        "output": "Poissy"
+    },
+    {
+        "input": "Toyota 86",
+        "output": "Ebisu"
+    },
+    {
+        "input": "Neo Geo Pocket",
+        "output": "Yodogawa-ku"
+    },
+    {
+        "input": "Android TV",
+        "output": "Googleplex"
+    },
+    {
+        "input": "Genesis",
+        "output": "Denver"
+    },
+    {
+        "input": "Fiat X1/9",
+        "output": "Turin"
+    },
+    {
+        "input": "Renault Modus",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Ohio-class submarine",
+        "output": "Groton"
+    },
+    {
+        "input": "Motorola 68000",
+        "output": "Schaumburg"
+    },
+    {
+        "input": "MG 17",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "M24 Chaffee",
+        "output": "Detroit"
+    },
+    {
+        "input": "BMW 5 Series Gran Turismo",
+        "output": "Munich"
+    },
+    {
+        "input": "Ford Edge",
+        "output": "Dearborn"
+    },
+    {
+        "input": "T-27",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Opel Karl",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Nokia 5500 Sport",
+        "output": "Espoo"
+    },
+    {
+        "input": "Porsche 944",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Caproni Campini N.1",
+        "output": "Milan"
+    },
+    {
+        "input": "Dassault nEUROn",
+        "output": "Paris"
+    },
+    {
+        "input": "Makarov PM",
+        "output": "Izhevsk"
+    },
+    {
+        "input": "Hy\u016bga",
+        "output": "Minato"
+    },
+    {
+        "input": "Falcon 9 Block 5",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "Cheetos",
+        "output": "Budapest"
+    },
+    {
+        "input": "Windows 11",
+        "output": "Redmond"
+    },
+    {
+        "input": "Jaguar XE",
+        "output": "Coventry"
+    },
+    {
+        "input": "Automotrice \u00e0 grande vitesse",
+        "output": "Saint-Ouen-sur-Seine"
+    },
+    {
+        "input": "Elon Musk's Tesla Roadster",
+        "output": "Austin"
+    },
+    {
+        "input": "Chevrolet Caprice",
+        "output": "Detroit"
+    },
+    {
+        "input": "Kuiper Airborne Observatory",
+        "output": "Burbank"
+    },
+    {
+        "input": "Ferrari Berlinetta Boxer",
+        "output": "Maranello"
+    },
+    {
+        "input": "Amiga CD32",
+        "output": "West Chester"
+    },
+    {
+        "input": "Spirit of St. Louis",
+        "output": "Springfield"
+    },
+    {
+        "input": "PlayStation",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Intermediate eXperimental Vehicle",
+        "output": "Cannes"
+    },
+    {
+        "input": "Opel Antara",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "IS-2",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "R-23",
+        "output": "Moscow"
+    },
+    {
+        "input": "Renault Kwid",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "International Cometary Explorer",
+        "output": "San Antonio"
+    },
+    {
+        "input": "Porsche Cayman",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "TEC-9",
+        "output": "Miami"
+    },
+    {
+        "input": "Nexus 7 2nd Gen",
+        "output": "Taipei"
+    },
+    {
+        "input": "An-71",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Midway-class aircraft carrier",
+        "output": "Newport News"
+    },
+    {
+        "input": "RIM-162 ESSM",
+        "output": "Waltham"
+    },
+    {
+        "input": "Apple Pippin",
+        "output": "Tait\u014d-ku"
+    },
+    {
+        "input": "Embraer C-390 Millennium",
+        "output": "S\u00e3o Jos\u00e9 dos Campos"
+    },
+    {
+        "input": "Ford RS200",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Lambretta",
+        "output": "Milan"
+    },
+    {
+        "input": "Mistral-class amphibious assault ship",
+        "output": "Oslo"
+    },
+    {
+        "input": "Peugeot 309",
+        "output": "Poissy"
+    },
+    {
+        "input": "Aston Martin One-77",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Barrett M82",
+        "output": "Christiana"
+    },
+    {
+        "input": "Trident",
+        "output": "Denver"
+    },
+    {
+        "input": "Luna 3",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Mercedes-Benz GLK-Class",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Henschel Hs 293",
+        "output": "Kassel"
+    },
+    {
+        "input": "Soyuz MS-15",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Microvision",
+        "output": "East Longmeadow"
+    },
+    {
+        "input": "BMW X2",
+        "output": "Munich"
+    },
+    {
+        "input": "Stella Artois",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Sukhoi Su-31",
+        "output": "Moscow"
+    },
+    {
+        "input": "Nokia X6",
+        "output": "Espoo"
+    },
+    {
+        "input": "Ford Sierra",
+        "output": "Cologne"
+    },
+    {
+        "input": "Heckler & Koch HK417",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Hetzer",
+        "output": "Prague"
+    },
+    {
+        "input": "bleomycin",
+        "output": "New York City"
+    },
+    {
+        "input": "Fiat 132",
+        "output": "Turin"
+    },
+    {
+        "input": "7.65\u00d721mm Parabellum",
+        "output": "Karlsruhe"
+    },
+    {
+        "input": "Roma",
+        "output": "Trieste"
+    },
+    {
+        "input": "MV Do\u00f1a Paz",
+        "output": "Kobe"
+    },
+    {
+        "input": "Type 96 tank",
+        "output": "Baotou"
+    },
+    {
+        "input": "Rheinmetall-Borsig MK 108",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Ferrari TR",
+        "output": "Maranello"
+    },
+    {
+        "input": "HiRISE",
+        "output": "Boulder"
+    },
+    {
+        "input": "\u0160koda Rapid (2012-)",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Commodore PET",
+        "output": "West Chester"
+    },
+    {
+        "input": "Audi F103",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Char B1",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "BMW M4",
+        "output": "Munich"
+    },
+    {
+        "input": "Daewoo Nubira",
+        "output": "Detroit"
+    },
+    {
+        "input": "Bermudian dollar",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Soyuz 14",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Peugeot 208",
+        "output": "Poissy"
+    },
+    {
+        "input": "Admiral Scheer",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Atlantis",
+        "output": "United States"
+    },
+    {
+        "input": "Nokia N78",
+        "output": "Espoo"
+    },
+    {
+        "input": "Renault 4CV",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "BMW X5",
+        "output": "Munich"
+    },
+    {
+        "input": "Carden Loyd tankette",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Diamond Princess",
+        "output": "Minato"
+    },
+    {
+        "input": "BeppoSAX",
+        "output": "Naples"
+    },
+    {
+        "input": "X-15",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "BMPT Terminator",
+        "output": "Nizhny Tagil"
+    },
+    {
+        "input": "Kia Sorento",
+        "output": "Seoul"
+    },
+    {
+        "input": "Windows Phone 8.1",
+        "output": "Redmond"
+    },
+    {
+        "input": "Toyota Yaris",
+        "output": "Toyota"
+    },
+    {
+        "input": "Type 56",
+        "output": "Beijing"
+    },
+    {
+        "input": "Kia Cerato",
+        "output": "Seoul"
+    },
+    {
+        "input": "UGM-27 Polaris",
+        "output": "Burbank"
+    },
+    {
+        "input": "Volkswagen Up!",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "USS Arleigh Burke",
+        "output": "Bath"
+    },
+    {
+        "input": "USS Monitor",
+        "output": "New York City"
+    },
+    {
+        "input": "Tatra T2",
+        "output": "Prague"
+    },
+    {
+        "input": "RMS Carpathia",
+        "output": "River Tyne"
+    },
+    {
+        "input": "McLaren MP4/4",
+        "output": "Woking"
+    },
+    {
+        "input": "\u0160koda Kamiq",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Nokia E63",
+        "output": "Espoo"
+    },
+    {
+        "input": "Nokia N900",
+        "output": "Espoo"
+    },
+    {
+        "input": "Tatra 77",
+        "output": "Kop\u0159ivnice"
+    },
+    {
+        "input": "SEAT Le\u00f3n",
+        "output": "Martorell"
+    },
+    {
+        "input": "Savoia-Marchetti SM.79 Sparviero",
+        "output": "Sesto Calende"
+    },
+    {
+        "input": "Lexus SC",
+        "output": "Toyota"
+    },
+    {
+        "input": "Mikoyan-Gurevich DIS",
+        "output": "Moscow"
+    },
+    {
+        "input": "Avangard Missile Nuclear",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "K-152 Nerpa",
+        "output": "Komsomolsk-on-Amur"
+    },
+    {
+        "input": "Pentium",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Safir",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Messerschmitt Me 210",
+        "output": "Augsburg"
+    },
+    {
+        "input": "Iveco LMV",
+        "output": "Turin"
+    },
+    {
+        "input": "MIM-104 Patriot",
+        "output": "Waltham"
+    },
+    {
+        "input": "PC-9",
+        "output": "Stans"
+    },
+    {
+        "input": "3.7 cm PaK 36",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Kia Venga",
+        "output": "Seoul"
+    },
+    {
+        "input": "PT-91 Twardy",
+        "output": "Gliwice"
+    },
+    {
+        "input": "Bell UH-1Y Venom",
+        "output": "Buffalo"
+    },
+    {
+        "input": "Mazda MX-30",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Peugeot 1007",
+        "output": "Poissy"
+    },
+    {
+        "input": "Elbit Hermes 450",
+        "output": "Haifa"
+    },
+    {
+        "input": "Aruban florin",
+        "output": "Haarlem"
+    },
+    {
+        "input": "Apple III",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Los Angeles-class submarine",
+        "output": "Newport News"
+    },
+    {
+        "input": "Tata Nano",
+        "output": "Mumbai"
+    },
+    {
+        "input": "Tesla Model S",
+        "output": "Austin"
+    },
+    {
+        "input": "V-2 rocket",
+        "output": "Berlin"
+    },
+    {
+        "input": "Volkswagen Amarok",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "LG Optimus G",
+        "output": "Seoul"
+    },
+    {
+        "input": "Henschel Hs 126",
+        "output": "Kassel"
+    },
+    {
+        "input": "Sukhoi Su-11",
+        "output": "Moscow"
+    },
+    {
+        "input": "Nokia 1011",
+        "output": "Espoo"
+    },
+    {
+        "input": "Japanese cruiser Tone",
+        "output": "Minato"
+    },
+    {
+        "input": "Ferrari F2012",
+        "output": "Maranello"
+    },
+    {
+        "input": "2S19 Msta",
+        "output": "Omsk"
+    },
+    {
+        "input": "\u0160koda Scala",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Fiat Stilo",
+        "output": "Turin"
+    },
+    {
+        "input": "Dune 2000",
+        "output": "Las Vegas"
+    },
+    {
+        "input": "R-14 Chusovaya",
+        "output": "Omsk"
+    },
+    {
+        "input": "Volkswagen Crafter",
+        "output": "Hanover"
+    },
+    {
+        "input": "Terra",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Extra EA-300",
+        "output": "H\u00fcnxe"
+    },
+    {
+        "input": "De Zeven Provinci\u00ebn-class frigate",
+        "output": "Vlissingen"
+    },
+    {
+        "input": "Pilatus PC-7",
+        "output": "Stans"
+    },
+    {
+        "input": "Chrysler 180",
+        "output": "Turin"
+    },
+    {
+        "input": "Ararat",
+        "output": "Yerevan"
+    },
+    {
+        "input": "Gerald R. Ford-class aircraft carrier",
+        "output": "Newport News"
+    },
+    {
+        "input": "Tajikistani somoni",
+        "output": "Moscow"
+    },
+    {
+        "input": "Peugeot 407",
+        "output": "Poissy"
+    },
+    {
+        "input": "Audi Quattro",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Buick Riviera",
+        "output": "Detroit"
+    },
+    {
+        "input": "Martin Marietta X-24",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Hyundai Grandeur",
+        "output": "Seoul"
+    },
+    {
+        "input": "Fermi Gamma-ray Space Telescope",
+        "output": "Fairfax"
+    },
+    {
+        "input": "Messerschmitt P.1101",
+        "output": "Augsburg"
+    },
+    {
+        "input": "Daewoo Matiz",
+        "output": "Detroit"
+    },
+    {
+        "input": "Audi RS6",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Renault Latitude",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Aston Martin DB5",
+        "output": "Gaydon"
+    },
+    {
+        "input": "iPhone 12",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Fairchild Channel F",
+        "output": "Mountain View"
+    },
+    {
+        "input": "Pentium D",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "PlayStation Portable",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Harvard Mark I",
+        "output": "Armonk"
+    },
+    {
+        "input": "USS Oklahoma",
+        "output": "Camden"
+    },
+    {
+        "input": "SMS Schleswig-Holstein",
+        "output": "Kiel"
+    },
+    {
+        "input": "HMS Barham",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Ford Cougar",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Ford Mondeo",
+        "output": "Cologne"
+    },
+    {
+        "input": "Nokia 5310 XpressMusic",
+        "output": "Espoo"
+    },
+    {
+        "input": "R-2",
+        "output": "Dnipro"
+    },
+    {
+        "input": "Neubaufahrzeug",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "BMW E9",
+        "output": "Munich"
+    },
+    {
+        "input": "Pocophone F1",
+        "output": "Beijing"
+    },
+    {
+        "input": "SMS Viribus Unitis",
+        "output": "Trieste"
+    },
+    {
+        "input": "Toyota iQ",
+        "output": "Toyota"
+    },
+    {
+        "input": "Dom P\u00e9rignon",
+        "output": "\u00c9pernay"
+    },
+    {
+        "input": "Airbus A400M Atlas",
+        "output": "Madrid"
+    },
+    {
+        "input": "9M119 Svir",
+        "output": "Kovrov"
+    },
+    {
+        "input": "General Motors EV1",
+        "output": "Detroit"
+    },
+    {
+        "input": "Tallboy",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Heckler & Koch G11",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Venera 7",
+        "output": "Khimki"
+    },
+    {
+        "input": "Nokia 3410",
+        "output": "Espoo"
+    },
+    {
+        "input": "Nokia 2610",
+        "output": "Espoo"
+    },
+    {
+        "input": "Routemaster",
+        "output": "Southall"
+    },
+    {
+        "input": "Hyundai Stellar",
+        "output": "Seoul"
+    },
+    {
+        "input": "GAZ-21",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "Fairey Fulmar",
+        "output": "Hayes"
+    },
+    {
+        "input": "Bathyscaphe Trieste",
+        "output": "Trieste"
+    },
+    {
+        "input": "Fiat M14/41",
+        "output": "Genoa"
+    },
+    {
+        "input": "SMS Bayern",
+        "output": "Kiel"
+    },
+    {
+        "input": "Admiral Graf Spee",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Toyota FJ Cruiser",
+        "output": "Toyota"
+    },
+    {
+        "input": "Tesla Model Y",
+        "output": "Austin"
+    },
+    {
+        "input": "Summit",
+        "output": "Armonk"
+    },
+    {
+        "input": "Zumwalt-class destroyer",
+        "output": "Newport News"
+    },
+    {
+        "input": "Hyundai ix20",
+        "output": "Seoul"
+    },
+    {
+        "input": "Peugeot 406",
+        "output": "Poissy"
+    },
+    {
+        "input": "Remington Model 700",
+        "output": "Madison"
+    },
+    {
+        "input": "F100",
+        "output": "Longueuil"
+    },
+    {
+        "input": "MS St. Louis",
+        "output": "Vegesack"
+    },
+    {
+        "input": "Shenyang J-11",
+        "output": "Shenyang"
+    },
+    {
+        "input": "Saleen S7",
+        "output": "Corona"
+    },
+    {
+        "input": "RT-2PM2 Topol-M",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "Vespa",
+        "output": "Pontedera"
+    },
+    {
+        "input": "Ever Given",
+        "output": "Imabari"
+    },
+    {
+        "input": "Volkswagen Type 3",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Yak-36",
+        "output": "Moscow"
+    },
+    {
+        "input": "Nokia Lumia 800",
+        "output": "Espoo"
+    },
+    {
+        "input": "V\u00e9hicule blind\u00e9 de combat d'infanterie",
+        "output": "Versailles"
+    },
+    {
+        "input": "Queen Elizabeth 2",
+        "output": "Clydebank"
+    },
+    {
+        "input": "UAZ-452",
+        "output": "Ulyanovsk"
+    },
+    {
+        "input": "Mercury Grand Marquis",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Cougar",
+        "output": "Ladson"
+    },
+    {
+        "input": "VAX",
+        "output": "Maynard"
+    },
+    {
+        "input": "Yugo",
+        "output": "Kragujevac"
+    },
+    {
+        "input": "RBS 70",
+        "output": "Karlskoga"
+    },
+    {
+        "input": "MGM-140 ATACMS",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Giuseppe Garibaldi",
+        "output": "Trieste"
+    },
+    {
+        "input": "Google Pixel",
+        "output": "Googleplex"
+    },
+    {
+        "input": "MacBook Air",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Fiat 508",
+        "output": "Turin"
+    },
+    {
+        "input": "Fairey Albacore",
+        "output": "Hayes"
+    },
+    {
+        "input": "ZIL-131",
+        "output": "Moscow"
+    },
+    {
+        "input": "Ford Flex",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Luna 12",
+        "output": "Khimki"
+    },
+    {
+        "input": "Boeing 80",
+        "output": "Chicago"
+    },
+    {
+        "input": "BMW E87",
+        "output": "Munich"
+    },
+    {
+        "input": "Horizon-class frigate",
+        "output": "Trieste"
+    },
+    {
+        "input": "U-81",
+        "output": "Vegesack"
+    },
+    {
+        "input": "Chevrolet Express",
+        "output": "Detroit"
+    },
+    {
+        "input": "Hyundai Veloster",
+        "output": "Seoul"
+    },
+    {
+        "input": "M18 Hellcat",
+        "output": "Detroit"
+    },
+    {
+        "input": "Luna 1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Madsen machine gun",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Rolls-Royce Silver Shadow",
+        "output": "Chichester"
+    },
+    {
+        "input": "SR-25",
+        "output": "Titusville"
+    },
+    {
+        "input": "Heckler & Koch MP7",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Apple Lisa",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Boeing 747-400",
+        "output": "Chicago"
+    },
+    {
+        "input": "Mercedes-Benz W140",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Honda CR-V",
+        "output": "Minato"
+    },
+    {
+        "input": "Boeing X-48",
+        "output": "Chicago"
+    },
+    {
+        "input": "Kh-22",
+        "output": "Moscow Oblast"
+    },
+    {
+        "input": "Blue Ghost Mission 1",
+        "output": "Cedar Park"
+    },
+    {
+        "input": "IBM Simon",
+        "output": "Chiyoda-ku"
+    },
+    {
+        "input": "Morane-Saulnier M.S.406",
+        "output": "Paris"
+    },
+    {
+        "input": "Compton Gamma Ray Observatory",
+        "output": "Euclid"
+    },
+    {
+        "input": "RQ-170 Sentinel",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Chevrolet Trailblazer",
+        "output": "Detroit"
+    },
+    {
+        "input": "LG G6",
+        "output": "Seoul"
+    },
+    {
+        "input": "Chevrolet Silverado",
+        "output": "Detroit"
+    },
+    {
+        "input": "Nokia 3650",
+        "output": "Espoo"
+    },
+    {
+        "input": "Kiev",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "SEAT C\u00f3rdoba",
+        "output": "Martorell"
+    },
+    {
+        "input": "T-35",
+        "output": "Kharkiv"
+    },
+    {
+        "input": "Lamborghini Espada",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Ford Fusion Americas",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Chevrolet El Camino",
+        "output": "Detroit"
+    },
+    {
+        "input": "\u0160koda Octavia",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "PTRD-41",
+        "output": "Kovrov"
+    },
+    {
+        "input": "Baykar Bayraktar Ak\u0131nc\u0131",
+        "output": "Bah\u00e7e\u015fehir"
+    },
+    {
+        "input": "M60",
+        "output": "Reston"
+    },
+    {
+        "input": "IBM System/360",
+        "output": "Armonk"
+    },
+    {
+        "input": "Accuracy International Arctic Warfare",
+        "output": "Portsmouth"
+    },
+    {
+        "input": "Lamborghini Miura",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "SS Bremen",
+        "output": "Bremen"
+    },
+    {
+        "input": "Chimay",
+        "output": "Baileux"
+    },
+    {
+        "input": "Quest Joint Airlock",
+        "output": "Chicago"
+    },
+    {
+        "input": "Game Gear",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "Lenin",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Intel 80188",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "HMS Argus",
+        "output": "Parkhead"
+    },
+    {
+        "input": "\u0160koda Citigo",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Renault Fr\u00e9gate",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "COROT",
+        "output": "Nanterre"
+    },
+    {
+        "input": "Peregrine Mission One",
+        "output": "Pittsburgh"
+    },
+    {
+        "input": "Audi Q8",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Sukhoi Su-26",
+        "output": "Moscow"
+    },
+    {
+        "input": "Heinkel He 178",
+        "output": "Warnem\u00fcnde"
+    },
+    {
+        "input": "Honda HA-420 HondaJet",
+        "output": "Greensboro"
+    },
+    {
+        "input": "Boeing 367-80",
+        "output": "Chicago"
+    },
+    {
+        "input": "\u0160koda 100",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "crawler-transporter",
+        "output": "Marion"
+    },
+    {
+        "input": "Volvo S60",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Volvo XC60",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "L6/40",
+        "output": "Turin"
+    },
+    {
+        "input": "UR-100",
+        "output": "Reutov"
+    },
+    {
+        "input": "FN MAG",
+        "output": "Herstal"
+    },
+    {
+        "input": "Colt Single Action Army",
+        "output": "West Hartford"
+    },
+    {
+        "input": "Zvezda",
+        "output": "Korolyov"
+    },
+    {
+        "input": "BMW Z3",
+        "output": "Munich"
+    },
+    {
+        "input": "Comac C909",
+        "output": "Shanghai"
+    },
+    {
+        "input": "Suzuki Swift",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "Peugeot 3008",
+        "output": "Poissy"
+    },
+    {
+        "input": "Benz Velo",
+        "output": "Mannheim"
+    },
+    {
+        "input": "Nokia 5800 XpressMusic",
+        "output": "Espoo"
+    },
+    {
+        "input": "De Tomaso Pantera",
+        "output": "Modena"
+    },
+    {
+        "input": "Toyota 4Runner",
+        "output": "Toyota"
+    },
+    {
+        "input": "Audi V8",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Barcelona chair",
+        "output": "East Greenville"
+    },
+    {
+        "input": "Ilyushin Il-103",
+        "output": "Moscow"
+    },
+    {
+        "input": "Destiny",
+        "output": "Chicago"
+    },
+    {
+        "input": "ARA San Juan",
+        "output": "Emden"
+    },
+    {
+        "input": "Otomat",
+        "output": "Le Plessis-Robinson"
+    },
+    {
+        "input": "Fiat Dobl\u00f2",
+        "output": "Turin"
+    },
+    {
+        "input": "Jericho 941",
+        "output": "Ramat HaSharon"
+    },
+    {
+        "input": "Siemens Vectron",
+        "output": "Munich"
+    },
+    {
+        "input": "USS Boxer",
+        "output": "Newport News"
+    },
+    {
+        "input": "XM8 rifle",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Suzaku",
+        "output": "Minato"
+    },
+    {
+        "input": "Volkswagen Phaeton",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Heinkel He 219",
+        "output": "Warnem\u00fcnde"
+    },
+    {
+        "input": "Citro\u00ebn DS3",
+        "output": "Rueil-Malmaison"
+    },
+    {
+        "input": "Colt Python",
+        "output": "West Hartford"
+    },
+    {
+        "input": "Soyuz 23",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Macintosh Classic",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Suzuki Splash",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "Mars Orbiter Mission",
+        "output": "Bengaluru"
+    },
+    {
+        "input": "Nokia Lumia 1320",
+        "output": "Espoo"
+    },
+    {
+        "input": "Kia Stonic",
+        "output": "Seoul"
+    },
+    {
+        "input": "Flettner Fl 282",
+        "output": "Berlin"
+    },
+    {
+        "input": "Daihatsu Terios",
+        "output": "Osaka"
+    },
+    {
+        "input": "NS Savannah",
+        "output": "Camden"
+    },
+    {
+        "input": "Toyota Land Cruiser",
+        "output": "Toyota"
+    },
+    {
+        "input": "HMS Repulse",
+        "output": "Clydebank"
+    },
+    {
+        "input": "IAI Harop",
+        "output": "Lod"
+    },
+    {
+        "input": "BMW iX",
+        "output": "Munich"
+    },
+    {
+        "input": "Windows Vista",
+        "output": "Redmond"
+    },
+    {
+        "input": "Z 42",
+        "output": "Otrokovice"
+    },
+    {
+        "input": "Mercedes-Benz W211",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "152 mm howitzer-gun M1937 (ML-20)",
+        "output": "Perm"
+    },
+    {
+        "input": "Akatsuki",
+        "output": "Fuch\u016b"
+    },
+    {
+        "input": "Atari Lynx",
+        "output": "Sunnyvale"
+    },
+    {
+        "input": "Porsche 968",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Subaru Tribeca",
+        "output": "Ebisu"
+    },
+    {
+        "input": "Toyota Mark X",
+        "output": "Toyota"
+    },
+    {
+        "input": "Fiat 124 Spider",
+        "output": "Turin"
+    },
+    {
+        "input": "SEAT Altea",
+        "output": "Martorell"
+    },
+    {
+        "input": "Shenzhou 11",
+        "output": "Haidian District"
+    },
+    {
+        "input": "Japanese aircraft carrier Ry\u016bj\u014d",
+        "output": "Minato"
+    },
+    {
+        "input": "Land Rover Discovery Sport",
+        "output": "Coventry"
+    },
+    {
+        "input": "Alfa Romeo GTV and Spider",
+        "output": "Turin"
+    },
+    {
+        "input": "Peugeot 4007",
+        "output": "Poissy"
+    },
+    {
+        "input": "Mazda BT-50",
+        "output": "Yokohama"
+    },
+    {
+        "input": "Zastava M21",
+        "output": "Kragujevac"
+    },
+    {
+        "input": "Lexus RX",
+        "output": "Toyota"
+    },
+    {
+        "input": "Mk 19",
+        "output": "Reston"
+    },
+    {
+        "input": "Nokia 1100",
+        "output": "Espoo"
+    },
+    {
+        "input": "Apple M3",
+        "output": "Hsinchu Science Park"
+    },
+    {
+        "input": "Falcon 7X",
+        "output": "Paris"
+    },
+    {
+        "input": "Kia Rio",
+        "output": "Seoul"
+    },
+    {
+        "input": "Mark V tank",
+        "output": "Saltley"
+    },
+    {
+        "input": "Pantsir-S1",
+        "output": "Ulyanovsk"
+    },
+    {
+        "input": "Endeavour",
+        "output": "United States"
+    },
+    {
+        "input": "Netherlands Antillean guilder",
+        "output": "Haarlem"
+    },
+    {
+        "input": "RIM-116 Rolling Airframe Missile",
+        "output": "Waltham"
+    },
+    {
+        "input": "\u0160koda Karoq",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Alfa Romeo 147",
+        "output": "Turin"
+    },
+    {
+        "input": "Antonov An-225 Mriya",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Harbin Z-19 Black Whirlwind",
+        "output": "Harbin"
+    },
+    {
+        "input": "Volkswagen Golf Mk1",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Kia morning",
+        "output": "Seoul"
+    },
+    {
+        "input": "BMW Z1",
+        "output": "Munich"
+    },
+    {
+        "input": "DShK",
+        "output": "Tula"
+    },
+    {
+        "input": "Magic Mouse",
+        "output": "Cupertino"
+    },
+    {
+        "input": "NSU Ro 80",
+        "output": "Neckarsulm"
+    },
+    {
+        "input": "Mitsubishi Triton",
+        "output": "Minato"
+    },
+    {
+        "input": "M13/40",
+        "output": "Turin"
+    },
+    {
+        "input": "Ford Quadricycle",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Fiat Tipo",
+        "output": "Turin"
+    },
+    {
+        "input": "ADGZ",
+        "output": "Steyr"
+    },
+    {
+        "input": "Tesla Model X",
+        "output": "Austin"
+    },
+    {
+        "input": "Pentium III",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Nikon D300",
+        "output": "Minato"
+    },
+    {
+        "input": "Windows Nashville",
+        "output": "Redmond"
+    },
+    {
+        "input": "HMS Illustrious",
+        "output": "Millbank Tower"
+    },
+    {
+        "input": "Lockheed Martin X-33",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Lexus LS",
+        "output": "Toyota"
+    },
+    {
+        "input": "Toyota Avensis",
+        "output": "Toyota"
+    },
+    {
+        "input": "Voskhod",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Lamborghini Estoque",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Enzo Ferrari",
+        "output": "Maranello"
+    },
+    {
+        "input": "Quarter Pounder",
+        "output": "Chicago"
+    },
+    {
+        "input": "EE-T1 Os\u00f3rio",
+        "output": "S\u00e3o Jos\u00e9 dos Campos"
+    },
+    {
+        "input": "H175",
+        "output": "Marignane"
+    },
+    {
+        "input": "Mikoyan Project 1.44",
+        "output": "Moscow"
+    },
+    {
+        "input": "Hyundai Tucson",
+        "output": "Seoul"
+    },
+    {
+        "input": "Nokia Lumia 610",
+        "output": "Taipei"
+    },
+    {
+        "input": "Aston Martin Vanquish",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Chinese aircraft carrier Fujian",
+        "output": "Changxing Island"
+    },
+    {
+        "input": "iQue Player",
+        "output": "Suzhou"
+    },
+    {
+        "input": "Breda Ba.88 Lince",
+        "output": "Milan"
+    },
+    {
+        "input": "Soyuz TMA-22",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Mercedes-Benz SLR McLaren",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Amazon Kindle",
+        "output": "New Taipei"
+    },
+    {
+        "input": "USS Gerald R. Ford",
+        "output": "Newport News"
+    },
+    {
+        "input": "PSP Go",
+        "output": "Tokyo"
+    },
+    {
+        "input": "X-44 MANTA",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Nexus 7",
+        "output": "Taipei"
+    },
+    {
+        "input": "British Aerospace Jetstream 31",
+        "output": "Farnborough"
+    },
+    {
+        "input": "Lamborghini Urus",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Supermarine Walrus",
+        "output": "Woolston"
+    },
+    {
+        "input": "USS America",
+        "output": "Newport News"
+    },
+    {
+        "input": "Glock 17",
+        "output": "Ferlach"
+    },
+    {
+        "input": "Launch Vehicle Mark III",
+        "output": "Bengaluru"
+    },
+    {
+        "input": "9K114 Shturm",
+        "output": "Kolomna"
+    },
+    {
+        "input": "Mitsubishi X-2 Shinshin",
+        "output": "Minato"
+    },
+    {
+        "input": "Nokia Lumia 830",
+        "output": "Espoo"
+    },
+    {
+        "input": "Honda Stream",
+        "output": "Minato"
+    },
+    {
+        "input": "UAZ-469",
+        "output": "Ulyanovsk"
+    },
+    {
+        "input": "Ad5-nCoV",
+        "output": "Moscow"
+    },
+    {
+        "input": "DeLorean DMC-12",
+        "output": "Detroit"
+    },
+    {
+        "input": "Alstom Citadis",
+        "output": "Saint-Ouen-sur-Seine"
+    },
+    {
+        "input": "Nokia 3110 classic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Tyazhely Sputnik",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Intel 8080",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Big Mac",
+        "output": "Chicago"
+    },
+    {
+        "input": "iPod Mini",
+        "output": "Cupertino"
+    },
+    {
+        "input": "McLaren Senna",
+        "output": "McLaren Technology Centre"
+    },
+    {
+        "input": "BMW X1",
+        "output": "Munich"
+    },
+    {
+        "input": "Google Nexus",
+        "output": "Googleplex"
+    },
+    {
+        "input": "Scharnhorst-class battleship",
+        "output": "Berlin"
+    },
+    {
+        "input": "Deep Blue",
+        "output": "Armonk"
+    },
+    {
+        "input": "RS-28 Sarmat",
+        "output": "Krasnoyarsk"
+    },
+    {
+        "input": "SEAT Inca",
+        "output": "Martorell"
+    },
+    {
+        "input": "LG G3",
+        "output": "Seoul"
+    },
+    {
+        "input": "Sega CD",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "USS Dwight D. Eisenhower",
+        "output": "Newport News"
+    },
+    {
+        "input": "Tirpitz",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Mauser C96",
+        "output": "Isny im Allg\u00e4u"
+    },
+    {
+        "input": "Nokia N85",
+        "output": "Espoo"
+    },
+    {
+        "input": "Sukhoi Su-75 Checkmate",
+        "output": "Moscow"
+    },
+    {
+        "input": "R-35",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "BMW i8",
+        "output": "Munich"
+    },
+    {
+        "input": "USS South Dakota",
+        "output": "Camden"
+    },
+    {
+        "input": "R-77",
+        "output": "Moscow"
+    },
+    {
+        "input": "Ferrari F1-2000",
+        "output": "Maranello"
+    },
+    {
+        "input": "Visby-class corvette",
+        "output": "Malm\u00f6"
+    },
+    {
+        "input": "SNCF TGV POS",
+        "output": "Saint-Ouen-sur-Seine"
+    },
+    {
+        "input": "2K22 Tunguska",
+        "output": "Tula"
+    },
+    {
+        "input": "Luna 9",
+        "output": "Khimki"
+    },
+    {
+        "input": "Honda CBR1100XX",
+        "output": "Minato"
+    },
+    {
+        "input": "Soyuz TM-31",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Kia Sephia",
+        "output": "Seoul"
+    },
+    {
+        "input": "Zhurong",
+        "output": "Beijing"
+    },
+    {
+        "input": "IBM PCjr",
+        "output": "Thousand Oaks"
+    },
+    {
+        "input": "Volkswagen K70",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Opel Sintra",
+        "output": "Detroit"
+    },
+    {
+        "input": "Ferrari F10",
+        "output": "Maranello"
+    },
+    {
+        "input": "Renault Avantime",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "USS Mississippi",
+        "output": "Falls Church"
+    },
+    {
+        "input": "Nokia 2600",
+        "output": "Espoo"
+    },
+    {
+        "input": "HTC One X",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Watson",
+        "output": "Armonk"
+    },
+    {
+        "input": "McLaren P1",
+        "output": "McLaren Technology Centre"
+    },
+    {
+        "input": "Hummer H2",
+        "output": "Detroit"
+    },
+    {
+        "input": "Kia Carens",
+        "output": "Seoul"
+    },
+    {
+        "input": "Admiral Kuznetsov",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "Kliper",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Koenigsegg CCX",
+        "output": "\u00c4ngelholm"
+    },
+    {
+        "input": "Venera 6",
+        "output": "Khimki"
+    },
+    {
+        "input": "Rockwell-MBB X-31",
+        "output": "United States"
+    },
+    {
+        "input": "Soyuz MS-01",
+        "output": "Korolyov"
+    },
+    {
+        "input": "SMS Emden",
+        "output": "Gda\u0144sk"
+    },
+    {
+        "input": "Olympic-class ocean liner",
+        "output": "Belfast"
+    },
+    {
+        "input": "Luna 11",
+        "output": "Khimki"
+    },
+    {
+        "input": "Renault 6",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Volvo 140 Series",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Amstrad GX4000",
+        "output": "Brentwood"
+    },
+    {
+        "input": "Boeing E-7 Wedgetail",
+        "output": "Chicago"
+    },
+    {
+        "input": "FP-45 Liberator",
+        "output": "Detroit"
+    },
+    {
+        "input": "Luna 14",
+        "output": "Khimki"
+    },
+    {
+        "input": "MG 08",
+        "output": "Karlsruhe"
+    },
+    {
+        "input": "Chuck Taylor All-Stars",
+        "output": "Boston"
+    },
+    {
+        "input": "USS Hornet",
+        "output": "Newport News"
+    },
+    {
+        "input": "Fiat Bravo/Brava",
+        "output": "Turin"
+    },
+    {
+        "input": "Buick Regal",
+        "output": "Detroit"
+    },
+    {
+        "input": "Nokia 2110",
+        "output": "Espoo"
+    },
+    {
+        "input": "Soyuz MS-10",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Nokia 5130 XpressMusic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Hayabusa",
+        "output": "Fuch\u016b"
+    },
+    {
+        "input": "FN 5.7\u00d728mm",
+        "output": "Herstal"
+    },
+    {
+        "input": "USS John C. Stennis",
+        "output": "Newport News"
+    },
+    {
+        "input": "FN Five-seven",
+        "output": "Herstal"
+    },
+    {
+        "input": "Volkswagen Karmann Ghia",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Commodore VIC-20",
+        "output": "West Chester"
+    },
+    {
+        "input": "USS Randolph",
+        "output": "Newport News"
+    },
+    {
+        "input": "Lexus UX",
+        "output": "Toyota"
+    },
+    {
+        "input": "Rivella",
+        "output": "Rothrist"
+    },
+    {
+        "input": "Heckler & Koch PSG1",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Remington Model 870",
+        "output": "Madison"
+    },
+    {
+        "input": "USS Belleau Wood",
+        "output": "Camden"
+    },
+    {
+        "input": "Volvo V50",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Heineken",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "LG G2",
+        "output": "Seoul"
+    },
+    {
+        "input": "Ford Torino",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Bentley Azure",
+        "output": "Crewe"
+    },
+    {
+        "input": "Hyundai Terracan",
+        "output": "Seoul"
+    },
+    {
+        "input": "Audi Q4 e-tron",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Mercedes-Benz W210",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "MS Queen Victoria",
+        "output": "Trieste"
+    },
+    {
+        "input": "Porsche 997",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Type 59",
+        "output": "Baotou"
+    },
+    {
+        "input": "Kh-58",
+        "output": "Moscow Oblast"
+    },
+    {
+        "input": "Saab 9-5",
+        "output": "Trollh\u00e4ttan"
+    },
+    {
+        "input": "semtex",
+        "output": "Pardubice"
+    },
+    {
+        "input": "Mercedes-Benz EQS",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Daewoo Lanos",
+        "output": "Detroit"
+    },
+    {
+        "input": "European Pressurized Reactor",
+        "output": "Courbevoie"
+    },
+    {
+        "input": "Scharnhorst",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Soyuz MS-18",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Seversky P-35",
+        "output": "Farmingdale"
+    },
+    {
+        "input": "Fiat 500 Topolino",
+        "output": "Turin"
+    },
+    {
+        "input": "Kord machine gun",
+        "output": "Kovrov"
+    },
+    {
+        "input": "Saab 96",
+        "output": "Trollh\u00e4ttan"
+    },
+    {
+        "input": "USS Nimitz",
+        "output": "Newport News"
+    },
+    {
+        "input": "Exxon Valdez",
+        "output": "San Diego"
+    },
+    {
+        "input": "Morris Minor",
+        "output": "Birmingham"
+    },
+    {
+        "input": "Sukhoi T-4",
+        "output": "Moscow"
+    },
+    {
+        "input": "Heckler & Koch MP5",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Kia Niro",
+        "output": "Seoul"
+    },
+    {
+        "input": "T-1 Hatsutaka",
+        "output": "Shibuya-ku"
+    },
+    {
+        "input": "Volkswagen Eos",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Ferrari 812 Superfast",
+        "output": "Maranello"
+    },
+    {
+        "input": "Hetman Sahaydachniy",
+        "output": "Kerch"
+    },
+    {
+        "input": "Nexus 6",
+        "output": "Schaumburg"
+    },
+    {
+        "input": "Northrop F-20 Tigershark",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "Stephenson's Rocket",
+        "output": "Newcastle upon Tyne"
+    },
+    {
+        "input": "Toyota Tercel",
+        "output": "Toyota"
+    },
+    {
+        "input": "Toyota C-HR",
+        "output": "Toyota"
+    },
+    {
+        "input": "Pixel 5",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Admiral Gorshkov-class frigate",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "DF-41",
+        "output": "Fengtai District"
+    },
+    {
+        "input": "Panzerhaubitze 2000",
+        "output": "Munich"
+    },
+    {
+        "input": "FMA IA-63 Pampa",
+        "output": "C\u00f3rdoba"
+    },
+    {
+        "input": "T-60",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "Paraguayan guaran\u00ed",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "RQ-11 Raven",
+        "output": "Simi Valley"
+    },
+    {
+        "input": "Subaru Forester",
+        "output": "Ebisu"
+    },
+    {
+        "input": "InSight",
+        "output": "Denver"
+    },
+    {
+        "input": "Nokia 3310",
+        "output": "Espoo"
+    },
+    {
+        "input": "Shenzhou 13",
+        "output": "Haidian District"
+    },
+    {
+        "input": "Chevrolet Spark",
+        "output": "Detroit"
+    },
+    {
+        "input": "Tesla Cybertruck",
+        "output": "Austin"
+    },
+    {
+        "input": "Skylake",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Honda Super Cub",
+        "output": "Minato"
+    },
+    {
+        "input": "Mercedes-Benz EQC",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "RP FLIP",
+        "output": "Lake Oswego"
+    },
+    {
+        "input": "Kursk",
+        "output": "Severodvinsk"
+    },
+    {
+        "input": "PGM H\u00e9cate II",
+        "output": "Poisy"
+    },
+    {
+        "input": "Seawolf-class submarine",
+        "output": "Groton"
+    },
+    {
+        "input": "Columbia",
+        "output": "United States"
+    },
+    {
+        "input": "Chang'e 6",
+        "output": "Beijing"
+    },
+    {
+        "input": "Zastava M70",
+        "output": "Kragujevac"
+    },
+    {
+        "input": "Odyssey",
+        "output": "Knoxville"
+    },
+    {
+        "input": "XM25 CDTE",
+        "output": "Arlington County"
+    },
+    {
+        "input": "Mitsubishi GTO",
+        "output": "Minato"
+    },
+    {
+        "input": "Lotus Exige",
+        "output": "Hethel"
+    },
+    {
+        "input": "CZ 805 BREN",
+        "output": "Uhersk\u00fd Brod"
+    },
+    {
+        "input": "LZ 127 Graf Zeppelin",
+        "output": "Friedrichshafen"
+    },
+    {
+        "input": "Citro\u00ebn C4 Cactus",
+        "output": "PSA Poissy Plant"
+    },
+    {
+        "input": "Nokia 7110",
+        "output": "Espoo"
+    },
+    {
+        "input": "Bell AH-1Z Viper",
+        "output": "Fort Worth"
+    },
+    {
+        "input": "Fiat G.55 Centauro",
+        "output": "Turin"
+    },
+    {
+        "input": "Orion",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Volvo 850",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "RMS Empress of Ireland",
+        "output": "Govan"
+    },
+    {
+        "input": "Soyuz MS-17",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Commodore 128",
+        "output": "West Chester"
+    },
+    {
+        "input": "HMS Queen Mary",
+        "output": "Jarrow"
+    },
+    {
+        "input": "iPhone 14",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Nokia 5200",
+        "output": "Espoo"
+    },
+    {
+        "input": "Motorola 6800",
+        "output": "Schaumburg"
+    },
+    {
+        "input": "Porsche 356",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Beresheet",
+        "output": "Lod"
+    },
+    {
+        "input": "Sega Saturn",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "Udaloy-class destroyer",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Big N' Tasty",
+        "output": "Chicago"
+    },
+    {
+        "input": "Opel Tigra",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Elefant",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Wespe",
+        "output": "Wroc\u0142aw"
+    },
+    {
+        "input": "Renault 21",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Nokia E71",
+        "output": "Espoo"
+    },
+    {
+        "input": "Nokia Lumia 920 smartphone",
+        "output": "Espoo"
+    },
+    {
+        "input": "9K720 Iskander",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "Hyundai Equus",
+        "output": "Seoul"
+    },
+    {
+        "input": "Cruiser Mk I",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Kingda Ka",
+        "output": "Wollerau"
+    },
+    {
+        "input": "Volkswagen T-Cross",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Slava-class guided missile cruiser",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "Bentley Continental Flying Spur",
+        "output": "Crewe"
+    },
+    {
+        "input": "Dutch guilder",
+        "output": "Haarlem"
+    },
+    {
+        "input": "Chicken McNuggets",
+        "output": "Chicago"
+    },
+    {
+        "input": "German cruiser Leipzig",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Fairchild C-119 Flying Boxcar",
+        "output": "San Antonio"
+    },
+    {
+        "input": "Humvee",
+        "output": "South Bend"
+    },
+    {
+        "input": "Blue Brain Project",
+        "output": "Armonk"
+    },
+    {
+        "input": "HMS King George V",
+        "output": "Millbank Tower"
+    },
+    {
+        "input": "S-60",
+        "output": "Krasnoyarsk"
+    },
+    {
+        "input": "K\u00f6ln",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "Curta",
+        "output": "Mauren"
+    },
+    {
+        "input": "Hotchkiss M1909 Benet-Mercie machine gun",
+        "output": "France"
+    },
+    {
+        "input": "Nokia 2630",
+        "output": "Espoo"
+    },
+    {
+        "input": "Fritz X",
+        "output": "Witten"
+    },
+    {
+        "input": "Apple A13 Bionic",
+        "output": "Hsinchu Science Park"
+    },
+    {
+        "input": "Ferrari 458",
+        "output": "Maranello"
+    },
+    {
+        "input": "R-40",
+        "output": "Moscow"
+    },
+    {
+        "input": "Volkswagen ID.4",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Bell V-280 Valor",
+        "output": "Fort Worth"
+    },
+    {
+        "input": "BMW E23",
+        "output": "Munich"
+    },
+    {
+        "input": "Samsung Galaxy Note 5",
+        "output": "Samsung Town"
+    },
+    {
+        "input": "\u0160koda 120",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "AIM-7 Sparrow",
+        "output": "Waltham"
+    },
+    {
+        "input": "USS John F. Kennedy",
+        "output": "Newport News"
+    },
+    {
+        "input": "MBT LAW",
+        "output": "Belfast"
+    },
+    {
+        "input": "Apple TV",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Apple M1",
+        "output": "Hsinchu Science Park"
+    },
+    {
+        "input": "MQ-20 Avenger",
+        "output": "San Diego"
+    },
+    {
+        "input": "Intel 8085",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "P-270 Moskit",
+        "output": "Moscow Oblast"
+    },
+    {
+        "input": "9K111 Fagot",
+        "output": "Tula"
+    },
+    {
+        "input": "MXY-7 Ohka",
+        "output": "Yokosuka"
+    },
+    {
+        "input": "Clementine",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Nokia 1110",
+        "output": "Espoo"
+    },
+    {
+        "input": "M46",
+        "output": "Perm"
+    },
+    {
+        "input": "Heinkel He 176",
+        "output": "Warnem\u00fcnde"
+    },
+    {
+        "input": "Volvo V40",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Kilo-class submarine",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Pioneer 10",
+        "output": "Euclid"
+    },
+    {
+        "input": "P-800 Oniks",
+        "output": "Reutov"
+    },
+    {
+        "input": "Roland TR-909",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "TurboGrafx-16",
+        "output": "Tokyo"
+    },
+    {
+        "input": "HMS Hood",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Hotchkiss H35",
+        "output": "France"
+    },
+    {
+        "input": "iPhone 16",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Citro\u00ebn ZX",
+        "output": "Poissy"
+    },
+    {
+        "input": "Juan Carlos I",
+        "output": "Madrid"
+    },
+    {
+        "input": "McLaren 720S",
+        "output": "McLaren Technology Centre"
+    },
+    {
+        "input": "Tarawa-class amphibious assault ship",
+        "output": "Pascagoula"
+    },
+    {
+        "input": "USS Bunker Hill",
+        "output": "Quincy"
+    },
+    {
+        "input": "Bayraktar TB2",
+        "output": "Bah\u00e7e\u015fehir"
+    },
+    {
+        "input": "Ferrari F8",
+        "output": "Maranello"
+    },
+    {
+        "input": "Pentium Pro",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Windows 8",
+        "output": "Redmond"
+    },
+    {
+        "input": "Windows Phone 7",
+        "output": "Redmond"
+    },
+    {
+        "input": "GAZ-51",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "Vega",
+        "output": "Colleferro"
+    },
+    {
+        "input": "Renault Safrane",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Mars 2",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Rolls-Royce Phantom IV",
+        "output": "Derby"
+    },
+    {
+        "input": "Stratospheric Observatory for Infrared Astronomy",
+        "output": "Chicago"
+    },
+    {
+        "input": "Pioneer 0",
+        "output": "Euclid"
+    },
+    {
+        "input": "Queen Mary 2",
+        "output": "Brewster"
+    },
+    {
+        "input": "Rolls-Royce Griffon",
+        "output": "London"
+    },
+    {
+        "input": "X-2",
+        "output": "Buffalo"
+    },
+    {
+        "input": "Armata Universal Combat Platform",
+        "output": "Nizhny Tagil"
+    },
+    {
+        "input": "ColecoVision",
+        "output": "West Hartford"
+    },
+    {
+        "input": "Rogo\u017earski IK-3",
+        "output": "Belgrade"
+    },
+    {
+        "input": "BepiColombo",
+        "output": "Blagnac"
+    },
+    {
+        "input": "USS Lexington",
+        "output": "Quincy"
+    },
+    {
+        "input": "SEAT Toledo",
+        "output": "Martorell"
+    },
+    {
+        "input": "K-300P Bastion-P",
+        "output": "Reutov"
+    },
+    {
+        "input": "Saab 90",
+        "output": "Trollh\u00e4ttan"
+    },
+    {
+        "input": "VAZ-2101",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "\u0160koda Favorit",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Koenigsegg Agera",
+        "output": "\u00c4ngelholm"
+    },
+    {
+        "input": "Volvo 200 Series",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Nokia 6120 classic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Ford Crown Victoria",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Porsche 912",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Korabl-Sputnik 2",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Mazda2",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Type 62",
+        "output": "Harbin"
+    },
+    {
+        "input": "Luna 25",
+        "output": "Khimki"
+    },
+    {
+        "input": "AGM-114 Hellfire",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Falcon 9 Full Thrust",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "SS Great Britain",
+        "output": "River Avon"
+    },
+    {
+        "input": "Focke-Wulf Fw 187",
+        "output": "Bremen"
+    },
+    {
+        "input": "McDonnell Douglas MD-12",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Shipunov 2A42",
+        "output": "Tula"
+    },
+    {
+        "input": "USS Cole",
+        "output": "Pascagoula"
+    },
+    {
+        "input": "Costa Concordia",
+        "output": "Trieste"
+    },
+    {
+        "input": "Phoenix",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Daewoo Leganza",
+        "output": "Detroit"
+    },
+    {
+        "input": "Steyr M1912",
+        "output": "Sankt Ulrich bei Steyr"
+    },
+    {
+        "input": "Suzuki Jimny",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "USS Harry S. Truman",
+        "output": "Newport News"
+    },
+    {
+        "input": "M2 Bradley",
+        "output": "Farnborough"
+    },
+    {
+        "input": "izba",
+        "output": "Basel"
+    },
+    {
+        "input": "Windows Server 2003",
+        "output": "Redmond"
+    },
+    {
+        "input": "Type 10",
+        "output": "Minato"
+    },
+    {
+        "input": "Porsche 918 Spyder",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Airbus Beluga XL",
+        "output": "Blagnac"
+    },
+    {
+        "input": "Matilda II",
+        "output": "Newton-le-Willows"
+    },
+    {
+        "input": "Emden",
+        "output": "Wilhelmshaven"
+    },
+    {
+        "input": "U-30",
+        "output": "Bremen"
+    },
+    {
+        "input": "Tesla Roadster",
+        "output": "Austin"
+    },
+    {
+        "input": "Yorktown-class aircraft carrier",
+        "output": "Newport News"
+    },
+    {
+        "input": "M24 Sniper Weapon System",
+        "output": "Madison"
+    },
+    {
+        "input": "Mercedes-Benz Vaneo",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Kepler Space Telescope",
+        "output": "Boulder"
+    },
+    {
+        "input": "USS Nautilus",
+        "output": "Reston"
+    },
+    {
+        "input": "Hyundai Pony",
+        "output": "Seoul"
+    },
+    {
+        "input": "Solomon Islands dollar",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Messerschmitt Me 264",
+        "output": "Augsburg"
+    },
+    {
+        "input": "Type 45 guided missile destroyer",
+        "output": "Glasgow"
+    },
+    {
+        "input": "MaxxPro",
+        "output": "Lisle"
+    },
+    {
+        "input": "Fiat Barchetta",
+        "output": "Turin"
+    },
+    {
+        "input": "Stadler FLIRT",
+        "output": "Bussnang"
+    },
+    {
+        "input": "Nokia N82",
+        "output": "Espoo"
+    },
+    {
+        "input": "Nokia 3230",
+        "output": "Espoo"
+    },
+    {
+        "input": "Toyota Tundra",
+        "output": "Toyota"
+    },
+    {
+        "input": "Comorian franc",
+        "output": "1st arrondissement of Paris"
+    },
+    {
+        "input": "Lamborghini Diablo",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Peugeot 605",
+        "output": "Poissy"
+    },
+    {
+        "input": "HESA Shahed 136",
+        "output": "Isfahan"
+    },
+    {
+        "input": "Siemens Desiro",
+        "output": "Munich"
+    },
+    {
+        "input": "Intuitive Machines-1",
+        "output": "Houston"
+    },
+    {
+        "input": "OnePlus 2",
+        "output": "Shenzhen"
+    },
+    {
+        "input": "Mercedes-Benz W201",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Ferrari FXX",
+        "output": "Maranello"
+    },
+    {
+        "input": "Opel Agila",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Aston Martin Lagonda",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Mercedes-Benz W116",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Sukhoi Su-12",
+        "output": "Moscow"
+    },
+    {
+        "input": "Audi A8",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Soyuz 8",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Beretta ARX160",
+        "output": "Brescia"
+    },
+    {
+        "input": "Sega 32X",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "Winchester Model 1897",
+        "output": "New Haven"
+    },
+    {
+        "input": "Pontiac Solstice",
+        "output": "Detroit"
+    },
+    {
+        "input": "AS-90",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Nauka",
+        "output": "Moscow"
+    },
+    {
+        "input": "Su-9 Samolyet K",
+        "output": "Moscow"
+    },
+    {
+        "input": "Mercedes-Benz Citaro",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "S-200",
+        "output": "Moscow"
+    },
+    {
+        "input": "Hyundai Ioniq",
+        "output": "Seoul"
+    },
+    {
+        "input": "Ferrari 250 GTO",
+        "output": "Maranello"
+    },
+    {
+        "input": "Ford Galaxie",
+        "output": "Dearborn"
+    },
+    {
+        "input": "X-19",
+        "output": "Charlotte"
+    },
+    {
+        "input": "Ferrari 612 Scaglietti",
+        "output": "Maranello"
+    },
+    {
+        "input": "Type 63",
+        "output": "Beijing"
+    },
+    {
+        "input": "Toyota Tacoma",
+        "output": "Toyota"
+    },
+    {
+        "input": "L3/33",
+        "output": "Turin"
+    },
+    {
+        "input": "Renault Dauphine",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Mercedes-Benz W110",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Mitsubishi Galant",
+        "output": "Minato"
+    },
+    {
+        "input": "Mercedes-Benz W126",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "PP-2000",
+        "output": "Tula"
+    },
+    {
+        "input": "Daewoo Tacuma",
+        "output": "Detroit"
+    },
+    {
+        "input": "Sauer 38H",
+        "output": "Isny im Allg\u00e4u"
+    },
+    {
+        "input": "LORA",
+        "output": "Lod"
+    },
+    {
+        "input": "Al-Khalid tank",
+        "output": "Taxila"
+    },
+    {
+        "input": "Ford C-Max",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Patria AMV",
+        "output": "Kluuvi"
+    },
+    {
+        "input": "Nokia 6500 classic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Mars 5",
+        "output": "Khimki"
+    },
+    {
+        "input": "McMillan Tac-50",
+        "output": "Phoenix"
+    },
+    {
+        "input": "Venera 8",
+        "output": "Khimki"
+    },
+    {
+        "input": "RS-24 Yars",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "Ariete",
+        "output": "Turin"
+    },
+    {
+        "input": "HAL Light Combat Helicopter",
+        "output": "Bengaluru"
+    },
+    {
+        "input": "Xbox Series X",
+        "output": "Redmond"
+    },
+    {
+        "input": "Jim Beam",
+        "output": "Deerfield"
+    },
+    {
+        "input": "BTR-3",
+        "output": "Kharkiv"
+    },
+    {
+        "input": "Amiga 1000",
+        "output": "West Chester"
+    },
+    {
+        "input": "Hyundai Excel",
+        "output": "Seoul"
+    },
+    {
+        "input": "Soyuz MS-08",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Sony Xperia Z1",
+        "output": "Minato"
+    },
+    {
+        "input": "Chevrolet Volt",
+        "output": "Detroit"
+    },
+    {
+        "input": "Lada-class submarine",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Socket 423",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Arjun",
+        "output": "Chennai"
+    },
+    {
+        "input": "Nokia 3100",
+        "output": "Espoo"
+    },
+    {
+        "input": "Fiat 1300/1500",
+        "output": "Turin"
+    },
+    {
+        "input": "Cupola",
+        "output": "Turin"
+    },
+    {
+        "input": "Bentley Bentayga",
+        "output": "Crewe"
+    },
+    {
+        "input": "X-22",
+        "output": "Buffalo"
+    },
+    {
+        "input": "OTR-23 Oka",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "EC135",
+        "output": "Marignane"
+    },
+    {
+        "input": "Peugeot 604",
+        "output": "Poissy"
+    },
+    {
+        "input": "Fiat Albea",
+        "output": "Turin"
+    },
+    {
+        "input": "\u0160koda Felicia",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "GBU-28",
+        "output": "Waltham"
+    },
+    {
+        "input": "Dreamcast",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "Renault Symbol",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Ferrari SF90 Stradale",
+        "output": "Maranello"
+    },
+    {
+        "input": "Metro-2",
+        "output": "Moscow"
+    },
+    {
+        "input": "USS West Virginia",
+        "output": "Newport News"
+    },
+    {
+        "input": "Pirs",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Hyundai Atos",
+        "output": "Seoul"
+    },
+    {
+        "input": "Nimitz-class aircraft carrier",
+        "output": "Newport News"
+    },
+    {
+        "input": "Lexington-class aircraft carrier",
+        "output": "Quincy"
+    },
+    {
+        "input": "Atari 2600",
+        "output": "Sunnyvale"
+    },
+    {
+        "input": "M3 submachine gun",
+        "output": "Detroit"
+    },
+    {
+        "input": "CDTV",
+        "output": "West Chester"
+    },
+    {
+        "input": "9K11 Malyutka",
+        "output": "Kovrov"
+    },
+    {
+        "input": "Prithvi",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Mazda CX-9",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Zip drive",
+        "output": "San Diego"
+    },
+    {
+        "input": "IMI Negev",
+        "output": "Ramat HaSharon"
+    },
+    {
+        "input": "Dacia 1300",
+        "output": "Mioveni"
+    },
+    {
+        "input": "Yakovlev Yak-141",
+        "output": "Moscow"
+    },
+    {
+        "input": "Tatra T3",
+        "output": "Prague"
+    },
+    {
+        "input": "Maldivian rufiyaa",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Volkswagen Corrado",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Charles de Gaulle",
+        "output": "Paris"
+    },
+    {
+        "input": "Renault 8",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Audi Q2",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Mitsubishi F-1",
+        "output": "Minato"
+    },
+    {
+        "input": "FM Towns Marty",
+        "output": "Shiodome City Center"
+    },
+    {
+        "input": "Interrail",
+        "output": "Utrecht"
+    },
+    {
+        "input": "K-13",
+        "output": "Moscow"
+    },
+    {
+        "input": "Embraer EMB-135BJ Legacy 600",
+        "output": "S\u00e3o Jos\u00e9 dos Campos"
+    },
+    {
+        "input": "Soyuz MS-02",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Starstreak",
+        "output": "Belfast"
+    },
+    {
+        "input": "Chikuma",
+        "output": "Minato"
+    },
+    {
+        "input": "Nokia Lumia 710",
+        "output": "Espoo"
+    },
+    {
+        "input": "Deutschland-class battleship",
+        "output": "Kiel"
+    },
+    {
+        "input": "Tatra T4",
+        "output": "Prague"
+    },
+    {
+        "input": "Nexus 9",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Solar and Heliospheric Observatory",
+        "output": "Toulouse"
+    },
+    {
+        "input": "Aston Martin DB9",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Kiev-class aircraft carrier",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "Ferrari 599 GTB Fiorano",
+        "output": "Maranello"
+    },
+    {
+        "input": "Vectrex",
+        "output": "East Longmeadow"
+    },
+    {
+        "input": "MS Achille Lauro",
+        "output": "Vlissingen"
+    },
+    {
+        "input": "Kh-35",
+        "output": "Korolyov"
+    },
+    {
+        "input": "M9 pistol",
+        "output": "Brescia"
+    },
+    {
+        "input": "Captain Morgan",
+        "output": "London"
+    },
+    {
+        "input": "9K38 Igla",
+        "output": "Kolomna"
+    },
+    {
+        "input": "Nokia N91",
+        "output": "Espoo"
+    },
+    {
+        "input": "Audi MP01",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Kurganets-25",
+        "output": "Kurgan"
+    },
+    {
+        "input": "Soyuz 25",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Chevrolet Avalanche",
+        "output": "Detroit"
+    },
+    {
+        "input": "P-3",
+        "output": "Stans"
+    },
+    {
+        "input": "SEAT Arosa",
+        "output": "Martorell"
+    },
+    {
+        "input": "USS Maryland",
+        "output": "Newport News"
+    },
+    {
+        "input": "Chrysler Crossfire",
+        "output": "Osnabr\u00fcck"
+    },
+    {
+        "input": "Mercury-Atlas 6",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Peugeot 203",
+        "output": "Poissy"
+    },
+    {
+        "input": "Xian Y-20",
+        "output": "Xi'an"
+    },
+    {
+        "input": "LGA 775",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Soyuz 22",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Harmony of the Seas",
+        "output": "Nantes"
+    },
+    {
+        "input": "9M123 Khrizantema",
+        "output": "Kolomna"
+    },
+    {
+        "input": "Ferrari F14 T",
+        "output": "Maranello"
+    },
+    {
+        "input": "Venera 4",
+        "output": "Khimki"
+    },
+    {
+        "input": "Hyundai Sonata",
+        "output": "Seoul"
+    },
+    {
+        "input": "Phenom 100",
+        "output": "S\u00e3o Jos\u00e9 dos Campos"
+    },
+    {
+        "input": "Alcantara",
+        "output": "Milan"
+    },
+    {
+        "input": "Cadillac de Ville series",
+        "output": "Detroit"
+    },
+    {
+        "input": "Yakovlev Yak-15",
+        "output": "Moscow"
+    },
+    {
+        "input": "Orel",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Luna 22",
+        "output": "Khimki"
+    },
+    {
+        "input": "UR-100N",
+        "output": "Moscow"
+    },
+    {
+        "input": "RAH-66 Comanche",
+        "output": "United States"
+    },
+    {
+        "input": "Soyuz 7K-ST No.16L",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Deep Space 1",
+        "output": "Gilbert"
+    },
+    {
+        "input": "Corona",
+        "output": "Mexico City"
+    },
+    {
+        "input": "WonderSwan",
+        "output": "Tait\u014d-ku"
+    },
+    {
+        "input": "Flakpanzer Gepard",
+        "output": "Parsdorf"
+    },
+    {
+        "input": "K-19",
+        "output": "Severodvinsk"
+    },
+    {
+        "input": "Venera 1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Audi R8",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Heckler & Koch HK416",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Warsaw radio mast",
+        "output": "Baden"
+    },
+    {
+        "input": "KRI Nanggala",
+        "output": "Kiel"
+    },
+    {
+        "input": "R-7 Semyorka",
+        "output": "Korolyov"
+    },
+    {
+        "input": "R-360 Neptune",
+        "output": "Kharkiv"
+    },
+    {
+        "input": "Sabra",
+        "output": "Ramat HaSharon"
+    },
+    {
+        "input": "Falcon Heavy",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "Mikoyan MiG-AT",
+        "output": "Moscow"
+    },
+    {
+        "input": "NAe S\u00e3o Paulo",
+        "output": "Brewster"
+    },
+    {
+        "input": "Japanese battleship Haruna",
+        "output": "Kobe"
+    },
+    {
+        "input": "America-class amphibious assault ship",
+        "output": "Newport News"
+    },
+    {
+        "input": "X-5",
+        "output": "Buffalo"
+    },
+    {
+        "input": "Heckler & Koch MG4",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Presidential state car",
+        "output": "Detroit"
+    },
+    {
+        "input": "Lotus Carlton",
+        "output": "Hethel"
+    },
+    {
+        "input": "Nokia Lumia 620",
+        "output": "Espoo"
+    },
+    {
+        "input": "Hayabusa2",
+        "output": "Chofu"
+    },
+    {
+        "input": "HMS Glorious",
+        "output": "Belfast"
+    },
+    {
+        "input": "Ford EcoSport",
+        "output": "S\u00e3o Bernardo do Campo"
+    },
+    {
+        "input": "BMW E38",
+        "output": "Munich"
+    },
+    {
+        "input": "MP-443 Grach",
+        "output": "Izhevsk"
+    },
+    {
+        "input": "Talbot Horizon",
+        "output": "Poissy"
+    },
+    {
+        "input": "SMART-1",
+        "output": "Solna Municipality"
+    },
+    {
+        "input": "Velkopopovick\u00fd Kozel",
+        "output": "Velk\u00e9 Popovice"
+    },
+    {
+        "input": "M11/39",
+        "output": "Turin"
+    },
+    {
+        "input": "Mars Observer",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Ferrari 308",
+        "output": "Maranello"
+    },
+    {
+        "input": "Socket 8",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "General Electric F404",
+        "output": "Evendale"
+    },
+    {
+        "input": "BMW E65",
+        "output": "Munich"
+    },
+    {
+        "input": "Voskhod 1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "AS.6 Envoy",
+        "output": "Portsmouth"
+    },
+    {
+        "input": "Nokia Lumia 720",
+        "output": "Espoo"
+    },
+    {
+        "input": "Kidd-class destroyer",
+        "output": "Pascagoula"
+    },
+    {
+        "input": "Nokia N8",
+        "output": "Espoo"
+    },
+    {
+        "input": "Vanguard 1",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "ARA General Belgrano",
+        "output": "Camden"
+    },
+    {
+        "input": "Russian ruble",
+        "output": "Moscow"
+    },
+    {
+        "input": "Lamborghini Silhouette",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "SMS K\u00f6nigsberg",
+        "output": "Kiel"
+    },
+    {
+        "input": "Pilatus PC-21",
+        "output": "Stans"
+    },
+    {
+        "input": "WordPerfect",
+        "output": "Ottawa"
+    },
+    {
+        "input": "\u017bubr\u00f3wka",
+        "output": "Bia\u0142ystok"
+    },
+    {
+        "input": "Nagant M1895",
+        "output": "Li\u00e8ge"
+    },
+    {
+        "input": "Mazda CX-3",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Porsche 924",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Fender Jaguar",
+        "output": "Nabari Station"
+    },
+    {
+        "input": "Lamborghini Countach",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Porsche Taycan",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Puma",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Subaru Alcyone SVX",
+        "output": "Ebisu"
+    },
+    {
+        "input": "Heckler & Koch VP70",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "iPhone",
+        "output": "Cupertino"
+    },
+    {
+        "input": "German battleship Gneisenau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Type 90 Tank",
+        "output": "Minato"
+    },
+    {
+        "input": "Microsoft Lumia 640",
+        "output": "Espoo"
+    },
+    {
+        "input": "Kuznetsov-class aircraft carrier",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "SEAT Exeo",
+        "output": "Martorell"
+    },
+    {
+        "input": "Volvo C70",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "K computer",
+        "output": "Shiodome City Center"
+    },
+    {
+        "input": "Lamborghini Jalpa",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Ferrari Purosangue",
+        "output": "Maranello"
+    },
+    {
+        "input": "Nokia 5300 XpressMusic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Mikasa",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Nokia 808 PureView",
+        "output": "Espoo"
+    },
+    {
+        "input": "Unity",
+        "output": "Chicago"
+    },
+    {
+        "input": "Ford Escape",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Renault Fuego",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Kosmos 482",
+        "output": "Khimki"
+    },
+    {
+        "input": "Lamborghini Islero",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "RSD-10 Pioneer",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "Porsche 991",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "GAZ-24",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "Simca 1100 Simca 1200",
+        "output": "Paris"
+    },
+    {
+        "input": "Daewoo Espero",
+        "output": "Incheon"
+    },
+    {
+        "input": "Cadillac XT5",
+        "output": "Detroit"
+    },
+    {
+        "input": "GMG",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "HMS Renown",
+        "output": "Govan"
+    },
+    {
+        "input": "WonderSwan Color",
+        "output": "Tait\u014d-ku"
+    },
+    {
+        "input": "Boeing 787 Dreamliner",
+        "output": "Chicago"
+    },
+    {
+        "input": "Mark 48 torpedo",
+        "output": "Charlotte"
+    },
+    {
+        "input": "Audi A5",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Lada Samara",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "Peugeot 107",
+        "output": "Poissy"
+    },
+    {
+        "input": "Avia S-199",
+        "output": "Prague"
+    },
+    {
+        "input": "ICE 3",
+        "output": "Munich"
+    },
+    {
+        "input": "Lotus Esprit",
+        "output": "Hethel"
+    },
+    {
+        "input": "Myasishchev M-50",
+        "output": "Moscow"
+    },
+    {
+        "input": "IKCO Samand",
+        "output": "Tehran"
+    },
+    {
+        "input": "Japanese battleship Kong\u014d",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "HMS Ajax",
+        "output": "Millbank Tower"
+    },
+    {
+        "input": "Spektr-R",
+        "output": "Khimki"
+    },
+    {
+        "input": "won",
+        "output": "Daejeon"
+    },
+    {
+        "input": "Ferrari 250",
+        "output": "Maranello"
+    },
+    {
+        "input": "Falcon 1",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "Yakovlev Pchela",
+        "output": "Moscow"
+    },
+    {
+        "input": "AGS-17",
+        "output": "Vyatskiye Polyany"
+    },
+    {
+        "input": "Daewoo Tosca",
+        "output": "Detroit"
+    },
+    {
+        "input": "Dacia Logan",
+        "output": "Mioveni"
+    },
+    {
+        "input": "M15/42",
+        "output": "Genoa"
+    },
+    {
+        "input": "Lockheed A-12",
+        "output": "Burbank"
+    },
+    {
+        "input": "USS Carl Vinson",
+        "output": "Newport News"
+    },
+    {
+        "input": "Soyuz MS-07",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Amazon Fire TV",
+        "output": "New Taipei"
+    },
+    {
+        "input": "U-47",
+        "output": "Kiel"
+    },
+    {
+        "input": "Mercedes-Benz EQA",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Maotai",
+        "output": "Renhuai"
+    },
+    {
+        "input": "2001 Mars Odyssey",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Fiat 125",
+        "output": "Turin"
+    },
+    {
+        "input": "Renault \ud50c\ub8e8\uc5b8\uc2a4",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Soviet ruble",
+        "output": "Moscow"
+    },
+    {
+        "input": "PlayStation VR",
+        "output": "Minato"
+    },
+    {
+        "input": "Fiat Siena",
+        "output": "Turin"
+    },
+    {
+        "input": "Talbot Tagora",
+        "output": "Poissy"
+    },
+    {
+        "input": "Lamborghini Gallardo",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Intellivision",
+        "output": "El Segundo"
+    },
+    {
+        "input": "9K121 Vikhr",
+        "output": "Tula"
+    },
+    {
+        "input": "PIAT",
+        "output": "London"
+    },
+    {
+        "input": "Project 1144 Orlan battlecruiser",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Hyundai Avante (Elantra)",
+        "output": "Seoul"
+    },
+    {
+        "input": "Bugatti Type 57",
+        "output": "Molsheim"
+    },
+    {
+        "input": "An-38",
+        "output": "Novosibirsk"
+    },
+    {
+        "input": "Benelli M4",
+        "output": "Urbino"
+    },
+    {
+        "input": "Chromecast",
+        "output": "Googleplex"
+    },
+    {
+        "input": "Mercedes-Benz Actros",
+        "output": "Leinfelden-Echterdingen"
+    },
+    {
+        "input": "Nokia N93",
+        "output": "Espoo"
+    },
+    {
+        "input": "Google Authenticator",
+        "output": "Googleplex"
+    },
+    {
+        "input": "Sega Genesis",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "Mercedes-Benz 600",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Zastava M76",
+        "output": "Kragujevac"
+    },
+    {
+        "input": "Porsche 550",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Mercedes-Benz W114",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Honda City",
+        "output": "Minato"
+    },
+    {
+        "input": "C-130J Super Hercules",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Nokia 5700 XpressMusic",
+        "output": "Espoo"
+    },
+    {
+        "input": "Ford Kuga",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Xerox Alto",
+        "output": "Palo Alto"
+    },
+    {
+        "input": "OSIRIS-REx",
+        "output": "Denver"
+    },
+    {
+        "input": "Nokia Lumia 820",
+        "output": "Espoo"
+    },
+    {
+        "input": "Fiat Linea",
+        "output": "Turin"
+    },
+    {
+        "input": "HMHS Britannic",
+        "output": "Belfast"
+    },
+    {
+        "input": "Alpine A110",
+        "output": "Dieppe"
+    },
+    {
+        "input": "Hyundai NEXO",
+        "output": "Seoul"
+    },
+    {
+        "input": "Windows\u00a010 Mobile",
+        "output": "Redmond"
+    },
+    {
+        "input": "Fiat 127",
+        "output": "Turin"
+    },
+    {
+        "input": "Mercedes-Benz GLA",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Aston Martin DB4",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Messerschmitt Me 321",
+        "output": "Augsburg"
+    },
+    {
+        "input": "Soyuz 3",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Boeing EA-18G Growler",
+        "output": "Chicago"
+    },
+    {
+        "input": "Peugeot 205",
+        "output": "Poissy"
+    },
+    {
+        "input": "BMW 507",
+        "output": "Munich"
+    },
+    {
+        "input": "Rooivalk",
+        "output": "Centurion"
+    },
+    {
+        "input": "Ferrari 550",
+        "output": "Maranello"
+    },
+    {
+        "input": "Grumman F6F Hellcat",
+        "output": "Bethpage"
+    },
+    {
+        "input": "ASCOD",
+        "output": "Madrid"
+    },
+    {
+        "input": "BK 117",
+        "output": "Marignane"
+    },
+    {
+        "input": "SPAS-12",
+        "output": "Brescia"
+    },
+    {
+        "input": "Saab 340 AEW&C",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Jeep Renegade",
+        "output": "Toledo"
+    },
+    {
+        "input": "Albatros D.II",
+        "output": "Berlin"
+    },
+    {
+        "input": "Dhruv",
+        "output": "Bengaluru"
+    },
+    {
+        "input": "Schiaparelli EDM lander",
+        "output": "Cannes"
+    },
+    {
+        "input": "Socket 478",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Lockheed Martin X-59 QueSST",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Cadillac Escalade",
+        "output": "Detroit"
+    },
+    {
+        "input": "ISU-152",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Venera 3",
+        "output": "Khimki"
+    },
+    {
+        "input": "FN P90",
+        "output": "Herstal"
+    },
+    {
+        "input": "R-1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Aryabhata",
+        "output": "Bengaluru"
+    },
+    {
+        "input": "Mitsubishi Space Star",
+        "output": "Minato"
+    },
+    {
+        "input": "Carro Armato P 40",
+        "output": "Genoa"
+    },
+    {
+        "input": "BMW 700",
+        "output": "Munich"
+    },
+    {
+        "input": "BMW X4",
+        "output": "Munich"
+    },
+    {
+        "input": "Pioneer 11",
+        "output": "Euclid"
+    },
+    {
+        "input": "Indian rupee",
+        "output": "Mumbai"
+    },
+    {
+        "input": "Skype for Business",
+        "output": "Redmond"
+    },
+    {
+        "input": "Chevrolet Suburban",
+        "output": "Detroit"
+    },
+    {
+        "input": "Gumpert Apollo",
+        "output": "Altenburg"
+    },
+    {
+        "input": "PDP-10",
+        "output": "Maynard"
+    },
+    {
+        "input": "ArmaLite AR-10",
+        "output": "Geneseo"
+    },
+    {
+        "input": "Budweiser",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Intel Core 5",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Honda Integra",
+        "output": "Minato"
+    },
+    {
+        "input": "DAF XF",
+        "output": "Eindhoven"
+    },
+    {
+        "input": "Ferrari 360",
+        "output": "Maranello"
+    },
+    {
+        "input": "Absolut Vodka",
+        "output": "Paris"
+    },
+    {
+        "input": "Cirrus SR22",
+        "output": "Duluth"
+    },
+    {
+        "input": "S-400 Triumf",
+        "output": "Moscow"
+    },
+    {
+        "input": "Toyota Avalon",
+        "output": "Toyota"
+    },
+    {
+        "input": "Boeing 747SP",
+        "output": "Chicago"
+    },
+    {
+        "input": "Saab 9-3",
+        "output": "Trollh\u00e4ttan"
+    },
+    {
+        "input": "Nao",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Apple II",
+        "output": "Cupertino"
+    },
+    {
+        "input": "vz. 58",
+        "output": "Uhersk\u00fd Brod"
+    },
+    {
+        "input": "Belarusian ruble",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Fiat Ducato",
+        "output": "Turin"
+    },
+    {
+        "input": "ExoMars Trace Gas Orbiter",
+        "output": "Cannes"
+    },
+    {
+        "input": "Ilyushin Il-20",
+        "output": "Moscow"
+    },
+    {
+        "input": "MV Prestige",
+        "output": "Osaka"
+    },
+    {
+        "input": "Citro\u00ebn Saxo",
+        "output": "PSA Poissy Plant"
+    },
+    {
+        "input": "Toyota Aygo",
+        "output": "Toyota"
+    },
+    {
+        "input": "SSG 69",
+        "output": "Sankt Ulrich bei Steyr"
+    },
+    {
+        "input": "Tatra 603",
+        "output": "Kop\u0159ivnice"
+    },
+    {
+        "input": "Henry rifle",
+        "output": "New Haven"
+    },
+    {
+        "input": "PocketStation",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Tianhe",
+        "output": "Haidian District"
+    },
+    {
+        "input": "Motorola Xoom",
+        "output": "Chicago"
+    },
+    {
+        "input": "Nokia 6233",
+        "output": "Espoo"
+    },
+    {
+        "input": "Shenzhou 14",
+        "output": "Haidian District"
+    },
+    {
+        "input": "Chengdu J-20",
+        "output": "Chengdu"
+    },
+    {
+        "input": "Mercedes-Benz 300 SL",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "LADA Priora",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "Aston Martin DBS V12",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Nikon D50",
+        "output": "Minato"
+    },
+    {
+        "input": "LZ 129 Hindenburg",
+        "output": "Friedrichshafen"
+    },
+    {
+        "input": "Saint-Chamond",
+        "output": "Saint-Chamond"
+    },
+    {
+        "input": "Commodore Amiga",
+        "output": "West Chester"
+    },
+    {
+        "input": "Volvo S90",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Mercury-Atlas 8",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Lexus LX",
+        "output": "Toyota"
+    },
+    {
+        "input": "Microsoft Surface",
+        "output": "Redmond"
+    },
+    {
+        "input": "BMW 3 Series",
+        "output": "Munich"
+    },
+    {
+        "input": "Japanese cruiser Haguro",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Kia Stinger",
+        "output": "Seoul"
+    },
+    {
+        "input": "Boys .55in Anti-Tank Rifle",
+        "output": "Enfield Lock"
+    },
+    {
+        "input": "Venera 9",
+        "output": "Khimki"
+    },
+    {
+        "input": "Xbox Series X and Series S",
+        "output": "Redmond"
+    },
+    {
+        "input": "BMW M1",
+        "output": "Munich"
+    },
+    {
+        "input": "iPhone 13",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Honda NSX",
+        "output": "Minato"
+    },
+    {
+        "input": "Tank Mark VIII",
+        "output": "Glasgow"
+    },
+    {
+        "input": "Volkswagen Tiguan",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "USS Wasp",
+        "output": "Quincy"
+    },
+    {
+        "input": "RPK",
+        "output": "Vyatskiye Polyany"
+    },
+    {
+        "input": "Lunar Reconnaissance Orbiter",
+        "output": "Greenbelt"
+    },
+    {
+        "input": "Shenyang J-35",
+        "output": "Shenyang"
+    },
+    {
+        "input": "Bradley Fighting Vehicle",
+        "output": "Farnborough"
+    },
+    {
+        "input": "Iveco Daily",
+        "output": "Turin"
+    },
+    {
+        "input": "Gryazev-Shipunov GSh-6-30",
+        "output": "Tula"
+    },
+    {
+        "input": "USS Pennsylvania",
+        "output": "Newport News"
+    },
+    {
+        "input": "peseta",
+        "output": "Madrid"
+    },
+    {
+        "input": "Fiat 130",
+        "output": "Turin"
+    },
+    {
+        "input": "Tesla Model 3",
+        "output": "Austin"
+    },
+    {
+        "input": "Panzerfaust 3",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Moskvich 2141",
+        "output": "Moscow"
+    },
+    {
+        "input": "J-8-II",
+        "output": "Shenyang"
+    },
+    {
+        "input": "Ferrari California",
+        "output": "Maranello"
+    },
+    {
+        "input": "Iver Huitfeldt-class frigate",
+        "output": "Munkebo"
+    },
+    {
+        "input": "GAZelle",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "Smart Fortwo",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "T-2",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Ford Taunus",
+        "output": "Cologne"
+    },
+    {
+        "input": "X-51 Waverider",
+        "output": "Chicago"
+    },
+    {
+        "input": "DHC-1 Chipmunk",
+        "output": "Toronto"
+    },
+    {
+        "input": "IMI Galil",
+        "output": "Ramat HaSharon"
+    },
+    {
+        "input": "Renault 7",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Sputnik 3",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Citro\u00ebn Ami 6",
+        "output": "PSA Poissy Plant"
+    },
+    {
+        "input": "Kettenkrad",
+        "output": "Neckarsulm"
+    },
+    {
+        "input": "YF-17 Cobra",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "MS al-Salam Boccaccio 98",
+        "output": "Trieste"
+    },
+    {
+        "input": "Mercury-Atlas 9",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Nokia 1208",
+        "output": "Espoo"
+    },
+    {
+        "input": "Black Eagle",
+        "output": "Omsk"
+    },
+    {
+        "input": "Pyotr Velikiy",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Shavit-2",
+        "output": "Lod"
+    },
+    {
+        "input": "FN Model 1903",
+        "output": "Herstal"
+    },
+    {
+        "input": "Astro-rivelatore Gamma a Immagini Leggero",
+        "output": "Milan"
+    },
+    {
+        "input": "HMY Britannia",
+        "output": "Clydebank"
+    },
+    {
+        "input": "SEAT Arona",
+        "output": "Martorell"
+    },
+    {
+        "input": "Elbit Hermes 900",
+        "output": "Haifa"
+    },
+    {
+        "input": "Volvo S80",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Bell 429 GlobalRanger",
+        "output": "Fort Worth"
+    },
+    {
+        "input": "Simca 1000",
+        "output": "Nanterre"
+    },
+    {
+        "input": "Vanguard 1A",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "T-50",
+        "output": "Omsk"
+    },
+    {
+        "input": "Wasp-class amphibious assault ship",
+        "output": "Pascagoula"
+    },
+    {
+        "input": "N-Gage",
+        "output": "Espoo"
+    },
+    {
+        "input": "Kong\u014d-class destroyer",
+        "output": "Minato"
+    },
+    {
+        "input": "Dardo IFV",
+        "output": "Turin"
+    },
+    {
+        "input": "Reuven Ramaty High Energy Solar Spectroscopic Imager",
+        "output": "Gilbert"
+    },
+    {
+        "input": "Volkswagen ID.3",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Soyuz 37",
+        "output": "Korolyov"
+    },
+    {
+        "input": "AC Cobra",
+        "output": "Thames Ditton"
+    },
+    {
+        "input": "GAZ-53",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "FSO Polonez",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Apple Vision Pro",
+        "output": "New Taipei"
+    },
+    {
+        "input": "ATF Dingo",
+        "output": "Parsdorf"
+    },
+    {
+        "input": "Rutan Voyager",
+        "output": "Mojave"
+    },
+    {
+        "input": "Beretta 93R",
+        "output": "Brescia"
+    },
+    {
+        "input": "WD-40",
+        "output": "San Diego"
+    },
+    {
+        "input": "Deepwater Horizon",
+        "output": "Ulsan"
+    },
+    {
+        "input": "Nokia N72",
+        "output": "Espoo"
+    },
+    {
+        "input": "Amiga 600",
+        "output": "West Chester"
+    },
+    {
+        "input": "\u0160koda Superb",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Mark 82",
+        "output": "Reston"
+    },
+    {
+        "input": "BTR-4",
+        "output": "Kharkiv"
+    },
+    {
+        "input": "Toyota Previa",
+        "output": "Toyota"
+    },
+    {
+        "input": "Vegemite",
+        "output": "Bega"
+    },
+    {
+        "input": "Soyuz MS-03",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Komsomolets armored tractor",
+        "output": "Podolsk"
+    },
+    {
+        "input": "Italian lira",
+        "output": "Rome"
+    },
+    {
+        "input": "BMW Z8",
+        "output": "Munich"
+    },
+    {
+        "input": "Ferrari F40",
+        "output": "Maranello"
+    },
+    {
+        "input": "Ford Model B",
+        "output": "Dearborn"
+    },
+    {
+        "input": "M72 LAW",
+        "output": "Raufoss"
+    },
+    {
+        "input": "Vickers 6-Ton",
+        "output": "Millbank Tower"
+    },
+    {
+        "input": "Mazda6",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Toyota Alphard",
+        "output": "Toyota"
+    },
+    {
+        "input": "SU-122",
+        "output": "Yekaterinburg"
+    },
+    {
+        "input": "Arrow",
+        "output": "Lod"
+    },
+    {
+        "input": "Mazda CX-7",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Wings of Tatev",
+        "output": "Wolfurt"
+    },
+    {
+        "input": "Mazda CX-30",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Steyr HS .50",
+        "output": "Sankt Ulrich bei Steyr"
+    },
+    {
+        "input": "Vostok 2",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Vostok 4",
+        "output": "Korolyov"
+    },
+    {
+        "input": "DUKW",
+        "output": "Detroit"
+    },
+    {
+        "input": "Z-10",
+        "output": "Jingdezhen"
+    },
+    {
+        "input": "Honda S2000",
+        "output": "Minato"
+    },
+    {
+        "input": "clavinet",
+        "output": "Trossingen"
+    },
+    {
+        "input": "Ballantine's",
+        "output": "Paris"
+    },
+    {
+        "input": "Daewoo Nexia",
+        "output": "Detroit"
+    },
+    {
+        "input": "Fiat 3000",
+        "output": "Turin"
+    },
+    {
+        "input": "Pontiac Aztek",
+        "output": "Detroit"
+    },
+    {
+        "input": "M21 Sniper Weapon System",
+        "output": "Geneseo"
+    },
+    {
+        "input": "Lucy",
+        "output": "Bethesda"
+    },
+    {
+        "input": "ZiS-3",
+        "output": "Moscow"
+    },
+    {
+        "input": "Shenzhou 10",
+        "output": "Haidian District"
+    },
+    {
+        "input": "Supermarine Scimitar",
+        "output": "Woolston"
+    },
+    {
+        "input": "ZALA Lancet",
+        "output": "Izhevsk"
+    },
+    {
+        "input": "Zastava Skala",
+        "output": "Kragujevac"
+    },
+    {
+        "input": "MAZ-537",
+        "output": "Minsk"
+    },
+    {
+        "input": "Heinkel He 280",
+        "output": "Warnem\u00fcnde"
+    },
+    {
+        "input": "Nokia 6",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Junkers G.38",
+        "output": "Dessau"
+    },
+    {
+        "input": "Intel 4004",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Bell 427",
+        "output": "Fort Worth"
+    },
+    {
+        "input": "Ferrari F2004",
+        "output": "Maranello"
+    },
+    {
+        "input": "Ferrari Roma",
+        "output": "Maranello"
+    },
+    {
+        "input": "Mirage 4000",
+        "output": "Paris"
+    },
+    {
+        "input": "Audi e-tron GT",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Tigr",
+        "output": "Nizhny Novgorod"
+    },
+    {
+        "input": "S-35",
+        "output": "Saint-Ouen-sur-Seine"
+    },
+    {
+        "input": "J-16",
+        "output": "Shenyang"
+    },
+    {
+        "input": "Delta IV Heavy",
+        "output": "Centennial"
+    },
+    {
+        "input": "Soyuz 9",
+        "output": "Korolyov"
+    },
+    {
+        "input": "AGM-78 Standard ARM",
+        "output": "Reston"
+    },
+    {
+        "input": "PlayStation 2",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Pixel 2",
+        "output": "New Taipei"
+    },
+    {
+        "input": "EXOSAT",
+        "output": "Ottobrunn"
+    },
+    {
+        "input": "IKAROS",
+        "output": "Fuch\u016b"
+    },
+    {
+        "input": "INSAS rifle",
+        "output": "Kolkata"
+    },
+    {
+        "input": "Kia Sportage",
+        "output": "Seoul"
+    },
+    {
+        "input": "Marder II",
+        "output": "Wroc\u0142aw"
+    },
+    {
+        "input": "Pioneer 1",
+        "output": "Euclid"
+    },
+    {
+        "input": "BMW 3 Series (E46)",
+        "output": "Munich"
+    },
+    {
+        "input": "Nokia 3210",
+        "output": "Espoo"
+    },
+    {
+        "input": "Apple I",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Nudelman-Rikhter NR-23",
+        "output": "Kovrov"
+    },
+    {
+        "input": "Nokia Lumia 900",
+        "output": "Espoo"
+    },
+    {
+        "input": "Guinness",
+        "output": "London"
+    },
+    {
+        "input": "Schwimmwagen",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Kyrgyz som",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Lexus LFA",
+        "output": "Toyota"
+    },
+    {
+        "input": "Soyuz 7",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Opel Cascada",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Xiaomi SU7",
+        "output": "Beijing"
+    },
+    {
+        "input": "ATP",
+        "output": "Farnborough"
+    },
+    {
+        "input": "Deep Space Climate Observatory",
+        "output": "Beltsville"
+    },
+    {
+        "input": "German cruiser Deutschland",
+        "output": "Berlin"
+    },
+    {
+        "input": "P-59 Airacomet",
+        "output": "Buffalo"
+    },
+    {
+        "input": "Cutty Sark",
+        "output": "Dumbarton"
+    },
+    {
+        "input": "Chevrolet Impala",
+        "output": "Detroit"
+    },
+    {
+        "input": "Windows Phone 8",
+        "output": "Redmond"
+    },
+    {
+        "input": "Honda Pilot",
+        "output": "Minato"
+    },
+    {
+        "input": "Mercedes-Benz W120",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Volkswagen New Beetle",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Mitsubishi Ki-15",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Ford Bronco",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Phenom II",
+        "output": "Malta"
+    },
+    {
+        "input": "Ford Model A",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Ford Explorer",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Leichttraktor",
+        "output": "Essen"
+    },
+    {
+        "input": "McLaren MP4-27",
+        "output": "Woking"
+    },
+    {
+        "input": "RPG-29",
+        "output": "Moscow"
+    },
+    {
+        "input": "Lockheed X-7",
+        "output": "Burbank"
+    },
+    {
+        "input": "Nikon D80",
+        "output": "Minato"
+    },
+    {
+        "input": "Fiat 4 HP",
+        "output": "Turin"
+    },
+    {
+        "input": "USS Akron",
+        "output": "Akron"
+    },
+    {
+        "input": "Mazda RX-8",
+        "output": "Fuchu"
+    },
+    {
+        "input": "AIM-132 ASRAAM",
+        "output": "Farnborough"
+    },
+    {
+        "input": ".303 Vickers",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Audi S6",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "IBM Personal Computer",
+        "output": "Armonk"
+    },
+    {
+        "input": "Ford Cortina",
+        "output": "Brentwood"
+    },
+    {
+        "input": "Suzuki SX4",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "TRS-80 Model I",
+        "output": "Fort Worth"
+    },
+    {
+        "input": "Ikonos",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Lincoln Continental",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Roland",
+        "output": "Fontenay-aux-Roses"
+    },
+    {
+        "input": "Finlandia Vodka",
+        "output": "Louisville"
+    },
+    {
+        "input": "LADA Granta",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "Pagani Huayra",
+        "output": "San Cesario sul Panaro"
+    },
+    {
+        "input": "Shpitalny-Komaritski AS",
+        "output": "Tula"
+    },
+    {
+        "input": "Mitsubishi Colt",
+        "output": "Minato"
+    },
+    {
+        "input": "Typhoon-class submarine",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "ZIL-130",
+        "output": "Moscow"
+    },
+    {
+        "input": "Isetta",
+        "output": "Bresso"
+    },
+    {
+        "input": "X-1",
+        "output": "Buffalo"
+    },
+    {
+        "input": "Independence-class aircraft carrier",
+        "output": "Camden"
+    },
+    {
+        "input": "Icelandic kr\u00f3na",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Lamborghini LM002",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Alfa Romeo 159",
+        "output": "Turin"
+    },
+    {
+        "input": "DFS 230",
+        "output": "Darmstadt"
+    },
+    {
+        "input": "Soyuz 1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Renault 18",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Peugeot 206",
+        "output": "Poissy"
+    },
+    {
+        "input": "Tatra 815",
+        "output": "Kop\u0159ivnice"
+    },
+    {
+        "input": "Peugeot 207",
+        "output": "Poissy"
+    },
+    {
+        "input": "KPV heavy machine gun",
+        "output": "Kovrov"
+    },
+    {
+        "input": "\u0160koda Yeti",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "BMW 328",
+        "output": "Munich"
+    },
+    {
+        "input": "Peugeot 307",
+        "output": "Poissy"
+    },
+    {
+        "input": "Light Tank Mk VI",
+        "output": "Millbank Tower"
+    },
+    {
+        "input": "Oliver Hazard Perry-class frigate",
+        "output": "Bath"
+    },
+    {
+        "input": "Admiral Grigorovich-class frigate",
+        "output": "Kaliningrad"
+    },
+    {
+        "input": "Fender Telecaster",
+        "output": "Nabari Station"
+    },
+    {
+        "input": "Ford Fusion Europe",
+        "output": "Cologne"
+    },
+    {
+        "input": "Light Tank Mk VII Tetrarch",
+        "output": "Saltley"
+    },
+    {
+        "input": "SG-43 Goryunov",
+        "output": "Kovrov"
+    },
+    {
+        "input": "Beretta Model 38",
+        "output": "Brescia"
+    },
+    {
+        "input": "Nikon D40",
+        "output": "Minato"
+    },
+    {
+        "input": "Uzbekistani som",
+        "output": "Tashkent"
+    },
+    {
+        "input": "Toyota Highlander",
+        "output": "Toyota"
+    },
+    {
+        "input": "IA 58 Pucar\u00e1",
+        "output": "C\u00f3rdoba"
+    },
+    {
+        "input": "Mac",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Rainbow Warrior I",
+        "output": "Aberdeen"
+    },
+    {
+        "input": "AGM-154 Joint Standoff Weapon",
+        "output": "Waltham"
+    },
+    {
+        "input": "Bangladeshi taka",
+        "output": "Gazipur"
+    },
+    {
+        "input": "Mercury-Redstone 3",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Hummer H3",
+        "output": "Detroit"
+    },
+    {
+        "input": "iPhone 7",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Furby",
+        "output": "Pawtucket"
+    },
+    {
+        "input": "Peugeot 505",
+        "output": "Poissy"
+    },
+    {
+        "input": "Essex-class aircraft carrier",
+        "output": "Newport News"
+    },
+    {
+        "input": "R-33",
+        "output": "Moscow"
+    },
+    {
+        "input": "Maybach Exelero",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "2S4 Tyulpan",
+        "output": "Yekaterinburg"
+    },
+    {
+        "input": "iPhone 3GS",
+        "output": "Cupertino"
+    },
+    {
+        "input": "M10 Gun Motor Carriage",
+        "output": "Detroit"
+    },
+    {
+        "input": "Ford Transit",
+        "output": "Dearborn"
+    },
+    {
+        "input": "SA80",
+        "output": "Farnborough"
+    },
+    {
+        "input": "Messerschmitt Bf 108 Taifun",
+        "output": "Augsburg"
+    },
+    {
+        "input": "M203",
+        "output": "West Hartford"
+    },
+    {
+        "input": "PlayStation Vita",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Nokia E90 Communicator",
+        "output": "Espoo"
+    },
+    {
+        "input": "INS Vikramaditya",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "Citro\u00ebn 2CV",
+        "output": "PSA Poissy Plant"
+    },
+    {
+        "input": "Matilda I",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "R-73",
+        "output": "Moscow"
+    },
+    {
+        "input": "HTC Desire",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Lexus GX",
+        "output": "Toyota"
+    },
+    {
+        "input": "BMW 8 Series (E31)",
+        "output": "Munich"
+    },
+    {
+        "input": "North American XB-70 Valkyrie",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "Renault 5",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Aston Martin DB7",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Lincoln Navigator",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Ford Capri",
+        "output": "Cologne"
+    },
+    {
+        "input": "USS Ticonderoga",
+        "output": "Newport News"
+    },
+    {
+        "input": "Daewoo Tico",
+        "output": "Detroit"
+    },
+    {
+        "input": "Hyundai Getz",
+        "output": "Seoul"
+    },
+    {
+        "input": "Ferrari Testarossa",
+        "output": "Maranello"
+    },
+    {
+        "input": "Soyuz T-8",
+        "output": "Korolyov"
+    },
+    {
+        "input": "HMS Belfast",
+        "output": "Belfast"
+    },
+    {
+        "input": "Toyota Mirai",
+        "output": "Toyota"
+    },
+    {
+        "input": "Simca 1307",
+        "output": "Nanterre"
+    },
+    {
+        "input": "Fiat 1800/2100",
+        "output": "Turin"
+    },
+    {
+        "input": "Commodore 64",
+        "output": "West Chester"
+    },
+    {
+        "input": "BAC TSR-2",
+        "output": "London"
+    },
+    {
+        "input": "\u0160korpion vz. 61",
+        "output": "Uhersk\u00fd Brod"
+    },
+    {
+        "input": "Toyota Sienna",
+        "output": "Toyota"
+    },
+    {
+        "input": "Littorio",
+        "output": "Genoa"
+    },
+    {
+        "input": "Marder III",
+        "output": "Prague"
+    },
+    {
+        "input": "Ford Excursion",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Zara",
+        "output": "La Spezia"
+    },
+    {
+        "input": "Commodore 64 Games System",
+        "output": "West Chester"
+    },
+    {
+        "input": "Pagani Zonda",
+        "output": "San Cesario sul Panaro"
+    },
+    {
+        "input": "Peugeot 405",
+        "output": "Poissy"
+    },
+    {
+        "input": "Nozomi",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Opel Vivaro",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Lamborghini Centenario",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Chevrolet Monte Carlo",
+        "output": "Detroit"
+    },
+    {
+        "input": "Honda Fit",
+        "output": "Minato"
+    },
+    {
+        "input": "Kia Cee'd",
+        "output": "Seoul"
+    },
+    {
+        "input": "Filet-O-Fish",
+        "output": "Chicago"
+    },
+    {
+        "input": "Nokia N76",
+        "output": "Espoo"
+    },
+    {
+        "input": "M-95 Degman",
+        "output": "Slavonski Brod"
+    },
+    {
+        "input": "USS Kitty Hawk",
+        "output": "Camden"
+    },
+    {
+        "input": "K2 Black Panther",
+        "output": "Uiwang"
+    },
+    {
+        "input": "Mikoyan-Gurevich MiG-1",
+        "output": "Moscow"
+    },
+    {
+        "input": ".357 Magnum",
+        "output": "Springfield"
+    },
+    {
+        "input": "USS Franklin",
+        "output": "Newport News"
+    },
+    {
+        "input": "Fiat 500L",
+        "output": "Turin"
+    },
+    {
+        "input": "Lunar Prospector",
+        "output": "Sunnyvale"
+    },
+    {
+        "input": "Zeebo",
+        "output": "San Diego"
+    },
+    {
+        "input": "Heckler & Koch AG36",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Intel 8086",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Jaguar I-Pace",
+        "output": "Coventry"
+    },
+    {
+        "input": "USS George H.W. Bush",
+        "output": "Newport News"
+    },
+    {
+        "input": "Sputnik 2",
+        "output": "Korolyov"
+    },
+    {
+        "input": "USS Essex",
+        "output": "Newport News"
+    },
+    {
+        "input": "Volvo Amazon",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Motorola DynaTAC",
+        "output": "Schaumburg"
+    },
+    {
+        "input": "Intel 4040",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "RD-170",
+        "output": "Khimki"
+    },
+    {
+        "input": "Nikon D90",
+        "output": "Minato"
+    },
+    {
+        "input": "Nokia 3250",
+        "output": "Espoo"
+    },
+    {
+        "input": "Peugeot Partner",
+        "output": "Poissy"
+    },
+    {
+        "input": "USS Midway",
+        "output": "Newport News"
+    },
+    {
+        "input": "Hyundai i40",
+        "output": "Seoul"
+    },
+    {
+        "input": "Mr. Potato Head",
+        "output": "Pawtucket"
+    },
+    {
+        "input": "Bl\u00e9riot XI",
+        "output": "France"
+    },
+    {
+        "input": "Lincoln Town Car",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Ferrari 150\u00b0 Italia",
+        "output": "Maranello"
+    },
+    {
+        "input": "Sinclair ZX80",
+        "output": "London"
+    },
+    {
+        "input": "Volvo C30",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "CZ 75",
+        "output": "Uhersk\u00fd Brod"
+    },
+    {
+        "input": "Stardust",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Hennessey Venom GT",
+        "output": "Houston"
+    },
+    {
+        "input": "Chang'e 5",
+        "output": "Beijing"
+    },
+    {
+        "input": "Sukhoi Su-80",
+        "output": "Moscow"
+    },
+    {
+        "input": "Turkmenistan new manat",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Sako TRG",
+        "output": "Riihim\u00e4ki"
+    },
+    {
+        "input": "Opel Adam",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Ford Probe",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Ca.60 Transaereo",
+        "output": "Milan"
+    },
+    {
+        "input": "SMS Bl\u00fccher",
+        "output": "Kiel"
+    },
+    {
+        "input": "Toyota Corona",
+        "output": "Toyota"
+    },
+    {
+        "input": "Beretta 92",
+        "output": "Brescia"
+    },
+    {
+        "input": "Cessna Citation X",
+        "output": "Wichita"
+    },
+    {
+        "input": "Peugeot 301",
+        "output": "Poissy"
+    },
+    {
+        "input": "Hawker Siddeley Trident",
+        "output": "Kingston upon Thames"
+    },
+    {
+        "input": "INS Vikrant",
+        "output": "Thevara"
+    },
+    {
+        "input": "Soyuz MS-04",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Audi TT",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Luna 24",
+        "output": "Khimki"
+    },
+    {
+        "input": "Mentos",
+        "output": "Schiphol-Rijk"
+    },
+    {
+        "input": "Nokia Lumia 510",
+        "output": "Espoo"
+    },
+    {
+        "input": "MIM-23 Hawk",
+        "output": "Waltham"
+    },
+    {
+        "input": "Chevrolet Traverse",
+        "output": "Detroit"
+    },
+    {
+        "input": "Mazda Premacy",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Lexus GS",
+        "output": "Toyota"
+    },
+    {
+        "input": "OF-40",
+        "output": "La Spezia"
+    },
+    {
+        "input": "PlayStation 3",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Saab 92",
+        "output": "Trollh\u00e4ttan"
+    },
+    {
+        "input": "Pentium 4",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Opel Signum",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Triomphant-class submarine",
+        "output": "Paris"
+    },
+    {
+        "input": "RMS Olympic",
+        "output": "Belfast"
+    },
+    {
+        "input": "Vande Bharat Express",
+        "output": "Chennai"
+    },
+    {
+        "input": "Kosmos 140",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Lamborghini Revent\u00f3n",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Lamborghini Si\u00e1n",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Cadillac Eldorado",
+        "output": "Detroit"
+    },
+    {
+        "input": "Fiat 126",
+        "output": "Turin"
+    },
+    {
+        "input": "Pentium II",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Sukhoi Su-47",
+        "output": "Moscow"
+    },
+    {
+        "input": "Fiat 2000",
+        "output": "Turin"
+    },
+    {
+        "input": "Slime",
+        "output": "El Segundo"
+    },
+    {
+        "input": "Tatra KT4",
+        "output": "Prague"
+    },
+    {
+        "input": "T-95",
+        "output": "Nizhny Tagil"
+    },
+    {
+        "input": "RT-2PM Topol",
+        "output": "Votkinsk"
+    },
+    {
+        "input": "OnePlus 6",
+        "output": "Shenzhen"
+    },
+    {
+        "input": "V-1",
+        "output": "Kassel"
+    },
+    {
+        "input": "Meissen porcelain",
+        "output": "Meissen"
+    },
+    {
+        "input": "Lexus NX",
+        "output": "Toyota"
+    },
+    {
+        "input": "USS Nevada",
+        "output": "Quincy"
+    },
+    {
+        "input": "Mazda MX-3",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Mercedes-Benz CLK GTR",
+        "output": "Affalterbach"
+    },
+    {
+        "input": "Red Bull RB5",
+        "output": "Milton Keynes"
+    },
+    {
+        "input": "Rolls-Royce Phantom I",
+        "output": "Derby"
+    },
+    {
+        "input": "HMS Prince of Wales",
+        "output": "Birkenhead"
+    },
+    {
+        "input": "BMW Z4",
+        "output": "Munich"
+    },
+    {
+        "input": "MQ-25 Stingray",
+        "output": "Chicago"
+    },
+    {
+        "input": "Mazda CX-5",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Mars Climate Orbiter",
+        "output": "Denver"
+    },
+    {
+        "input": "Nokia E61",
+        "output": "Espoo"
+    },
+    {
+        "input": "Volkswagen Passat CC",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Audi A2",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Palestine pound",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "AN/TWQ-1 Avenger",
+        "output": "Chicago"
+    },
+    {
+        "input": "Pebble",
+        "output": "Taipei"
+    },
+    {
+        "input": "USS Theodore Roosevelt",
+        "output": "Newport News"
+    },
+    {
+        "input": "Yamato-class battleship",
+        "output": "Minato"
+    },
+    {
+        "input": "Fiat Regata",
+        "output": "Turin"
+    },
+    {
+        "input": "Peugeot 403",
+        "output": "Poissy"
+    },
+    {
+        "input": "RT-23 Molodets",
+        "output": "Dnipro"
+    },
+    {
+        "input": "Mitsubishi Grandis",
+        "output": "Minato"
+    },
+    {
+        "input": "Toyota Auris",
+        "output": "Toyota"
+    },
+    {
+        "input": "Korabl-Sputnik 1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "F-1",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "Opel Monza",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "CAESAR",
+        "output": "Versailles"
+    },
+    {
+        "input": "5 cm Pak 38",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Azerspace-1",
+        "output": "Dulles"
+    },
+    {
+        "input": "K-7",
+        "output": "Kharkiv"
+    },
+    {
+        "input": "FAMAS",
+        "output": "Versailles"
+    },
+    {
+        "input": "Deep Impact",
+        "output": "Boulder"
+    },
+    {
+        "input": "USS Ronald Reagan",
+        "output": "Newport News"
+    },
+    {
+        "input": "Soyuz 12",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Giotto",
+        "output": "Farnborough"
+    },
+    {
+        "input": "Rolls-Royce Phantom VI",
+        "output": "Chichester"
+    },
+    {
+        "input": "Belgian franc",
+        "output": "National Bank of Belgium"
+    },
+    {
+        "input": "Altair 8800",
+        "output": "Albuquerque"
+    },
+    {
+        "input": "Lada Riva",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "Grumman X-29",
+        "output": "Bethpage"
+    },
+    {
+        "input": "K9 Thunder",
+        "output": "Seongnam"
+    },
+    {
+        "input": "McLaren 650S",
+        "output": "McLaren Technology Centre"
+    },
+    {
+        "input": "Porsche 996",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "McDonnell Douglas X-36",
+        "output": "St. Louis"
+    },
+    {
+        "input": "HMS Valiant",
+        "output": "Govan"
+    },
+    {
+        "input": "Nokia N97",
+        "output": "Espoo"
+    },
+    {
+        "input": "Apple A12 Bionic",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Rolls Royce Cullinan",
+        "output": "Chichester"
+    },
+    {
+        "input": "2S25 Sprut-SD",
+        "output": "Volgograd"
+    },
+    {
+        "input": "Hindustan Ambassador",
+        "output": "Kolkata"
+    },
+    {
+        "input": "SEAT Ateca",
+        "output": "Martorell"
+    },
+    {
+        "input": "MV Goya",
+        "output": "Oslo"
+    },
+    {
+        "input": "Sharp X68000",
+        "output": "Osaka"
+    },
+    {
+        "input": "Renault 14",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "3M22 Zircon",
+        "output": "Reutov"
+    },
+    {
+        "input": "Luna 19",
+        "output": "Khimki"
+    },
+    {
+        "input": "9K33 Osa",
+        "output": "Moscow"
+    },
+    {
+        "input": "Toyota Corolla Cross",
+        "output": "Toyota"
+    },
+    {
+        "input": "Volkswagen Bora",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Apple IIGS",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Colt M1911",
+        "output": "West Hartford"
+    },
+    {
+        "input": "IRIS-T",
+        "output": "\u00dcberlingen"
+    },
+    {
+        "input": "INTEGRAL",
+        "output": "Cannes"
+    },
+    {
+        "input": "Lexus RC",
+        "output": "Toyota"
+    },
+    {
+        "input": "7.5 cm PaK 40",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Renault Talisman",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Archer",
+        "output": "Millbank Tower"
+    },
+    {
+        "input": "iPod nano",
+        "output": "New Taipei"
+    },
+    {
+        "input": "HTC Desire HD",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Renault Twizy",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Psyche",
+        "output": "Westminster"
+    },
+    {
+        "input": "RMS Aquitania",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Renault 15/17",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Bugatti Type 41",
+        "output": "Molsheim"
+    },
+    {
+        "input": "Fiat 128",
+        "output": "Turin"
+    },
+    {
+        "input": "Mitsubishi Eclipse spyder 1995",
+        "output": "Minato"
+    },
+    {
+        "input": "Renault Wind",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Rassvet",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Boeing 747 Large Cargo Freighter",
+        "output": "Taipei"
+    },
+    {
+        "input": "Kia Forte",
+        "output": "Seoul"
+    },
+    {
+        "input": "RS-25",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "Nokia N90",
+        "output": "Espoo"
+    },
+    {
+        "input": "Amiga 1200",
+        "output": "West Chester"
+    },
+    {
+        "input": "LGA 1155",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "SMS Gneisenau",
+        "output": "Bremen"
+    },
+    {
+        "input": "Xperia Play",
+        "output": "Minato"
+    },
+    {
+        "input": "PlayStation 5",
+        "output": "Minato"
+    },
+    {
+        "input": "VC-25",
+        "output": "Chicago"
+    },
+    {
+        "input": "Vostok 5",
+        "output": "Korolyov"
+    },
+    {
+        "input": "IBM Roadrunner",
+        "output": "Armonk"
+    },
+    {
+        "input": "Holden Commodore",
+        "output": "Detroit"
+    },
+    {
+        "input": "Toyota Crown",
+        "output": "Toyota"
+    },
+    {
+        "input": "Heckler & Koch P30",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Venera 5",
+        "output": "Khimki"
+    },
+    {
+        "input": "MS Estonia",
+        "output": "Papenburg"
+    },
+    {
+        "input": "Apple A11 Bionic",
+        "output": "Hsinchu Science Park"
+    },
+    {
+        "input": "SSC Tuatara",
+        "output": "West Richland"
+    },
+    {
+        "input": "Ural-4320",
+        "output": "Miass"
+    },
+    {
+        "input": "USS Intrepid",
+        "output": "Newport News"
+    },
+    {
+        "input": "Lexus ES",
+        "output": "Toyota"
+    },
+    {
+        "input": "Apple A10 Fusion",
+        "output": "Hsinchu Science Park"
+    },
+    {
+        "input": "Long March 2F",
+        "output": "Fengtai District"
+    },
+    {
+        "input": "Fiat 1100",
+        "output": "Turin"
+    },
+    {
+        "input": "Nokia E65",
+        "output": "Espoo"
+    },
+    {
+        "input": "PDP-11",
+        "output": "Maynard"
+    },
+    {
+        "input": "Pentium M",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Iranian rial",
+        "output": "Tehran"
+    },
+    {
+        "input": "HTC One M8",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Nokia N73",
+        "output": "Espoo"
+    },
+    {
+        "input": "Volvo FH",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Sovremenny-class destroyer",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Pistol Mitralier\u0103 model 1963/1965",
+        "output": "Bucharest"
+    },
+    {
+        "input": "Virginia-class submarine",
+        "output": "Groton"
+    },
+    {
+        "input": "iPhone SE (1st generation)",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Vanguard",
+        "output": "Baltimore"
+    },
+    {
+        "input": "Aurora",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Bentley Continental GT",
+        "output": "Crewe"
+    },
+    {
+        "input": "Grey Goose",
+        "output": "Hamilton"
+    },
+    {
+        "input": "USS Houston",
+        "output": "Newport News"
+    },
+    {
+        "input": "HESA Saeqeh",
+        "output": "Isfahan"
+    },
+    {
+        "input": "P-700 Granit",
+        "output": "Reutov"
+    },
+    {
+        "input": "iPhone 11 Pro",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Ferrari 328",
+        "output": "Maranello"
+    },
+    {
+        "input": "Nuclear Spectroscopic Telescope Array",
+        "output": "Dulles"
+    },
+    {
+        "input": "Type 99 tank",
+        "output": "Baotou"
+    },
+    {
+        "input": "Volkswagen Lupo",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Type 209 submarine",
+        "output": "Kiel"
+    },
+    {
+        "input": "Daewoo Magnus",
+        "output": "Detroit"
+    },
+    {
+        "input": "HMS Rodney",
+        "output": "Birkenhead"
+    },
+    {
+        "input": "Porsche Carrera GT",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Opel Calibra",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Toyota Corolla Verso",
+        "output": "Toyota"
+    },
+    {
+        "input": "Soyuz TM-34",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Akademik Lomonosov",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "MG 13",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Mark 84",
+        "output": "Reston"
+    },
+    {
+        "input": "Nikon D3000",
+        "output": "Minato"
+    },
+    {
+        "input": "SSC Aero",
+        "output": "West Richland"
+    },
+    {
+        "input": "Ken Willson",
+        "output": "El Segundo"
+    },
+    {
+        "input": "Kh-29",
+        "output": "Moscow"
+    },
+    {
+        "input": "Hyundai Trajet",
+        "output": "Seoul"
+    },
+    {
+        "input": "Toyota Carina",
+        "output": "Toyota"
+    },
+    {
+        "input": "SS Athenia",
+        "output": "Govan"
+    },
+    {
+        "input": "Karl-Ger\u00e4t",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "T-44",
+        "output": "Kharkiv"
+    },
+    {
+        "input": "Opel Commodore",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Zarya",
+        "output": "Moscow"
+    },
+    {
+        "input": "Chevrolet SSR",
+        "output": "Detroit"
+    },
+    {
+        "input": "Aperol",
+        "output": "Milan"
+    },
+    {
+        "input": "Dolby Atmos",
+        "output": "San Francisco"
+    },
+    {
+        "input": "Neil Gehrels Swift Observatory",
+        "output": "Gilbert"
+    },
+    {
+        "input": "Fiat 500",
+        "output": "Turin"
+    },
+    {
+        "input": "Playdia",
+        "output": "Tait\u014d-ku"
+    },
+    {
+        "input": "Phalanx CIWS",
+        "output": "Waltham"
+    },
+    {
+        "input": "Tranquility",
+        "output": "Cannes"
+    },
+    {
+        "input": "Ford Anglia",
+        "output": "Dearborn"
+    },
+    {
+        "input": "K-278 Komsomolets",
+        "output": "Severodvinsk"
+    },
+    {
+        "input": "Aston Martin Vantage",
+        "output": "Gaydon"
+    },
+    {
+        "input": "Yamaha YZF-R1",
+        "output": "Iwata"
+    },
+    {
+        "input": "Super \u00c9tendard",
+        "output": "Paris"
+    },
+    {
+        "input": "Smirnoff",
+        "output": "London"
+    },
+    {
+        "input": "Hy\u016bga-class helicopter destroyer",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Ferrari F12 berlinetta",
+        "output": "Maranello"
+    },
+    {
+        "input": "Renault R29",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Moskva",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "Spacelab",
+        "output": "Paris"
+    },
+    {
+        "input": "BMW S1000RR",
+        "output": "Berlin"
+    },
+    {
+        "input": "Black Hornet Nano",
+        "output": "Asker"
+    },
+    {
+        "input": "LGM-25C Titan II",
+        "output": "Baltimore"
+    },
+    {
+        "input": "Japanese battleship Ise",
+        "output": "Kobe"
+    },
+    {
+        "input": "RMS Baltic",
+        "output": "Belfast"
+    },
+    {
+        "input": "Chinese aircraft carrier Shandong",
+        "output": "Dalian"
+    },
+    {
+        "input": "Snipping Tool",
+        "output": "Redmond"
+    },
+    {
+        "input": "Nokia E50",
+        "output": "Espoo"
+    },
+    {
+        "input": "Northrop X-4 Bantam",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "Audi A6 allroad quattro",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Volkswagen Golf Mk7",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Colt Commando",
+        "output": "West Hartford"
+    },
+    {
+        "input": "USS Indianapolis",
+        "output": "Camden"
+    },
+    {
+        "input": "Audi RS 2 Avant",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "McLaren MP4-12C",
+        "output": "McLaren Technology Centre"
+    },
+    {
+        "input": "Hyundai Ioniq 6",
+        "output": "Seoul"
+    },
+    {
+        "input": "Ford Scorpio",
+        "output": "Cologne"
+    },
+    {
+        "input": "Yak-18",
+        "output": "Moscow"
+    },
+    {
+        "input": "Mi-2",
+        "output": "\u015awidnik"
+    },
+    {
+        "input": "Nokia 7600",
+        "output": "Espoo"
+    },
+    {
+        "input": "MAVEN",
+        "output": "Bethesda"
+    },
+    {
+        "input": "Ram",
+        "output": "Montreal"
+    },
+    {
+        "input": "Tata Indica",
+        "output": "Mumbai"
+    },
+    {
+        "input": "Renault 19",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Chevrolet Captiva",
+        "output": "Detroit"
+    },
+    {
+        "input": "Lamborghini Murci\u00e9lago",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Rolls-Royce Phantom II",
+        "output": "Chichester"
+    },
+    {
+        "input": "Ferrari Daytona",
+        "output": "Maranello"
+    },
+    {
+        "input": "Hyundai Veracruz",
+        "output": "Seoul"
+    },
+    {
+        "input": "Stridsvagn 103",
+        "output": "Karlskoga"
+    },
+    {
+        "input": "MICA",
+        "output": "Le Plessis-Robinson"
+    },
+    {
+        "input": "Mitsubishi Type 89 IFV",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Project 1143.7 aircraft carrier",
+        "output": "Mykolaiv"
+    },
+    {
+        "input": "Volvo XC90",
+        "output": "Gothenburg"
+    },
+    {
+        "input": "Irish pound",
+        "output": "Dublin"
+    },
+    {
+        "input": "Mercury-Redstone 4",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Chevrolet Equinox",
+        "output": "Detroit"
+    },
+    {
+        "input": "Ford B-Max",
+        "output": "Dearborn"
+    },
+    {
+        "input": "FNSS Pars",
+        "output": "G\u00f6lba\u015f\u0131"
+    },
+    {
+        "input": "Sa'ar 5-class corvette",
+        "output": "Pascagoula"
+    },
+    {
+        "input": "Fiat Tempra",
+        "output": "Turin"
+    },
+    {
+        "input": "Core 2",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "McLaren F1",
+        "output": "McLaren Technology Centre"
+    },
+    {
+        "input": "Panzerwerfer",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Rokot",
+        "output": "Bremen"
+    },
+    {
+        "input": "J-2",
+        "output": "Los Angeles"
+    },
+    {
+        "input": "Alenia Aermacchi M-346 Master",
+        "output": "Rome"
+    },
+    {
+        "input": "M777",
+        "output": "Falls Church"
+    },
+    {
+        "input": "Lotus Evora",
+        "output": "Hethel"
+    },
+    {
+        "input": "ZSU-23-4 Shilka",
+        "output": "Mytishchi"
+    },
+    {
+        "input": "Kia Heart",
+        "output": "Seoul"
+    },
+    {
+        "input": "ZIL-157",
+        "output": "Moscow"
+    },
+    {
+        "input": "UGM-73 Poseidon",
+        "output": "Burbank"
+    },
+    {
+        "input": "Dendy",
+        "output": "Moscow"
+    },
+    {
+        "input": "Opel Crossland",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Fiat Bravo",
+        "output": "Turin"
+    },
+    {
+        "input": "Hyundai Santa Fe",
+        "output": "Seoul"
+    },
+    {
+        "input": "Windows 2000",
+        "output": "Redmond"
+    },
+    {
+        "input": "Alfa Romeo Giulia",
+        "output": "Turin"
+    },
+    {
+        "input": "Porsche Macan",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Fw 61",
+        "output": "Bremen"
+    },
+    {
+        "input": "Alfa Romeo Tonale",
+        "output": "Turin"
+    },
+    {
+        "input": "Ford S-Max",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Peugeot 404",
+        "output": "Poissy"
+    },
+    {
+        "input": "RMS Lusitania",
+        "output": "Clydebank"
+    },
+    {
+        "input": "Nokia 6630",
+        "output": "Espoo"
+    },
+    {
+        "input": "Suzuki Aerio",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "Luna 10",
+        "output": "Khimki"
+    },
+    {
+        "input": "Peugeot 308",
+        "output": "Poissy"
+    },
+    {
+        "input": "Freebase",
+        "output": "San Francisco"
+    },
+    {
+        "input": "50 Let Pobedy",
+        "output": "Saint Petersburg"
+    },
+    {
+        "input": "Monomail",
+        "output": "Chicago"
+    },
+    {
+        "input": "Volkswagen Arteon",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Mac mini",
+        "output": "Cupertino"
+    },
+    {
+        "input": "Mitsubishi Pajero Sport",
+        "output": "Minato"
+    },
+    {
+        "input": "Ford Puma",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Otokar Cobra",
+        "output": "Sakarya Province"
+    },
+    {
+        "input": "Soyuz TMA-08M",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Ferrari Portofino",
+        "output": "Maranello"
+    },
+    {
+        "input": "Kia Opirus",
+        "output": "Seoul"
+    },
+    {
+        "input": "N1",
+        "output": "Samara"
+    },
+    {
+        "input": "HMS Invincible",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Subaru Justy",
+        "output": "Ebisu"
+    },
+    {
+        "input": "B1 Centauro",
+        "output": "Turin"
+    },
+    {
+        "input": "Dragon",
+        "output": "Hawthorne"
+    },
+    {
+        "input": "Soyuz 16",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Sound Blaster",
+        "output": "Singapore"
+    },
+    {
+        "input": "PC-FX",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Shenzhou 12",
+        "output": "Haidian District"
+    },
+    {
+        "input": "Suzuki Alto",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "Mini Hatch",
+        "output": "Munich"
+    },
+    {
+        "input": "Assault Amphibious Vehicle",
+        "output": "Arlington County"
+    },
+    {
+        "input": "Boeing F-47",
+        "output": "Berkeley"
+    },
+    {
+        "input": "Mazda 323",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Nokia Lumia 520",
+        "output": "Espoo"
+    },
+    {
+        "input": "Ferrari F50",
+        "output": "Maranello"
+    },
+    {
+        "input": "BMW E24",
+        "output": "Munich"
+    },
+    {
+        "input": "Ilyushin Il-40",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bahamian dollar",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "Dream Chaser",
+        "output": "Sparks"
+    },
+    {
+        "input": "Nexus One",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Chrysler Neon",
+        "output": "Turin"
+    },
+    {
+        "input": "Nokia 9500 Communicator",
+        "output": "Espoo"
+    },
+    {
+        "input": "Opel Speedster",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "Soyuz 10",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Ford GT40",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Fender Stratocaster",
+        "output": "Nabari Station"
+    },
+    {
+        "input": "TGV",
+        "output": "Saint-Ouen-sur-Seine"
+    },
+    {
+        "input": "CZ Scorpion Evo 3",
+        "output": "Uhersk\u00fd Brod"
+    },
+    {
+        "input": "BMW 600",
+        "output": "Munich"
+    },
+    {
+        "input": "Volkswagen Beetle",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "Ford Transit Connect",
+        "output": "Dearborn"
+    },
+    {
+        "input": "Goggomobil",
+        "output": "Pilsting"
+    },
+    {
+        "input": "Pioneer 2",
+        "output": "Euclid"
+    },
+    {
+        "input": "Peugeot 304",
+        "output": "Poissy"
+    },
+    {
+        "input": "Windows 7",
+        "output": "Redmond"
+    },
+    {
+        "input": "Galaxy Evolution Explorer",
+        "output": "Dulles"
+    },
+    {
+        "input": "Lancia Delta",
+        "output": "Turin"
+    },
+    {
+        "input": "7TP",
+        "output": "Warsaw"
+    },
+    {
+        "input": "SS Andrea Doria",
+        "output": "Genoa"
+    },
+    {
+        "input": "K1 88-Tank",
+        "output": "Uiwang"
+    },
+    {
+        "input": "Electron",
+        "output": "Huntington Beach"
+    },
+    {
+        "input": "Nexus 5",
+        "output": "Seoul"
+    },
+    {
+        "input": "USS Yorktown",
+        "output": "Newport News"
+    },
+    {
+        "input": "Nokia E72",
+        "output": "Espoo"
+    },
+    {
+        "input": "SIG SG 550",
+        "output": "Neuhausen am Rheinfall"
+    },
+    {
+        "input": "Vatican lira",
+        "output": "Rome"
+    },
+    {
+        "input": "Aqua",
+        "output": "Euclid"
+    },
+    {
+        "input": "Orval",
+        "output": "Villers-devant-Orval"
+    },
+    {
+        "input": "Opel Senator",
+        "output": "R\u00fcsselsheim am Main"
+    },
+    {
+        "input": "IAR 80",
+        "output": "Ghimbav"
+    },
+    {
+        "input": "Porsche 993",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Socket 7",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Intel 8008",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Lamborghini Hurac\u00e1n",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Volkswagen Vento",
+        "output": "Wolfsburg"
+    },
+    {
+        "input": "RBS-15",
+        "output": "Karlskoga"
+    },
+    {
+        "input": "BMW M5",
+        "output": "Munich"
+    },
+    {
+        "input": "Daihatsu Applause",
+        "output": "Osaka"
+    },
+    {
+        "input": "Roland TR-808",
+        "output": "Hamamatsu"
+    },
+    {
+        "input": "USS Utah",
+        "output": "Camden"
+    },
+    {
+        "input": "Peugeot 504",
+        "output": "Poissy"
+    },
+    {
+        "input": "Mercury-Atlas 7",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Porsche 928",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "PDP-1",
+        "output": "Maynard"
+    },
+    {
+        "input": "Rolls-Royce Trent",
+        "output": "London"
+    },
+    {
+        "input": "T28 Super Heavy Tank",
+        "output": "Bellevue"
+    },
+    {
+        "input": "Grumman EA-6B Prowler",
+        "output": "Bethpage"
+    },
+    {
+        "input": "HMS Punjabi",
+        "output": "Greenock"
+    },
+    {
+        "input": "Peel P50",
+        "output": "Peel"
+    },
+    {
+        "input": "Panzerkampfwagen E-100",
+        "output": "Kassel"
+    },
+    {
+        "input": "SS Great Western",
+        "output": "River Avon"
+    },
+    {
+        "input": "Renault 16",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Buran",
+        "output": "Moscow"
+    },
+    {
+        "input": "Nokia 1600",
+        "output": "Espoo"
+    },
+    {
+        "input": "Heckler & Koch G3",
+        "output": "Oberndorf am Neckar"
+    },
+    {
+        "input": "Vostok 1",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Sega Nomad",
+        "output": "Shinagawa-ku"
+    },
+    {
+        "input": "Mars Polar Lander",
+        "output": "Bethesda"
+    },
+    {
+        "input": "BMW X3",
+        "output": "Munich"
+    },
+    {
+        "input": "Peugeot 204",
+        "output": "Poissy"
+    },
+    {
+        "input": "Petlyakov Pe-2",
+        "output": "Kazan"
+    },
+    {
+        "input": "Mercedes-Benz GL-Class",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Albatros D.V",
+        "output": "Berlin"
+    },
+    {
+        "input": "\u0160koda Roomster",
+        "output": "Mlad\u00e1 Boleslav"
+    },
+    {
+        "input": "Nokia 6300",
+        "output": "Espoo"
+    },
+    {
+        "input": "Lunar Atmosphere and Dust Environment Explorer",
+        "output": "Mountain View"
+    },
+    {
+        "input": "H8K",
+        "output": "Hy\u014dgo Prefecture"
+    },
+    {
+        "input": "OTs-14 Groza",
+        "output": "Tula"
+    },
+    {
+        "input": "Gemini 1",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Vickers A1E1 Independent",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Suomi KP/-31",
+        "output": "Tikkakoski"
+    },
+    {
+        "input": "Poisk",
+        "output": "Korolyov"
+    },
+    {
+        "input": "Honda Ridgeline",
+        "output": "Minato"
+    },
+    {
+        "input": "FV101 Scorpion",
+        "output": "Coventry"
+    },
+    {
+        "input": "Boeing X-32",
+        "output": "Chicago"
+    },
+    {
+        "input": "Kia Carnival",
+        "output": "Seoul"
+    },
+    {
+        "input": "Nokia 3220",
+        "output": "Espoo"
+    },
+    {
+        "input": "Nokia N92",
+        "output": "Espoo"
+    },
+    {
+        "input": "Toyota Supra",
+        "output": "Toyota"
+    },
+    {
+        "input": "Sikorsky Ilya Muromets",
+        "output": "Moscow"
+    },
+    {
+        "input": "Titanic",
+        "output": "Belfast"
+    },
+    {
+        "input": "SpaceShipOne",
+        "output": "Mojave"
+    },
+    {
+        "input": "LGA 1366",
+        "output": "Santa Clara"
+    },
+    {
+        "input": "Shenyang J-15",
+        "output": "Shenyang"
+    },
+    {
+        "input": "MBDA Meteor",
+        "output": "Le Plessis-Robinson"
+    },
+    {
+        "input": "Tupolev Tu-141",
+        "output": "Kharkiv"
+    },
+    {
+        "input": "Mexican peso",
+        "output": "Banco de M\u00e9xico Building"
+    },
+    {
+        "input": "Canadian dollar",
+        "output": "Ottawa"
+    },
+    {
+        "input": "M8 Greyhound",
+        "output": "Dearborn"
+    },
+    {
+        "input": "MiG-29K",
+        "output": "Moscow"
+    },
+    {
+        "input": "SS Californian",
+        "output": "Dundee"
+    },
+    {
+        "input": "Ferrari 348",
+        "output": "Maranello"
+    },
+    {
+        "input": "Mitsubishi Carisma",
+        "output": "Minato"
+    },
+    {
+        "input": "General Electric CF6",
+        "output": "Evendale"
+    },
+    {
+        "input": "Ford Model T",
+        "output": "Dearborn"
+    },
+    {
+        "input": "10.5 cm leFH 18",
+        "output": "D\u00fcsseldorf"
+    },
+    {
+        "input": "Ferrari F2008",
+        "output": "Maranello"
+    },
+    {
+        "input": "Nokia N95",
+        "output": "Espoo"
+    },
+    {
+        "input": "Gemini 3",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Dolphin-class submarine",
+        "output": "Kiel"
+    },
+    {
+        "input": "HTC One",
+        "output": "New Taipei"
+    },
+    {
+        "input": "Vittorio Veneto",
+        "output": "Trieste"
+    },
+    {
+        "input": "Bell 407",
+        "output": "Fort Worth"
+    },
+    {
+        "input": "Harmony",
+        "output": "Cannes"
+    },
+    {
+        "input": "Sopwith Triplane",
+        "output": "Kingston upon Thames"
+    },
+    {
+        "input": "Audi 80",
+        "output": "Ingolstadt"
+    },
+    {
+        "input": "Cruiser Mk II",
+        "output": "Barrow-in-Furness"
+    },
+    {
+        "input": "Fiat 131",
+        "output": "Turin"
+    },
+    {
+        "input": "Sri Lankan rupee",
+        "output": "Basingstoke"
+    },
+    {
+        "input": "SMS Szent Istv\u00e1n",
+        "output": "Budapest"
+    },
+    {
+        "input": "Lada Niva",
+        "output": "AvtoVAZ headquarter"
+    },
+    {
+        "input": "Nokia 5510",
+        "output": "Espoo"
+    },
+    {
+        "input": "Mazda RX-7",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Lamborghini 350 GT",
+        "output": "Sant'Agata Bolognese"
+    },
+    {
+        "input": "Heinkel He 111",
+        "output": "Warnem\u00fcnde"
+    },
+    {
+        "input": "Renault 4",
+        "output": "Boulogne-Billancourt"
+    },
+    {
+        "input": "Sony Ericsson K750i",
+        "output": "Minato"
+    },
+    {
+        "input": "Rimac Nevera",
+        "output": "Sveta Nedelja"
+    },
+    {
+        "input": "Fiat 600",
+        "output": "Turin"
+    },
+    {
+        "input": "Fiat Marea",
+        "output": "Turin"
+    },
+    {
+        "input": "Gemini 12",
+        "output": "St. Louis"
+    },
+    {
+        "input": "Hyundai Genesis",
+        "output": "Seoul"
+    },
+    {
+        "input": "Mercedes-Benz W124",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "Peugeot RCZ",
+        "output": "Poissy"
+    },
+    {
+        "input": "Mikoyan-Gurevich MiG-105",
+        "output": "Moscow"
+    },
+    {
+        "input": "U-96",
+        "output": "Kiel"
+    },
+    {
+        "input": "Long March 3B",
+        "output": "Fengtai District"
+    },
+    {
+        "input": "Ferrari F2007",
+        "output": "Maranello"
+    },
+    {
+        "input": "BMW i3",
+        "output": "Munich"
+    },
+    {
+        "input": "Honda Insight",
+        "output": "Minato"
+    },
+    {
+        "input": "Su-30MKI",
+        "output": "Bengaluru"
+    },
+    {
+        "input": "Vostok 3",
+        "output": "Korolyov"
+    },
+    {
+        "input": "CDC 6600",
+        "output": "Bloomington"
+    },
+    {
+        "input": "Kratos XQ-58 Valkyrie",
+        "output": "San Diego"
+    },
+    {
+        "input": "Zastava M93 Black Arrow",
+        "output": "Kragujevac"
+    },
+    {
+        "input": "bouncing bomb",
+        "output": "Millbank Tower"
+    },
+    {
+        "input": "Losharik",
+        "output": "Severodvinsk"
+    },
+    {
+        "input": "Cessna 152",
+        "output": "Wichita"
+    },
+    {
+        "input": "Nokia 7650",
+        "output": "Espoo"
+    },
+    {
+        "input": "Nokia 7610",
+        "output": "Espoo"
+    },
+    {
+        "input": "Toyota Paseo",
+        "output": "Toyota"
+    },
+    {
+        "input": "Mazda MX-6",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Zabbix",
+        "output": "Riga"
+    },
+    {
+        "input": "Ford Zephyr",
+        "output": "Brentwood"
+    },
+    {
+        "input": "Il-80",
+        "output": "Moscow"
+    },
+    {
+        "input": "Browning M1919",
+        "output": "Morgan"
+    },
+    {
+        "input": "Dante Alighieri",
+        "output": "Genoa"
+    },
+    {
+        "input": "Albatros D.III",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ilyushin Il-18",
+        "output": "Moscow"
+    },
+    {
+        "input": "Mercedes-Benz Citan",
+        "output": "Stuttgart"
+    },
+    {
+        "input": "LG G5",
+        "output": "Seoul"
+    },
+    {
+        "input": "Whopper",
+        "output": "Miami-Dade County"
+    },
+    {
+        "input": "Piaggio Ape",
+        "output": "Pontedera"
+    },
+    {
+        "input": "Baileys Irish Cream",
+        "output": "London"
+    },
+    {
+        "input": "Koenigsegg CC8S",
+        "output": "\u00c4ngelholm"
+    },
+    {
+        "input": "Nokia 2310",
+        "output": "Espoo"
+    },
+    {
+        "input": "USS Abraham Lincoln",
+        "output": "Newport News"
+    },
+    {
+        "input": "QBZ-95",
+        "output": "Beijing"
+    },
+    {
+        "input": "Nokia 5230",
+        "output": "Espoo"
+    },
+    {
+        "input": "Rolls-Royce Ghost",
+        "output": "Chichester"
+    },
+    {
+        "input": "Rolls-Royce Silver Ghost",
+        "output": "Chichester"
+    },
+    {
+        "input": "Mazda 121",
+        "output": "Fuchu"
+    },
+    {
+        "input": "Nokia N80",
+        "output": "Espoo"
+    }
+]

@@ -1,0 +1,2974 @@
+[
+    {
+        "input": "Kampinos National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Guadarrama National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Prince Albert National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Sarek National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Gal\u00e1pagos National Park",
+        "output": "Quito"
+    },
+    {
+        "input": "Madison Square and Madison Square Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Berchtesgaden National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Puerto Princesa River",
+        "output": "Manila"
+    },
+    {
+        "input": "Tijuca National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Dry Tortugas National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Jigme Dorji National Park",
+        "output": "Thimphu"
+    },
+    {
+        "input": "Los Kat\u00edos National Park",
+        "output": "Bogot\u00e1"
+    },
+    {
+        "input": "Mariy Chodra National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Nikk\u014d National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Mill Ends Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "\u00c4ngs\u00f6 National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Nouabal\u00e9-Ndoki National Park",
+        "output": "Brazzaville"
+    },
+    {
+        "input": "Auk\u0161taitija National Park",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Herodium",
+        "output": "Ramallah"
+    },
+    {
+        "input": "\u00c5nderdalen National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Bikin National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Aso Kuj\u016b National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Riisitunturi National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Peneda-Ger\u00eas National Park",
+        "output": "Lisbon"
+    },
+    {
+        "input": "Valbon\u00eb Valley National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "Bashkiria National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Cairngorms National Park",
+        "output": "London"
+    },
+    {
+        "input": "Pyramids of G\u00fc\u00edmar",
+        "output": "Madrid"
+    },
+    {
+        "input": "Rila National Park",
+        "output": "Sofia"
+    },
+    {
+        "input": "Simien Mountains National Park",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Vuntut National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Kootenay National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Hot Springs National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Zion National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Naracoorte Caves National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Hirkan National Park",
+        "output": "Baku"
+    },
+    {
+        "input": "Hampstead Heath",
+        "output": "London"
+    },
+    {
+        "input": "Kolkheti National Park",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Jotunheimen National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Zakouma National Park",
+        "output": "N'Djamena"
+    },
+    {
+        "input": "Algonquin Provincial Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Sagarmatha National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Ordesa y Monte Perdido National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Flushing Meadows\u2013Corona Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "National Park Kornati",
+        "output": "Zagreb"
+    },
+    {
+        "input": "Len\u00e7\u00f3is Maranhenses National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Bory Tucholskie National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Kosciuszko National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Bruce Peninsula National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Tomb of Caecilia Metella",
+        "output": "Rome"
+    },
+    {
+        "input": "Lore Lindu National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Banc d'Arguin National Park",
+        "output": "Nouakchott"
+    },
+    {
+        "input": "Desembarco del Granma National Park",
+        "output": "Havana"
+    },
+    {
+        "input": "Black Canyon of the Gunnison National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Kauhaneva\u2013Pohjankangas National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Haparanda Archipelago National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Way Kambas National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Volcanoes National Park",
+        "output": "Kigali"
+    },
+    {
+        "input": "Ivindo National Park",
+        "output": "Libreville"
+    },
+    {
+        "input": "Mana Pools",
+        "output": "Harare"
+    },
+    {
+        "input": "Shenandoah National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Belvoir Fortress",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Fundy National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Channel Islands National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Nahanni National Park Reserve",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Tyresta National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Gorongosa National Park",
+        "output": "Maputo"
+    },
+    {
+        "input": "Arusha National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Lower Saxon Wadden Sea National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Skaftafell",
+        "output": "Reykjav\u00edk"
+    },
+    {
+        "input": "Zyuratkul National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Como\u00e9 National Park",
+        "output": "Yamoussoukro"
+    },
+    {
+        "input": "Canaima National Park",
+        "output": "Caracas"
+    },
+    {
+        "input": "Kozara National Park",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "Mur\u00e1nska planina National Park",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Saguaro National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "El Kala National Park",
+        "output": "Algiers"
+    },
+    {
+        "input": "Artis",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "\u0150rs\u00e9g National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Nahuel Huapi National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Los Glaciares National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Bwindi Impenetrable National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Br\u00fchl's Terrace",
+        "output": "Berlin"
+    },
+    {
+        "input": "Pembrokeshire Coast National Park",
+        "output": "London"
+    },
+    {
+        "input": "Poloniny National Park",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Altyn-Emel National Park",
+        "output": "Astana"
+    },
+    {
+        "input": "Murchison Falls National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Podyj\u00ed National Park",
+        "output": "Prague"
+    },
+    {
+        "input": "Baluran National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Arthur's Pass National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Olympic National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Atlantic Islands of Galicia National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Blue Grotto",
+        "output": "Rome"
+    },
+    {
+        "input": "Mikumi National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Talampaya National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Olympiapark",
+        "output": "Berlin"
+    },
+    {
+        "input": "Valle dei Templi",
+        "output": "Rome"
+    },
+    {
+        "input": "Capitol Reef National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Denali National Park and Preserve",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ivvavik National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Aberdare National Park",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Pombia Safari Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Bardiya National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Dari\u00e9n National Park",
+        "output": "Panama City"
+    },
+    {
+        "input": "Cangandala National Park",
+        "output": "Luanda"
+    },
+    {
+        "input": "Mamshit",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Saltfjellet\u2013Svartisen National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Laguna San Rafael National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Toubkal National Park",
+        "output": "Rabat"
+    },
+    {
+        "input": "Great Smoky Mountains National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Arcipelago Toscano National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Aoraki / Mount Cook National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Grand Teton National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "South Luangwa National Park",
+        "output": "Lusaka"
+    },
+    {
+        "input": "Westland Tai Poutini National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Lassen Volcanic National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bronx Zoo",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Periyar National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Omo National Park",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Himera",
+        "output": "Rome"
+    },
+    {
+        "input": "Segesta",
+        "output": "Rome"
+    },
+    {
+        "input": "Alaniya National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Frogner Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "C\u00e9vennes National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Calilegua National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Vodlozersky National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Matobo National Park",
+        "output": "Harare"
+    },
+    {
+        "input": "Sochi National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Hohe Tauern National Park",
+        "output": "Vienna"
+    },
+    {
+        "input": "Manu National Park",
+        "output": "Lima"
+    },
+    {
+        "input": "Urho Kekkonen National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Hawai\u02bbi Volcanoes National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Norra Kvill National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Kibira National Park",
+        "output": "Gitega"
+    },
+    {
+        "input": "Buddha Park",
+        "output": "Vientiane"
+    },
+    {
+        "input": "Aggtelek National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Point Pelee National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Paklenica",
+        "output": "Zagreb"
+    },
+    {
+        "input": "San Diego Zoo",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Kiskuns\u00e1g National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Port-Cros National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Yugyd Va National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Killarney National Park",
+        "output": "Dublin"
+    },
+    {
+        "input": "Gran Sasso e Monti della Laga National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Gateway Arch",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Buzuluksky Bor National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Melbourne Zoo",
+        "output": "Canberra"
+    },
+    {
+        "input": "Caldera de Taburiente National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Danube-Ipoly National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Megara Hyblaea",
+        "output": "Rome"
+    },
+    {
+        "input": "Jasmund National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Great Sand Dunes National Park and Preserve",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Golden Gate Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Guadalupe Mountains National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "\u0110erdap national park",
+        "output": "Belgrade"
+    },
+    {
+        "input": "Krkono\u0161e National Park",
+        "output": "Prague"
+    },
+    {
+        "input": "Sofiyivsky Park",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Awash National Park",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Vesuvius National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Virunga National Park",
+        "output": "Kinshasa"
+    },
+    {
+        "input": "Saxon Switzerland National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Azov-Syvash National Nature Park",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Patvinsuo National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Towada-Hachimantai National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Erawan National Park",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Kenai Fjords National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Jiuzhaigou Valley",
+        "output": "Beijing"
+    },
+    {
+        "input": "Minami Alps National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Bia\u0142owie\u017ca National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Odori Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Miniat\u00fcrk",
+        "output": "Ankara"
+    },
+    {
+        "input": "Trakai Historical National Park",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Arcipelago di La Maddalena National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Fiordland National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Rago National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Odzala National Park",
+        "output": "Brazzaville"
+    },
+    {
+        "input": "Vigeland installation",
+        "output": "Oslo"
+    },
+    {
+        "input": "Ichkeul National Park",
+        "output": "Tunis"
+    },
+    {
+        "input": "Vatnaj\u00f6kull National Park",
+        "output": "Reykjav\u00edk"
+    },
+    {
+        "input": "Sirmilik National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Purnululu National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Chavash Varmane Bor National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Belavezhskaya Pushcha National Park",
+        "output": "Minsk"
+    },
+    {
+        "input": "Alberto de Agostini National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Riding Mountain National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Bandipur National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "\u00d8vre Dividal National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Harz National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Shivta",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Kosterhavet National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Babia G\u00f3ra National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Death Valley National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ise-Shima National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Rara National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Great Himalayan National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Akan Mashu National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "V\u00e4norts Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Namib-Naukluft National Park",
+        "output": "Windhoek"
+    },
+    {
+        "input": "Stabbursdalen National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Mago National Park",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Muddus National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Yoho National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Simlipal National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Bou-Hedma National Park",
+        "output": "Tunis"
+    },
+    {
+        "input": "Shikotsu-T\u014dya National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Pamir National Park",
+        "output": "Dushanbe"
+    },
+    {
+        "input": "Nanda Devi National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Itatiaia National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Yellowstone National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Louisiana Museum of Modern Art",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Pyh\u00e4-Luosto National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Tiilikkaj\u00e4rvi National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Redwood National and State Parks",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Monfrag\u00fce National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Manovo-Gounda St. Floris National Park",
+        "output": "Bangui"
+    },
+    {
+        "input": "Butrint National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "Central Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Vikos\u2013Ao\u00f6s National Park",
+        "output": "Athens"
+    },
+    {
+        "input": "Marojejy National Park",
+        "output": "Antananarivo"
+    },
+    {
+        "input": "Shivapuri Nagarjun National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Ch\u016bbu-Sangaku National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Hadrian's Villa",
+        "output": "Rome"
+    },
+    {
+        "input": "Mole National Park",
+        "output": "Accra"
+    },
+    {
+        "input": "C\u00edes Islands",
+        "output": "Madrid"
+    },
+    {
+        "input": "Gir Forest",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Hainich National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Grasslands National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Alacah\u00f6y\u00fck",
+        "output": "Ankara"
+    },
+    {
+        "input": "Primrose Hill",
+        "output": "London"
+    },
+    {
+        "input": "Rokua National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Sundarbans National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Vicente P\u00e9rez Rosales National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Gardens of Bomarzo",
+        "output": "Rome"
+    },
+    {
+        "input": "Bavarian Forest National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Slovak Karst National Park",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Reisa National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Saloum Delta National Park",
+        "output": "Dakar"
+    },
+    {
+        "input": "Fort Jesus Museum",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Kudremukh",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Lake Malawi National Park",
+        "output": "Lilongwe"
+    },
+    {
+        "input": "Bandai-Asahi National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "R\u00edo Abiseo National Park",
+        "output": "Lima"
+    },
+    {
+        "input": "\u0160umava National Park",
+        "output": "Prague"
+    },
+    {
+        "input": "Nechisar National Park",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Torres del Paine National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Kafue National Park",
+        "output": "Lusaka"
+    },
+    {
+        "input": "Ras Muhammad National Park",
+        "output": "Cairo"
+    },
+    {
+        "input": "Komodo National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Gombe National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Swiss National Park",
+        "output": "Bern"
+    },
+    {
+        "input": "Mu Ko Ang Thong National Park",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Auyuittuq National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Manuel Antonio National Park",
+        "output": "San Jos\u00e9"
+    },
+    {
+        "input": "Acadia National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bothnian Bay National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Kilimanjaro National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Dessau-W\u00f6rlitz Garden Realm",
+        "output": "Berlin"
+    },
+    {
+        "input": "Shuklaphanta National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Vondelpark",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Virgin Islands National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Kakum National Park",
+        "output": "Accra"
+    },
+    {
+        "input": "Bergpark Wilhelmsh\u00f6he",
+        "output": "Berlin"
+    },
+    {
+        "input": "Shirvan National Park",
+        "output": "Baku"
+    },
+    {
+        "input": "Una National Park",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "Loro Parque",
+        "output": "Madrid"
+    },
+    {
+        "input": "Russian Arctic National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Blue Mountains National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Nuuksio National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Hardangervidda National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Quinta da Regaleira",
+        "output": "Lisbon"
+    },
+    {
+        "input": "Cheile Nerei-Beu\u0219ni\u021ba National Park",
+        "output": "Bucharest"
+    },
+    {
+        "input": "Bletchley Park",
+        "output": "London"
+    },
+    {
+        "input": "Everglades National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Villa Romana del Casale",
+        "output": "Rome"
+    },
+    {
+        "input": "Preah Monivong National Park",
+        "output": "Phnom Penh"
+    },
+    {
+        "input": "Tarangire National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Rishiri-Rebun-Sarobetsu National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Bhitarkanika National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Skuleskogen National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Whanganui National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Champaner-Pavagadh Archaeological Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Pollino National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "M\u00fcritz National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ba B\u1ec3 National Park",
+        "output": "Hanoi"
+    },
+    {
+        "input": "Andasibe-Mantadia National Park",
+        "output": "Antananarivo"
+    },
+    {
+        "input": "Rocky Mountain National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Kaziranga National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Tel Hazor",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Drawa National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Cape Breton Highlands National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Aulavik National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Pyh\u00e4-H\u00e4kki National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Pribaikalsky National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Djur\u00f6 National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Arches National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Wood Buffalo National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Biogradska Gora",
+        "output": "Podgorica"
+    },
+    {
+        "input": "Lan\u00edn National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Parc de la Ciutadella",
+        "output": "Madrid"
+    },
+    {
+        "input": "Wolin National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "C\u00e1t Ti\u00ean National Park",
+        "output": "Hanoi"
+    },
+    {
+        "input": "Stora Sj\u00f6fallet National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Nyungwe Forest",
+        "output": "Kigali"
+    },
+    {
+        "input": "Eastern Gulf of Finland National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Nairobi National Park",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Ges\u00e4use National Park",
+        "output": "Vienna"
+    },
+    {
+        "input": "Lur\u00eb-Dej\u00eb Mountain National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "Petrified Forest National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Lorentz National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Padjelanta National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Wicklow Mountains National Park",
+        "output": "Dublin"
+    },
+    {
+        "input": "White Desert",
+        "output": "Cairo"
+    },
+    {
+        "input": "Mount Arbel",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Dz\u016bkija National Park",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Isle Royale National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Vauxhall Gardens",
+        "output": "London"
+    },
+    {
+        "input": "Rakiura National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Zengezur National Park",
+        "output": "Baku"
+    },
+    {
+        "input": "Fert\u0151-Hans\u00e1g National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Valley of Flowers National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Thingvellir National Park",
+        "output": "Reykjav\u00edk"
+    },
+    {
+        "input": "Vanoise National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "R\u0101zna National Park",
+        "output": "Riga"
+    },
+    {
+        "input": "Tumucumaque National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Banff National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Wind Cave National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Dajti National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "London Zoo",
+        "output": "London"
+    },
+    {
+        "input": "Carlsbad Caverns National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bj\u00f6rnlandet National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Ranomafana National Park",
+        "output": "Antananarivo"
+    },
+    {
+        "input": "Amboseli National Park",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Los Arrayanes National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Waza National Park",
+        "output": "Yaound\u00e9"
+    },
+    {
+        "input": "Central Park Zoo",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Cotopaxi National Park",
+        "output": "Quito"
+    },
+    {
+        "input": "Manusela National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Etosha National Park",
+        "output": "Windhoek"
+    },
+    {
+        "input": "North Cascades National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Western Pomerania Lagoon Area National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ja\u00fa National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Wapusk National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "National Park Sjeverni Velebit",
+        "output": "Zagreb"
+    },
+    {
+        "input": "Paanaj\u00e4rvi National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Presidio of San Francisco",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Kluane National Park and Reserve",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Waterton Lakes National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Tanjung Puting",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Narew National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Isalo National Park",
+        "output": "Antananarivo"
+    },
+    {
+        "input": "Do\u00f1ana National and Natural Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Lauca National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Chiribiquete National Park",
+        "output": "Bogot\u00e1"
+    },
+    {
+        "input": "Stanley Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Georgian Bay Islands National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Oze National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Egmont National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Ladonia",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Kanha National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "S\u00f6der\u00e5sen National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Shahdag National Park",
+        "output": "Baku"
+    },
+    {
+        "input": "P\u00e4ij\u00e4nne National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Pench National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Green Park",
+        "output": "London"
+    },
+    {
+        "input": "Aghgol National Park",
+        "output": "Baku"
+    },
+    {
+        "input": "Mini Israel",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Jim Corbett National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Slovak Paradise National Park",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Minimundus",
+        "output": "Vienna"
+    },
+    {
+        "input": "San Agustin archeological park",
+        "output": "Bogot\u00e1"
+    },
+    {
+        "input": "Prospect Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Big Bend National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Nara Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Keibul Lamjao National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Neverland Ranch",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ruaha National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "F\u00e4rnebofj\u00e4rden National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Biscayne National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Narachanski National Park",
+        "output": "Minsk"
+    },
+    {
+        "input": "Golestan National Park",
+        "output": "Tehran"
+    },
+    {
+        "input": "Danube-Auen National Park",
+        "output": "Vienna"
+    },
+    {
+        "input": "Teide National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Kungstr\u00e4dg\u00e5rden",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Igua\u00e7u National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Soluntum",
+        "output": "Rome"
+    },
+    {
+        "input": "B\u00f8rgefjell National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Guiana Amazonian Park",
+        "output": "Paris"
+    },
+    {
+        "input": "El Cajas National Park",
+        "output": "Quito"
+    },
+    {
+        "input": "Mainau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bromo Tengger Semeru National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Alkhanay National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "\u015awi\u0119tokrzyski National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Hyde Park",
+        "output": "London"
+    },
+    {
+        "input": "Loch Lomond and The Trossachs National Park",
+        "output": "London"
+    },
+    {
+        "input": "Mount Rainier National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Aparados da Serra National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Tierradentro",
+        "output": "Bogot\u00e1"
+    },
+    {
+        "input": "Algeti National Park",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Polesie National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "G\u00f6yg\u00f6l National Park",
+        "output": "Baku"
+    },
+    {
+        "input": "Pallas-Yll\u00e4stunturi National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Gates of the Arctic National Park and Preserve",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Jasper National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Theodore Roosevelt National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Tortuguero National Park",
+        "output": "San Jos\u00e9"
+    },
+    {
+        "input": "U Thant Island",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Congaree National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bosque Fray Jorge National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Park G\u00fcell",
+        "output": "Madrid"
+    },
+    {
+        "input": "Kr\u00f6ller-M\u00fcller Museum",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Grand Canyon National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Shantar Islands National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bernardo O'Higgins National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Hortob\u00e1gy National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Lake Clark National Park and Preserve",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "S\u0142owi\u0144ski National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Rwenzori Mountains National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Taronga Zoo",
+        "output": "Canberra"
+    },
+    {
+        "input": "Bandhavgarh National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Ukkusiksalik National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Summer Garden",
+        "output": "Moscow"
+    },
+    {
+        "input": "Terra Nova National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Kakadu National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Koli National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Liwonde National Park",
+        "output": "Lilongwe"
+    },
+    {
+        "input": "Alas Purwo National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Ujung Kulon National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Llogara National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "Kibale National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Curonian Spit National Park",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Lop\u00e9 National Park",
+        "output": "Libreville"
+    },
+    {
+        "input": "Gwaii Haanas National Park Reserve and Haida Heritage Site",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Stelvio National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Vrelo Bosne",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "Dulce River",
+        "output": "Guatemala City"
+    },
+    {
+        "input": "Pacaya",
+        "output": "Guatemala City"
+    },
+    {
+        "input": "Wigry National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Pripyatsky National Park",
+        "output": "Minsk"
+    },
+    {
+        "input": "Kerinci Seblat National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Namdapha National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Kinabalu Park",
+        "output": "Kuala Lumpur"
+    },
+    {
+        "input": "The Broads",
+        "output": "London"
+    },
+    {
+        "input": "Bushy Park",
+        "output": "London"
+    },
+    {
+        "input": "Bryant Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Iguaz\u00fa National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Sybaris",
+        "output": "Rome"
+    },
+    {
+        "input": "Gory\u014dkaku",
+        "output": "Tokyo"
+    },
+    {
+        "input": "B\u00e9nou\u00e9 National Park",
+        "output": "Yaound\u00e9"
+    },
+    {
+        "input": "Serra da Capivara National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Khao Sam Roi Yot National Park",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Miniatur Wunderland",
+        "output": "Berlin"
+    },
+    {
+        "input": "Dovrefjell\u2013Sunndalsfjella National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Gauja National Park",
+        "output": "Riga"
+    },
+    {
+        "input": "Kejimkujik National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "The Battery",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Englischer Garten",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sangay National Park",
+        "output": "Quito"
+    },
+    {
+        "input": "G\u00f6reme National Park",
+        "output": "Ankara"
+    },
+    {
+        "input": "Nagarhole National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Land of the Leopard National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Thousand Islands National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Canyonlands National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Union Square",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ojc\u00f3w National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Makalu Barun National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Miguasha National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Anyuysky National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Kensington Gardens",
+        "output": "London"
+    },
+    {
+        "input": "Nambung National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Lake Mburo National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Mount Aspiring National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Mount Kenya National Park",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Salamaj\u00e4rvi National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Takalik Abaj",
+        "output": "Guatemala City"
+    },
+    {
+        "input": "Tunkinsky National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Timanfaya National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Archipelago National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Hamra National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Sila National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Victoria Falls National Park",
+        "output": "Harare"
+    },
+    {
+        "input": "High Line",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Amber Mountain National Park",
+        "output": "Antananarivo"
+    },
+    {
+        "input": "Pyr\u00e9n\u00e9es National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "G\u00fclhane Park",
+        "output": "Ankara"
+    },
+    {
+        "input": "Picos de Europa National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Tayrona National Natural Park",
+        "output": "Bogot\u00e1"
+    },
+    {
+        "input": "Pendjari National Park",
+        "output": "Porto-Novo"
+    },
+    {
+        "input": "Fulufj\u00e4llet National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Tatshenshini-Alsek Provincial Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Serra dos \u00d3rg\u00e3os National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Lower Oder Valley National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museumplein",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Magura National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Rondane National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Huascar\u00e1n National Park",
+        "output": "Lima"
+    },
+    {
+        "input": "\u00d8vre Pasvik National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Gr\u016btas Park",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Georgia Aquarium",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "R\u00e9union National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Sehlabathebe National Park",
+        "output": "Maseru"
+    },
+    {
+        "input": "Kobuk Valley National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Palace of Caserta",
+        "output": "Rome"
+    },
+    {
+        "input": "Selinunte",
+        "output": "Rome"
+    },
+    {
+        "input": "Podilski Tovtry National Park",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Hoge Veluwe National Park",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Jostedalsbreen National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Iriomote-Ishigaki National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Ranthambore National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Mesa Verde National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Maiko National Park",
+        "output": "Kinshasa"
+    },
+    {
+        "input": "Ulu\u1e5fu-Kata Tju\u1e6fa National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Kurjenrahka National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "T\u00fcb\u00e4n Kama National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Seoraksan National Park",
+        "output": "Seoul"
+    },
+    {
+        "input": "Sierra de las Quijadas National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Sonfj\u00e4llet National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Pelister National Park",
+        "output": "Skopje"
+    },
+    {
+        "input": "Djurdjura National Park",
+        "output": "Algiers"
+    },
+    {
+        "input": "Kenting National Park",
+        "output": "Taipei"
+    },
+    {
+        "input": "Forillon National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Taroko National Park",
+        "output": "Taipei"
+    },
+    {
+        "input": "Orangery Palace",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ein Gedi",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Borjomi-Kharagauli National Park",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Hamburg Wadden Sea National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Langtang National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Baths of Caracalla",
+        "output": "Rome"
+    },
+    {
+        "input": "Khao Sok",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Shalamar Gardens",
+        "output": "Islamabad"
+    },
+    {
+        "input": "Connemara National Park",
+        "output": "Dublin"
+    },
+    {
+        "input": "Hwange National Park",
+        "output": "Harare"
+    },
+    {
+        "input": "Oulanka National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Khao Yai National Park",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Cradle Mountain-Lake St Clair National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Mount Revelstoke National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Su Nuraxi di Barumini",
+        "output": "Rome"
+    },
+    {
+        "input": "Corcovado National Park",
+        "output": "San Jos\u00e9"
+    },
+    {
+        "input": "\u0136emeri National Park",
+        "output": "Riga"
+    },
+    {
+        "input": "Dudhwa National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Hell's Gate National Park",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Sharr Mountains National Park",
+        "output": "Prishtina"
+    },
+    {
+        "input": "Veluwezoom National Park",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Abel Tasman National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Gran Paradiso National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Sibiloi National Park",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Rapa Nui National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Isoj\u00e4rvi National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Badlands National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Tierpark Hagenbeck",
+        "output": "Berlin"
+    },
+    {
+        "input": "Shiretoko National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Kevladev National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "D\u00f6belns park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Tablas de Daimiel National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Joshua Tree National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Abisko National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Kundelungu National Park",
+        "output": "Kinshasa"
+    },
+    {
+        "input": "Skansen",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Los Alerces National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Mammoth Cave National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Beringia National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Lob\u00e9k\u00e9 National Park",
+        "output": "Yaound\u00e9"
+    },
+    {
+        "input": "Madurodam",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Divjak\u00eb-Karavasta National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "Katmai National Park and Preserve",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Umedalens Skulpturpark",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Karkonosze National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Mount Olympus",
+        "output": "Athens"
+    },
+    {
+        "input": "Gunung Palung National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Royal Parks of London",
+        "output": "London"
+    },
+    {
+        "input": "Triglav National Park",
+        "output": "Ljubljana"
+    },
+    {
+        "input": "Pinnacles National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Coiba",
+        "output": "Panama City"
+    },
+    {
+        "input": "Souss-Massa National Park",
+        "output": "Rabat"
+    },
+    {
+        "input": "Grant Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Pindus National Park",
+        "output": "Athens"
+    },
+    {
+        "input": "Arsuf",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Tongariro National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Hemis National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Dalby S\u00f6derskog National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Deosai National Park",
+        "output": "Islamabad"
+    },
+    {
+        "input": "Te Urewera National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Mgahinga Gorilla National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Abruzzo, Lazio and Molise National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Cameia National Park",
+        "output": "Luanda"
+    },
+    {
+        "input": "Emas National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Quissama National Park",
+        "output": "Luanda"
+    },
+    {
+        "input": "Shebenik National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "Nelson Lakes National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Hiidenportti National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Gorce National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Kenozyorsky National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Kushiro-shitsugen National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Perito Moreno National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Chitwan National Park",
+        "output": "Kathmandu"
+    },
+    {
+        "input": "Stenshuvud National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Iona National Park",
+        "output": "Luanda"
+    },
+    {
+        "input": "Repovesi National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Mudumalai National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Great Basin National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Masoala National Park",
+        "output": "Antananarivo"
+    },
+    {
+        "input": "Disney's Animal Kingdom",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Vashlovani National Park",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Manas National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Tierra del Fuego National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Greenwich Park",
+        "output": "London"
+    },
+    {
+        "input": "Caba\u00f1eros National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Kahurangi National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Los Angeles Zoo",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Alexander von Humboldt National Park",
+        "output": "Havana"
+    },
+    {
+        "input": "Garamba National Park",
+        "output": "Kinshasa"
+    },
+    {
+        "input": "Salonga National Park",
+        "output": "Kinshasa"
+    },
+    {
+        "input": "El Rey National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Aspromonte National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Low Tatras National Park",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Richmond Park",
+        "output": "London"
+    },
+    {
+        "input": "Ashizuri-Uwakai National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Gobi Gurvansaikhan National Park",
+        "output": "Ulaanbaatar"
+    },
+    {
+        "input": "Kidepo Valley National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Djoudj National Bird Sanctuary",
+        "output": "Dakar"
+    },
+    {
+        "input": "Brimstone Hill Fortress National Park",
+        "output": "Basseterre"
+    },
+    {
+        "input": "Batang Gadis National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Cuyahoga Valley National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Tsavo East National Park",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Paparoa National Park",
+        "output": "Wellington"
+    },
+    {
+        "input": "Elk Island National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Gunung Leuser National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Tallinn Zoo",
+        "output": "Tallinn"
+    },
+    {
+        "input": "Bukit Barisan Selatan National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Kavir National Park",
+        "output": "Tehran"
+    },
+    {
+        "input": "Plitvice Lakes National Park",
+        "output": "Zagreb"
+    },
+    {
+        "input": "Naxos",
+        "output": "Rome"
+    },
+    {
+        "input": "Northumberland National Park",
+        "output": "London"
+    },
+    {
+        "input": "Bannau Brycheiniog National Park",
+        "output": "London"
+    },
+    {
+        "input": "Pieljekaise National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Lago Puelo National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Retezat National Park",
+        "output": "Bucharest"
+    },
+    {
+        "input": "Guadeloupe National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Cilento, Vallo di Diano and Alburni National Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Yu Garden",
+        "output": "Beijing"
+    },
+    {
+        "input": "St James's Park",
+        "output": "London"
+    },
+    {
+        "input": "Prielbrusye National Park",
+        "output": "Moscow"
+    },
+    {
+        "input": "Sierra Nevada National and Natural Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Katavi National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Copenhagen Zoo",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Yasuni National Park",
+        "output": "Quito"
+    },
+    {
+        "input": "West Bali National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "White Sands National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Gros Morne National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Royal National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Bryce Canyon National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "S\u00f8r-Spitsbergen National Park",
+        "output": "Oslo"
+    },
+    {
+        "input": "Southwest National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Chobe National Park",
+        "output": "Gaborone"
+    },
+    {
+        "input": "Queen Elizabeth National Park",
+        "output": "Kampala"
+    },
+    {
+        "input": "Chilo\u00e9 National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Biebrza National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Garajonay National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Barit\u00fa National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "\u00c9crins National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Dachigam National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Krka National Park",
+        "output": "Zagreb"
+    },
+    {
+        "input": "Tbilisi National Park",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Chapada dos Veadeiros National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Sl\u012btere National Park",
+        "output": "Riga"
+    },
+    {
+        "input": "Tiveden National Park",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Calanques National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Bieszczady National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "National Garden of Athens",
+        "output": "Athens"
+    },
+    {
+        "input": "Tomorr Mountain National Park",
+        "output": "Tirana"
+    },
+    {
+        "input": "Tzippori",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Kellerwald-Edersee National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Chapada Diamantina National Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Kings Canyon National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "National Park of American Samoa",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Crater Lake National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Niokolo-Koba National Park",
+        "output": "Dakar"
+    },
+    {
+        "input": "Danube-Drava National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Pacific Rim National Park Reserve",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Carpathian National Nature Park",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Risnjak National Park",
+        "output": "Zagreb"
+    },
+    {
+        "input": "Washington Square Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Cincinnati Zoo and Botanical Garden",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Khangchendzonga National Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Glacier Bay National Park and Preserve",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ala-Archa National Park",
+        "output": "Bishkek"
+    },
+    {
+        "input": "El Palmar National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Dinosaur Provincial Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Prince Edward Island National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Bale Mountains National Park",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Northeast Greenland National Park",
+        "output": "Nuuk"
+    },
+    {
+        "input": "Tel Be'er Sheva",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Los Cardones National Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Morne Trois Pitons National Park",
+        "output": "Roseau"
+    },
+    {
+        "input": "Helvetinj\u00e4rvi National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Yosemite National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Gunung Mulu National Park",
+        "output": "Kuala Lumpur"
+    },
+    {
+        "input": "Ischigualasto Provincial Park",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Kalkalpen National Park",
+        "output": "Vienna"
+    },
+    {
+        "input": "Quttinirpaaq National Park",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Roztocze National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Uj\u015bcie Warty National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Mercantour National Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Central Balkan National Park",
+        "output": "Sofia"
+    },
+    {
+        "input": "Wild Nephin National Park",
+        "output": "Dublin"
+    },
+    {
+        "input": "Glenveagh National Park",
+        "output": "Dublin"
+    },
+    {
+        "input": "Altyaghach National Park",
+        "output": "Baku"
+    },
+    {
+        "input": "Kahuzi-Bi\u00e9ga National Park",
+        "output": "Kinshasa"
+    },
+    {
+        "input": "Gezi Park",
+        "output": "Ankara"
+    },
+    {
+        "input": "Kaeng Krachan National Park",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Lemmenjoki National Park",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Haleakal\u0101 National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Leningrad Zoo",
+        "output": "Moscow"
+    },
+    {
+        "input": "Aig\u00fcestortes i Estany de Sant Maurici National Park",
+        "output": "Madrid"
+    },
+    {
+        "input": "Berbak National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Cahokia",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Hearst Castle",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Daisetsuzan National Park",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Gateway Arch National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Cabo de Hornos National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Mavrovo National Park",
+        "output": "Skopje"
+    },
+    {
+        "input": "Braslaw Lakes National Park",
+        "output": "Minsk"
+    },
+    {
+        "input": "Schleswig-Holstein Wadden Sea National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Pirin National Park",
+        "output": "Sofia"
+    },
+    {
+        "input": "Lake Manyara National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Band-e Amir National Park",
+        "output": "Kabul"
+    },
+    {
+        "input": "Carlton Gardens",
+        "output": "Canberra"
+    },
+    {
+        "input": "Dilijan National Park",
+        "output": "Yerevan"
+    },
+    {
+        "input": "Ibirapuera Park",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Wielkopolska National Park",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Regent's Park",
+        "output": "London"
+    },
+    {
+        "input": "Conguill\u00edo National Park",
+        "output": "Santiago"
+    },
+    {
+        "input": "Wrangell\u2013St. Elias National Park and Preserve",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Schlossberg",
+        "output": "Vienna"
+    },
+    {
+        "input": "Voyageurs National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Eifel National Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Akagera National Park",
+        "output": "Kigali"
+    },
+    {
+        "input": "Ta\u00ef National Park",
+        "output": "Yamoussoukro"
+    },
+    {
+        "input": "Sutjeska National Park",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "B\u00fckk National Park",
+        "output": "Budapest"
+    },
+    {
+        "input": "Beit Guvrin National Park",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Sequoia National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Barcelona Zoo",
+        "output": "Madrid"
+    },
+    {
+        "input": "Millennium Park",
+        "output": "Washington, D.C."
+    }
+]

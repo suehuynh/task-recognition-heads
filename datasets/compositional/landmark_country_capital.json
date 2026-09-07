@@ -1,0 +1,5542 @@
+[
+    {
+        "input": "Biedenkopf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Imam Reza Shrine",
+        "output": "Tehran"
+    },
+    {
+        "input": "Petroglyphic Complexes of the Mongolian Altai",
+        "output": "Ulaanbaatar"
+    },
+    {
+        "input": "Bad K\u00f6nigshofen im Grabfeld",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bankya",
+        "output": "Sofia"
+    },
+    {
+        "input": "Royal Observatory",
+        "output": "London"
+    },
+    {
+        "input": "Big Sur",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Font-de-Gaume",
+        "output": "Paris"
+    },
+    {
+        "input": "West Bali National Park",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Heraklion Archaeological Museum",
+        "output": "Athens"
+    },
+    {
+        "input": "Monastery of Saint John of Rila",
+        "output": "Sofia"
+    },
+    {
+        "input": "Ellis Island",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Putuoshan",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Mergentheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tamme-Lauri oak",
+        "output": "Tallinn"
+    },
+    {
+        "input": "Freiburg im Breisgau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Link\u00f6ping Cathedral",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Canyon de Chelly National Monument",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Todtmoos",
+        "output": "Berlin"
+    },
+    {
+        "input": "Getty Villa",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Universal Studios Japan",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Berchtesgaden",
+        "output": "Berlin"
+    },
+    {
+        "input": "Baden-Baden",
+        "output": "Berlin"
+    },
+    {
+        "input": "KV18",
+        "output": "Cairo"
+    },
+    {
+        "input": "Wyk auf F\u00f6hr",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Klosterlausnitz",
+        "output": "Berlin"
+    },
+    {
+        "input": "Statue of Liberty",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Glory's Portico",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Krozingen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Archcathedral Basilica of St. Peter and St. Paul",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Thien Duong Cave",
+        "output": "Hanoi"
+    },
+    {
+        "input": "KV13",
+        "output": "Cairo"
+    },
+    {
+        "input": "Poverty Point",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ramoji Film City",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Y\u0131ld\u0131z Palace",
+        "output": "Ankara"
+    },
+    {
+        "input": "Museu Picasso",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Aussee",
+        "output": "Vienna"
+    },
+    {
+        "input": "K\u00f6nigsfeld im Schwarzwald",
+        "output": "Berlin"
+    },
+    {
+        "input": "Basilica of San Francesco d'Assisi",
+        "output": "Rome"
+    },
+    {
+        "input": "Jasna G\u00f3ra Monastery",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Mount Ararat",
+        "output": "Ankara"
+    },
+    {
+        "input": "Rietveld Schr\u00f6der House",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Oslo Opera House",
+        "output": "Oslo"
+    },
+    {
+        "input": "Fisherman's Wharf",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Thorvaldsen Museum",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Monument to the Great Fire of London",
+        "output": "London"
+    },
+    {
+        "input": "Scottish National Gallery",
+        "output": "London"
+    },
+    {
+        "input": "St. Florian's Gate",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Guggenheim Museum",
+        "output": "Madrid"
+    },
+    {
+        "input": "Tierradentro",
+        "output": "Bogot\u00e1"
+    },
+    {
+        "input": "Krakus Mound",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Kimbell Art Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Sozopol",
+        "output": "Sofia"
+    },
+    {
+        "input": "Soluntum",
+        "output": "Rome"
+    },
+    {
+        "input": "Ninth Fort",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Piazza San Marco",
+        "output": "Rome"
+    },
+    {
+        "input": "Bad Nauheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+        "output": "Prague"
+    },
+    {
+        "input": "Gripsholm Castle",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Serpentine Galleries",
+        "output": "London"
+    },
+    {
+        "input": "Bavaria",
+        "output": "Berlin"
+    },
+    {
+        "input": "National Portrait Gallery",
+        "output": "London"
+    },
+    {
+        "input": "Bremen Roland",
+        "output": "Berlin"
+    },
+    {
+        "input": "Rabka-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Promenade des Anglais",
+        "output": "Paris"
+    },
+    {
+        "input": "Marble Arch",
+        "output": "London"
+    },
+    {
+        "input": "Malbork Castle",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Malente",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sch\u00f6nwald im Schwarzwald",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ko\u0142obrzeg",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Grand Bazaar",
+        "output": "Ankara"
+    },
+    {
+        "input": "Great Pyramid of Giza",
+        "output": "Cairo"
+    },
+    {
+        "input": "Bardejov",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Edinburgh Castle",
+        "output": "London"
+    },
+    {
+        "input": "Sirius Arena",
+        "output": "Moscow"
+    },
+    {
+        "input": "Kalmar Cathedral",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Herbstein",
+        "output": "Berlin"
+    },
+    {
+        "input": "Disneyland Park",
+        "output": "Paris"
+    },
+    {
+        "input": "Warwick Castle",
+        "output": "London"
+    },
+    {
+        "input": "Fingal's Cave",
+        "output": "London"
+    },
+    {
+        "input": "Cliffs of Moher",
+        "output": "Dublin"
+    },
+    {
+        "input": "Yumen Pass",
+        "output": "Beijing"
+    },
+    {
+        "input": "Leshan Giant Buddha",
+        "output": "Beijing"
+    },
+    {
+        "input": "Pera Museum",
+        "output": "Ankara"
+    },
+    {
+        "input": "Arlington National Cemetery",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ehlscheid",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mount Sanqing",
+        "output": "Beijing"
+    },
+    {
+        "input": "Piskaryovskoye Memorial Cemetery",
+        "output": "Moscow"
+    },
+    {
+        "input": "Mount Tai",
+        "output": "Beijing"
+    },
+    {
+        "input": "S\u00fcleymaniye Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Vulci",
+        "output": "Rome"
+    },
+    {
+        "input": "Rac\u0142awice Panorama",
+        "output": "Warsaw"
+    },
+    {
+        "input": "National Museum of Pakistan",
+        "output": "Islamabad"
+    },
+    {
+        "input": "Radcliffe Camera",
+        "output": "London"
+    },
+    {
+        "input": "Tann",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mystery Play of Elche",
+        "output": "Madrid"
+    },
+    {
+        "input": "Wales Coast Path",
+        "output": "London"
+    },
+    {
+        "input": "Roman Baths",
+        "output": "London"
+    },
+    {
+        "input": "Banqueting House",
+        "output": "London"
+    },
+    {
+        "input": "Wallace Monument",
+        "output": "London"
+    },
+    {
+        "input": "Langeoog",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kenwood House",
+        "output": "London"
+    },
+    {
+        "input": "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma",
+        "output": "Rome"
+    },
+    {
+        "input": "Casa Buonarroti",
+        "output": "Rome"
+    },
+    {
+        "input": "Jemaa el-Fnaa",
+        "output": "Rabat"
+    },
+    {
+        "input": "Dune of Pilat",
+        "output": "Paris"
+    },
+    {
+        "input": "Fort Jesus Museum",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Rosa Khutor Alpine Resort",
+        "output": "Moscow"
+    },
+    {
+        "input": "Kelvingrove Art Gallery and Museum",
+        "output": "London"
+    },
+    {
+        "input": "Museum of Fine Arts Ghent (MSK)",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Ani",
+        "output": "Ankara"
+    },
+    {
+        "input": "Museo Egizio In Turin (IT)",
+        "output": "Rome"
+    },
+    {
+        "input": "Rottach-Egern",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tomb of Jahangir",
+        "output": "Islamabad"
+    },
+    {
+        "input": "Neptune's Grotto",
+        "output": "Rome"
+    },
+    {
+        "input": "KV21",
+        "output": "Cairo"
+    },
+    {
+        "input": "Osun-Osogbo Grove",
+        "output": "Abuja"
+    },
+    {
+        "input": "Zhouzhuang Town",
+        "output": "Beijing"
+    },
+    {
+        "input": "Wittd\u00fcn auf Amrum",
+        "output": "Berlin"
+    },
+    {
+        "input": "London Eye",
+        "output": "London"
+    },
+    {
+        "input": "Horse Cave",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Diamond Head",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Wieliczka Salt Mine",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Westerland",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad W\u00f6rishofen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Riddarholm Church",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Museum of Contemporary Art Australia",
+        "output": "Canberra"
+    },
+    {
+        "input": "Beylerbeyi Palace",
+        "output": "Ankara"
+    },
+    {
+        "input": "War of Independence Victory Column",
+        "output": "Tallinn"
+    },
+    {
+        "input": "D\u00fcden Waterfalls",
+        "output": "Ankara"
+    },
+    {
+        "input": "Akbar's Tomb",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Pinakothek der Moderne",
+        "output": "Berlin"
+    },
+    {
+        "input": "Palace of Caserta",
+        "output": "Rome"
+    },
+    {
+        "input": "Tatransk\u00e1 Lomnica",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Bad Steben",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kazimierz",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Cueva de Nerja",
+        "output": "Madrid"
+    },
+    {
+        "input": "Olympia",
+        "output": "Athens"
+    },
+    {
+        "input": "Hong Kong Museum of Art",
+        "output": "Beijing"
+    },
+    {
+        "input": "Istanbul Archaeology Museums",
+        "output": "Ankara"
+    },
+    {
+        "input": "Dahme",
+        "output": "Berlin"
+    },
+    {
+        "input": "Einsiedeln Abbey",
+        "output": "Bern"
+    },
+    {
+        "input": "Malm\u00f6 Castle",
+        "output": "Stockholm"
+    },
+    {
+        "input": "KV35",
+        "output": "Cairo"
+    },
+    {
+        "input": "\u00dcberlingen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Majuli",
+        "output": "New Delhi"
+    },
+    {
+        "input": "National Library of Australia",
+        "output": "Canberra"
+    },
+    {
+        "input": "Avtovo",
+        "output": "Moscow"
+    },
+    {
+        "input": "Pyramid of Cestius",
+        "output": "Rome"
+    },
+    {
+        "input": "Glasgow Cathedral",
+        "output": "London"
+    },
+    {
+        "input": "Kunsthaus Z\u00fcrich",
+        "output": "Bern"
+    },
+    {
+        "input": "Murcia's Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Puente romano",
+        "output": "Madrid"
+    },
+    {
+        "input": "Mount Erciyes",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bayrischzell",
+        "output": "Berlin"
+    },
+    {
+        "input": "Herzog Anton Ulrich Museum",
+        "output": "Berlin"
+    },
+    {
+        "input": "Winterberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "The Museum of Innocence",
+        "output": "Ankara"
+    },
+    {
+        "input": "Spannagel Cave",
+        "output": "Vienna"
+    },
+    {
+        "input": "\u0160kocjan Caves",
+        "output": "Ljubljana"
+    },
+    {
+        "input": "Classical Gardens of Suzhou",
+        "output": "Beijing"
+    },
+    {
+        "input": "Kensington Palace",
+        "output": "London"
+    },
+    {
+        "input": "Valaam Monastery",
+        "output": "Moscow"
+    },
+    {
+        "input": "Novocherkassk Cathedral",
+        "output": "Moscow"
+    },
+    {
+        "input": "Heringsdorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Acropolis of Athens",
+        "output": "Athens"
+    },
+    {
+        "input": "Segesta",
+        "output": "Rome"
+    },
+    {
+        "input": "Statue of Zeus at Olympia",
+        "output": "Athens"
+    },
+    {
+        "input": "Heiligendamm",
+        "output": "Berlin"
+    },
+    {
+        "input": "Las M\u00e9dulas",
+        "output": "Madrid"
+    },
+    {
+        "input": "Su Nuraxi di Barumini",
+        "output": "Rome"
+    },
+    {
+        "input": "Bad D\u00fcrrheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Casa Loma",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Chelyabinsk Airport",
+        "output": "Moscow"
+    },
+    {
+        "input": "Latin Bridge",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "New Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Siegsdorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Wikipedia Monument",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Al Abbas Mosque",
+        "output": "Baghdad"
+    },
+    {
+        "input": "Banya",
+        "output": "Sofia"
+    },
+    {
+        "input": "Czocha Castle",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Lenzkirch",
+        "output": "Berlin"
+    },
+    {
+        "input": "Glastonbury Tor",
+        "output": "London"
+    },
+    {
+        "input": "Ramsau bei Berchtesgaden",
+        "output": "Berlin"
+    },
+    {
+        "input": "Traben-Trarbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Huangshan",
+        "output": "Beijing"
+    },
+    {
+        "input": "Ponte Vecchio",
+        "output": "Rome"
+    },
+    {
+        "input": "Ca' Rezzonico",
+        "output": "Rome"
+    },
+    {
+        "input": "Redwood National and State Parks",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ortak\u00f6y",
+        "output": "Ankara"
+    },
+    {
+        "input": "Rothenburg ob der Tauber",
+        "output": "Berlin"
+    },
+    {
+        "input": "Qazan Kremlin",
+        "output": "Moscow"
+    },
+    {
+        "input": "KV10",
+        "output": "Cairo"
+    },
+    {
+        "input": "Daun",
+        "output": "Berlin"
+    },
+    {
+        "input": "Alcatraz Island",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Little Hagia Sophia",
+        "output": "Ankara"
+    },
+    {
+        "input": "City of Arts and Sciences",
+        "output": "Madrid"
+    },
+    {
+        "input": "Norton Simon Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Yellowstone National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Blue Mosque",
+        "output": "Kabul"
+    },
+    {
+        "input": "Oberstdorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Carrauntoohil",
+        "output": "Dublin"
+    },
+    {
+        "input": "Bad D\u00fcben",
+        "output": "Berlin"
+    },
+    {
+        "input": "Lake Tuz",
+        "output": "Ankara"
+    },
+    {
+        "input": "N\u00fcmbrecht",
+        "output": "Berlin"
+    },
+    {
+        "input": "Everglades National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "The Cloisters",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ruhpolding",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mycenae",
+        "output": "Athens"
+    },
+    {
+        "input": "Gardaland",
+        "output": "Rome"
+    },
+    {
+        "input": "Natzweiler-Struthof concentration camp",
+        "output": "Paris"
+    },
+    {
+        "input": "Popeye Village",
+        "output": "Valletta"
+    },
+    {
+        "input": "Ancient Agora of Athens",
+        "output": "Athens"
+    },
+    {
+        "input": "Nilgiri Mountain Railway",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Bad Berleburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mnajdra",
+        "output": "Valletta"
+    },
+    {
+        "input": "Graceland",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Oriental Pearl Tower",
+        "output": "Beijing"
+    },
+    {
+        "input": "Astrid Lindgren's World",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Balatonf\u00fcred",
+        "output": "Budapest"
+    },
+    {
+        "input": "Bronze Horseman",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad Br\u00fcckenau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Victoria and Albert Museum",
+        "output": "London"
+    },
+    {
+        "input": "Taj Mahal",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Abbadia Lariana",
+        "output": "Rome"
+    },
+    {
+        "input": "Saint Michael's Castle",
+        "output": "Moscow"
+    },
+    {
+        "input": "Tegernsee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Segovia Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Chehel Sotun",
+        "output": "Tehran"
+    },
+    {
+        "input": "Royal Pavilion & Garden",
+        "output": "London"
+    },
+    {
+        "input": "Derby Museum and Art Gallery",
+        "output": "London"
+    },
+    {
+        "input": "Gateway of India",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Zhangjiajie Glass Bridge",
+        "output": "Beijing"
+    },
+    {
+        "input": "Vitra Design Museum",
+        "output": "Berlin"
+    },
+    {
+        "input": "Palais des Papes",
+        "output": "Paris"
+    },
+    {
+        "input": "Vindolanda",
+        "output": "London"
+    },
+    {
+        "input": "Museo di Capodimonte",
+        "output": "Rome"
+    },
+    {
+        "input": "Pripyat amusement park",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Bad Iburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "San Francisco Museum of Modern Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Sklen\u00e9 Teplice",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Gernsbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Downing Street",
+        "output": "London"
+    },
+    {
+        "input": "Coves del Drach",
+        "output": "Madrid"
+    },
+    {
+        "input": "Patriarchate of Peja",
+        "output": "Belgrade"
+    },
+    {
+        "input": "Wellington Arch",
+        "output": "London"
+    },
+    {
+        "input": "Bad Bertrich",
+        "output": "Berlin"
+    },
+    {
+        "input": "Go\u0142dap",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Bingling Temple",
+        "output": "Beijing"
+    },
+    {
+        "input": "British Library",
+        "output": "London"
+    },
+    {
+        "input": "Basilica of Saint Nicholas",
+        "output": "Rome"
+    },
+    {
+        "input": "Gallerie dell'Accademia",
+        "output": "Rome"
+    },
+    {
+        "input": "Mount Song",
+        "output": "Beijing"
+    },
+    {
+        "input": "Thracian Tomb of Kazanlak",
+        "output": "Sofia"
+    },
+    {
+        "input": "Conch Republic",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "KV60",
+        "output": "Cairo"
+    },
+    {
+        "input": "Treasury of Atreus",
+        "output": "Athens"
+    },
+    {
+        "input": "Trump Tower",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Hampton Court Palace",
+        "output": "London"
+    },
+    {
+        "input": "Solomon R. Guggenheim Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Mus\u00e9e d'Art et d'Histoire de Geneva",
+        "output": "Bern"
+    },
+    {
+        "input": "Bad Grund",
+        "output": "Berlin"
+    },
+    {
+        "input": "Prien am Chiemsee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Wustrow",
+        "output": "Berlin"
+    },
+    {
+        "input": "Palacio Episcopal de Astorga",
+        "output": "Madrid"
+    },
+    {
+        "input": "Chesme Church",
+        "output": "Moscow"
+    },
+    {
+        "input": "Egyptian pyramids",
+        "output": "Cairo"
+    },
+    {
+        "input": "Bad Freienwalde",
+        "output": "Berlin"
+    },
+    {
+        "input": "Denver Art Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Mazar-e-Quaid",
+        "output": "Islamabad"
+    },
+    {
+        "input": "Iglesia de la Concepci\u00f3n",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Fallingbostel",
+        "output": "Berlin"
+    },
+    {
+        "input": "Niedenstein",
+        "output": "Berlin"
+    },
+    {
+        "input": "Badenweiler",
+        "output": "Berlin"
+    },
+    {
+        "input": "Central Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Aulendorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Circus Maximus",
+        "output": "Rome"
+    },
+    {
+        "input": "Lombard Street",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Prophet's Mosque",
+        "output": "Riyadh"
+    },
+    {
+        "input": "Moskovsky railway station",
+        "output": "Moscow"
+    },
+    {
+        "input": "Neue Pinakothek",
+        "output": "Berlin"
+    },
+    {
+        "input": "Whitney Museum of American Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Chichen Itza",
+        "output": "Mexico City"
+    },
+    {
+        "input": "Lindenfels",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Waldsee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Rundetaarn",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Cumal\u0131k\u0131z\u0131k",
+        "output": "Ankara"
+    },
+    {
+        "input": "Shrine of the B\u00e1b",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "\u015aniardwy",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Thracian Tomb of Sveshtari",
+        "output": "Sofia"
+    },
+    {
+        "input": "Qiandao Lake",
+        "output": "Beijing"
+    },
+    {
+        "input": "Cedar Point",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "The Wallace Collection",
+        "output": "London"
+    },
+    {
+        "input": "Mandello del Lario",
+        "output": "Rome"
+    },
+    {
+        "input": "Valle dei Templi",
+        "output": "Rome"
+    },
+    {
+        "input": "Cave of Swallows",
+        "output": "Mexico City"
+    },
+    {
+        "input": "Great Geysir",
+        "output": "Reykjav\u00edk"
+    },
+    {
+        "input": "Sachsenhausen concentration camp",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museum of Fine Arts of Lyon",
+        "output": "Paris"
+    },
+    {
+        "input": "Qutb complex",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Tokyo Disneyland",
+        "output": "Tokyo"
+    },
+    {
+        "input": "KV8",
+        "output": "Cairo"
+    },
+    {
+        "input": "Altaussee",
+        "output": "Vienna"
+    },
+    {
+        "input": "Admont Abbey",
+        "output": "Vienna"
+    },
+    {
+        "input": "Hermannsdenkmal",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museum Ludwig",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ferapontov Monastery",
+        "output": "Moscow"
+    },
+    {
+        "input": "Igel Column",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad V\u00f6slau",
+        "output": "Vienna"
+    },
+    {
+        "input": "Br\u00fchl's Terrace",
+        "output": "Berlin"
+    },
+    {
+        "input": "Miniat\u00fcrk",
+        "output": "Ankara"
+    },
+    {
+        "input": "Newgrounds",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Art Gallery of New South Wales",
+        "output": "Canberra"
+    },
+    {
+        "input": "Bad Nenndorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kobe Port Tower",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Kronberg im Taunus",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tower of Hercules",
+        "output": "Madrid"
+    },
+    {
+        "input": "KV3",
+        "output": "Cairo"
+    },
+    {
+        "input": "Monument to the Sun",
+        "output": "Zagreb"
+    },
+    {
+        "input": "Titisee-Neustadt",
+        "output": "Berlin"
+    },
+    {
+        "input": "Hatfield House",
+        "output": "London"
+    },
+    {
+        "input": "Metropolitan Cathedral Basilica of the Holy Saviour, Oviedo",
+        "output": "Madrid"
+    },
+    {
+        "input": "Zwinger",
+        "output": "Berlin"
+    },
+    {
+        "input": "Trafalgar Square",
+        "output": "London"
+    },
+    {
+        "input": "Yungang Grottoes",
+        "output": "Beijing"
+    },
+    {
+        "input": "Neubulach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Salar Jung Museum",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Jamkaran Mosque",
+        "output": "Tehran"
+    },
+    {
+        "input": "National Archaeological Museum",
+        "output": "Rome"
+    },
+    {
+        "input": "Basilica of Candelaria",
+        "output": "Madrid"
+    },
+    {
+        "input": "Westerbork Transit Camp",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Bad Rothenfelde",
+        "output": "Berlin"
+    },
+    {
+        "input": "Maya Ruins of Tulum",
+        "output": "Mexico City"
+    },
+    {
+        "input": "Bad Hersfeld",
+        "output": "Berlin"
+    },
+    {
+        "input": "Jelling stones",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Carisbrooke Castle",
+        "output": "London"
+    },
+    {
+        "input": "Bodrum Castle",
+        "output": "Ankara"
+    },
+    {
+        "input": "Atherton Tableland",
+        "output": "Canberra"
+    },
+    {
+        "input": "The Pentagon",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Teinach-Zavelstein",
+        "output": "Berlin"
+    },
+    {
+        "input": "Atakule",
+        "output": "Ankara"
+    },
+    {
+        "input": "National Gallery",
+        "output": "London"
+    },
+    {
+        "input": "Forest of the Martyrs",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Muszyna",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Tower of the Winds",
+        "output": "Athens"
+    },
+    {
+        "input": "Baltimore Museum of Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Osmangazi Bridge",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bad H\u00f6nningen",
+        "output": "Berlin"
+    },
+    {
+        "input": "B\u00fcsum",
+        "output": "Berlin"
+    },
+    {
+        "input": "KV14",
+        "output": "Cairo"
+    },
+    {
+        "input": "Walt Disney Studios",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Manderscheid",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sky Tower",
+        "output": "Wellington"
+    },
+    {
+        "input": "KV4",
+        "output": "Cairo"
+    },
+    {
+        "input": "Verona Arena",
+        "output": "Rome"
+    },
+    {
+        "input": "tomb of Tutankhamun",
+        "output": "Cairo"
+    },
+    {
+        "input": "Homberg (Ohm)",
+        "output": "Berlin"
+    },
+    {
+        "input": "Smrd\u00e1ky",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Uffizi Gallery",
+        "output": "Rome"
+    },
+    {
+        "input": "Dierhagen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Efteling",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Zaanse Schans",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Freudenstadt",
+        "output": "Berlin"
+    },
+    {
+        "input": "Nordstrand",
+        "output": "Berlin"
+    },
+    {
+        "input": "Nestorian Stele",
+        "output": "Beijing"
+    },
+    {
+        "input": "KV57",
+        "output": "Cairo"
+    },
+    {
+        "input": "Monument to the Battle of the Nations",
+        "output": "Berlin"
+    },
+    {
+        "input": "Lion Monument Lucerne",
+        "output": "Bern"
+    },
+    {
+        "input": "Mauritshuis",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Gro\u00dfenbrode",
+        "output": "Berlin"
+    },
+    {
+        "input": "Piantedo",
+        "output": "Rome"
+    },
+    {
+        "input": "Ytterby mine",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Knowth",
+        "output": "Dublin"
+    },
+    {
+        "input": "Baden",
+        "output": "Vienna"
+    },
+    {
+        "input": "Bad Segeberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museum of Far Eastern Antiquities",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Bad K\u00f6tzting",
+        "output": "Berlin"
+    },
+    {
+        "input": "St. Mary's Basilica",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Terracotta Army",
+        "output": "Beijing"
+    },
+    {
+        "input": "Fallingwater",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Tomb of Absalom",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Tower of London",
+        "output": "London"
+    },
+    {
+        "input": "Lincoln Castle",
+        "output": "London"
+    },
+    {
+        "input": "Dolmen of Viera",
+        "output": "Madrid"
+    },
+    {
+        "input": "Ludlow Castle",
+        "output": "London"
+    },
+    {
+        "input": "Bad Alexandersbad",
+        "output": "Berlin"
+    },
+    {
+        "input": "Hollywood Sign",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Kreuth",
+        "output": "Berlin"
+    },
+    {
+        "input": "The Stone of Million",
+        "output": "Ankara"
+    },
+    {
+        "input": "Stockholm Palace",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Wuyi Mountains",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Harzburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Field Museum of Natural History",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Sankt Englmar",
+        "output": "Berlin"
+    },
+    {
+        "input": "Famine Stela",
+        "output": "Cairo"
+    },
+    {
+        "input": "Alte Pinakothek",
+        "output": "Berlin"
+    },
+    {
+        "input": "Detroit Institute of Arts",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Friedrichroda",
+        "output": "Berlin"
+    },
+    {
+        "input": "Statens Museum for Kunst",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "St. Andrew's Church",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Bad M\u00fcnder am Deister",
+        "output": "Berlin"
+    },
+    {
+        "input": "Freud Museum London",
+        "output": "London"
+    },
+    {
+        "input": "Altenberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Weiskirchen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Gur-e Amir",
+        "output": "Tashkent"
+    },
+    {
+        "input": "Ortak\u00f6y Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Ivolginsky Datsan",
+        "output": "Moscow"
+    },
+    {
+        "input": "Truskavets",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Schwerin Castle",
+        "output": "Berlin"
+    },
+    {
+        "input": "Old Town of Lijiang",
+        "output": "Beijing"
+    },
+    {
+        "input": "Keukenhof",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Ali Qapu",
+        "output": "Tehran"
+    },
+    {
+        "input": "Orkhon inscriptions",
+        "output": "Ulaanbaatar"
+    },
+    {
+        "input": "German Wine Route",
+        "output": "Berlin"
+    },
+    {
+        "input": "Hitzacker",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Urach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Stadium MK",
+        "output": "London"
+    },
+    {
+        "input": "Pinacoteca di Brera",
+        "output": "Rome"
+    },
+    {
+        "input": "Galleria Borghese",
+        "output": "Rome"
+    },
+    {
+        "input": "Cathedral Basilica of the Virgin of Incarnation",
+        "output": "Madrid"
+    },
+    {
+        "input": "KV63",
+        "output": "Cairo"
+    },
+    {
+        "input": "Fundaci\u00f3 Joan Mir\u00f3",
+        "output": "Madrid"
+    },
+    {
+        "input": "Nikk\u014d T\u014dsh\u014d-g\u016b",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Baabe",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kneiff",
+        "output": "Luxembourg"
+    },
+    {
+        "input": "National Garden of Athens",
+        "output": "Athens"
+    },
+    {
+        "input": "Perledo",
+        "output": "Rome"
+    },
+    {
+        "input": "Fatih Istanbul Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "The Motherland Calls",
+        "output": "Moscow"
+    },
+    {
+        "input": "Sankt Peter-Ording",
+        "output": "Berlin"
+    },
+    {
+        "input": "Osborne House",
+        "output": "London"
+    },
+    {
+        "input": "Walibi Holland",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Ploshchad Vosstaniya",
+        "output": "Moscow"
+    },
+    {
+        "input": "Palazzo Ducale Mantua",
+        "output": "Rome"
+    },
+    {
+        "input": "Montreal Museum of Fine Arts",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Ochtinsk\u00e1 Aragonite Cave",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Hinterzarten",
+        "output": "Berlin"
+    },
+    {
+        "input": "Albert Memorial",
+        "output": "London"
+    },
+    {
+        "input": "Lion Gate",
+        "output": "Athens"
+    },
+    {
+        "input": "R\u00f6k Runestone",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Fifth Avenue",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Blenheim Palace",
+        "output": "London"
+    },
+    {
+        "input": "Bad Lauterberg im Harz",
+        "output": "Berlin"
+    },
+    {
+        "input": "Park G\u00fcell",
+        "output": "Madrid"
+    },
+    {
+        "input": "Millau Viaduct",
+        "output": "Paris"
+    },
+    {
+        "input": "Bad Herrenalb",
+        "output": "Berlin"
+    },
+    {
+        "input": "Millennium of Russia",
+        "output": "Moscow"
+    },
+    {
+        "input": "Cathedral of Zamora",
+        "output": "Madrid"
+    },
+    {
+        "input": "Nizhny Novgorod Kremlin",
+        "output": "Moscow"
+    },
+    {
+        "input": "Talyllyn Railway",
+        "output": "London"
+    },
+    {
+        "input": "Bad Belzig",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sasbachwalden",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad W\u00fcnnenberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Las Vegas Strip",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Puente Nuevo",
+        "output": "Madrid"
+    },
+    {
+        "input": "Pickford's House",
+        "output": "London"
+    },
+    {
+        "input": "Green Mosque",
+        "output": "Kabul"
+    },
+    {
+        "input": "Glamis Castle",
+        "output": "London"
+    },
+    {
+        "input": "Murnau am Staffelsee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Spa",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Bad Tennstedt",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Wiessee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Castel Sant'Angelo",
+        "output": "Rome"
+    },
+    {
+        "input": "Naxos",
+        "output": "Rome"
+    },
+    {
+        "input": "Great Smoky Mountains",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Pellworm",
+        "output": "Berlin"
+    },
+    {
+        "input": "Christ the Redeemer",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Zingst",
+        "output": "Berlin"
+    },
+    {
+        "input": "Petra",
+        "output": "Amman"
+    },
+    {
+        "input": "Mangla Dam",
+        "output": "Islamabad"
+    },
+    {
+        "input": "Shanghai World Financial Center",
+        "output": "Beijing"
+    },
+    {
+        "input": "Selinunte",
+        "output": "Rome"
+    },
+    {
+        "input": "Pelion",
+        "output": "Athens"
+    },
+    {
+        "input": "St. Paul's Church, Frankfurt am Main",
+        "output": "Berlin"
+    },
+    {
+        "input": "Covent Garden",
+        "output": "London"
+    },
+    {
+        "input": "Birka",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Mastabet el-Fara'un",
+        "output": "Cairo"
+    },
+    {
+        "input": "R\u00fcstem Pasha Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Frasassi Caves",
+        "output": "Rome"
+    },
+    {
+        "input": "Morskie Oko",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Holstentor",
+        "output": "Berlin"
+    },
+    {
+        "input": "Coit Tower",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Art Gallery of Ontario",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Trinity Cathedral",
+        "output": "Moscow"
+    },
+    {
+        "input": "L\u00e4ck\u00f6 Castle",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Tropaeum Alpium",
+        "output": "Paris"
+    },
+    {
+        "input": "Behistun Inscription",
+        "output": "Tehran"
+    },
+    {
+        "input": "L\u0105dek-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Potala Palace",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Buchau",
+        "output": "Berlin"
+    },
+    {
+        "input": "MACBA Barcelona Museum of Contemporary Art",
+        "output": "Madrid"
+    },
+    {
+        "input": "The Huntington Library, Art Museum, and Botanical Gardens",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Mammoth Cave National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad S\u00fclze",
+        "output": "Berlin"
+    },
+    {
+        "input": "Uppsala Cathedral",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Uluda\u011f",
+        "output": "Ankara"
+    },
+    {
+        "input": "Mount Longonot",
+        "output": "Nairobi"
+    },
+    {
+        "input": "Bad Brambach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Catholic Church of St. Catherine",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad Soden-Salm\u00fcnster",
+        "output": "Berlin"
+    },
+    {
+        "input": "Queen's House",
+        "output": "London"
+    },
+    {
+        "input": "KV16",
+        "output": "Cairo"
+    },
+    {
+        "input": "Ain Dubai",
+        "output": "Abu Dhabi"
+    },
+    {
+        "input": "Carlsbad Caverns National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Wimpfen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Langensalza",
+        "output": "Berlin"
+    },
+    {
+        "input": "Drottningholm Palace",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Pennsylvania Academy of the Fine Arts",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Aalen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Lahnstein",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tropaeum Traiani",
+        "output": "Bucharest"
+    },
+    {
+        "input": "Burj Khalifa",
+        "output": "Abu Dhabi"
+    },
+    {
+        "input": "Alexander Column",
+        "output": "Moscow"
+    },
+    {
+        "input": "Rockefeller Center",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bibi Ka Maqbara",
+        "output": "New Delhi"
+    },
+    {
+        "input": "C\u1ee7 Chi tunnels",
+        "output": "Hanoi"
+    },
+    {
+        "input": "Cyprus Museum",
+        "output": "Nicosia"
+    },
+    {
+        "input": "Kykkos Monastery",
+        "output": "Nicosia"
+    },
+    {
+        "input": "Sun Yat-sen Mausoleum",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Ischl",
+        "output": "Vienna"
+    },
+    {
+        "input": "Luxor Museum",
+        "output": "Cairo"
+    },
+    {
+        "input": "Schotten",
+        "output": "Berlin"
+    },
+    {
+        "input": "Golden Circle",
+        "output": "Reykjav\u00edk"
+    },
+    {
+        "input": "Sch\u00f6mberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Salamanca New Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Cleveland Museum of Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "M\u00f6lln",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ashmolean Museum",
+        "output": "London"
+    },
+    {
+        "input": "Dikteon Andron",
+        "output": "Athens"
+    },
+    {
+        "input": "Jallianwala Bagh",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Torre del Oro",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Salzuflen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Sooden-Allendorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Leeds Castle",
+        "output": "London"
+    },
+    {
+        "input": "Teylers Museum",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Vigeland installation",
+        "output": "Oslo"
+    },
+    {
+        "input": "Mount Vernon",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ey\u00fcp Sultan Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bad Kohlgrub",
+        "output": "Berlin"
+    },
+    {
+        "input": "Odesa Fine Arts Museum",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Moderna Museet",
+        "output": "Stockholm"
+    },
+    {
+        "input": "German Federal Archives",
+        "output": "Berlin"
+    },
+    {
+        "input": "Nesebar",
+        "output": "Sofia"
+    },
+    {
+        "input": "Centennial Hall",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Bad Heilbrunn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Louisiana Museum of Modern Art",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Sydney Opera House",
+        "output": "Canberra"
+    },
+    {
+        "input": "Tarxien Temples",
+        "output": "Valletta"
+    },
+    {
+        "input": "Oberstaufen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Dadiani Palaces Museum",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Kailasa Temple, Ellora",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Besakih",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Wings of Tatev",
+        "output": "Yerevan"
+    },
+    {
+        "input": "Stirling Castle",
+        "output": "London"
+    },
+    {
+        "input": "Bad Camberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Marienberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Palazzo Vecchio",
+        "output": "Rome"
+    },
+    {
+        "input": "Silesian Stadium",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Omonoia Square",
+        "output": "Athens"
+    },
+    {
+        "input": "Soltau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Skokloster Castle",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Madurodam",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Bad Karlshafen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Orb",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kalyan Minaret",
+        "output": "Tashkent"
+    },
+    {
+        "input": "Falkirk Wheel",
+        "output": "London"
+    },
+    {
+        "input": "Macau Tower",
+        "output": "Beijing"
+    },
+    {
+        "input": "B\u0103ile Herculane",
+        "output": "Bucharest"
+    },
+    {
+        "input": "Dorio",
+        "output": "Rome"
+    },
+    {
+        "input": "Metropolitan Museum of Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Villa Romana del Casale",
+        "output": "Rome"
+    },
+    {
+        "input": "Great Ocean Road",
+        "output": "Canberra"
+    },
+    {
+        "input": "G\u00fclhane Park",
+        "output": "Ankara"
+    },
+    {
+        "input": "Astorga Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Wildbad",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kenilworth Castle",
+        "output": "London"
+    },
+    {
+        "input": "Tokyo DisneySea",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Sorico",
+        "output": "Rome"
+    },
+    {
+        "input": "H\u00f6chenschwand",
+        "output": "Berlin"
+    },
+    {
+        "input": "Arch of the Sergii",
+        "output": "Zagreb"
+    },
+    {
+        "input": "Juventus Stadium",
+        "output": "Rome"
+    },
+    {
+        "input": "Bad Rappenau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Church of the Savior on Blood",
+        "output": "Moscow"
+    },
+    {
+        "input": "15 July Martyrs Bridge",
+        "output": "Ankara"
+    },
+    {
+        "input": "Fitzwilliam Museum",
+        "output": "London"
+    },
+    {
+        "input": "Novate Mezzola",
+        "output": "Rome"
+    },
+    {
+        "input": "Disney's Animal Kingdom",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Columbus Circle",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Archaeological Museum of Thessaloniki",
+        "output": "Athens"
+    },
+    {
+        "input": "Ustro\u0144",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Aqueduct of Valens",
+        "output": "Ankara"
+    },
+    {
+        "input": "National Museum of Iran",
+        "output": "Tehran"
+    },
+    {
+        "input": "Our Lady of the Pillar",
+        "output": "Madrid"
+    },
+    {
+        "input": "Cathedral of La Laguna",
+        "output": "Madrid"
+    },
+    {
+        "input": "Sukiennice",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Uraniborg",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Somerset House",
+        "output": "London"
+    },
+    {
+        "input": "St. Mary's Basilica in Gda\u0144sk",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Neuschwanstein Castle",
+        "output": "Berlin"
+    },
+    {
+        "input": "Madinat Al-Zahra",
+        "output": "Madrid"
+    },
+    {
+        "input": "Machu Picchu",
+        "output": "Lima"
+    },
+    {
+        "input": "Toughsheet Community Stadium",
+        "output": "London"
+    },
+    {
+        "input": "Column of Constantine",
+        "output": "Ankara"
+    },
+    {
+        "input": "Dob\u0161insk\u00e1 Ice Cave",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Four Corners Monument",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Naracoorte Caves National Park",
+        "output": "Canberra"
+    },
+    {
+        "input": "Norderney",
+        "output": "Berlin"
+    },
+    {
+        "input": "Everland",
+        "output": "Seoul"
+    },
+    {
+        "input": "Travem\u00fcnde",
+        "output": "Berlin"
+    },
+    {
+        "input": "Persepolis",
+        "output": "Tehran"
+    },
+    {
+        "input": "Bargello National Museum",
+        "output": "Rome"
+    },
+    {
+        "input": "Colossus of Rhodes",
+        "output": "Athens"
+    },
+    {
+        "input": "Museum of Bad Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "\u015awierad\u00f3w-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Cueva de las Manos",
+        "output": "Buenos Aires"
+    },
+    {
+        "input": "Serengeti National Park",
+        "output": "Dodoma"
+    },
+    {
+        "input": "Nanjing Museum",
+        "output": "Beijing"
+    },
+    {
+        "input": "Old House of Bank",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Tomb of I'tim\u0101d-ud-Daulah",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Humayun's Tomb",
+        "output": "New Delhi"
+    },
+    {
+        "input": "West Lake",
+        "output": "Beijing"
+    },
+    {
+        "input": "Hypogeum of \u0126al Saflieni",
+        "output": "Valletta"
+    },
+    {
+        "input": "KV1",
+        "output": "Cairo"
+    },
+    {
+        "input": "Trinity Lavra of St. Sergius",
+        "output": "Moscow"
+    },
+    {
+        "input": "Yusupov Palace on Moika",
+        "output": "Moscow"
+    },
+    {
+        "input": "S\u00e3o Paulo Museum of Art",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Y\u0131ld\u0131z Hamidi Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Castello Estense",
+        "output": "Rome"
+    },
+    {
+        "input": "Bad Windsheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Krak\u00f3w-P\u0142asz\u00f3w concentration camp",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Mausoleum of Theodoric",
+        "output": "Rome"
+    },
+    {
+        "input": "Bad Kissingen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Aibling",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sinan Pasha Mosque",
+        "output": "Prishtina"
+    },
+    {
+        "input": "Bad Gr\u00f6nenbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Caernarfon Castle",
+        "output": "London"
+    },
+    {
+        "input": "Busan",
+        "output": "Seoul"
+    },
+    {
+        "input": "Gulangyu",
+        "output": "Beijing"
+    },
+    {
+        "input": "Russian Museum",
+        "output": "Moscow"
+    },
+    {
+        "input": "Golden Gate",
+        "output": "Moscow"
+    },
+    {
+        "input": "Waldbrunn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Marktschellenberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Westminster Abbey",
+        "output": "London"
+    },
+    {
+        "input": "Niter\u00f3i Contemporary Art Museum",
+        "output": "Bras\u00edlia"
+    },
+    {
+        "input": "Jaraba",
+        "output": "Madrid"
+    },
+    {
+        "input": "Mount Kumgang Tourist Region",
+        "output": "Pyongyang"
+    },
+    {
+        "input": "Treblinka extermination camp",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Lugnaquilla",
+        "output": "Dublin"
+    },
+    {
+        "input": "Alexander Nevsky Lavra",
+        "output": "Moscow"
+    },
+    {
+        "input": "Vjetrenica",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "Scharinska villa",
+        "output": "Stockholm"
+    },
+    {
+        "input": "KV2",
+        "output": "Cairo"
+    },
+    {
+        "input": "Sequoia National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Tian Tan Buddha",
+        "output": "Beijing"
+    },
+    {
+        "input": "Jedlina-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Puy de D\u00f4me",
+        "output": "Paris"
+    },
+    {
+        "input": "Lake Powell",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Porta San Sebastiano",
+        "output": "Rome"
+    },
+    {
+        "input": "Martigny-les-Bains",
+        "output": "Paris"
+    },
+    {
+        "input": "Mount Lu",
+        "output": "Beijing"
+    },
+    {
+        "input": "Domica",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Metropolitan Cathedral Basilica of St. James the Apostle",
+        "output": "Madrid"
+    },
+    {
+        "input": "Museum of Anatolian Civilizations",
+        "output": "Ankara"
+    },
+    {
+        "input": "Ala\u00e7at\u0131",
+        "output": "Ankara"
+    },
+    {
+        "input": "Naqsh-e Jahan Square",
+        "output": "Tehran"
+    },
+    {
+        "input": "Harrods",
+        "output": "London"
+    },
+    {
+        "input": "Borobudur",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Sheikh Lotfollah Mosque",
+        "output": "Tehran"
+    },
+    {
+        "input": "Shanghai Disneyland Park",
+        "output": "Beijing"
+    },
+    {
+        "input": "Koporye",
+        "output": "Moscow"
+    },
+    {
+        "input": "Luxor",
+        "output": "Cairo"
+    },
+    {
+        "input": "Mobility Resort Motegi",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Bad K\u00f6nig",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mount Jiuhua",
+        "output": "Beijing"
+    },
+    {
+        "input": "Federal Hall",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Imam Husayn Mausoleum",
+        "output": "Baghdad"
+    },
+    {
+        "input": "Burghley House",
+        "output": "London"
+    },
+    {
+        "input": "Great Buddha of Thailand",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Tomb of Cyrus the Great",
+        "output": "Tehran"
+    },
+    {
+        "input": "Hagia Sophia",
+        "output": "Ankara"
+    },
+    {
+        "input": "Son Doong Cave",
+        "output": "Hanoi"
+    },
+    {
+        "input": "Bursa Grand Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Divri\u011fi Great Mosque and Hospital",
+        "output": "Ankara"
+    },
+    {
+        "input": "Hiroshima Peace Memorial",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Buckingham Palace",
+        "output": "London"
+    },
+    {
+        "input": "Spiekeroog",
+        "output": "Berlin"
+    },
+    {
+        "input": "KV12",
+        "output": "Cairo"
+    },
+    {
+        "input": "Nuruosmaniye Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Badajoz Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Walhalla memorial",
+        "output": "Berlin"
+    },
+    {
+        "input": "Side",
+        "output": "Ankara"
+    },
+    {
+        "input": "Wuppertal Schwebebahn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Palazzo Pitti",
+        "output": "Rome"
+    },
+    {
+        "input": "Lion of Belfort",
+        "output": "Paris"
+    },
+    {
+        "input": "Timmendorfer Strand",
+        "output": "Berlin"
+    },
+    {
+        "input": "Aiguille du Midi",
+        "output": "Paris"
+    },
+    {
+        "input": "Stromberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Piton des Neiges",
+        "output": "Paris"
+    },
+    {
+        "input": "Stockholm City Hall",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Hadrian's Villa",
+        "output": "Rome"
+    },
+    {
+        "input": "Royal Palace of Milan",
+        "output": "Rome"
+    },
+    {
+        "input": "Scharbeutz",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Berka",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kyoto Tower",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Kumu",
+        "output": "Tallinn"
+    },
+    {
+        "input": "Brancacci Chapel",
+        "output": "Rome"
+    },
+    {
+        "input": "Ipatiev House",
+        "output": "Moscow"
+    },
+    {
+        "input": "Blagaj, Mostar",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "Sandringham House",
+        "output": "London"
+    },
+    {
+        "input": "Bad Kleinkirchheim",
+        "output": "Vienna"
+    },
+    {
+        "input": "Crazy Horse Memorial",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Imagine Peace Tower",
+        "output": "Reykjav\u00edk"
+    },
+    {
+        "input": "Wild Wadi Water Park",
+        "output": "Abu Dhabi"
+    },
+    {
+        "input": "Fischen im Allg\u00e4u",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Rodach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Pingyao",
+        "output": "Beijing"
+    },
+    {
+        "input": "Wangerooge",
+        "output": "Berlin"
+    },
+    {
+        "input": "Fatima Masumeh Shrine",
+        "output": "Tehran"
+    },
+    {
+        "input": "Space Needle",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Colosseum",
+        "output": "Rome"
+    },
+    {
+        "input": "Casa Vicens",
+        "output": "Madrid"
+    },
+    {
+        "input": "Dolmen of Menga",
+        "output": "Madrid"
+    },
+    {
+        "input": "Angel Falls",
+        "output": "Caracas"
+    },
+    {
+        "input": "Gu\u00e9delon Castle",
+        "output": "Paris"
+    },
+    {
+        "input": "Bad Bramstedt",
+        "output": "Berlin"
+    },
+    {
+        "input": "Newgrange",
+        "output": "Dublin"
+    },
+    {
+        "input": "F\u00fcssen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Canaima National Park",
+        "output": "Caracas"
+    },
+    {
+        "input": "Sukur",
+        "output": "Abuja"
+    },
+    {
+        "input": "National Museum in Wroc\u0142aw",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Admiralty Arch",
+        "output": "London"
+    },
+    {
+        "input": "M. H. de Young Memorial Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Wilsnack",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sverd i fjell",
+        "output": "Oslo"
+    },
+    {
+        "input": "Seiffen/Erzgeb.",
+        "output": "Berlin"
+    },
+    {
+        "input": "Upper German-Raetian Limes",
+        "output": "Berlin"
+    },
+    {
+        "input": "Buddhas of Bamiyan",
+        "output": "Kabul"
+    },
+    {
+        "input": "Wasserburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Peter and Paul Fortress",
+        "output": "Moscow"
+    },
+    {
+        "input": "Palazzo Rosso",
+        "output": "Rome"
+    },
+    {
+        "input": "Isny im Allg\u00e4u",
+        "output": "Berlin"
+    },
+    {
+        "input": "KV34",
+        "output": "Cairo"
+    },
+    {
+        "input": "Bad Staffelstein",
+        "output": "Berlin"
+    },
+    {
+        "input": "Eutin",
+        "output": "Berlin"
+    },
+    {
+        "input": "Aflenz Kurort",
+        "output": "Vienna"
+    },
+    {
+        "input": "\u0126a\u0121ar Qim",
+        "output": "Valletta"
+    },
+    {
+        "input": "Arch of Galerius and Rotunda",
+        "output": "Athens"
+    },
+    {
+        "input": "Fatih Sultan Mehmet Bridge",
+        "output": "Ankara"
+    },
+    {
+        "input": "Masuleh",
+        "output": "Tehran"
+    },
+    {
+        "input": "St Mark's Basilica",
+        "output": "Rome"
+    },
+    {
+        "input": "Petralona cave",
+        "output": "Athens"
+    },
+    {
+        "input": "Bad Bocklet",
+        "output": "Berlin"
+    },
+    {
+        "input": "Cueva de los Verdes",
+        "output": "Madrid"
+    },
+    {
+        "input": "Isabella Stewart Gardner Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Neustadt an der Saale",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tate Britain",
+        "output": "London"
+    },
+    {
+        "input": "Bad Liebenwerda",
+        "output": "Berlin"
+    },
+    {
+        "input": "Grande Arche",
+        "output": "Paris"
+    },
+    {
+        "input": "Brilon",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Feilnbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Shah Cheragh shrine",
+        "output": "Tehran"
+    },
+    {
+        "input": "Al-Masjid Al-Haram",
+        "output": "Riyadh"
+    },
+    {
+        "input": "Obelisk of Axum",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Ch\u00e2teau de Montsoreau",
+        "output": "Paris"
+    },
+    {
+        "input": "Triberg im Schwarzwald",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ferdowsi Mausoleum",
+        "output": "Tehran"
+    },
+    {
+        "input": "Ephesus",
+        "output": "Ankara"
+    },
+    {
+        "input": "iron pillar of Delhi",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Doge's Palace",
+        "output": "Rome"
+    },
+    {
+        "input": "Kungur Ice Cave",
+        "output": "Moscow"
+    },
+    {
+        "input": "Zuma Rock",
+        "output": "Abuja"
+    },
+    {
+        "input": "Cathedral of the Savior in his Epiphany of Zaragoza",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Lobenstein",
+        "output": "Berlin"
+    },
+    {
+        "input": "Durham Castle",
+        "output": "London"
+    },
+    {
+        "input": "Bacho Kiro cave",
+        "output": "Sofia"
+    },
+    {
+        "input": "Lublin-Majdanek concentration camp",
+        "output": "Warsaw"
+    },
+    {
+        "input": "N\u00f6rdlingen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Naumburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Hoover Dam",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "National Gallery of Victoria",
+        "output": "Canberra"
+    },
+    {
+        "input": "Bad Schmiedeberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Maiden's Tower",
+        "output": "Ankara"
+    },
+    {
+        "input": "Forchtenstein Castle",
+        "output": "Vienna"
+    },
+    {
+        "input": "Buddha Park",
+        "output": "Vientiane"
+    },
+    {
+        "input": "Yuriev Monastery",
+        "output": "Moscow"
+    },
+    {
+        "input": "Peter the Great Saint Petersburg State Polytechnical University",
+        "output": "Moscow"
+    },
+    {
+        "input": "Serpent Column",
+        "output": "Ankara"
+    },
+    {
+        "input": "Taq-i Kisra",
+        "output": "Baghdad"
+    },
+    {
+        "input": "Spice Bazaar",
+        "output": "Ankara"
+    },
+    {
+        "input": "Athena Promachos",
+        "output": "Athens"
+    },
+    {
+        "input": "Medici Chapels",
+        "output": "Rome"
+    },
+    {
+        "input": "30 St Mary Axe",
+        "output": "London"
+    },
+    {
+        "input": "Winchester Mystery House",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Benaki Museum",
+        "output": "Athens"
+    },
+    {
+        "input": "Graal-M\u00fcritz",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museu Nacional d'Art de Catalunya",
+        "output": "Madrid"
+    },
+    {
+        "input": "Blieskastel",
+        "output": "Berlin"
+    },
+    {
+        "input": "Copenhagen Zoo",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Bad Liebenzell",
+        "output": "Berlin"
+    },
+    {
+        "input": "Accademia Carrara",
+        "output": "Rome"
+    },
+    {
+        "input": "KV27",
+        "output": "Cairo"
+    },
+    {
+        "input": "Veliky Ustyug",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad Saulgau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Elster",
+        "output": "Berlin"
+    },
+    {
+        "input": "Neuharlingersiel",
+        "output": "Berlin"
+    },
+    {
+        "input": "Galata Bridge",
+        "output": "Ankara"
+    },
+    {
+        "input": "Gardens of Bomarzo",
+        "output": "Rome"
+    },
+    {
+        "input": "National Gallery of Norway",
+        "output": "Oslo"
+    },
+    {
+        "input": "Radolfzell am Bodensee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Art Gallery of South Australia",
+        "output": "Canberra"
+    },
+    {
+        "input": "Kresty Prison",
+        "output": "Moscow"
+    },
+    {
+        "input": "Admiralty building in Saint Petersburg",
+        "output": "Moscow"
+    },
+    {
+        "input": "Magic Kingdom",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Postojna Cave",
+        "output": "Ljubljana"
+    },
+    {
+        "input": "Porta Nigra",
+        "output": "Berlin"
+    },
+    {
+        "input": "Death Valley",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Wroc\u0142aw Cathedral",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Bad Zwischenahn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Turkish and Islamic Arts Museum",
+        "output": "Ankara"
+    },
+    {
+        "input": "Alcazaba y Murallas del Cerro de San Crist\u00f3bal",
+        "output": "Madrid"
+    },
+    {
+        "input": "Vi\u00f1ales Valley",
+        "output": "Havana"
+    },
+    {
+        "input": "Golden Gate Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Gr\u00f6na Lund",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Rumelihisar\u0131",
+        "output": "Ankara"
+    },
+    {
+        "input": "Pyramid of Userkaf",
+        "output": "Cairo"
+    },
+    {
+        "input": "Doge's Palace, Genoa",
+        "output": "Rome"
+    },
+    {
+        "input": "Soltaniyeh Dome",
+        "output": "Tehran"
+    },
+    {
+        "input": "Lake E\u011firdir",
+        "output": "Ankara"
+    },
+    {
+        "input": "Oy-Mittelberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tate Modern",
+        "output": "London"
+    },
+    {
+        "input": "Troldhaugen",
+        "output": "Oslo"
+    },
+    {
+        "input": "Krynica-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Naples National Archaeological Museum",
+        "output": "Rome"
+    },
+    {
+        "input": "\u015eehzade Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "Royal Palace of Naples",
+        "output": "Rome"
+    },
+    {
+        "input": "St Martin-in-the-Fields",
+        "output": "London"
+    },
+    {
+        "input": "Willis Tower",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Catacombs of Kom el Shoqafa",
+        "output": "Cairo"
+    },
+    {
+        "input": "Amalienborg",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Skylon Tower",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Cloud Gate",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Vadstena Castle",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Bad S\u00e4ckingen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Pombia Safari Park",
+        "output": "Rome"
+    },
+    {
+        "input": "Heligoland",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sofiyivsky Park",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Izium mass graves",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Ahrenshoop",
+        "output": "Berlin"
+    },
+    {
+        "input": "Royal Palace of La Granja de San Ildefonso",
+        "output": "Madrid"
+    },
+    {
+        "input": "Basilica of Notre-Dame de Fourvi\u00e8re",
+        "output": "Paris"
+    },
+    {
+        "input": "St. Blasien",
+        "output": "Berlin"
+    },
+    {
+        "input": "Rock and Roll Hall of Fame",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Neuenahr-Ahrweiler",
+        "output": "Berlin"
+    },
+    {
+        "input": "Petrie Museum of Egyptian Archaeology",
+        "output": "London"
+    },
+    {
+        "input": "Royal Armoury",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Kr\u00f6ller-M\u00fcller Museum",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Bad Bodenteich",
+        "output": "Berlin"
+    },
+    {
+        "input": "Saadiyat Island",
+        "output": "Abu Dhabi"
+    },
+    {
+        "input": "Mausoleum of Khoja Ahmed Yasawi",
+        "output": "Astana"
+    },
+    {
+        "input": "Gem\u00e4ldegalerie Alte Meister",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kew Palace",
+        "output": "London"
+    },
+    {
+        "input": "Czartoryski Museum",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Jastrz\u0119bie-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Kyllburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bischofsgr\u00fcn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Summer Garden",
+        "output": "Moscow"
+    },
+    {
+        "input": "Hospital of Innocents",
+        "output": "Rome"
+    },
+    {
+        "input": "Children's Peace Monument",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Lake Retba",
+        "output": "Dakar"
+    },
+    {
+        "input": "Niagara Falls",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Korela Fortress",
+        "output": "Moscow"
+    },
+    {
+        "input": "S\u00fcmela Monastery",
+        "output": "Ankara"
+    },
+    {
+        "input": "Sandanski",
+        "output": "Sofia"
+    },
+    {
+        "input": "Oscar Niemeyer International Cultural Centre",
+        "output": "Madrid"
+    },
+    {
+        "input": "Grasellenbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museum of Modern Art of Republika Srpska",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "Museum of San Marco",
+        "output": "Rome"
+    },
+    {
+        "input": "Murtala Muhammed International Airport",
+        "output": "Abuja"
+    },
+    {
+        "input": "Hamburger Kunsthalle",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mount Fuji",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Pura Ulun Danu Bratan",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Zinnowitz",
+        "output": "Berlin"
+    },
+    {
+        "input": "San Agustin archeological park",
+        "output": "Bogot\u00e1"
+    },
+    {
+        "input": "Cathedral of Saint Demetrius",
+        "output": "Moscow"
+    },
+    {
+        "input": "Propylaea of Athens",
+        "output": "Athens"
+    },
+    {
+        "input": "Apsley House",
+        "output": "London"
+    },
+    {
+        "input": "Cappadocia",
+        "output": "Ankara"
+    },
+    {
+        "input": "Wolfegg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Wiesbaden",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ha Long Bay",
+        "output": "Hanoi"
+    },
+    {
+        "input": "Chengde Mountain Resort and its outlying temples",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Friedrichshall",
+        "output": "Berlin"
+    },
+    {
+        "input": "Stoa Poikile",
+        "output": "Athens"
+    },
+    {
+        "input": "Basilica of Our Lady of the Pillar",
+        "output": "Madrid"
+    },
+    {
+        "input": "Ja\u00e9n Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Emstal",
+        "output": "Berlin"
+    },
+    {
+        "input": "Warnem\u00fcnde",
+        "output": "Berlin"
+    },
+    {
+        "input": "Waldbronn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Berneck im Fichtelgebirge",
+        "output": "Berlin"
+    },
+    {
+        "input": "Inveraray Castle",
+        "output": "London"
+    },
+    {
+        "input": "Bryn Celli Ddu",
+        "output": "London"
+    },
+    {
+        "input": "Vistula Lagoon",
+        "output": "Moscow"
+    },
+    {
+        "input": "Borkum",
+        "output": "Berlin"
+    },
+    {
+        "input": "Krak\u00f3w Barbican",
+        "output": "Warsaw"
+    },
+    {
+        "input": "K\u00fchlungsborn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Petershagen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Colossi of Memnon",
+        "output": "Cairo"
+    },
+    {
+        "input": "Jameh Mosque of Yazd",
+        "output": "Tehran"
+    },
+    {
+        "input": "Bad Schandau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ny Carlsberg Glyptotek",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Bridge of Sighs",
+        "output": "Rome"
+    },
+    {
+        "input": "Sammallahdenm\u00e4ki",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Al Khazneh",
+        "output": "Amman"
+    },
+    {
+        "input": "St. Nicholas Naval Cathedral, St. Petersburg",
+        "output": "Moscow"
+    },
+    {
+        "input": "Skull Tower",
+        "output": "Belgrade"
+    },
+    {
+        "input": "Batu Caves",
+        "output": "Kuala Lumpur"
+    },
+    {
+        "input": "Yavuz Sultan Selim Bridge",
+        "output": "Ankara"
+    },
+    {
+        "input": "Anadoluhisar\u0131",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bad Driburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Times Square",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Palace of Versailles",
+        "output": "Paris"
+    },
+    {
+        "input": "Spodek",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Sheikh Safi al-Din Kh\u0101neg\u0101h and Shrine Ensemble",
+        "output": "Tehran"
+    },
+    {
+        "input": "Ancient Theatre of Epidaurus",
+        "output": "Athens"
+    },
+    {
+        "input": "Mausoleum of the First Qin Emperor",
+        "output": "Beijing"
+    },
+    {
+        "input": "Georgia Guidestones",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Ming Xiaoling",
+        "output": "Beijing"
+    },
+    {
+        "input": "Galleria dell'Accademia",
+        "output": "Rome"
+    },
+    {
+        "input": "Ben Nevis",
+        "output": "London"
+    },
+    {
+        "input": "St\u00fctzerbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Villa Tugendhat",
+        "output": "Prague"
+    },
+    {
+        "input": "S.A.I. Catedral Metropolitana de la Encarnaci\u00f3n",
+        "output": "Madrid"
+    },
+    {
+        "input": "Antelope Canyon",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Mecca",
+        "output": "Riyadh"
+    },
+    {
+        "input": "National Museum in Krak\u00f3w",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Arch of Hadrian",
+        "output": "Athens"
+    },
+    {
+        "input": "Kizhi Pogost",
+        "output": "Moscow"
+    },
+    {
+        "input": "Yuste",
+        "output": "Madrid"
+    },
+    {
+        "input": "Giant's Causeway",
+        "output": "London"
+    },
+    {
+        "input": "Norddorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Woburn Abbey",
+        "output": "London"
+    },
+    {
+        "input": "City of Space",
+        "output": "Paris"
+    },
+    {
+        "input": "Mesha Stele",
+        "output": "Amman"
+    },
+    {
+        "input": "Friedrichskoog",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sultan Ahmed Mosque",
+        "output": "Ankara"
+    },
+    {
+        "input": "KV26",
+        "output": "Cairo"
+    },
+    {
+        "input": "Neukirchen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Alnwick Castle",
+        "output": "London"
+    },
+    {
+        "input": "Anichkov Palace",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad Bevensen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Hever Castle",
+        "output": "London"
+    },
+    {
+        "input": "Kalmar Castle",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Alexander Nevsky Cathedral",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Galapagos Islands",
+        "output": "Quito"
+    },
+    {
+        "input": "Bad Frankenhausen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museo dell'Opera del Duomo",
+        "output": "Rome"
+    },
+    {
+        "input": "Bad Salzschlirf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Khaju Bridge",
+        "output": "Tehran"
+    },
+    {
+        "input": "Ladonia",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Bad Schussenried",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Hindelang",
+        "output": "Berlin"
+    },
+    {
+        "input": "Schluchsee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Champaner-Pavagadh Archaeological Park",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Ksi\u0105\u017c Castle and park complex",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Cuxhaven",
+        "output": "Berlin"
+    },
+    {
+        "input": "Danevirke",
+        "output": "Berlin"
+    },
+    {
+        "input": "Darjeeling Himalayan Railway",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Jingpo Lake",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Bentheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Vittsk\u00f6vle Church",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Euromast",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Olsberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Central Stadium Yekaterinburg",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad Gastein",
+        "output": "Vienna"
+    },
+    {
+        "input": "New Athos Cave",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Magura Cave",
+        "output": "Sofia"
+    },
+    {
+        "input": "Ale's Stones",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Blackpool Tower",
+        "output": "London"
+    },
+    {
+        "input": "Masserberg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Portman Road",
+        "output": "London"
+    },
+    {
+        "input": "Gonbad-e Qabus",
+        "output": "Tehran"
+    },
+    {
+        "input": "Mask of Sorrow",
+        "output": "Moscow"
+    },
+    {
+        "input": "Ratzeburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Eisriesenwelt",
+        "output": "Vienna"
+    },
+    {
+        "input": "t\u00fcrbe",
+        "output": "Constantinople"
+    },
+    {
+        "input": "Christ the King statue",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Royal Academy of Arts",
+        "output": "London"
+    },
+    {
+        "input": "Bad Lausick",
+        "output": "Berlin"
+    },
+    {
+        "input": "Arc de Triomf",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Pyrmont",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tabernas Desert",
+        "output": "Madrid"
+    },
+    {
+        "input": "Pompey's Pillar",
+        "output": "Cairo"
+    },
+    {
+        "input": "Bad M\u00fcnstereifel",
+        "output": "Berlin"
+    },
+    {
+        "input": "Pulkovo Observatory",
+        "output": "Moscow"
+    },
+    {
+        "input": "Tomb of Hafez",
+        "output": "Tehran"
+    },
+    {
+        "input": "Chilean National Museum of Fine Arts",
+        "output": "Santiago"
+    },
+    {
+        "input": "Wissen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Si-o-se Pol",
+        "output": "Tehran"
+    },
+    {
+        "input": "Ch\u00e2teau de Montsoreau-Museum of Contemporary Art",
+        "output": "Paris"
+    },
+    {
+        "input": "Goa Gajah",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Baltrum",
+        "output": "Berlin"
+    },
+    {
+        "input": "N\u00fcrburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Zolotoy Rog",
+        "output": "Moscow"
+    },
+    {
+        "input": "Gammelstad Church Town",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Himera",
+        "output": "Rome"
+    },
+    {
+        "input": "Philopappos Monument",
+        "output": "Athens"
+    },
+    {
+        "input": "Bad Vilbel",
+        "output": "Berlin"
+    },
+    {
+        "input": "KV7",
+        "output": "Cairo"
+    },
+    {
+        "input": "La D\u00e9fense",
+        "output": "Paris"
+    },
+    {
+        "input": "Al-Rifa'i Mosque",
+        "output": "Cairo"
+    },
+    {
+        "input": "Brooklyn Bridge",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "\u015awinouj\u015bcie",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Kellenhusen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Sobernheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ushiku Daibutsu",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Bad K\u00f6stritz",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ts\u016btenkaku",
+        "output": "Tokyo"
+    },
+    {
+        "input": "The Frick Collection",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Tel Aviv Museum of Art",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Pool of Siloam",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Hollywood Boulevard",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Holy Trinity Column in Olomouc",
+        "output": "Prague"
+    },
+    {
+        "input": "Hisarya",
+        "output": "Sofia"
+    },
+    {
+        "input": "Grand Canal",
+        "output": "Rome"
+    },
+    {
+        "input": "Walt Disney World Resort",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Birnbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Poulnabrone dolmen",
+        "output": "Dublin"
+    },
+    {
+        "input": "Bad Bergzabern",
+        "output": "Berlin"
+    },
+    {
+        "input": "KV9",
+        "output": "Cairo"
+    },
+    {
+        "input": "Dubailand",
+        "output": "Abu Dhabi"
+    },
+    {
+        "input": "Nabi Habeel Mosque",
+        "output": "Damascus"
+    },
+    {
+        "input": "Pont du Gard",
+        "output": "Paris"
+    },
+    {
+        "input": "Bara Imambara",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Cathedral of Valladolid",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Sassendorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Columbus Monument",
+        "output": "Madrid"
+    },
+    {
+        "input": "Mount Kilimanjaro",
+        "output": "Dodoma"
+    },
+    {
+        "input": "CN Tower",
+        "output": "Ottawa"
+    },
+    {
+        "input": "India Gate",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Baths of Caracalla",
+        "output": "Rome"
+    },
+    {
+        "input": "Amber Mountain National Park",
+        "output": "Antananarivo"
+    },
+    {
+        "input": "Conventico Caves",
+        "output": "Madrid"
+    },
+    {
+        "input": "Vallendar",
+        "output": "Berlin"
+    },
+    {
+        "input": "Obelisk of Theodosius",
+        "output": "Ankara"
+    },
+    {
+        "input": "Royal Museum for Central Africa",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Tomb of Suleyman Shah",
+        "output": "Damascus"
+    },
+    {
+        "input": "Indianapolis Museum of Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Alc\u00e1zar of Toledo",
+        "output": "Madrid"
+    },
+    {
+        "input": "Dallas Museum of Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Royal Museum of Fine Arts Antwerp",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Bad T\u00f6lz",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sydney Tower",
+        "output": "Canberra"
+    },
+    {
+        "input": "Royal Museums of Fine Arts of Belgium",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Heilbad Heiligenstadt",
+        "output": "Berlin"
+    },
+    {
+        "input": "M\u00e4rcani Mosque",
+        "output": "Moscow"
+    },
+    {
+        "input": "Ballabio",
+        "output": "Rome"
+    },
+    {
+        "input": "Hirschhorn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Big Ben",
+        "output": "London"
+    },
+    {
+        "input": "Feldherrnhalle",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mamayev Kurgan",
+        "output": "Moscow"
+    },
+    {
+        "input": "Szczawnica",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Windsor Castle",
+        "output": "London"
+    },
+    {
+        "input": "Lake Van",
+        "output": "Ankara"
+    },
+    {
+        "input": "ArcelorMittal Orbit",
+        "output": "London"
+    },
+    {
+        "input": "Deidesheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Euthanasia Coaster",
+        "output": "London"
+    },
+    {
+        "input": "Disneyland",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Mount Vesuvius",
+        "output": "Rome"
+    },
+    {
+        "input": "Polanica-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Wat Arun",
+        "output": "Bangkok"
+    },
+    {
+        "input": "Barbican Centre",
+        "output": "London"
+    },
+    {
+        "input": "Momine Khatun Mausoleum",
+        "output": "Baku"
+    },
+    {
+        "input": "Madame Tussauds",
+        "output": "London"
+    },
+    {
+        "input": "The Great Sphinx",
+        "output": "Cairo"
+    },
+    {
+        "input": "K\u00f6nigstein im Taunus",
+        "output": "Berlin"
+    },
+    {
+        "input": "Republic Monument",
+        "output": "Ankara"
+    },
+    {
+        "input": "Charminar",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Museo Correr",
+        "output": "Rome"
+    },
+    {
+        "input": "Jeita Grotto",
+        "output": "Beirut"
+    },
+    {
+        "input": "Bad Laer",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sybaris",
+        "output": "Rome"
+    },
+    {
+        "input": "Stonehenge",
+        "output": "London"
+    },
+    {
+        "input": "Six Flags Magic Mountain",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Knossos",
+        "output": "Athens"
+    },
+    {
+        "input": "Brooklyn Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Saih\u014d-ji",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Choragic Monument of Lysicrates",
+        "output": "Athens"
+    },
+    {
+        "input": "Nonnweiler",
+        "output": "Berlin"
+    },
+    {
+        "input": "Alamo Mission in San Antonio",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Groeningemuseum",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Bertha Benz Memorial Route",
+        "output": "Berlin"
+    },
+    {
+        "input": "Damavand",
+        "output": "Tehran"
+    },
+    {
+        "input": "Bad K\u00f6sen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Umedalens Skulpturpark",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Cologne Cathedral",
+        "output": "Berlin"
+    },
+    {
+        "input": "Heiligenhafen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Belfry of Bruges",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "The Little Mermaid",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "KV6",
+        "output": "Cairo"
+    },
+    {
+        "input": "Museum of Contemporary Art, Los Angeles",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Schwalbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kudowa-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Anichkov Bridge",
+        "output": "Moscow"
+    },
+    {
+        "input": "Tabriz Bazaar",
+        "output": "Tehran"
+    },
+    {
+        "input": "Monument Valley",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "DeviantArt",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Nelson's Column",
+        "output": "London"
+    },
+    {
+        "input": "Bad Blankenburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Topkap\u0131 Palace",
+        "output": "Ankara"
+    },
+    {
+        "input": "Carnuntum",
+        "output": "Vienna"
+    },
+    {
+        "input": "Fort Sumter",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "C\u0103lim\u0103ne\u0219ti",
+        "output": "Bucharest"
+    },
+    {
+        "input": "Library of Celsus",
+        "output": "Ankara"
+    },
+    {
+        "input": "Le Gua",
+        "output": "Paris"
+    },
+    {
+        "input": "Weilburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Charing Cross",
+        "output": "London"
+    },
+    {
+        "input": "KV11",
+        "output": "Cairo"
+    },
+    {
+        "input": "Dubino",
+        "output": "Rome"
+    },
+    {
+        "input": "R\u00f6bel",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mount Etna",
+        "output": "Rome"
+    },
+    {
+        "input": "Disney's Hollywood Studios",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Grand Egyptian Museum",
+        "output": "Cairo"
+    },
+    {
+        "input": "Shah Mosque",
+        "output": "Tehran"
+    },
+    {
+        "input": "Bischofswiesen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Boltenhagen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Baiersbronn",
+        "output": "Berlin"
+    },
+    {
+        "input": "Sir John Soane's Museum",
+        "output": "London"
+    },
+    {
+        "input": "Parc Ast\u00e9rix",
+        "output": "Paris"
+    },
+    {
+        "input": "\u00d6l\u00fcdeniz",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bad Sachsa",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Schlema",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Breisig",
+        "output": "Berlin"
+    },
+    {
+        "input": "Swiss Alps",
+        "output": "Bern"
+    },
+    {
+        "input": "Multnomah Falls",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Schwangau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Marble Palace",
+        "output": "Moscow"
+    },
+    {
+        "input": "Althorp",
+        "output": "London"
+    },
+    {
+        "input": "Lion of Judah",
+        "output": "Addis Ababa"
+    },
+    {
+        "input": "Lychakiv Cemetery",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Fountains Abbey",
+        "output": "London"
+    },
+    {
+        "input": "Nieheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Gateway Arch",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Lugo Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Melsungen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Walled Obelisk",
+        "output": "Ankara"
+    },
+    {
+        "input": "Cave of Altacosa",
+        "output": "Madrid"
+    },
+    {
+        "input": "Sch\u00f6nau am K\u00f6nigsee",
+        "output": "Berlin"
+    },
+    {
+        "input": "Milwaukee Art Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Triumphal Arch of Orange",
+        "output": "Paris"
+    },
+    {
+        "input": "Golden Gate Bridge",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Munch Museum",
+        "output": "Oslo"
+    },
+    {
+        "input": "National Museum of Beirut",
+        "output": "Beirut"
+    },
+    {
+        "input": "Reformation Wall",
+        "output": "Bern"
+    },
+    {
+        "input": "Marmurova Pechera",
+        "output": "Kyiv"
+    },
+    {
+        "input": "Kingda Ka",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Empire State Building",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Europa-Park",
+        "output": "Berlin"
+    },
+    {
+        "input": "Pie\u0161\u0165any",
+        "output": "Bratislava"
+    },
+    {
+        "input": "Narva Triumphal Arch",
+        "output": "Moscow"
+    },
+    {
+        "input": "Aljafer\u00eda",
+        "output": "Madrid"
+    },
+    {
+        "input": "Spring Temple Buddha",
+        "output": "Beijing"
+    },
+    {
+        "input": "Mausoleum of Maussollos",
+        "output": "Ankara"
+    },
+    {
+        "input": "Wawel Cathedral",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Gr\u016btas Park",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Gladenbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "\u00d6rebro Castle",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Palazzo Barberini",
+        "output": "Rome"
+    },
+    {
+        "input": "Rengsdorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Peggy Guggenheim Collection",
+        "output": "Rome"
+    },
+    {
+        "input": "Waren",
+        "output": "Berlin"
+    },
+    {
+        "input": "Merneptah Stele",
+        "output": "Cairo"
+    },
+    {
+        "input": "Tomb of Askia",
+        "output": "Bamako"
+    },
+    {
+        "input": "Hadrian's Wall",
+        "output": "London"
+    },
+    {
+        "input": "Bad D\u00fcrkheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "Alhambra",
+        "output": "Madrid"
+    },
+    {
+        "input": "Hearst Castle",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Che\u0142mno extermination camp",
+        "output": "Warsaw"
+    },
+    {
+        "input": "One World Trade Center",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "K\u00f6nigsberg Cathedral",
+        "output": "Moscow"
+    },
+    {
+        "input": "KV17",
+        "output": "Cairo"
+    },
+    {
+        "input": "J. Paul Getty Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Liseberg",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Rijksmuseum",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Aachen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Grossglockner High Alpine Road",
+        "output": "Vienna"
+    },
+    {
+        "input": "\u0130stanbul Modern",
+        "output": "Ankara"
+    },
+    {
+        "input": "Hagia Irene",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bad Soden am Taunus",
+        "output": "Berlin"
+    },
+    {
+        "input": "Menshikov Palace (Saint Petersburg)",
+        "output": "Moscow"
+    },
+    {
+        "input": "Vintgar Gorge",
+        "output": "Ljubljana"
+    },
+    {
+        "input": "BMW Welt",
+        "output": "Berlin"
+    },
+    {
+        "input": "Mevl\u00e2na Museum",
+        "output": "Ankara"
+    },
+    {
+        "input": "Antwerp City Hall",
+        "output": "City of Brussels"
+    },
+    {
+        "input": "Duszniki-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Lascaux",
+        "output": "Paris"
+    },
+    {
+        "input": "Gatchina Palace",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad Griesbach im Rottal",
+        "output": "Berlin"
+    },
+    {
+        "input": "Museum of Fine Arts, Houston",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Solovetsky Monastery",
+        "output": "Moscow"
+    },
+    {
+        "input": "Field of Mars",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad F\u00fcssing",
+        "output": "Berlin"
+    },
+    {
+        "input": "Naval Cathedral in Kronstadt",
+        "output": "Moscow"
+    },
+    {
+        "input": "Sontra",
+        "output": "Berlin"
+    },
+    {
+        "input": "Santa Claus Village",
+        "output": "Helsinki"
+    },
+    {
+        "input": "Shrine of Bah\u00e1'u'll\u00e1h",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Ch\u00e2teau de Malmaison",
+        "output": "Paris"
+    },
+    {
+        "input": "Blankenburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "British Museum",
+        "output": "London"
+    },
+    {
+        "input": "Varshets",
+        "output": "Sofia"
+    },
+    {
+        "input": "Cabo San Lucas",
+        "output": "Mexico City"
+    },
+    {
+        "input": "Sig\u00fcenza Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Sayyidah Zaynab Mosque",
+        "output": "Damascus"
+    },
+    {
+        "input": "Gaztelugatxe",
+        "output": "Madrid"
+    },
+    {
+        "input": "Glyptothek",
+        "output": "Berlin"
+    },
+    {
+        "input": "Laykyun Sekkya",
+        "output": "Naypyidaw"
+    },
+    {
+        "input": "Bad Kreuznach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Templin",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ambras Castle",
+        "output": "Vienna"
+    },
+    {
+        "input": "Roman Walls of Lugo",
+        "output": "Madrid"
+    },
+    {
+        "input": "Tokyo Disney Resort",
+        "output": "Tokyo"
+    },
+    {
+        "input": "Athena Parthenos",
+        "output": "Athens"
+    },
+    {
+        "input": "Mus\u00e9e Fabre",
+        "output": "Paris"
+    },
+    {
+        "input": "The Nelson-Atkins Museum of Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Chatsworth House",
+        "output": "London"
+    },
+    {
+        "input": "Imam Ali Mosque",
+        "output": "Baghdad"
+    },
+    {
+        "input": "Al-Askari Shrine",
+        "output": "Baghdad"
+    },
+    {
+        "input": "Marine Corps War Memorial",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Homburg vor der H\u00f6he",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Endorf",
+        "output": "Berlin"
+    },
+    {
+        "input": "Skansen",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Aqueduct of Segovia",
+        "output": "Madrid"
+    },
+    {
+        "input": "St\u00e4del Museum",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bellano",
+        "output": "Rome"
+    },
+    {
+        "input": "MAXXI",
+        "output": "Rome"
+    },
+    {
+        "input": "Ta' \u0126a\u0121rat",
+        "output": "Valletta"
+    },
+    {
+        "input": "Mariinsky Theatre",
+        "output": "Moscow"
+    },
+    {
+        "input": "Fujian Tulou",
+        "output": "Beijing"
+    },
+    {
+        "input": "Romantic Road",
+        "output": "Berlin"
+    },
+    {
+        "input": "Kunstkamera",
+        "output": "Moscow"
+    },
+    {
+        "input": "Wenningstedt-Braderup",
+        "output": "Berlin"
+    },
+    {
+        "input": "Homomonument",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Hollywood Walk of Fame",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Sublime Porte",
+        "output": "Ankara"
+    },
+    {
+        "input": "Ourense Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Design Museum Holon",
+        "output": "Jerusalem"
+    },
+    {
+        "input": "Arch of Trajan",
+        "output": "Rome"
+    },
+    {
+        "input": "Kalka\u2013Shimla Railway",
+        "output": "New Delhi"
+    },
+    {
+        "input": "KV20",
+        "output": "Cairo"
+    },
+    {
+        "input": "Bad Tabarz",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bilbao Fine Arts Museum",
+        "output": "Madrid"
+    },
+    {
+        "input": "Bad Essen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Buckow",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tower Bridge",
+        "output": "London"
+    },
+    {
+        "input": "Dervio",
+        "output": "Rome"
+    },
+    {
+        "input": "Busko-Zdr\u00f3j",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Disneyland Paris",
+        "output": "Paris"
+    },
+    {
+        "input": "Cascata delle Marmore",
+        "output": "Rome"
+    },
+    {
+        "input": "The STRAT Hotel, Casino & SkyPod",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Mount Wutai",
+        "output": "Beijing"
+    },
+    {
+        "input": "Arches National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Saint Sophia Cathedral",
+        "output": "Moscow"
+    },
+    {
+        "input": "Uzung\u00f6l",
+        "output": "Ankara"
+    },
+    {
+        "input": "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+        "output": "Madrid"
+    },
+    {
+        "input": "Antequera Dolmens Site",
+        "output": "Madrid"
+    },
+    {
+        "input": "Yosemite National Park",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "\u0130zmir Clock Tower",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bad Wildungen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Saarow",
+        "output": "Berlin"
+    },
+    {
+        "input": "Orvieto Cathedral",
+        "output": "Rome"
+    },
+    {
+        "input": "Bad Schwartau",
+        "output": "Berlin"
+    },
+    {
+        "input": "Otrar",
+        "output": "Astana"
+    },
+    {
+        "input": "KV15",
+        "output": "Cairo"
+    },
+    {
+        "input": "Garmisch-Partenkirchen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Los Angeles County Museum of Art",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Brick Lane",
+        "output": "London"
+    },
+    {
+        "input": "Bavarian National Museum",
+        "output": "Berlin"
+    },
+    {
+        "input": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+        "output": "Seoul"
+    },
+    {
+        "input": "Cathedral Basilica of St. Ann",
+        "output": "Madrid"
+    },
+    {
+        "input": "Am\u00e9lie-les-Bains-Palalda",
+        "output": "Paris"
+    },
+    {
+        "input": "Pamplona Cathedral",
+        "output": "Madrid"
+    },
+    {
+        "input": "Mulholland Drive",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Mansion House",
+        "output": "London"
+    },
+    {
+        "input": "Rialto Bridge",
+        "output": "Rome"
+    },
+    {
+        "input": "Rembrandt House Museum",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Willingen (Upland)",
+        "output": "Berlin"
+    },
+    {
+        "input": "Gothenburg Museum of Art",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Tanah Lot",
+        "output": "Jakarta"
+    },
+    {
+        "input": "Mausoleum of Galla Placidia",
+        "output": "Rome"
+    },
+    {
+        "input": "Susa",
+        "output": "Tehran"
+    },
+    {
+        "input": "Gonio",
+        "output": "Tbilisi"
+    },
+    {
+        "input": "Canadian Museum of History",
+        "output": "Ottawa"
+    },
+    {
+        "input": "Bad Laasphe",
+        "output": "Berlin"
+    },
+    {
+        "input": "Pura Luhur",
+        "output": "Jakarta"
+    },
+    {
+        "input": "KV5",
+        "output": "Cairo"
+    },
+    {
+        "input": "Walters Art Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Imbros",
+        "output": "Ankara"
+    },
+    {
+        "input": "Panathenaic Stadium",
+        "output": "Athens"
+    },
+    {
+        "input": "Maes Howe",
+        "output": "London"
+    },
+    {
+        "input": "Wallraf\u2013Richartz Museum",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bernkastel-Kues",
+        "output": "Berlin"
+    },
+    {
+        "input": "Milan Cathedral",
+        "output": "Rome"
+    },
+    {
+        "input": "Nemrut",
+        "output": "Ankara"
+    },
+    {
+        "input": "Mole Antonelliana",
+        "output": "Rome"
+    },
+    {
+        "input": "Shanhai Pass",
+        "output": "Beijing"
+    },
+    {
+        "input": "Liberty Bell",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Museum of Cycladic Art",
+        "output": "Athens"
+    },
+    {
+        "input": "Star of Nanchang",
+        "output": "Beijing"
+    },
+    {
+        "input": "Bad Oeynhausen",
+        "output": "Berlin"
+    },
+    {
+        "input": "KV19",
+        "output": "Cairo"
+    },
+    {
+        "input": "Hohwacht",
+        "output": "Berlin"
+    },
+    {
+        "input": "Ottobeuren",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Arolsen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Bad Reichenhall",
+        "output": "Berlin"
+    },
+    {
+        "input": "Urquhart Castle",
+        "output": "London"
+    },
+    {
+        "input": "Raj Ghat and associated memorials",
+        "output": "New Delhi"
+    },
+    {
+        "input": "\u0130stiklal Avenue",
+        "output": "Ankara"
+    },
+    {
+        "input": "Bad Sulza",
+        "output": "Berlin"
+    },
+    {
+        "input": "Vije\u0107nica",
+        "output": "Sarajevo"
+    },
+    {
+        "input": "Chillon Castle",
+        "output": "Bern"
+    },
+    {
+        "input": "Bad Bayersoien",
+        "output": "Berlin"
+    },
+    {
+        "input": "Megara Hyblaea",
+        "output": "Rome"
+    },
+    {
+        "input": "Yamunotri",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Disney Adventure World",
+        "output": "Paris"
+    },
+    {
+        "input": "Church of All Saints",
+        "output": "Moscow"
+    },
+    {
+        "input": "Tivoli Gardens",
+        "output": "Copenhagen"
+    },
+    {
+        "input": "Bamburgh Castle",
+        "output": "London"
+    },
+    {
+        "input": "Lia F\u00e1il",
+        "output": "Dublin"
+    },
+    {
+        "input": "Bad Lippspringe",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tecklenburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Alcazaba of M\u00e1laga",
+        "output": "Madrid"
+    },
+    {
+        "input": "Hong Kong Disneyland",
+        "output": "Beijing"
+    },
+    {
+        "input": "Jinggang Mountains",
+        "output": "Beijing"
+    },
+    {
+        "input": "Buzia\u0219",
+        "output": "Bucharest"
+    },
+    {
+        "input": "Carrow Road",
+        "output": "London"
+    },
+    {
+        "input": "Gersfeld",
+        "output": "Berlin"
+    },
+    {
+        "input": "Epcot",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Van Gogh Museum",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Bad Salzungen",
+        "output": "Berlin"
+    },
+    {
+        "input": "Seikilos epitaph",
+        "output": "Athens"
+    },
+    {
+        "input": "Teide",
+        "output": "Madrid"
+    },
+    {
+        "input": "Heimbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Tomb of Caecilia Metella",
+        "output": "Rome"
+    },
+    {
+        "input": "Druskininkai",
+        "output": "Vilnius"
+    },
+    {
+        "input": "Galata Tower",
+        "output": "Ankara"
+    },
+    {
+        "input": "Canton Tower",
+        "output": "Beijing"
+    },
+    {
+        "input": "Ca' d'Oro",
+        "output": "Rome"
+    },
+    {
+        "input": "Muzeum Miniaturowej Sztuki Profesjonalnej Henryk Jan Dominiak in Tychy",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Cond\u00e9 Museum",
+        "output": "Paris"
+    },
+    {
+        "input": "Old Faithful",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Bad Salzdetfurth",
+        "output": "Berlin"
+    },
+    {
+        "input": "Meteor Crater",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Nordic Museum",
+        "output": "Stockholm"
+    },
+    {
+        "input": "Tomb of Safdar Jang",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Bad Endbach",
+        "output": "Berlin"
+    },
+    {
+        "input": "Serdobsk",
+        "output": "Moscow"
+    },
+    {
+        "input": "Bad Gandersheim",
+        "output": "Berlin"
+    },
+    {
+        "input": "St Mark's Clocktower",
+        "output": "Rome"
+    },
+    {
+        "input": "Gda\u0144sk Main Town Hall",
+        "output": "Warsaw"
+    },
+    {
+        "input": "Rainbow Bridge National Monument",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Cave of El Castillo",
+        "output": "Madrid"
+    },
+    {
+        "input": "Che Guevara Mausoleum",
+        "output": "Havana"
+    },
+    {
+        "input": "Kunsthaus Graz",
+        "output": "Vienna"
+    },
+    {
+        "input": "Fortifications of Kotor",
+        "output": "Podgorica"
+    },
+    {
+        "input": "National Archaeological Museum of Athens",
+        "output": "Athens"
+    },
+    {
+        "input": "Wawel",
+        "output": "Warsaw"
+    },
+    {
+        "input": "St. Nicholas\u2019 Church, Hamburg",
+        "output": "Berlin"
+    },
+    {
+        "input": "Juist",
+        "output": "Berlin"
+    },
+    {
+        "input": "Grand Central Terminal",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "National Library of Wales",
+        "output": "London"
+    },
+    {
+        "input": "National September 11 Memorial & Museum",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Gol Gumbaz",
+        "output": "New Delhi"
+    },
+    {
+        "input": "Samanid Mausoleum",
+        "output": "Tashkent"
+    },
+    {
+        "input": "Reales Alc\u00e1zares",
+        "output": "Madrid"
+    },
+    {
+        "input": "Scrovegni Chapel",
+        "output": "Rome"
+    },
+    {
+        "input": "Brest Fortress",
+        "output": "Minsk"
+    },
+    {
+        "input": "Bletchley Park",
+        "output": "London"
+    },
+    {
+        "input": "Church of the Intercession on the Nerl",
+        "output": "Moscow"
+    },
+    {
+        "input": "Museum of Fine Arts Boston",
+        "output": "Washington, D.C."
+    },
+    {
+        "input": "Anne Frank House",
+        "output": "Amsterdam"
+    },
+    {
+        "input": "Piccadilly Circus",
+        "output": "London"
+    },
+    {
+        "input": "Museo Poldi Pezzoli",
+        "output": "Rome"
+    },
+    {
+        "input": "Acropolis Museum",
+        "output": "Athens"
+    },
+    {
+        "input": "Dulwich Picture Gallery",
+        "output": "London"
+    },
+    {
+        "input": "Tropical Islands",
+        "output": "Berlin"
+    }
+]

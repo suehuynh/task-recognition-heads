@@ -1,0 +1,3834 @@
+[
+    {
+        "input": "Last Night When We Were Young",
+        "output": "1922"
+    },
+    {
+        "input": "Let's Dance",
+        "output": "1947"
+    },
+    {
+        "input": "How Come You Don\u2019t Call Me Anymore",
+        "output": "1958"
+    },
+    {
+        "input": "Comin' Home Baby",
+        "output": "1925"
+    },
+    {
+        "input": "Gentle on My Mind",
+        "output": "1937"
+    },
+    {
+        "input": "Ac-Cent-Tchu-Ate the Positive",
+        "output": "1909"
+    },
+    {
+        "input": "Ain't No Cure for Love",
+        "output": "1947"
+    },
+    {
+        "input": "Lawdy Miss Clawdy",
+        "output": "1933"
+    },
+    {
+        "input": "Mystery Train",
+        "output": "1932"
+    },
+    {
+        "input": "Money (That\u2019s What I Want)",
+        "output": "1941"
+    },
+    {
+        "input": "My Back Pages",
+        "output": "1941"
+    },
+    {
+        "input": "Wrapped",
+        "output": "1957"
+    },
+    {
+        "input": "Swinging on a Star",
+        "output": "1903"
+    },
+    {
+        "input": "SOS",
+        "output": "1988"
+    },
+    {
+        "input": "If Not for You",
+        "output": "1941"
+    },
+    {
+        "input": "Only Women Bleed",
+        "output": "1948"
+    },
+    {
+        "input": "Somos novios",
+        "output": "1934"
+    },
+    {
+        "input": "Time Is on My Side",
+        "output": "1922"
+    },
+    {
+        "input": "Anema e core",
+        "output": "1889"
+    },
+    {
+        "input": "Loving You",
+        "output": "1935"
+    },
+    {
+        "input": "Take Me to the Pilot",
+        "output": "1947"
+    },
+    {
+        "input": "(Now and Then There's) A Fool Such as I",
+        "output": "1914"
+    },
+    {
+        "input": "On the Road Again",
+        "output": "1941"
+    },
+    {
+        "input": "Why Can't You Behave?",
+        "output": "1925"
+    },
+    {
+        "input": "Desolation Row",
+        "output": "1941"
+    },
+    {
+        "input": "I Am a Rock",
+        "output": "1941"
+    },
+    {
+        "input": "I Believe",
+        "output": "1907"
+    },
+    {
+        "input": "All Along the Watchtower",
+        "output": "1941"
+    },
+    {
+        "input": "Nuages",
+        "output": "1910"
+    },
+    {
+        "input": "Johnny B. Goode",
+        "output": "1926"
+    },
+    {
+        "input": "Be My Wife",
+        "output": "1947"
+    },
+    {
+        "input": "Vifta med h\u00e4nderna",
+        "output": "1984"
+    },
+    {
+        "input": "Ain't It a Shame",
+        "output": "1928"
+    },
+    {
+        "input": "I've Got a Woman",
+        "output": "1930"
+    },
+    {
+        "input": "Blowin' in the Wind",
+        "output": "1941"
+    },
+    {
+        "input": "Here You Come Again",
+        "output": "1942"
+    },
+    {
+        "input": "Come to Daddy",
+        "output": "1971"
+    },
+    {
+        "input": "Whose Bed Have Your Boots Been Under?",
+        "output": "1965"
+    },
+    {
+        "input": "Born This Way",
+        "output": "1986"
+    },
+    {
+        "input": "Yes Sir, That's My Baby",
+        "output": "1900"
+    },
+    {
+        "input": "Babooshka",
+        "output": "1958"
+    },
+    {
+        "input": "Miami Vice Theme",
+        "output": "1948"
+    },
+    {
+        "input": "Why",
+        "output": "1940"
+    },
+    {
+        "input": "To France",
+        "output": "1953"
+    },
+    {
+        "input": "Queen Jane Approximately",
+        "output": "1941"
+    },
+    {
+        "input": "Lemon Tree",
+        "output": "1929"
+    },
+    {
+        "input": "I Wish You Would",
+        "output": "1935"
+    },
+    {
+        "input": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+        "output": "1941"
+    },
+    {
+        "input": "Peter Gunn",
+        "output": "1924"
+    },
+    {
+        "input": "Forget Me Nots",
+        "output": "1954"
+    },
+    {
+        "input": "Il venait d'avoir 18 ans",
+        "output": "1933"
+    },
+    {
+        "input": "Big Poppa",
+        "output": "1972"
+    },
+    {
+        "input": "Good Luck Charm",
+        "output": "1935"
+    },
+    {
+        "input": "Strangers in the Night",
+        "output": "1915"
+    },
+    {
+        "input": "Tom Traubert's Blues",
+        "output": "1949"
+    },
+    {
+        "input": "One of Us Must Know (Sooner or Later)",
+        "output": "1941"
+    },
+    {
+        "input": "Fusil contra fusil",
+        "output": "1946"
+    },
+    {
+        "input": "Ainsi soit je...",
+        "output": "1961"
+    },
+    {
+        "input": "Maggie's Farm",
+        "output": "1941"
+    },
+    {
+        "input": "Carmen",
+        "output": "1985"
+    },
+    {
+        "input": "Keep Your Hands Off My Baby",
+        "output": "1943"
+    },
+    {
+        "input": "Ya Ya",
+        "output": "1926"
+    },
+    {
+        "input": "Pledging My Time",
+        "output": "1941"
+    },
+    {
+        "input": "Paper Roses",
+        "output": "1940"
+    },
+    {
+        "input": "December Will Be Magic Again",
+        "output": "1958"
+    },
+    {
+        "input": "Separate Lives",
+        "output": "1951"
+    },
+    {
+        "input": "Strani amori",
+        "output": "1974"
+    },
+    {
+        "input": "Cat People",
+        "output": "1940"
+    },
+    {
+        "input": "Games Without Frontiers",
+        "output": "1950"
+    },
+    {
+        "input": "This Masquerade",
+        "output": "1942"
+    },
+    {
+        "input": "Everybody's Talkin'",
+        "output": "1936"
+    },
+    {
+        "input": "Gwendolyne",
+        "output": "1943"
+    },
+    {
+        "input": "Il mio canto libero",
+        "output": "1943"
+    },
+    {
+        "input": "Uptown",
+        "output": "1958"
+    },
+    {
+        "input": "Willin'",
+        "output": "1940"
+    },
+    {
+        "input": "Show Me Heaven",
+        "output": "1964"
+    },
+    {
+        "input": "Ballad of Hollis Brown",
+        "output": "1941"
+    },
+    {
+        "input": "Shut Up and Drive",
+        "output": "1988"
+    },
+    {
+        "input": "Why Don't You Do Right?",
+        "output": "1919"
+    },
+    {
+        "input": "But Beautiful",
+        "output": "1903"
+    },
+    {
+        "input": "Cry for a Shadow",
+        "output": "1940"
+    },
+    {
+        "input": "Bo Diddley",
+        "output": "1928"
+    },
+    {
+        "input": "Autumn Leaves",
+        "output": "1917"
+    },
+    {
+        "input": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+        "output": "1943"
+    },
+    {
+        "input": "Song to Woody",
+        "output": "1941"
+    },
+    {
+        "input": "Release Me and Let Me Love Again",
+        "output": "1919"
+    },
+    {
+        "input": "I've Never Been to Me",
+        "output": "1952"
+    },
+    {
+        "input": "Whole Lotta Shakin' Goin' On",
+        "output": "1924"
+    },
+    {
+        "input": "Circus",
+        "output": "1981"
+    },
+    {
+        "input": "The Lady Is a Tramp",
+        "output": "1920"
+    },
+    {
+        "input": "Cupid",
+        "output": "1931"
+    },
+    {
+        "input": "Tainted Love",
+        "output": "1945"
+    },
+    {
+        "input": "Mack the Knife",
+        "output": "1915"
+    },
+    {
+        "input": "What's Love Got to Do with It",
+        "output": "1939"
+    },
+    {
+        "input": "Bird of Paradise",
+        "output": "1948"
+    },
+    {
+        "input": "Stormy Weather",
+        "output": "1896"
+    },
+    {
+        "input": "Black Coffee",
+        "output": "1924"
+    },
+    {
+        "input": "Take Me Home, Country Roads",
+        "output": "1943"
+    },
+    {
+        "input": "Over and Over",
+        "output": "1928"
+    },
+    {
+        "input": "Once Upon a Dream",
+        "output": "1930"
+    },
+    {
+        "input": "The Fear",
+        "output": "1985"
+    },
+    {
+        "input": "Tous les secrets de ton coeur",
+        "output": "1968"
+    },
+    {
+        "input": "Hammer Horror",
+        "output": "1958"
+    },
+    {
+        "input": "I'll Be Seeing You",
+        "output": "1914"
+    },
+    {
+        "input": "Wild Is the Wind",
+        "output": "1935"
+    },
+    {
+        "input": "Stuck Inside of Mobile with the Memphis Blues Again",
+        "output": "1941"
+    },
+    {
+        "input": "Bad Boy",
+        "output": "1935"
+    },
+    {
+        "input": "Me and a Gun",
+        "output": "1963"
+    },
+    {
+        "input": "Jealousy",
+        "output": "1979"
+    },
+    {
+        "input": "Kansas City",
+        "output": "1931"
+    },
+    {
+        "input": "Crazy Love",
+        "output": "1945"
+    },
+    {
+        "input": "Dicitencello vuje",
+        "output": "1899"
+    },
+    {
+        "input": "Year of the Cat",
+        "output": "1945"
+    },
+    {
+        "input": "The Windmills of Your Mind",
+        "output": "1932"
+    },
+    {
+        "input": "Lush Life",
+        "output": "1919"
+    },
+    {
+        "input": "Why'd You Come in Here Lookin' Like That",
+        "output": "1946"
+    },
+    {
+        "input": "Corcovado",
+        "output": "1931"
+    },
+    {
+        "input": "Perfect Day",
+        "output": "1942"
+    },
+    {
+        "input": "When the Rain Begins to Fall",
+        "output": "1954"
+    },
+    {
+        "input": "Whoops Now",
+        "output": "1966"
+    },
+    {
+        "input": "American Saturday Night",
+        "output": "1972"
+    },
+    {
+        "input": "I'll Be Home for Christmas",
+        "output": "1903"
+    },
+    {
+        "input": "Shame and Scandal",
+        "output": "1926"
+    },
+    {
+        "input": "Mr. Tambourine Man",
+        "output": "1941"
+    },
+    {
+        "input": "Bang Bang (My Baby Shot Me Down)",
+        "output": "1946"
+    },
+    {
+        "input": "\u00c7a plane pour moi",
+        "output": "1954"
+    },
+    {
+        "input": "Why You Wanna Trip on Me",
+        "output": "1958"
+    },
+    {
+        "input": "Fifteen",
+        "output": "1989"
+    },
+    {
+        "input": "Fuego",
+        "output": "1987"
+    },
+    {
+        "input": "We'll Meet Again",
+        "output": "1917"
+    },
+    {
+        "input": "She Thinks I Still Care",
+        "output": "1931"
+    },
+    {
+        "input": "Put a Little Love in Your Heart",
+        "output": "1941"
+    },
+    {
+        "input": "All I Ask of You",
+        "output": "1940"
+    },
+    {
+        "input": "Passengers",
+        "output": "1947"
+    },
+    {
+        "input": "I Got Stung",
+        "output": "1935"
+    },
+    {
+        "input": "Letkis",
+        "output": "1931"
+    },
+    {
+        "input": "A Change Is Gonna Come",
+        "output": "1931"
+    },
+    {
+        "input": "Love's Gonna Live Here",
+        "output": "1929"
+    },
+    {
+        "input": "Hey Stephen",
+        "output": "1989"
+    },
+    {
+        "input": "Gone Too Soon",
+        "output": "1958"
+    },
+    {
+        "input": "From This Moment On",
+        "output": "1965"
+    },
+    {
+        "input": "What Have They Done to the Rain",
+        "output": "1941"
+    },
+    {
+        "input": "See That My Grave Is Kept Clean",
+        "output": "1893"
+    },
+    {
+        "input": "Let's Stay Together",
+        "output": "1946"
+    },
+    {
+        "input": "Contigo en la distancia",
+        "output": "1922"
+    },
+    {
+        "input": "White Christmas",
+        "output": "1903"
+    },
+    {
+        "input": "Domino",
+        "output": "1911"
+    },
+    {
+        "input": "Alabama Song",
+        "output": "1898"
+    },
+    {
+        "input": "The Song Is You",
+        "output": "1894"
+    },
+    {
+        "input": "L'\u00e9cole est finie",
+        "output": "1945"
+    },
+    {
+        "input": "Gimme More",
+        "output": "1981"
+    },
+    {
+        "input": "Blue Suede Shoes",
+        "output": "1932"
+    },
+    {
+        "input": "Say Something",
+        "output": "1985"
+    },
+    {
+        "input": "Prince Ali",
+        "output": "1951"
+    },
+    {
+        "input": "Oh No!",
+        "output": "1985"
+    },
+    {
+        "input": "My Buddy",
+        "output": "1882"
+    },
+    {
+        "input": "Susie Q",
+        "output": "1936"
+    },
+    {
+        "input": "Blame It on My Youth",
+        "output": "1906"
+    },
+    {
+        "input": "Hey Stoopid",
+        "output": "1948"
+    },
+    {
+        "input": "Satellite",
+        "output": "1991"
+    },
+    {
+        "input": "Happy Talk",
+        "output": "1901"
+    },
+    {
+        "input": "Guess I'll Hang My Tears Out to Dry",
+        "output": "1926"
+    },
+    {
+        "input": "Early Morning Rain",
+        "output": "1938"
+    },
+    {
+        "input": "Not Fair",
+        "output": "1985"
+    },
+    {
+        "input": "Big Boss Man",
+        "output": "1925"
+    },
+    {
+        "input": "April in Paris",
+        "output": "1910"
+    },
+    {
+        "input": "Are You Lonesome Tonight?",
+        "output": "1884"
+    },
+    {
+        "input": "Spoonful",
+        "output": "1910"
+    },
+    {
+        "input": "I Don't Care if the Sun Don't Shine",
+        "output": "1913"
+    },
+    {
+        "input": "River",
+        "output": "1943"
+    },
+    {
+        "input": "Billie Jean",
+        "output": "1958"
+    },
+    {
+        "input": "I'm Sorry I Made You Cry",
+        "output": "1882"
+    },
+    {
+        "input": "Night and Day",
+        "output": "1899"
+    },
+    {
+        "input": "Walk On By",
+        "output": "1929"
+    },
+    {
+        "input": "He Ain't Heavy, He's My Brother",
+        "output": "1932"
+    },
+    {
+        "input": "Burning Love",
+        "output": "1940"
+    },
+    {
+        "input": "Solamente una vez",
+        "output": "1918"
+    },
+    {
+        "input": "Rockin' Robin",
+        "output": "1928"
+    },
+    {
+        "input": "On Green Dolphin Street",
+        "output": "1904"
+    },
+    {
+        "input": "Unforgettable",
+        "output": "1919"
+    },
+    {
+        "input": "Where or When",
+        "output": "1909"
+    },
+    {
+        "input": "I Want Your Sex",
+        "output": "1963"
+    },
+    {
+        "input": "Life on Mars?",
+        "output": "1947"
+    },
+    {
+        "input": "Comme d'habitude",
+        "output": "1939"
+    },
+    {
+        "input": "Fame",
+        "output": "1959"
+    },
+    {
+        "input": "Come On-a My House",
+        "output": "1928"
+    },
+    {
+        "input": "Wherever I Lay My Hat",
+        "output": "1939"
+    },
+    {
+        "input": "When the Ship Comes In",
+        "output": "1941"
+    },
+    {
+        "input": "Like a Rolling Stone",
+        "output": "1941"
+    },
+    {
+        "input": "Girl from the North Country",
+        "output": "1941"
+    },
+    {
+        "input": "Self Control",
+        "output": "1959"
+    },
+    {
+        "input": "Just Like a Woman",
+        "output": "1941"
+    },
+    {
+        "input": "Fest i hela huset",
+        "output": "1984"
+    },
+    {
+        "input": "Montego Bay",
+        "output": "1946"
+    },
+    {
+        "input": "Imagination",
+        "output": "1907"
+    },
+    {
+        "input": "Tum Hi Ho",
+        "output": "1987"
+    },
+    {
+        "input": "Bring It On Home to Me",
+        "output": "1931"
+    },
+    {
+        "input": "It's All in the Game",
+        "output": "1922"
+    },
+    {
+        "input": "Living for the City",
+        "output": "1950"
+    },
+    {
+        "input": "She Belongs to Me",
+        "output": "1941"
+    },
+    {
+        "input": "Lost in France",
+        "output": "1951"
+    },
+    {
+        "input": "Dream a Little Dream of Me",
+        "output": "1906"
+    },
+    {
+        "input": "No Surrender",
+        "output": "1949"
+    },
+    {
+        "input": "Thinkin Bout You",
+        "output": "1987"
+    },
+    {
+        "input": "Anji",
+        "output": "1940"
+    },
+    {
+        "input": "You Belong with Me",
+        "output": "1989"
+    },
+    {
+        "input": "Streets of London",
+        "output": "1944"
+    },
+    {
+        "input": "Sexual Healing",
+        "output": "1939"
+    },
+    {
+        "input": "Mask Off",
+        "output": "1983"
+    },
+    {
+        "input": "A Fine Romance",
+        "output": "1899"
+    },
+    {
+        "input": "Nobody Does It Better",
+        "output": "1944"
+    },
+    {
+        "input": "Reason to Believe",
+        "output": "1941"
+    },
+    {
+        "input": "Humble",
+        "output": "1987"
+    },
+    {
+        "input": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "output": "1956"
+    },
+    {
+        "input": "Over",
+        "output": "1986"
+    },
+    {
+        "input": "All I Really Want to Do",
+        "output": "1941"
+    },
+    {
+        "input": "\u00c1guas de Mar\u00e7o",
+        "output": "1927"
+    },
+    {
+        "input": "Little Bird",
+        "output": "1954"
+    },
+    {
+        "input": "Black or White",
+        "output": "1958"
+    },
+    {
+        "input": "Dirty Old Town",
+        "output": "1915"
+    },
+    {
+        "input": "Break the Ice",
+        "output": "1981"
+    },
+    {
+        "input": "Baby Don't You Do It",
+        "output": "1939"
+    },
+    {
+        "input": "22",
+        "output": "1985"
+    },
+    {
+        "input": "Nel blu dipinto di blu",
+        "output": "1928"
+    },
+    {
+        "input": "As Tears Go By",
+        "output": "1946"
+    },
+    {
+        "input": "A Shot of Rhythm and Blues",
+        "output": "1940"
+    },
+    {
+        "input": "Memphis, Tennessee",
+        "output": "1926"
+    },
+    {
+        "input": "Axel F",
+        "output": "1952"
+    },
+    {
+        "input": "The Wallflower",
+        "output": "1938"
+    },
+    {
+        "input": "The Needle and the Damage Done",
+        "output": "1945"
+    },
+    {
+        "input": "Tobacco Road",
+        "output": "1934"
+    },
+    {
+        "input": "The Look of Love",
+        "output": "1928"
+    },
+    {
+        "input": "Caruso",
+        "output": "1943"
+    },
+    {
+        "input": "Chelsea Morning",
+        "output": "1943"
+    },
+    {
+        "input": "Radar",
+        "output": "1981"
+    },
+    {
+        "input": "Heart of Gold",
+        "output": "1945"
+    },
+    {
+        "input": "(They Long to Be) Close to You",
+        "output": "1934"
+    },
+    {
+        "input": "Piove (Ciao ciao bambina)",
+        "output": "1928"
+    },
+    {
+        "input": "Don't Let Me Be Misunderstood",
+        "output": "1933"
+    },
+    {
+        "input": "El d\u00eda que me quieras",
+        "output": "1890"
+    },
+    {
+        "input": "V-2 Schneider",
+        "output": "1947"
+    },
+    {
+        "input": "Siboney",
+        "output": "1900"
+    },
+    {
+        "input": "Crazy Train",
+        "output": "1948"
+    },
+    {
+        "input": "The Last Farewell",
+        "output": "1936"
+    },
+    {
+        "input": "Hang on in There Baby",
+        "output": "1939"
+    },
+    {
+        "input": "Little Green Apples",
+        "output": "1936"
+    },
+    {
+        "input": "Days of Wine and Roses",
+        "output": "1924"
+    },
+    {
+        "input": "Lazzarella",
+        "output": "1928"
+    },
+    {
+        "input": "Ziggy Stardust",
+        "output": "1947"
+    },
+    {
+        "input": "No Regrets",
+        "output": "1941"
+    },
+    {
+        "input": "He Said She Said",
+        "output": "1985"
+    },
+    {
+        "input": "I Know Him So Well",
+        "output": "1948"
+    },
+    {
+        "input": "Song about the Towel",
+        "output": "1924"
+    },
+    {
+        "input": "Les Trois Cloches",
+        "output": "1915"
+    },
+    {
+        "input": "The Most Beautiful Girl",
+        "output": "1932"
+    },
+    {
+        "input": "I Can't Make You Love Me",
+        "output": "1949"
+    },
+    {
+        "input": "Any Man of Mine",
+        "output": "1965"
+    },
+    {
+        "input": "Don't Cry for Me Argentina",
+        "output": "1946"
+    },
+    {
+        "input": "Ancora ancora ancora",
+        "output": "1940"
+    },
+    {
+        "input": "Reach Out",
+        "output": "1987"
+    },
+    {
+        "input": "Fever",
+        "output": "1937"
+    },
+    {
+        "input": "Il est cinq heures, Paris s'\u00e9veille",
+        "output": "1943"
+    },
+    {
+        "input": "Edelweiss",
+        "output": "1924"
+    },
+    {
+        "input": "The Ballad of Ira Hayes",
+        "output": "1931"
+    },
+    {
+        "input": "Press",
+        "output": "1942"
+    },
+    {
+        "input": "When a Heart Beats",
+        "output": "1958"
+    },
+    {
+        "input": "Time After Time",
+        "output": "1953"
+    },
+    {
+        "input": "When Your Lover Has Gone",
+        "output": "1900"
+    },
+    {
+        "input": "Takes Two to Tango",
+        "output": "1918"
+    },
+    {
+        "input": "My Baby Just Cares for Me",
+        "output": "1901"
+    },
+    {
+        "input": "Eyes Without a Face",
+        "output": "1955"
+    },
+    {
+        "input": "P.Y.T. (Pretty Young Thing)",
+        "output": "1958"
+    },
+    {
+        "input": "Here We Go Again",
+        "output": "1930"
+    },
+    {
+        "input": "Imagine",
+        "output": "1940"
+    },
+    {
+        "input": "Once Upon a Summertime",
+        "output": "1924"
+    },
+    {
+        "input": "You Make It Feel Like Christmas",
+        "output": "1969"
+    },
+    {
+        "input": "Putain de camion",
+        "output": "1952"
+    },
+    {
+        "input": "I Thought About You",
+        "output": "1916"
+    },
+    {
+        "input": "You'd Be So Nice to Come Home To",
+        "output": "1921"
+    },
+    {
+        "input": "Alfie",
+        "output": "1943"
+    },
+    {
+        "input": "Madan",
+        "output": "1949"
+    },
+    {
+        "input": "Boten Anna",
+        "output": "1984"
+    },
+    {
+        "input": "Per Elisa",
+        "output": "1954"
+    },
+    {
+        "input": "4th of July, Asbury Park (Sandy)",
+        "output": "1949"
+    },
+    {
+        "input": "Je sais pas",
+        "output": "1968"
+    },
+    {
+        "input": "Il Silenzio",
+        "output": "1926"
+    },
+    {
+        "input": "All the Way",
+        "output": "1915"
+    },
+    {
+        "input": "A far l'amore comincia tu",
+        "output": "1943"
+    },
+    {
+        "input": "Little Boxes",
+        "output": "1919"
+    },
+    {
+        "input": "Young at Heart",
+        "output": "1915"
+    },
+    {
+        "input": "Non voglio mica la luna",
+        "output": "1956"
+    },
+    {
+        "input": "Stand by Your Man",
+        "output": "1942"
+    },
+    {
+        "input": "Liefde is een kaartspel",
+        "output": "1961"
+    },
+    {
+        "input": "Milk Cow Blues",
+        "output": "1901"
+    },
+    {
+        "input": "I've Got a Crush on You",
+        "output": "1908"
+    },
+    {
+        "input": "Feelings",
+        "output": "1951"
+    },
+    {
+        "input": "Crazy",
+        "output": "1932"
+    },
+    {
+        "input": "Rocket Man",
+        "output": "1947"
+    },
+    {
+        "input": "Take This Waltz",
+        "output": "1934"
+    },
+    {
+        "input": "Witchcraft",
+        "output": "1915"
+    },
+    {
+        "input": "Erotica",
+        "output": "1958"
+    },
+    {
+        "input": "Pretty Girl",
+        "output": "1998"
+    },
+    {
+        "input": "Crazy for You",
+        "output": "1958"
+    },
+    {
+        "input": "South of the Border",
+        "output": "1899"
+    },
+    {
+        "input": "Entr\u00e9gate",
+        "output": "1970"
+    },
+    {
+        "input": "Nagasaki",
+        "output": "1891"
+    },
+    {
+        "input": "Caminito",
+        "output": "1890"
+    },
+    {
+        "input": "Volver",
+        "output": "1890"
+    },
+    {
+        "input": "En apesanteur",
+        "output": "1971"
+    },
+    {
+        "input": "Breathe",
+        "output": "1989"
+    },
+    {
+        "input": "Crash & Burn",
+        "output": "1984"
+    },
+    {
+        "input": "Famous Blue Raincoat",
+        "output": "1934"
+    },
+    {
+        "input": "Let It Be Me",
+        "output": "1935"
+    },
+    {
+        "input": "Kim",
+        "output": "1972"
+    },
+    {
+        "input": "Now You're Gone",
+        "output": "1984"
+    },
+    {
+        "input": "Papa t'es plus dans l'coup",
+        "output": "1945"
+    },
+    {
+        "input": "Mi Buenos Aires querido",
+        "output": "1890"
+    },
+    {
+        "input": "Long Ago (and Far Away)",
+        "output": "1912"
+    },
+    {
+        "input": "The Wanderer",
+        "output": "1939"
+    },
+    {
+        "input": "Hippy Hippy Shake",
+        "output": "1941"
+    },
+    {
+        "input": "Don't Let the Sun Go Down on Me",
+        "output": "1947"
+    },
+    {
+        "input": "Green, Green Grass of Home",
+        "output": "1940"
+    },
+    {
+        "input": "Wonderful World",
+        "output": "1931"
+    },
+    {
+        "input": "City of Stars",
+        "output": "1980"
+    },
+    {
+        "input": "Love Letters",
+        "output": "1918"
+    },
+    {
+        "input": "Werewolves of London",
+        "output": "1947"
+    },
+    {
+        "input": "Funny How Time Slips Away",
+        "output": "1929"
+    },
+    {
+        "input": "It Never Rains in Southern California",
+        "output": "1944"
+    },
+    {
+        "input": "Ue o muite aruk\u014d",
+        "output": "1941"
+    },
+    {
+        "input": "I Remember Yesterday",
+        "output": "1948"
+    },
+    {
+        "input": "Three Coins in the Fountain",
+        "output": "1915"
+    },
+    {
+        "input": "Le t\u00e9l\u00e9phone pleure",
+        "output": "1939"
+    },
+    {
+        "input": "Piece of My Heart",
+        "output": "1938"
+    },
+    {
+        "input": "Walk a Mile in My Shoes",
+        "output": "1940"
+    },
+    {
+        "input": "Baby Be Mine",
+        "output": "1958"
+    },
+    {
+        "input": "These Boots Are Made for Walkin'",
+        "output": "1940"
+    },
+    {
+        "input": "Cabaret",
+        "output": "1945"
+    },
+    {
+        "input": "Blue Skies",
+        "output": "1893"
+    },
+    {
+        "input": "Downtown",
+        "output": "1932"
+    },
+    {
+        "input": "Without a Song",
+        "output": "1897"
+    },
+    {
+        "input": "Algo est\u00e1 cambiando",
+        "output": "1970"
+    },
+    {
+        "input": "Breaking Glass",
+        "output": "1947"
+    },
+    {
+        "input": "Spotlight",
+        "output": "1958"
+    },
+    {
+        "input": "Never Too Much",
+        "output": "1951"
+    },
+    {
+        "input": "The Red Rooster",
+        "output": "1910"
+    },
+    {
+        "input": "I Will Always Love You",
+        "output": "1946"
+    },
+    {
+        "input": "A Case of You",
+        "output": "1943"
+    },
+    {
+        "input": "Destino o casualidad",
+        "output": "1979"
+    },
+    {
+        "input": "Island in the Sun",
+        "output": "1927"
+    },
+    {
+        "input": "By the Time I Get to Phoenix",
+        "output": "1942"
+    },
+    {
+        "input": "Moi\u2026 Lolita",
+        "output": "1984"
+    },
+    {
+        "input": "Mother's Daughter",
+        "output": "1992"
+    },
+    {
+        "input": "Singing the Blues",
+        "output": "1925"
+    },
+    {
+        "input": "Break Up with Your Girlfriend, I'm Bored",
+        "output": "1993"
+    },
+    {
+        "input": "You're a Heartbreaker",
+        "output": "1935"
+    },
+    {
+        "input": "Bob Dylan's 115th Dream",
+        "output": "1941"
+    },
+    {
+        "input": "Ich bin von Kopf bis Fu\u00df auf Liebe eingestellt",
+        "output": "1901"
+    },
+    {
+        "input": "Oh Lonesome Me",
+        "output": "1928"
+    },
+    {
+        "input": "Music and Me",
+        "output": "1958"
+    },
+    {
+        "input": "Back in the U.S.A.",
+        "output": "1926"
+    },
+    {
+        "input": "It's Only Make Believe",
+        "output": "1933"
+    },
+    {
+        "input": "Funny How Time Flies When You're Having Fun",
+        "output": "1966"
+    },
+    {
+        "input": "It Ain't Me Babe",
+        "output": "1941"
+    },
+    {
+        "input": "White Horse",
+        "output": "1989"
+    },
+    {
+        "input": "Rock-a-Bye Your Baby with a Dixie Melody",
+        "output": "1886"
+    },
+    {
+        "input": "Love and Marriage",
+        "output": "1915"
+    },
+    {
+        "input": "Nice Work If You Can Get It",
+        "output": "1899"
+    },
+    {
+        "input": "Lady Grinning Soul",
+        "output": "1947"
+    },
+    {
+        "input": "I Want to Be Wanted",
+        "output": "1944"
+    },
+    {
+        "input": "Just Like Tom Thumb's Blues",
+        "output": "1941"
+    },
+    {
+        "input": "I Dreamed I Saw St. Augustine",
+        "output": "1941"
+    },
+    {
+        "input": "It's Oh So Quiet",
+        "output": "1921"
+    },
+    {
+        "input": "Motorpsycho Nitemare",
+        "output": "1941"
+    },
+    {
+        "input": "Professional Widow",
+        "output": "1963"
+    },
+    {
+        "input": "Who Is It",
+        "output": "1958"
+    },
+    {
+        "input": "You're No Good",
+        "output": "1945"
+    },
+    {
+        "input": "It's Alright, Ma (I'm Only Bleeding)",
+        "output": "1941"
+    },
+    {
+        "input": "Goodbye to Yesterday",
+        "output": "1994"
+    },
+    {
+        "input": "Heartaches by the Number",
+        "output": "1926"
+    },
+    {
+        "input": "When Doves Cry",
+        "output": "1958"
+    },
+    {
+        "input": "Breakfast in Bed",
+        "output": "1939"
+    },
+    {
+        "input": "Burning Up",
+        "output": "1958"
+    },
+    {
+        "input": "Take me to the River",
+        "output": "1946"
+    },
+    {
+        "input": "Two Out of Three Ain't Bad",
+        "output": "1947"
+    },
+    {
+        "input": "Sans contrefa\u00e7on",
+        "output": "1961"
+    },
+    {
+        "input": "Stand by Me",
+        "output": "1938"
+    },
+    {
+        "input": "Precious",
+        "output": "1954"
+    },
+    {
+        "input": "Hey-Hey-Hey-Hey!",
+        "output": "1932"
+    },
+    {
+        "input": "Keep On Running",
+        "output": "1938"
+    },
+    {
+        "input": "I Put a Spell on You",
+        "output": "1929"
+    },
+    {
+        "input": "Black Crow Blues",
+        "output": "1941"
+    },
+    {
+        "input": "Every Night",
+        "output": "1942"
+    },
+    {
+        "input": "Heaven Help Us All",
+        "output": "1950"
+    },
+    {
+        "input": "Against All Odds (Take a Look at Me Now)",
+        "output": "1951"
+    },
+    {
+        "input": "Stay",
+        "output": "1947"
+    },
+    {
+        "input": "One Night",
+        "output": "1913"
+    },
+    {
+        "input": "Absolutely Sweet Marie",
+        "output": "1941"
+    },
+    {
+        "input": "Ne me quitte pas",
+        "output": "1929"
+    },
+    {
+        "input": "Colour My World",
+        "output": "1932"
+    },
+    {
+        "input": "Over the Rainbow",
+        "output": "1922"
+    },
+    {
+        "input": "The Air That I Breathe",
+        "output": "1944"
+    },
+    {
+        "input": "Birthday Cake",
+        "output": "1988"
+    },
+    {
+        "input": "Lonely Street",
+        "output": "1931"
+    },
+    {
+        "input": "Velvet Mornings",
+        "output": "1946"
+    },
+    {
+        "input": "All I Ever Wanted",
+        "output": "1984"
+    },
+    {
+        "input": "Behind Closed Doors",
+        "output": "1932"
+    },
+    {
+        "input": "Tennessee Waltz",
+        "output": "1914"
+    },
+    {
+        "input": "Gigi l'amoroso",
+        "output": "1933"
+    },
+    {
+        "input": "Cry",
+        "output": "1928"
+    },
+    {
+        "input": "Don't Turn Around",
+        "output": "1939"
+    },
+    {
+        "input": "I Can't Stop Loving You",
+        "output": "1928"
+    },
+    {
+        "input": "Wuthering Heights",
+        "output": "1958"
+    },
+    {
+        "input": "Misty",
+        "output": "1921"
+    },
+    {
+        "input": "The James Bond Theme",
+        "output": "1933"
+    },
+    {
+        "input": "Alone",
+        "output": "1997"
+    },
+    {
+        "input": "I Left My Heart in San Francisco",
+        "output": "1920"
+    },
+    {
+        "input": "\u00bfQui\u00e9n ser\u00e1?",
+        "output": "1928"
+    },
+    {
+        "input": "Pledging My Love",
+        "output": "1929"
+    },
+    {
+        "input": "The One I Love Belongs to Somebody Else",
+        "output": "1894"
+    },
+    {
+        "input": "September in the Rain",
+        "output": "1910"
+    },
+    {
+        "input": "Suspicious Minds",
+        "output": "1940"
+    },
+    {
+        "input": "So Long, Marianne",
+        "output": "1934"
+    },
+    {
+        "input": "Empty Rooms",
+        "output": "1952"
+    },
+    {
+        "input": "Sooner or Later (I Always Get My Man)",
+        "output": "1958"
+    },
+    {
+        "input": "Parlez-moi d'amour",
+        "output": "1901"
+    },
+    {
+        "input": "You Send Me",
+        "output": "1931"
+    },
+    {
+        "input": "Sentimental Journey",
+        "output": "1912"
+    },
+    {
+        "input": "Out Here on My Own",
+        "output": "1959"
+    },
+    {
+        "input": "Old Flames Can't Hold a Candle to You",
+        "output": "1943"
+    },
+    {
+        "input": "Anything That's Part of You",
+        "output": "1935"
+    },
+    {
+        "input": "The Man With the Child in His Eyes",
+        "output": "1958"
+    },
+    {
+        "input": "Piano Concerto No. 1",
+        "output": "1940"
+    },
+    {
+        "input": "Step by Step",
+        "output": "1954"
+    },
+    {
+        "input": "Thank U, Next",
+        "output": "1993"
+    },
+    {
+        "input": "Schei\u00dfe",
+        "output": "1986"
+    },
+    {
+        "input": "When You Were Mine",
+        "output": "1958"
+    },
+    {
+        "input": "Pensiero stupendo",
+        "output": "1948"
+    },
+    {
+        "input": "My Tennessee Mountain Home",
+        "output": "1946"
+    },
+    {
+        "input": "It's Easy to Remember (And So Hard to Forget)",
+        "output": "1903"
+    },
+    {
+        "input": "I Get a Kick Out of You",
+        "output": "1908"
+    },
+    {
+        "input": "Where Did They Go",
+        "output": "1920"
+    },
+    {
+        "input": "Can't We Just Sit Down and Talk It Over",
+        "output": "1948"
+    },
+    {
+        "input": "Oxford Town",
+        "output": "1941"
+    },
+    {
+        "input": "Pipes of Peace",
+        "output": "1942"
+    },
+    {
+        "input": "Man! I Feel Like a Woman!",
+        "output": "1965"
+    },
+    {
+        "input": "Cucurrucuc\u00fa paloma",
+        "output": "1918"
+    },
+    {
+        "input": "I giorni dell'arcobaleno",
+        "output": "1940"
+    },
+    {
+        "input": "Ya Rayah",
+        "output": "1926"
+    },
+    {
+        "input": "I Feel Love",
+        "output": "1948"
+    },
+    {
+        "input": "Only a Pawn in Their Game",
+        "output": "1941"
+    },
+    {
+        "input": "Another Suitcase in Another Hall",
+        "output": "1947"
+    },
+    {
+        "input": "It's All Over Now, Baby Blue",
+        "output": "1941"
+    },
+    {
+        "input": "Ain't No Sunshine",
+        "output": "1938"
+    },
+    {
+        "input": "That Don't Impress Me Much",
+        "output": "1965"
+    },
+    {
+        "input": "Gimme Some Truth",
+        "output": "1940"
+    },
+    {
+        "input": "Makin' Whoopee",
+        "output": "1892"
+    },
+    {
+        "input": "The End of the World",
+        "output": "1931"
+    },
+    {
+        "input": "Spanish Harlem Incident",
+        "output": "1941"
+    },
+    {
+        "input": "A Guy Is a Guy",
+        "output": "1922"
+    },
+    {
+        "input": "Lipstick on Your Collar",
+        "output": "1938"
+    },
+    {
+        "input": "Don't Worry, Be Happy",
+        "output": "1950"
+    },
+    {
+        "input": "My Baby Left Me",
+        "output": "1905"
+    },
+    {
+        "input": "Le M\u00e9t\u00e8que",
+        "output": "1934"
+    },
+    {
+        "input": "Have Yourself a Merry Little Christmas",
+        "output": "1922"
+    },
+    {
+        "input": "Jealous Guy",
+        "output": "1940"
+    },
+    {
+        "input": "Thriller",
+        "output": "1958"
+    },
+    {
+        "input": "Suicidal",
+        "output": "1999"
+    },
+    {
+        "input": "Blue Yodel",
+        "output": "1897"
+    },
+    {
+        "input": "I'm Gonna Sit Right Down and Cry (Over You)",
+        "output": "1929"
+    },
+    {
+        "input": "On the Street Where You Live",
+        "output": "1926"
+    },
+    {
+        "input": "Rock and Roll Music",
+        "output": "1926"
+    },
+    {
+        "input": "Ek Do Teen",
+        "output": "1984"
+    },
+    {
+        "input": "Can't Help Falling in Love",
+        "output": "1935"
+    },
+    {
+        "input": "Johnny and Mary",
+        "output": "1949"
+    },
+    {
+        "input": "I'm Left, You're Right, She's Gone",
+        "output": "1935"
+    },
+    {
+        "input": "To Ramona",
+        "output": "1941"
+    },
+    {
+        "input": "Dile que la quiero",
+        "output": "1979"
+    },
+    {
+        "input": "The Shadow of Your Smile",
+        "output": "1925"
+    },
+    {
+        "input": "La Complainte du Partisan",
+        "output": "1917"
+    },
+    {
+        "input": "The Man Who Sold the World",
+        "output": "1947"
+    },
+    {
+        "input": "All I Ever Need Is You",
+        "output": "1930"
+    },
+    {
+        "input": "Get Together",
+        "output": "1958"
+    },
+    {
+        "input": "All of You",
+        "output": "1908"
+    },
+    {
+        "input": "Red Red Wine",
+        "output": "1941"
+    },
+    {
+        "input": "Wanna Be Startin' Somethin'",
+        "output": "1958"
+    },
+    {
+        "input": "Se piangi, se ridi",
+        "output": "1945"
+    },
+    {
+        "input": "I Will Survive",
+        "output": "1943"
+    },
+    {
+        "input": "Little Queenie",
+        "output": "1926"
+    },
+    {
+        "input": "Because of You",
+        "output": "1982"
+    },
+    {
+        "input": "California King Bed",
+        "output": "1988"
+    },
+    {
+        "input": "Hard Day",
+        "output": "1963"
+    },
+    {
+        "input": "Apple Scruffs",
+        "output": "1943"
+    },
+    {
+        "input": "Just the Two of Us",
+        "output": "1943"
+    },
+    {
+        "input": "Diamonds & Rust",
+        "output": "1941"
+    },
+    {
+        "input": "It Is No Secret (What God Can Do)",
+        "output": "1908"
+    },
+    {
+        "input": "She",
+        "output": "1924"
+    },
+    {
+        "input": "Popular Song",
+        "output": "1983"
+    },
+    {
+        "input": "DJ",
+        "output": "1947"
+    },
+    {
+        "input": "The Greatest Love of All",
+        "output": "1943"
+    },
+    {
+        "input": "Guilty",
+        "output": "1942"
+    },
+    {
+        "input": "Crying",
+        "output": "1936"
+    },
+    {
+        "input": "Eloise",
+        "output": "1948"
+    },
+    {
+        "input": "Hang in Long Enough",
+        "output": "1951"
+    },
+    {
+        "input": "Napule \u00e8",
+        "output": "1955"
+    },
+    {
+        "input": "Comanchero",
+        "output": "1954"
+    },
+    {
+        "input": "Brigitte Bardot",
+        "output": "1910"
+    },
+    {
+        "input": "Love for Sale",
+        "output": "1908"
+    },
+    {
+        "input": "In the Cool, Cool, Cool of the Evening",
+        "output": "1903"
+    },
+    {
+        "input": "Red Sails in the Sunset",
+        "output": "1898"
+    },
+    {
+        "input": "Step Inside Love",
+        "output": "1943"
+    },
+    {
+        "input": "Gloria",
+        "output": "1952"
+    },
+    {
+        "input": "If You Had My Love",
+        "output": "1969"
+    },
+    {
+        "input": "Heroes",
+        "output": "1947"
+    },
+    {
+        "input": "All Blues",
+        "output": "1926"
+    },
+    {
+        "input": "I'm a Man",
+        "output": "1928"
+    },
+    {
+        "input": "Volver a los 17",
+        "output": "1917"
+    },
+    {
+        "input": "House of Fire",
+        "output": "1948"
+    },
+    {
+        "input": "Du hast den Farbfilm vergessen",
+        "output": "1955"
+    },
+    {
+        "input": "Knockin' on Heaven's Door",
+        "output": "1941"
+    },
+    {
+        "input": "Half as Much",
+        "output": "1914"
+    },
+    {
+        "input": "Blue Hawaii",
+        "output": "1903"
+    },
+    {
+        "input": "Sind Sie der Graf von Luxemburg",
+        "output": "1947"
+    },
+    {
+        "input": "I Want You",
+        "output": "1941"
+    },
+    {
+        "input": "Rags to Riches",
+        "output": "1926"
+    },
+    {
+        "input": "Don't Give Up",
+        "output": "1950"
+    },
+    {
+        "input": "Put Your Hand in the Hand",
+        "output": "1945"
+    },
+    {
+        "input": "Rubberband Girl",
+        "output": "1958"
+    },
+    {
+        "input": "The Nearness of You",
+        "output": "1898"
+    },
+    {
+        "input": "There Will Never Be Another You",
+        "output": "1918"
+    },
+    {
+        "input": "Hasta que te conoc\u00ed",
+        "output": "1950"
+    },
+    {
+        "input": "Mmm Papi",
+        "output": "1981"
+    },
+    {
+        "input": "Watarasebashi",
+        "output": "1969"
+    },
+    {
+        "input": "Mon amie la rose",
+        "output": "1944"
+    },
+    {
+        "input": "Bad",
+        "output": "1958"
+    },
+    {
+        "input": "It'll Be Me",
+        "output": "1935"
+    },
+    {
+        "input": "Not Like That",
+        "output": "1985"
+    },
+    {
+        "input": "Isn't It a Pity",
+        "output": "1943"
+    },
+    {
+        "input": "Free Fallin'",
+        "output": "1950"
+    },
+    {
+        "input": "Catch the Wind",
+        "output": "1946"
+    },
+    {
+        "input": "Jailhouse Rock",
+        "output": "1935"
+    },
+    {
+        "input": "The First Time Ever I Saw Your Face",
+        "output": "1940"
+    },
+    {
+        "input": "Tuyo",
+        "output": "1976"
+    },
+    {
+        "input": "You Don't Have to Say You Love Me",
+        "output": "1939"
+    },
+    {
+        "input": "The Puppy Song",
+        "output": "1950"
+    },
+    {
+        "input": "Cheek to Cheek",
+        "output": "1899"
+    },
+    {
+        "input": "Whataya Want from Me",
+        "output": "1982"
+    },
+    {
+        "input": "A Good Year for the Roses",
+        "output": "1931"
+    },
+    {
+        "input": "L'estasi dell'oro",
+        "output": "1928"
+    },
+    {
+        "input": "I Beg of You",
+        "output": "1935"
+    },
+    {
+        "input": "Night Of The Swallow",
+        "output": "1958"
+    },
+    {
+        "input": "Paroles paroles",
+        "output": "1933"
+    },
+    {
+        "input": "Scatman",
+        "output": "1942"
+    },
+    {
+        "input": "Hero",
+        "output": "1969"
+    },
+    {
+        "input": "Hier encore",
+        "output": "1924"
+    },
+    {
+        "input": "You Took Advantage of Me",
+        "output": "1901"
+    },
+    {
+        "input": "You're My Favorite Waste of Time",
+        "output": "1953"
+    },
+    {
+        "input": "Sorry Seems to Be the Hardest Word",
+        "output": "1947"
+    },
+    {
+        "input": "A Felicidade",
+        "output": "1932"
+    },
+    {
+        "input": "Times They Are a-Changin'",
+        "output": "1941"
+    },
+    {
+        "input": "Gone with the Wind",
+        "output": "1901"
+    },
+    {
+        "input": "Sacr\u00e9 Charlemagne",
+        "output": "1947"
+    },
+    {
+        "input": "El chico del apartamento 512",
+        "output": "1971"
+    },
+    {
+        "input": "Life Is a Highway",
+        "output": "1953"
+    },
+    {
+        "input": "Tous les gar\u00e7ons et les filles",
+        "output": "1944"
+    },
+    {
+        "input": "unravel",
+        "output": "1982"
+    },
+    {
+        "input": "The Trolley Song",
+        "output": "1922"
+    },
+    {
+        "input": "Falling",
+        "output": "1994"
+    },
+    {
+        "input": "You're My World",
+        "output": "1943"
+    },
+    {
+        "input": "Spirit in the Sky",
+        "output": "1942"
+    },
+    {
+        "input": "Desafinado",
+        "output": "1931"
+    },
+    {
+        "input": "I Only Have Eyes for You",
+        "output": "1904"
+    },
+    {
+        "input": "You'll Never Know",
+        "output": "1915"
+    },
+    {
+        "input": "Boys Keep Swinging",
+        "output": "1947"
+    },
+    {
+        "input": "Like a Virgin",
+        "output": "1958"
+    },
+    {
+        "input": "Paparazzi",
+        "output": "1986"
+    },
+    {
+        "input": "North Country Blues",
+        "output": "1941"
+    },
+    {
+        "input": "My Way",
+        "output": "1915"
+    },
+    {
+        "input": "Suspended In Gaffa",
+        "output": "1958"
+    },
+    {
+        "input": "Summertime",
+        "output": "1884"
+    },
+    {
+        "input": "Out in the Street",
+        "output": "1949"
+    },
+    {
+        "input": "Pienso en tu mir\u00e1",
+        "output": "1992"
+    },
+    {
+        "input": "In the Closet",
+        "output": "1958"
+    },
+    {
+        "input": "La solitudine",
+        "output": "1974"
+    },
+    {
+        "input": "A Hard Rain's a-Gonna Fall",
+        "output": "1941"
+    },
+    {
+        "input": "Feliz Navidad",
+        "output": "1945"
+    },
+    {
+        "input": "Moving",
+        "output": "1958"
+    },
+    {
+        "input": "Rock with You",
+        "output": "1958"
+    },
+    {
+        "input": "You Keep Coming Back Like a Song",
+        "output": "1916"
+    },
+    {
+        "input": "Mona Lisas and Mad Hatters",
+        "output": "1947"
+    },
+    {
+        "input": "I Need a Dollar",
+        "output": "1979"
+    },
+    {
+        "input": "Dance Me to the End of Love",
+        "output": "1934"
+    },
+    {
+        "input": "Let's Face the Music and Dance",
+        "output": "1899"
+    },
+    {
+        "input": "Waltz #2 (XO)",
+        "output": "1969"
+    },
+    {
+        "input": "We Don't Have to Take Our Clothes Off",
+        "output": "1957"
+    },
+    {
+        "input": "Grande, grande, grande",
+        "output": "1940"
+    },
+    {
+        "input": "Last Night I Had the Strangest Dream",
+        "output": "1919"
+    },
+    {
+        "input": "Ballad in Plain D",
+        "output": "1941"
+    },
+    {
+        "input": "Oui, oui, oui, oui",
+        "output": "1931"
+    },
+    {
+        "input": "Abr\u00e1zame",
+        "output": "1943"
+    },
+    {
+        "input": "How Deep Is the Ocean?",
+        "output": "1890"
+    },
+    {
+        "input": "Song Sung Blue",
+        "output": "1941"
+    },
+    {
+        "input": "Big Yellow Taxi",
+        "output": "1943"
+    },
+    {
+        "input": "Moonshadow",
+        "output": "1948"
+    },
+    {
+        "input": "Lay Lady Lay",
+        "output": "1941"
+    },
+    {
+        "input": "When You're Smiling",
+        "output": "1904"
+    },
+    {
+        "input": "Modern Love",
+        "output": "1947"
+    },
+    {
+        "input": "9 to 5",
+        "output": "1946"
+    },
+    {
+        "input": "You'll Think of Me",
+        "output": "1935"
+    },
+    {
+        "input": "Chimes of Freedom",
+        "output": "1941"
+    },
+    {
+        "input": "I Can See Clearly Now",
+        "output": "1940"
+    },
+    {
+        "input": "Le Jardin du Luxembourg",
+        "output": "1938"
+    },
+    {
+        "input": "Tintarella di luna",
+        "output": "1940"
+    },
+    {
+        "input": "Tombstone Blues",
+        "output": "1941"
+    },
+    {
+        "input": "Together Again",
+        "output": "1929"
+    },
+    {
+        "input": "If I Can't Have You",
+        "output": "1951"
+    },
+    {
+        "input": "Chega de Saudade",
+        "output": "1920"
+    },
+    {
+        "input": "Pero me acuerdo de ti",
+        "output": "1972"
+    },
+    {
+        "input": "Vogue",
+        "output": "1958"
+    },
+    {
+        "input": "America",
+        "output": "1941"
+    },
+    {
+        "input": "Runaway",
+        "output": "1934"
+    },
+    {
+        "input": "Letter to You",
+        "output": "1949"
+    },
+    {
+        "input": "Pastime Paradise",
+        "output": "1950"
+    },
+    {
+        "input": "Norman",
+        "output": "1925"
+    },
+    {
+        "input": "Come Fly with Me",
+        "output": "1915"
+    },
+    {
+        "input": "I Hope You Find It",
+        "output": "1992"
+    },
+    {
+        "input": "Strange Phenomena",
+        "output": "1958"
+    },
+    {
+        "input": "Till I Loved You",
+        "output": "1942"
+    },
+    {
+        "input": "Venus",
+        "output": "1940"
+    },
+    {
+        "input": "Am I Blue?",
+        "output": "1896"
+    },
+    {
+        "input": "Around the World",
+        "output": "1928"
+    },
+    {
+        "input": "Rock Me Amadeus",
+        "output": "1957"
+    },
+    {
+        "input": "Bluesette",
+        "output": "1922"
+    },
+    {
+        "input": "Il buono, il brutto, il cattivo",
+        "output": "1928"
+    },
+    {
+        "input": "Zora sourit",
+        "output": "1968"
+    },
+    {
+        "input": "Nikita",
+        "output": "1947"
+    },
+    {
+        "input": "Make You Feel My Love",
+        "output": "1941"
+    },
+    {
+        "input": "Non so che darei",
+        "output": "1950"
+    },
+    {
+        "input": "Lo mejor de tu vida",
+        "output": "1943"
+    },
+    {
+        "input": "J'attendrai",
+        "output": "1911"
+    },
+    {
+        "input": "Do You Want to Dance",
+        "output": "1940"
+    },
+    {
+        "input": "Need Your Love So Bad",
+        "output": "1937"
+    },
+    {
+        "input": "Baby Let's Play House",
+        "output": "1926"
+    },
+    {
+        "input": "Mother and Child Reunion",
+        "output": "1941"
+    },
+    {
+        "input": "Simple Twist of Fate",
+        "output": "1941"
+    },
+    {
+        "input": "Always",
+        "output": "1890"
+    },
+    {
+        "input": "American Pie",
+        "output": "1945"
+    },
+    {
+        "input": "Everybody Loves Somebody",
+        "output": "1915"
+    },
+    {
+        "input": "Hound Dog",
+        "output": "1926"
+    },
+    {
+        "input": "Moliendo caf\u00e9",
+        "output": "1940"
+    },
+    {
+        "input": "Million alykh roz",
+        "output": "1949"
+    },
+    {
+        "input": "All I Want for Christmas Is You",
+        "output": "1969"
+    },
+    {
+        "input": "Secret Love",
+        "output": "1922"
+    },
+    {
+        "input": "Summertime Blues",
+        "output": "1938"
+    },
+    {
+        "input": "Peace Train",
+        "output": "1948"
+    },
+    {
+        "input": "Isn't It Romantic?",
+        "output": "1888"
+    },
+    {
+        "input": "Acqua azzurra, acqua chiara",
+        "output": "1943"
+    },
+    {
+        "input": "Rainy Day Women #12 & 35",
+        "output": "1941"
+    },
+    {
+        "input": "Words of Love",
+        "output": "1936"
+    },
+    {
+        "input": "Tombe la neige",
+        "output": "1943"
+    },
+    {
+        "input": "California",
+        "output": "1943"
+    },
+    {
+        "input": "Son of a Preacher Man",
+        "output": "1939"
+    },
+    {
+        "input": "Everybody Knows",
+        "output": "1934"
+    },
+    {
+        "input": "Queen of Chinatown",
+        "output": "1939"
+    },
+    {
+        "input": "Lazy River",
+        "output": "1899"
+    },
+    {
+        "input": "Kiss the Girl",
+        "output": "1946"
+    },
+    {
+        "input": "Because You Loved Me",
+        "output": "1968"
+    },
+    {
+        "input": "Bad Girl",
+        "output": "1958"
+    },
+    {
+        "input": "North to Alaska",
+        "output": "1925"
+    },
+    {
+        "input": "Needles and Pins",
+        "output": "1941"
+    },
+    {
+        "input": "Sat In Your Lap",
+        "output": "1958"
+    },
+    {
+        "input": "Anna - Go To Him",
+        "output": "1940"
+    },
+    {
+        "input": "Maggie May",
+        "output": "1945"
+    },
+    {
+        "input": "Slow Down",
+        "output": "1935"
+    },
+    {
+        "input": "First We Take Manhattan",
+        "output": "1947"
+    },
+    {
+        "input": "The 'In' Crowd",
+        "output": "1940"
+    },
+    {
+        "input": "The Jean Genie",
+        "output": "1947"
+    },
+    {
+        "input": "A Foggy Day",
+        "output": "1899"
+    },
+    {
+        "input": "Glad All Over",
+        "output": "1932"
+    },
+    {
+        "input": "My One and Only Love",
+        "output": "1915"
+    },
+    {
+        "input": "We Don't Need Another Hero",
+        "output": "1939"
+    },
+    {
+        "input": "Mala\u00efka",
+        "output": "1938"
+    },
+    {
+        "input": "Wasted Love",
+        "output": "2001"
+    },
+    {
+        "input": "Bennie and the Jets",
+        "output": "1947"
+    },
+    {
+        "input": "A Song for You",
+        "output": "1942"
+    },
+    {
+        "input": "Baby What You Want Me to Do",
+        "output": "1925"
+    },
+    {
+        "input": "Justify My Love",
+        "output": "1958"
+    },
+    {
+        "input": "Moonlight Shadow",
+        "output": "1953"
+    },
+    {
+        "input": "B\u00e9same Mucho",
+        "output": "1912"
+    },
+    {
+        "input": "Love Me for a Reason",
+        "output": "1939"
+    },
+    {
+        "input": "White Lines (Don\u2019t Don\u2019t Do It)",
+        "output": "1962"
+    },
+    {
+        "input": "Laisse tomber les filles",
+        "output": "1947"
+    },
+    {
+        "input": "It Never Entered My Mind",
+        "output": "1913"
+    },
+    {
+        "input": "The Coffee Song",
+        "output": "1910"
+    },
+    {
+        "input": "Santa Baby",
+        "output": "1927"
+    },
+    {
+        "input": "Where Have All the Flowers Gone?",
+        "output": "1919"
+    },
+    {
+        "input": "Together in Electric Dreams",
+        "output": "1940"
+    },
+    {
+        "input": "It's Only Love",
+        "output": "1959"
+    },
+    {
+        "input": "Part of Your World",
+        "output": "1961"
+    },
+    {
+        "input": "Teach Me Tonight",
+        "output": "1927"
+    },
+    {
+        "input": "Poup\u00e9e de cire, poup\u00e9e de son",
+        "output": "1947"
+    },
+    {
+        "input": "The Ballad of the Green Berets",
+        "output": "1940"
+    },
+    {
+        "input": "It's Me That You Need",
+        "output": "1947"
+    },
+    {
+        "input": "I Just Want to Make Love to You",
+        "output": "1913"
+    },
+    {
+        "input": "Great Balls of Fire",
+        "output": "1935"
+    },
+    {
+        "input": "Don't Think Twice, It's All Right",
+        "output": "1941"
+    },
+    {
+        "input": "Amoureuse",
+        "output": "1949"
+    },
+    {
+        "input": "Parole parole",
+        "output": "1940"
+    },
+    {
+        "input": "Send in the Clowns",
+        "output": "1923"
+    },
+    {
+        "input": "Tell Me I'm Not Dreamin'",
+        "output": "1954"
+    },
+    {
+        "input": "Now Is the Hour",
+        "output": "1898"
+    },
+    {
+        "input": "Good Rocking Tonight",
+        "output": "1920"
+    },
+    {
+        "input": "A Good Heart",
+        "output": "1958"
+    },
+    {
+        "input": "Aldri i livet",
+        "output": "1947"
+    },
+    {
+        "input": "Theme from Shaft",
+        "output": "1942"
+    },
+    {
+        "input": "From a Buick 6",
+        "output": "1941"
+    },
+    {
+        "input": "Sans logique",
+        "output": "1961"
+    },
+    {
+        "input": "Oxyg\u00e8ne (Part IV)",
+        "output": "1948"
+    },
+    {
+        "input": "I Gotta Know",
+        "output": "1940"
+    },
+    {
+        "input": "Ebb Tide",
+        "output": "1921"
+    },
+    {
+        "input": "Tusind stykker",
+        "output": "1953"
+    },
+    {
+        "input": "Higher Ground",
+        "output": "1950"
+    },
+    {
+        "input": "Fixin' to Die Blues",
+        "output": "1909"
+    },
+    {
+        "input": "Autumn in New York",
+        "output": "1891"
+    },
+    {
+        "input": "Never Gonna Let You Go",
+        "output": "1940"
+    },
+    {
+        "input": "Saving Forever for You",
+        "output": "1973"
+    },
+    {
+        "input": "Around and Around",
+        "output": "1926"
+    },
+    {
+        "input": "Stranger on the Shore",
+        "output": "1929"
+    },
+    {
+        "input": "Another Part of Me",
+        "output": "1958"
+    },
+    {
+        "input": "Act Naturally",
+        "output": "1929"
+    },
+    {
+        "input": "Fly Me to the Moon",
+        "output": "1925"
+    },
+    {
+        "input": "Someone to Watch Over Me",
+        "output": "1898"
+    },
+    {
+        "input": "I Cover the Waterfront",
+        "output": "1897"
+    },
+    {
+        "input": "I Ain't Got Nobody",
+        "output": "1896"
+    },
+    {
+        "input": "Jolene",
+        "output": "1946"
+    },
+    {
+        "input": "Sad Eyed Lady of the Lowlands",
+        "output": "1941"
+    },
+    {
+        "input": "Mansion Over the Hilltop",
+        "output": "1899"
+    },
+    {
+        "input": "Ain't No Mountain High Enough",
+        "output": "1939"
+    },
+    {
+        "input": "Boys (Summertime Love)",
+        "output": "1968"
+    },
+    {
+        "input": "Ce n'\u00e9tait qu'un r\u00eave",
+        "output": "1968"
+    },
+    {
+        "input": "He'll Have to Go",
+        "output": "1929"
+    },
+    {
+        "input": "Suedehead",
+        "output": "1959"
+    },
+    {
+        "input": "Friends",
+        "output": "1976"
+    },
+    {
+        "input": "The Dreaming",
+        "output": "1958"
+    },
+    {
+        "input": "Det vackraste",
+        "output": "1970"
+    },
+    {
+        "input": "Biko",
+        "output": "1950"
+    },
+    {
+        "input": "Bambino",
+        "output": "1933"
+    },
+    {
+        "input": "John Wesley Harding",
+        "output": "1941"
+    },
+    {
+        "input": "Speed Demon",
+        "output": "1958"
+    },
+    {
+        "input": "(Your Love Keeps Lifting Me) Higher and Higher",
+        "output": "1934"
+    },
+    {
+        "input": "Blue in Green",
+        "output": "1926"
+    },
+    {
+        "input": "What Is Life",
+        "output": "1943"
+    },
+    {
+        "input": "Jingle Bell Rock",
+        "output": "1933"
+    },
+    {
+        "input": "Due grosse lacrime bianche",
+        "output": "1940"
+    },
+    {
+        "input": "One More Cup of Coffee (Valley Below)",
+        "output": "1941"
+    },
+    {
+        "input": "Lys og varme",
+        "output": "1949"
+    },
+    {
+        "input": "Dancing in the Dark",
+        "output": "1949"
+    },
+    {
+        "input": "Stranger",
+        "output": "1987"
+    },
+    {
+        "input": "Running Up That Hill",
+        "output": "1958"
+    },
+    {
+        "input": "Can You Please Crawl Out Your Window?",
+        "output": "1941"
+    },
+    {
+        "input": "Fantastic Voyage",
+        "output": "1947"
+    },
+    {
+        "input": "I Dreamed a Dream",
+        "output": "1949"
+    },
+    {
+        "input": "Poison",
+        "output": "1948"
+    },
+    {
+        "input": "I Won't Dance",
+        "output": "1899"
+    },
+    {
+        "input": "Scream",
+        "output": "1958"
+    },
+    {
+        "input": "Montana",
+        "output": "1940"
+    },
+    {
+        "input": "Smooth Criminal",
+        "output": "1958"
+    },
+    {
+        "input": "That's Life",
+        "output": "1934"
+    },
+    {
+        "input": "I Am Woman",
+        "output": "1941"
+    },
+    {
+        "input": "Bagdad",
+        "output": "1992"
+    },
+    {
+        "input": "Promise Me",
+        "output": "1963"
+    },
+    {
+        "input": "Dark Globe",
+        "output": "1946"
+    },
+    {
+        "input": "Changing of the Guards",
+        "output": "1941"
+    },
+    {
+        "input": "To All the Girls I've Loved Before",
+        "output": "1944"
+    },
+    {
+        "input": "Never Never Gonna Give Ya Up",
+        "output": "1944"
+    },
+    {
+        "input": "S.O.S. d'un terrien en d\u00e9tresse",
+        "output": "1952"
+    },
+    {
+        "input": "Be Prepared",
+        "output": "1948"
+    },
+    {
+        "input": "That's All Right",
+        "output": "1905"
+    },
+    {
+        "input": "Talkin' New York",
+        "output": "1941"
+    },
+    {
+        "input": "Que reste-t-il de nos amours ?",
+        "output": "1919"
+    },
+    {
+        "input": "You Took the Words Right out of My Mouth (Hot Summer Night)",
+        "output": "1947"
+    },
+    {
+        "input": "It's in His Kiss",
+        "output": "1948"
+    },
+    {
+        "input": "Sweet Home Chicago",
+        "output": "1911"
+    },
+    {
+        "input": "You Don't Know Me",
+        "output": "1918"
+    },
+    {
+        "input": "'S Wonderful",
+        "output": "1896"
+    },
+    {
+        "input": "Bob Dylan's Blues",
+        "output": "1941"
+    },
+    {
+        "input": "My Life Would Suck Without You",
+        "output": "1982"
+    },
+    {
+        "input": "You Can Call Me Al",
+        "output": "1941"
+    },
+    {
+        "input": "Frozen",
+        "output": "1958"
+    },
+    {
+        "input": "I'd Do Anything for Love (But I Won't Do That)",
+        "output": "1947"
+    },
+    {
+        "input": "Nel sole",
+        "output": "1943"
+    },
+    {
+        "input": "Southern Nights",
+        "output": "1938"
+    },
+    {
+        "input": "Awaara Hoon",
+        "output": "1923"
+    },
+    {
+        "input": "The Patriot Game",
+        "output": "1928"
+    },
+    {
+        "input": "Un canto a Galicia",
+        "output": "1943"
+    },
+    {
+        "input": "I'd Rather Go Blind",
+        "output": "1938"
+    },
+    {
+        "input": "Beat It",
+        "output": "1958"
+    },
+    {
+        "input": "Funky President (People It's Bad)",
+        "output": "1933"
+    },
+    {
+        "input": "Get the Party Started",
+        "output": "1979"
+    },
+    {
+        "input": "All Through the Night",
+        "output": "1952"
+    },
+    {
+        "input": "Canzone per te",
+        "output": "1933"
+    },
+    {
+        "input": "Blame It on the Boogie",
+        "output": "1947"
+    },
+    {
+        "input": "It's a Heartache",
+        "output": "1951"
+    },
+    {
+        "input": "Speed of Life",
+        "output": "1947"
+    },
+    {
+        "input": "Still Got the Blues",
+        "output": "1952"
+    },
+    {
+        "input": "Them Heavy People",
+        "output": "1958"
+    },
+    {
+        "input": "Oh No Not My Baby",
+        "output": "1939"
+    },
+    {
+        "input": "Careless Whisper",
+        "output": "1963"
+    },
+    {
+        "input": "I Love You",
+        "output": "1948"
+    },
+    {
+        "input": "It's My Party",
+        "output": "1946"
+    },
+    {
+        "input": "All of Me",
+        "output": "1890"
+    },
+    {
+        "input": "Blue Jeans",
+        "output": "1985"
+    },
+    {
+        "input": "She Drives Me Wild",
+        "output": "1958"
+    },
+    {
+        "input": "All Too Well",
+        "output": "1989"
+    },
+    {
+        "input": "The Way You Make Me Feel",
+        "output": "1958"
+    },
+    {
+        "input": "Gente di mare",
+        "output": "1952"
+    },
+    {
+        "input": "Some Hearts",
+        "output": "1953"
+    },
+    {
+        "input": "By the Light of the Silvery Moon",
+        "output": "1892"
+    },
+    {
+        "input": "With a Child's Heart",
+        "output": "1950"
+    },
+    {
+        "input": "Lady Samantha",
+        "output": "1947"
+    },
+    {
+        "input": "Tears in Heaven",
+        "output": "1945"
+    },
+    {
+        "input": "Coat of Many Colors",
+        "output": "1946"
+    },
+    {
+        "input": "Curiosity",
+        "output": "1985"
+    },
+    {
+        "input": "Walk on the Wild Side",
+        "output": "1942"
+    },
+    {
+        "input": "The Power of Love",
+        "output": "1960"
+    },
+    {
+        "input": "Por una cabeza",
+        "output": "1890"
+    },
+    {
+        "input": "Mon pays",
+        "output": "1928"
+    },
+    {
+        "input": "Music",
+        "output": "1958"
+    },
+    {
+        "input": "Love's Unkind",
+        "output": "1948"
+    },
+    {
+        "input": "Gonna Fly Now",
+        "output": "1942"
+    },
+    {
+        "input": "Cambalache",
+        "output": "1904"
+    },
+    {
+        "input": "Personality",
+        "output": "1933"
+    },
+    {
+        "input": "Honey Don't",
+        "output": "1932"
+    },
+    {
+        "input": "That Ole Devil Called Love",
+        "output": "1915"
+    },
+    {
+        "input": "Adore You",
+        "output": "1994"
+    },
+    {
+        "input": "Change Partners",
+        "output": "1899"
+    },
+    {
+        "input": "Whispering Grass",
+        "output": "1914"
+    },
+    {
+        "input": "Angel Eyes",
+        "output": "1913"
+    },
+    {
+        "input": "Another Saturday Night",
+        "output": "1931"
+    },
+    {
+        "input": "Shot in the Dark",
+        "output": "1948"
+    },
+    {
+        "input": "Mr. Bojangles",
+        "output": "1942"
+    },
+    {
+        "input": "Viva Las Vegas",
+        "output": "1935"
+    },
+    {
+        "input": "When the Going Gets Tough, the Tough Get Going",
+        "output": "1950"
+    },
+    {
+        "input": "Spring Affair",
+        "output": "1948"
+    },
+    {
+        "input": "Solitary Man",
+        "output": "1941"
+    },
+    {
+        "input": "I Promised Myself",
+        "output": "1962"
+    },
+    {
+        "input": "Runaround Sue",
+        "output": "1939"
+    },
+    {
+        "input": "Everybody's Tryin' to Be My Baby",
+        "output": "1932"
+    },
+    {
+        "input": "I Could Have Danced All Night",
+        "output": "1935"
+    },
+    {
+        "input": "Only Girl (In the World)",
+        "output": "1988"
+    },
+    {
+        "input": "Subterranean Homesick Blues",
+        "output": "1941"
+    },
+    {
+        "input": "All by Myself",
+        "output": "1949"
+    },
+    {
+        "input": "Wow",
+        "output": "1958"
+    },
+    {
+        "input": "You Better Move On",
+        "output": "1940"
+    },
+    {
+        "input": "Di mi nombre",
+        "output": "1992"
+    },
+    {
+        "input": "I Only Want to Be with You",
+        "output": "1939"
+    },
+    {
+        "input": "Stardust",
+        "output": "1903"
+    },
+    {
+        "input": "Little Wonder",
+        "output": "1947"
+    },
+    {
+        "input": "Das alte Karussell",
+        "output": "1924"
+    },
+    {
+        "input": "Georgia on My Mind",
+        "output": "1899"
+    },
+    {
+        "input": "I Need Your Love Tonight",
+        "output": "1935"
+    },
+    {
+        "input": "All the Tired Horses",
+        "output": "1941"
+    },
+    {
+        "input": "King of the Road",
+        "output": "1936"
+    },
+    {
+        "input": "Womanizer",
+        "output": "1981"
+    },
+    {
+        "input": "American Life",
+        "output": "1958"
+    },
+    {
+        "input": "Heartbreak Hotel",
+        "output": "1935"
+    },
+    {
+        "input": "Only Love Can Break Your Heart",
+        "output": "1945"
+    },
+    {
+        "input": "Army Dreamers",
+        "output": "1958"
+    },
+    {
+        "input": "What the World Needs Now Is Love",
+        "output": "1941"
+    },
+    {
+        "input": "Baby Jane",
+        "output": "1945"
+    },
+    {
+        "input": "Born Under a Bad Sign",
+        "output": "1923"
+    },
+    {
+        "input": "Money Honey",
+        "output": "1931"
+    },
+    {
+        "input": "They Can't Take That Away from Me",
+        "output": "1899"
+    },
+    {
+        "input": "Ballad of a Thin Man",
+        "output": "1941"
+    },
+    {
+        "input": "Out from Under",
+        "output": "1984"
+    },
+    {
+        "input": "You and the Night and the Music",
+        "output": "1904"
+    },
+    {
+        "input": "Dizzy, Miss Lizzy",
+        "output": "1935"
+    },
+    {
+        "input": "What Christmas Means to Me",
+        "output": "1950"
+    },
+    {
+        "input": "Revolver",
+        "output": "1958"
+    },
+    {
+        "input": "Love Resurrection",
+        "output": "1961"
+    },
+    {
+        "input": "Grease",
+        "output": "1934"
+    },
+    {
+        "input": "You're Gonna Make Me Lonesome When You Go",
+        "output": "1941"
+    },
+    {
+        "input": "Brandy",
+        "output": "1943"
+    },
+    {
+        "input": "Anyone Who Had a Heart",
+        "output": "1940"
+    },
+    {
+        "input": "Killing Me Softly with His Song",
+        "output": "1951"
+    },
+    {
+        "input": "Louie Louie",
+        "output": "1935"
+    },
+    {
+        "input": "Come Back and Stay",
+        "output": "1952"
+    },
+    {
+        "input": "Treat Me Nice",
+        "output": "1935"
+    },
+    {
+        "input": "Hallelujah",
+        "output": "1934"
+    },
+    {
+        "input": "Sata salamaa",
+        "output": "1958"
+    },
+    {
+        "input": "Lonely Man",
+        "output": "1935"
+    },
+    {
+        "input": "Lento",
+        "output": "1970"
+    },
+    {
+        "input": "Matchbox",
+        "output": "1932"
+    },
+    {
+        "input": "Angel",
+        "output": "1958"
+    },
+    {
+        "input": "19",
+        "output": "1957"
+    },
+    {
+        "input": "Fuck It, I Love You",
+        "output": "1985"
+    },
+    {
+        "input": "Piece of Me",
+        "output": "1981"
+    },
+    {
+        "input": "My Sweet Lord",
+        "output": "1943"
+    },
+    {
+        "input": "Only the Lonely (Know the Way I Feel)",
+        "output": "1936"
+    },
+    {
+        "input": "Never Forget You",
+        "output": "1969"
+    },
+    {
+        "input": "Some Enchanted Evening",
+        "output": "1915"
+    },
+    {
+        "input": "I'm Your Hoochie Cooche Man",
+        "output": "1913"
+    },
+    {
+        "input": "Hit the Road Jack",
+        "output": "1920"
+    },
+    {
+        "input": "MacArthur Park",
+        "output": "1930"
+    },
+    {
+        "input": "Between the Devil and the Deep Blue Sea",
+        "output": "1907"
+    },
+    {
+        "input": "Call Me Irresponsible",
+        "output": "1915"
+    },
+    {
+        "input": "I Forgot to Be Your Lover",
+        "output": "1939"
+    },
+    {
+        "input": "Love Minus Zero/No Limit",
+        "output": "1941"
+    },
+    {
+        "input": "Angel of the Morning",
+        "output": "1946"
+    },
+    {
+        "input": "Historia de un amor",
+        "output": "1908"
+    },
+    {
+        "input": "Procuro olvidarte",
+        "output": "1955"
+    },
+    {
+        "input": "Alfonsina y el mar",
+        "output": "1935"
+    },
+    {
+        "input": "Working Day and Night",
+        "output": "1958"
+    },
+    {
+        "input": "Borderline",
+        "output": "1958"
+    },
+    {
+        "input": "Insensatez",
+        "output": "1931"
+    },
+    {
+        "input": "U Can't Touch This",
+        "output": "1962"
+    },
+    {
+        "input": "I'll Be Your Baby Tonight",
+        "output": "1941"
+    },
+    {
+        "input": "As",
+        "output": "1950"
+    },
+    {
+        "input": "Estate",
+        "output": "1925"
+    },
+    {
+        "input": "With God on Our Side",
+        "output": "1941"
+    },
+    {
+        "input": "Sweet Little Sixteen",
+        "output": "1926"
+    },
+    {
+        "input": "I Just Don't Know What to Do with Myself",
+        "output": "1933"
+    },
+    {
+        "input": "When Your Heart's on Fire (Smoke Gets in Your Eyes)",
+        "output": "1911"
+    },
+    {
+        "input": "Congratulations",
+        "output": "1995"
+    },
+    {
+        "input": "Off the Wall",
+        "output": "1958"
+    },
+    {
+        "input": "Hooked on a Feeling",
+        "output": "1942"
+    },
+    {
+        "input": "I Love You Because",
+        "output": "1917"
+    },
+    {
+        "input": "Missing You",
+        "output": "1952"
+    },
+    {
+        "input": "Stuck on You",
+        "output": "1935"
+    },
+    {
+        "input": "Love Theme from The Godfather",
+        "output": "1911"
+    },
+    {
+        "input": "Will You Be There",
+        "output": "1958"
+    },
+    {
+        "input": "Chances Are",
+        "output": "1935"
+    },
+    {
+        "input": "Don't Make Me Over",
+        "output": "1940"
+    },
+    {
+        "input": "It's Only a Paper Moon",
+        "output": "1913"
+    },
+    {
+        "input": "The Riddle",
+        "output": "1958"
+    },
+    {
+        "input": "Deeper and Deeper",
+        "output": "1958"
+    },
+    {
+        "input": "Please Come Home for Christmas",
+        "output": "1922"
+    },
+    {
+        "input": "7 Rings",
+        "output": "1993"
+    },
+    {
+        "input": "La guerra di Piero",
+        "output": "1940"
+    },
+    {
+        "input": "Walking on Broken Glass",
+        "output": "1954"
+    },
+    {
+        "input": "Break My Stride",
+        "output": "1953"
+    },
+    {
+        "input": "Crucify",
+        "output": "1963"
+    },
+    {
+        "input": "Love Is Gone",
+        "output": "1967"
+    },
+    {
+        "input": "Love Is a Many-Splendored Thing",
+        "output": "1919"
+    },
+    {
+        "input": "Surrender",
+        "output": "1935"
+    },
+    {
+        "input": "Dirty Diana",
+        "output": "1958"
+    },
+    {
+        "input": "Sway",
+        "output": "1917"
+    },
+    {
+        "input": "All Things Go",
+        "output": "1982"
+    },
+    {
+        "input": "Bickenhead",
+        "output": "1992"
+    },
+    {
+        "input": "Arlekino",
+        "output": "1949"
+    },
+    {
+        "input": "Hurt",
+        "output": "1929"
+    },
+    {
+        "input": "Liberian Girl",
+        "output": "1958"
+    },
+    {
+        "input": "Lights",
+        "output": "1986"
+    },
+    {
+        "input": "Non gioco pi\u00f9",
+        "output": "1940"
+    },
+    {
+        "input": "I'm a Fool to Want You",
+        "output": "1915"
+    },
+    {
+        "input": "Your Song",
+        "output": "1947"
+    },
+    {
+        "input": "Candle in the Wind",
+        "output": "1947"
+    },
+    {
+        "input": "Love Profusion",
+        "output": "1958"
+    },
+    {
+        "input": "In the Wee Small Hours of the Morning",
+        "output": "1915"
+    }
+]
