@@ -1,0 +1,45 @@
+#!/bin/bash
+#SBATCH -J path_patching
+#SBATCH --partition=gpu
+#SBATCH --gres=gpu:1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=64G
+#SBATCH --time=04:00:00
+#SBATCH -o logs/%x_%j.out
+#SBATCH -e logs/%x_%j.err
+
+set -euo pipefail
+mkdir -p logs
+
+REPO_ROOT="$SLURM_SUBMIT_DIR"
+
+module load python/3.11.11-5e66
+source "$REPO_ROOT/.venv/bin/activate"
+
+export PYTHONPATH="$REPO_ROOT/src"
+cd "$REPO_ROOT/src/pipeline/path_patching"
+
+MODEL="meta-llama/Llama-3.2-1B-Instruct"
+# TASKS=("country-capital" "antonym" "country-currency")
+TASKS=("country-capital")
+
+K=20                 # must match identify_heads/lth_pipeline --k
+THRESHOLD=0.1        # must match lth_pipeline --threshold
+PP_PROMPT_INDEX=10   # EP n_shot; must be a key in EP_vary_n_shot_behavior.json
+
+for TASK in "${TASKS[@]}"; do
+    echo "=== $TASK: path patching (sender -> shared lexical-task heads) ==="
+    python pp_pipeline.py \
+        --model_name "$MODEL" \
+        --d_name "$TASK" \
+        --project_root "$REPO_ROOT" \
+        --save_root "$REPO_ROOT/output" \
+        --dataset_folder "$REPO_ROOT/datasets/abstractive" \
+        --k "$K" \
+        --threshold "$THRESHOLD" \
+        --pp_prompt_index "$PP_PROMPT_INDEX" \
+        --receiver_input q \
+        --metric l2_norm_rel lprr \
+        --exp_size 50 \
+        --batch_size 8
+done
