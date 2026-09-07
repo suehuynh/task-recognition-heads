@@ -42,3 +42,26 @@ def maps_scores_for_layer(
             head_outputs_projected[:, h, :], task_term_token_ids, k=k, n_match=n_match
         )
     return scores
+
+# scoring.py — add this function
+def expand_task_term_token_ids(model, terms: list[str]) -> torch.Tensor:
+    """
+    Expand task-descriptive strings into the single-token IDs that represent
+    them across casing/spacing tokenizer variants. Multi-token variants are
+    dropped since they can't match a single top-k index.
+    """
+    candidate_ids = set()
+    variant_fns = [
+        lambda s: s, lambda s: " " + s,
+        lambda s: s.upper(), lambda s: s.capitalize(), lambda s: s.lower(),
+        lambda s: "." + s, lambda s: "_" + s, lambda s: "-" + s,
+    ]
+    for term in terms:
+        for fn in variant_fns:
+            str_tokens = model.to_str_tokens(fn(term), prepend_bos=False)
+            if len(str_tokens) == 1:
+                candidate_ids.add(model.to_single_token(str_tokens[0]))
+
+    if not candidate_ids:
+        raise ValueError(f"No single-token variants found for terms: {terms}")
+    return torch.tensor(sorted(candidate_ids))

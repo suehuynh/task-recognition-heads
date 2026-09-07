@@ -1,12 +1,7 @@
-# intersection.py
 """
 Given head lists from select_heads_p.py, computes the intersection of the
 IP-derived and EP-derived head sets -- the "shared lexical task heads"
-result (Table 1 / Fig. 3, one task's square).
-
-Default ('single'): reproduces the primary result -- ONE canonical IP
-condition (best-accuracy instruction template) intersected with ONE
-canonical EP condition (fixed 5-shot).
+result (Table 1 / Fig. 3).
 """
 import argparse
 import pickle

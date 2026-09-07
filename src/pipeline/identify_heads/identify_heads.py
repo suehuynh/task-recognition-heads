@@ -101,9 +101,6 @@ def build_correct_prompts(prompt_type, template_key, d_name, dataset_folder,
     else:
         raise ValueError(f"prompt_type {prompt_type} not supported")
 
-    # Both create_* functions preserve dataset order 1:1 (index i <-> dataset item i),
-    # so correct_index (positions from check_correctness on this same `prompts` list
-    # during behavior_variance.py) can index directly into `prompts` here.
     correct_prompts = [prompts[i] for i in correct_index]
     print(f"{prompt_type} template {template_key}: {len(correct_prompts)}/{len(prompts)} correct prompts")
     return correct_prompts
