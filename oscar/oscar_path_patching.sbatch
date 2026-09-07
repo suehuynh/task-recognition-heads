@@ -23,9 +23,9 @@ MODEL="meta-llama/Llama-3.2-1B-Instruct"
 # TASKS=("country-capital" "antonym" "country-currency")
 TASKS=("country-capital")
 
-K=20                 # must match identify_heads/lth_pipeline --k
-THRESHOLD=0.1        # must match lth_pipeline --threshold
-PP_PROMPT_INDEX=10   # EP n_shot; must be a key in EP_vary_n_shot_behavior.json
+K=20                 
+THRESHOLD=0.1      
+PP_PROMPT_INDEX=10
 
 for TASK in "${TASKS[@]}"; do
     echo "=== $TASK: path patching (sender -> shared lexical-task heads) ==="
