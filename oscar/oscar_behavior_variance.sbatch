@@ -27,6 +27,6 @@ for TASK in "${TASKS[@]}"; do
     echo "=== $TASK: behavior/correctness (tlens) ==="
     export PYTHONPATH="$REPO_ROOT/src"
     cd "$REPO_ROOT/src/pipeline"
-    python behavior_variance.py --model_name "$MODEL" --d_name "$TASK" --prompt_type EP \
+    python behavior_variance.py --model_name "$MODEL" --d_name "$TASK" --prompt_type IP \
       --project_root "$REPO_ROOT" --dataset_folder "$REPO_ROOT/datasets/abstractive"
 done
