@@ -1,4 +1,3 @@
-# identify_heads.py
 """
 Runs a HookedTransformer over the correct-only prompt subset 
 (from behavior_variance.py JSON), caches per-head last-token activations 

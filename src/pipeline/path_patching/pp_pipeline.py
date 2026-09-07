@@ -11,8 +11,9 @@ from transformer_lens.hook_points import HookPoint
 
 from utils.build_prompts import create_few_shot_prompts, create_task_corrupt_prompts, check_correctness
 from metrics import *
+
 from path_patching import (
-    get_model_specs_tl, find_earliest_receiver, _resolve_pos, patch_head_input,
+    find_earliest_receiver, _resolve_pos, patch_head_input,
     patch_or_freeze_head_vectors, get_path_patch_head_to_heads,
     get_path_patch_head_to_LTH_vocab,
 )
@@ -159,10 +160,10 @@ if __name__ == "__main__":
         help="which input stream(s) of the receiver heads to path-patch into. "
              "Normally pass a single value per run (q, k, or v); the list form is "
              "for ad-hoc convenience and multiplies the sweep cost.")
-    parser.add_argument("--metric", type=str, nargs="+", default=["l2_norm", "lprr"],
-        choices=["l2_norm", "lprr"],
+    parser.add_argument("--metric", type=str, nargs="+", default=["l2_norm_rel", "lprr"],
+        choices=["l2_norm_rel", "lprr"],
         help="scoring metric(s); each produces its own heatmap/tensor/ranking. "
-             "l2_norm = relative delta L2 norm of the receiver q/k/v vector (noising). "
+             "l2_norm_rel = relative delta L2 norm of the receiver q/k/v vector (noising). "
              "lprr = Lexical Probability Recovery Rate on the LTH vocab projection (denoising).")
     parser.add_argument("--task_relation_dict_path", type=str,
         default=os.path.join(SCRIPT_DIR, "datasets", "dataset_info", "task_relation_dict.json"),
@@ -259,7 +260,7 @@ if __name__ == "__main__":
         ).to(model.cfg.device)
         print(f"V_task ({len(task_token_ids)} token ids): {task_relation_dict[args.d_name]}")
 
-    n_heads = get_model_specs_tl(model)["n_heads"]
+    n_heads = model.cfg.n_heads
     save_dir = os.path.join(args.save_root, model_name_short, args.d_name, "Heads", "causal_mediation", "path_patching")
     os.makedirs(save_dir, exist_ok=True)
     tag = f"{args.pp_prompt_type}{args.pp_prompt_index}_k{args.k}"
@@ -267,7 +268,7 @@ if __name__ == "__main__":
     for receiver_input in args.receiver_input:
         for metric in args.metric:
             print(f"\n=== path patching: sender -> LTH.{receiver_input}  |  metric={metric} ===")
-            if metric == "l2_norm":
+            if metric == "l2_norm_rel":
                 results = get_path_patch_head_to_heads(
                     receiver_heads=receiver_list,
                     receiver_input=receiver_input,
