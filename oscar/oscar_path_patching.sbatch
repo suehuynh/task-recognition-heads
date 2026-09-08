@@ -40,7 +40,7 @@ for TASK in "${TASKS[@]}"; do
         --pp_prompt_index "$PP_PROMPT_INDEX" \
         --receiver_input q \
         --receiver_key ep_heads \
-        --metric l2_norm_abs lprr \
+        --metric lprr \
         --exp_size 25 \
         --batch_size 16
 done
