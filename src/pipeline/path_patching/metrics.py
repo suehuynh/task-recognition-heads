@@ -1,20 +1,29 @@
-def l2_norm_rel(clean_head_output, patched_head_output):
+def l2_norm_abs(clean_receiver_input, patched_receiver_input):
     """
-    Relative change in a receiver head's output magnitude between the clean
-    and sender-patched runs.
-    """
-    clean_norm = clean_head_output.norm(p=2)
-    patched_norm = patched_head_output.norm(p=2)
-    return ((patched_norm - clean_norm) / clean_norm).item()
+    Absolute L2 magnitude of the change a single patched sender induces in the
+    receiver heads' input vector (q/k/v) at the final query position.
 
-def l2_norm_abs(clean_head_output, patched_head_output):
+    Both args have shape [n_receiver_heads, batch, d_head] (the last-position
+    slice produced by get_path_patch_head_to_heads._gather_receiver_vec).
+
+    Computes ||q_patched - q_clean||_2 per (receiver head, prompt), then means
+    over both. This is the norm of the difference vector -- not the difference
+    of norms -- so it responds to *directional* changes in the receiver input
+    (which tokens the head attends to), not only to rescaling.
     """
-    Absoluate change in a receiver head's output magnitude between the clean
-    and sender-patched runs.
+    delta = (patched_receiver_input - clean_receiver_input).norm(p=2, dim=-1)  # [n_heads, batch]
+    return delta.mean().item()
+
+def l2_norm_rel(clean_receiver_input, patched_receiver_input):
     """
-    clean_norm = clean_head_output.norm(p=2)
-    patched_norm = patched_head_output.norm(p=2)
-    return (abs(patched_norm - clean_norm) / clean_norm).item()
+    Same change as l2_norm_abs, but each (receiver head, prompt) delta is
+    divided by that receiver's clean input norm before averaging -- a
+    fractional change that is comparable across heads of different magnitude
+    and not dominated by a few high-norm receivers/prompts.
+    """
+    delta = (patched_receiver_input - clean_receiver_input).norm(p=2, dim=-1)   # [n_heads, batch]
+    clean = clean_receiver_input.norm(p=2, dim=-1).clamp_min(1e-8)              # [n_heads, batch]
+    return (delta / clean).mean().item()
 
 def early_decode(head_output, model):
     """

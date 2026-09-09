@@ -4,10 +4,14 @@ import plotly.express as px
 
 
 _METRIC_LABELS = {
-    "l2_norm_rel": "L2 norm (relative)",
-    "l2_norm_abs": "L2 norm (absolute)",
+    "l2_norm_rel": "receiver-input change ||Δ|| / ||clean||",
+    "l2_norm_abs": "receiver-input change ||Δ||",
     "lprr": "LPRR",
 }
+
+# l2_norm_* are non-negative (norm of the difference vector); lprr is signed
+# and centred at 0.
+_DIVERGING_METRICS = {"lprr"}
 
 
 def plot_sender_head_effect(scores, receiver_list, receiver_input, save_path=None,
@@ -35,12 +39,13 @@ def plot_sender_head_effect(scores, receiver_list, receiver_input, save_path=Non
         title = (f"Sender-head effect ({color_label}) on receiver_input='{receiver_input}' "
                  f"of LTHs {receiver_list}")
 
+    diverging = metric in _DIVERGING_METRICS
     fig = px.imshow(
         scores,
         labels={"x": "Head", "y": "Layer", "color": color_label},
         title=title,
-        color_continuous_scale="RdBu_r",
-        color_continuous_midpoint=0,
+        color_continuous_scale="RdBu_r" if diverging else "Reds",
+        color_continuous_midpoint=0 if diverging else None,
         aspect="auto",
     )
     fig.update_layout(width=800, height=500)

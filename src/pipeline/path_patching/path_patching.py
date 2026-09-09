@@ -163,11 +163,15 @@ def get_path_patch_head_to_heads(
     )
 
     def _gather_receiver_vec(cache):
+        # Final (query) position only. Task recognition happens at the last
+        # token; taking all positions would let the demo region -- where clean
+        # and corrupt prompts differ simply because they are different
+        # sentences -- dominate the norm.
         return t.stack(
-            [cache[utils.get_act_name(receiver_input, layer)][:, :, head]
+            [cache[utils.get_act_name(receiver_input, layer)][:, -1, head]
              for layer, head in receiver_heads_for_patch],
             dim=0,
-        )  # [n_receiver_heads, batch, pos, d_head]
+        )  # [n_receiver_heads, batch, d_head]
 
     clean_receiver_vec = _gather_receiver_vec(clean_receiver_cache)
 
