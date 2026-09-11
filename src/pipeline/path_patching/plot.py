@@ -6,12 +6,13 @@ import plotly.express as px
 _METRIC_LABELS = {
     "l2_norm_rel": "receiver-input change ||Δ|| / ||clean||",
     "l2_norm_abs": "receiver-input change ||Δ||",
-    "lprr": "LPRR",
+    "lprr": "LPRR (denoising)",
+    "lprr_noising": "LPRR (noising)",
 }
 
-# l2_norm_* are non-negative (norm of the difference vector); lprr is signed
-# and centred at 0.
-_DIVERGING_METRICS = {"lprr"}
+# l2_norm_* are non-negative (norm of the difference vector); lprr/lprr_noising
+# are signed and centred at 0.
+_DIVERGING_METRICS = {"lprr", "lprr_noising"}
 
 
 def plot_sender_head_effect(scores, receiver_list, receiver_input, save_path=None,

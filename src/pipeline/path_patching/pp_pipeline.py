@@ -169,7 +169,15 @@ if __name__ == "__main__":
         help="scoring metric(s); each produces its own heatmap/tensor/ranking. "
              "l2_norm_rel = relative delta L2 norm of the receiver q/k/v vector (noising). "
              "l2_norm_abs = absolute delta L2 norm of the receiver q/k/v vector (noising). "
-             "lprr = Lexical Probability Recovery Rate on the LTH vocab projection (denoising).")
+             "lprr = Lexical Probability Recovery Rate on the LTH vocab projection.")
+    parser.add_argument("--lprr_direction", type=str, default="denoising",
+        choices=["denoising", "noising"],
+        help="only affects --metric lprr. 'denoising' (default, unchanged): corrupt "
+             "input, restore sender's clean edge, score recovery toward clean -- "
+             "(P_patched-P_corrupt)/(P_clean-P_corrupt). 'noising': clean input, inject "
+             "sender's corrupt edge, score degradation toward corrupt -- "
+             "(P_clean-P_patched)/(P_clean-P_corrupt). Writes to a separate "
+             "'..._lprr_noising' stem so it never overwrites the denoising run's files.")
     parser.add_argument("--exp_size", type=int, default=50,
         help="number of model-correct prompts to path-patch over")
     parser.add_argument("--batch_size", type=int, default=8)
@@ -274,14 +282,36 @@ if __name__ == "__main__":
     # no extra cost (same forward passes either way).
     collapse_receivers = not want_per_receiver
 
-    def _save_one(save_root_dir, stem, scores2d, meta_extra):
+    def _mask_aggregate(per_receiver_scores):
+        """
+        Derive the masked aggregate [layer, head] from an unmasked per-receiver
+        [n_receivers, layer, head] tensor: for each sender_layer, average only
+        over receivers strictly downstream of it (layer > sender_layer) -- the
+        same masking get_path_patch_head_to_heads/_LTH_vocab apply internally
+        when collapse_receivers=True. Needed because the per-receiver tensor
+        itself is unmasked (each receiver's own value is already correct on
+        its own), so a plain .nanmean(dim=0) here would silently reproduce the
+        old, diluted aggregate instead of the fixed one.
+        """
+        n_receivers, max_layer, n_heads_model = per_receiver_scores.shape
+        receiver_layers_arr = [layer for layer, _ in receiver_list]
+        out = torch.full((max_layer, n_heads_model), float("nan"))
+        for sender_layer in range(max_layer):
+            reachable = [layer > sender_layer for layer in receiver_layers_arr]
+            if not any(reachable):
+                continue
+            mask = torch.tensor(reachable)
+            out[sender_layer] = per_receiver_scores[mask, sender_layer, :].nanmean(dim=0)
+        return out
+
+    def _save_one(save_root_dir, stem, scores2d, metric_label, meta_extra):
         """scores2d: [sender_layer, sender_head] tensor. Writes .pt, heatmap, ranked.json."""
         os.makedirs(save_root_dir, exist_ok=True)
         torch.save(scores2d, os.path.join(save_root_dir, f"{stem}.pt"))
 
         plot_path = os.path.join(save_root_dir, f"{stem}_heatmap.html")
         plot_sender_head_effect(
-            scores2d, receiver_list, receiver_input, save_path=plot_path, metric=metric
+            scores2d, receiver_list, receiver_input, save_path=plot_path, metric=metric_label
         )
 
         heads_ranked = rank_heads(scores2d.cpu().numpy(), threshold=None)
@@ -295,7 +325,7 @@ if __name__ == "__main__":
                 "model_name": model_name_short, "d_name": args.d_name, "k": args.k,
                 "threshold": args.threshold,
                 "pp_prompt_type": args.pp_prompt_type, "pp_prompt_index": args.pp_prompt_index,
-                "receiver_input": receiver_input, "metric": metric,
+                "receiver_input": receiver_input, "metric": metric_label,
                 "n_examples": len(clean_prompts),
                 "receiver_list": receiver_list,
                 **meta_extra,
@@ -310,7 +340,14 @@ if __name__ == "__main__":
 
     for receiver_input in args.receiver_input:
         for metric in args.metric:
-            print(f"\n=== path patching: sender -> LTH.{receiver_input}  |  metric={metric} "
+            # lprr_direction only changes anything for --metric lprr; the
+            # default "denoising" reproduces the metric/stem/path exactly as
+            # before this option existed. "noising" gets its own metric_label
+            # so it never overwrites the denoising run's files.
+            lprr_direction = args.lprr_direction if metric == "lprr" else None
+            metric_label = "lprr_noising" if (metric == "lprr" and lprr_direction == "noising") else metric
+
+            print(f"\n=== path patching: sender -> LTH.{receiver_input}  |  metric={metric_label} "
                   f"| receiver_mode={args.receiver_mode} ===")
             if metric in _L2_METRIC_FNS:
                 results = get_path_patch_head_to_heads(
@@ -335,17 +372,21 @@ if __name__ == "__main__":
                     clean_z_cache=clean_z_cache,
                     corrupt_z_cache=corrupt_z_cache,
                     collapse_receivers=collapse_receivers,
+                    direction=lprr_direction or "denoising",
                 )
             # results is [layer, head] if collapse_receivers else [n_receivers, layer, head]
 
-            stem = f"sender_to_shared_lexical_heads_{tag}_{receiver_input}_{metric}"
+            stem = f"sender_to_shared_lexical_heads_{tag}_{receiver_input}_{metric_label}"
+            meta_extra_common = {"lprr_direction": lprr_direction} if metric == "lprr" else {}
 
             if collapse_receivers:
                 # args.receiver_mode == "aggregate": identical call, identical
-                # output shape, identical paths to before this feature existed.
-                _save_one(save_dir, stem, results, meta_extra={"receiver_mode": "aggregate"})
+                # output shape, identical paths to before this feature existed
+                # (when lprr_direction is left at its default "denoising").
+                _save_one(save_dir, stem, results, metric_label,
+                          meta_extra={"receiver_mode": "aggregate", **meta_extra_common})
             else:
-                per_receiver_dir = os.path.join(save_dir, "per_receiver", f"{tag}_{receiver_input}_{metric}")
+                per_receiver_dir = os.path.join(save_dir, "per_receiver", f"{tag}_{receiver_input}_{metric_label}")
                 os.makedirs(per_receiver_dir, exist_ok=True)
 
                 torch.save(results, os.path.join(per_receiver_dir, "scores.pt"))
@@ -358,19 +399,17 @@ if __name__ == "__main__":
 
                 for i, (layer, head) in enumerate(receiver_list):
                     _save_one(
-                        per_receiver_dir, f"L{layer}H{head}", results[i],
-                        meta_extra={"receiver_mode": "per_receiver", "receiver": [layer, head]},
+                        per_receiver_dir, f"L{layer}H{head}", results[i], metric_label,
+                        meta_extra={"receiver_mode": "per_receiver", "receiver": [layer, head], **meta_extra_common},
                     )
 
                 if want_aggregate:
-                    # Derived from the same disaggregated tensor above -- the
-                    # aggregate is a nanmean over the receiver axis, not a
-                    # second computation, so it is exactly consistent with the
-                    # per-receiver files (and with the old aggregate-only
-                    # numbers, up to the receiver-count-weighted mean already
-                    # being how the old code combined receivers).
-                    aggregate_scores = results.nanmean(dim=0)
-                    _save_one(save_dir, stem, aggregate_scores, meta_extra={"receiver_mode": "both (derived aggregate)"})
+                    # Derived from the same disaggregated tensor above, with
+                    # the same reachability mask get_path_patch_* applies
+                    # internally -- see _mask_aggregate.
+                    aggregate_scores = _mask_aggregate(results)
+                    _save_one(save_dir, stem, aggregate_scores, metric_label,
+                              meta_extra={"receiver_mode": "both (derived aggregate)", **meta_extra_common})
 
     print("\nsaved to", save_dir)
     if want_per_receiver:
