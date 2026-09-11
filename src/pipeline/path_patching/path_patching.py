@@ -118,6 +118,7 @@ def get_path_patch_head_to_heads(
     orig_dataset,
     new_cache: ActivationCache | None = None,
     orig_cache: ActivationCache | None = None,
+    collapse_receivers: bool = True,
 ) -> Float[Tensor, "layer head"]:
     """
     Performs path patching (see algorithm at the top), with:
@@ -128,6 +129,15 @@ def get_path_patch_head_to_heads(
     The receiver node is specified by receiver_heads and receiver_input, for example if
     receiver_input = "v" and receiver_heads = [(8, 6), (8, 10), (7, 9), (7, 3)], we're doing path
     patching from each head to the value inputs of the LTHs.
+
+    collapse_receivers=True (default, unchanged behaviour): the effect on all
+        receiver heads is averaged into one score per sender; returns
+        [sender_layer, sender_head].
+    collapse_receivers=False: keeps one score per receiver head; returns
+        [n_receiver_heads, sender_layer, sender_head], in the same order as
+        `receiver_heads`. Same forward passes either way -- this only changes
+        whether the existing per-receiver reduction inside `patching_metric`
+        runs.
 
     Returns:
         tensor of metric values for every possible sender head
@@ -144,7 +154,11 @@ def get_path_patch_head_to_heads(
     # so remap into KV-head space before indexing k/v tensors with it.
     receiver_heads_for_patch = _remap_receivers_for_input(model, receiver_heads, receiver_input)
 
-    results = t.zeros(max(receiver_layers), model.cfg.n_heads, device=device, dtype=t.float32)
+    if collapse_receivers:
+        results = t.zeros(max(receiver_layers), model.cfg.n_heads, device=device, dtype=t.float32)
+    else:
+        results = t.zeros(len(receiver_heads), max(receiver_layers), model.cfg.n_heads,
+                           device=device, dtype=t.float32)
 
     # ========== Step 1 ==========
     # Gather activations on x_orig and x_new
@@ -199,7 +213,11 @@ def get_path_patch_head_to_heads(
         patched_receiver_vec = _gather_receiver_vec(patched_cache)
 
         # Save the results
-        results[sender_layer, sender_head] = patching_metric(clean_receiver_vec, patched_receiver_vec)
+        score = patching_metric(clean_receiver_vec, patched_receiver_vec, reduce=collapse_receivers)
+        if collapse_receivers:
+            results[sender_layer, sender_head] = score
+        else:
+            results[:, sender_layer, sender_head] = score
 
     model.reset_hooks()
     return results
@@ -228,6 +246,7 @@ def get_path_patch_head_to_LTH_vocab(
     corrupt_dataset,
     clean_z_cache: ActivationCache | None = None,
     corrupt_z_cache: ActivationCache | None = None,
+    collapse_receivers: bool = True,
 ) -> Float[Tensor, "layer head"]:
     """
     Path patching in the denoising direction, scored by LPRR (Lexical
@@ -239,13 +258,22 @@ def get_path_patch_head_to_LTH_vocab(
                   / (P_clean(V_task) - P_corrupt(V_task))
 
     P_*(V_task) is the softmax-prob mass on `task_token_ids` in the logit lens
-    of each LTH's own output at the last position, averaged over prompts then
-    over LTH heads.
+    of each LTH's own output at the last position, averaged over prompts, and
+    (when collapse_receivers=True) over LTH heads too.
 
-    Returns a [layer, head] tensor of LPRR for every candidate sender head
-    (senders range over all heads in layers 0 .. max(receiver_layer) - 1).
-    NaN everywhere if the clean/corrupt runs don't separate V_task (denominator
-    ~ 0).
+    collapse_receivers=True (default, unchanged behaviour): P_*(V_task) is
+        also averaged over LTH heads; returns [sender_layer, sender_head],
+        NaN everywhere if the clean/corrupt runs don't separate V_task
+        (denominator ~ 0).
+    collapse_receivers=False: keeps one LPRR per receiver head; returns
+        [n_receiver_heads, sender_layer, sender_head], same receiver order as
+        `receiver_heads`. The aggregate early-exit still uses the mean-over-
+        receivers denominator (same gate as before); a per-receiver denominator
+        that is individually near zero will show up as a large/inf/NaN LPRR
+        for that one receiver rather than aborting the whole run.
+
+    Returns a tensor of LPRR for every candidate sender head (senders range
+    over all heads in layers 0 .. max(receiver_layer) - 1).
     """
     model.reset_hooks()
     assert receiver_input in ("k", "q", "v")
@@ -266,24 +294,48 @@ def get_path_patch_head_to_LTH_vocab(
     if corrupt_z_cache is None:
         _, corrupt_z_cache = model.run_with_cache(corrupt_dataset.toks, names_filter=all_z_filter, return_type=None)
 
-    def _lth_vocab_mass(z_cache: ActivationCache) -> Tensor:
-        """mean-over-prompts, mean-over-LTH P(V_task) from a hook_z cache -> scalar."""
+    def _lth_vocab_mass(z_cache: ActivationCache, collapse: bool = True) -> Tensor:
+        """mean-over-prompts P(V_task) from a hook_z cache, per LTH head.
+
+        collapse=True (default): also mean over LTH heads -> scalar tensor.
+        collapse=False: keeps the receiver axis -> [n_receiver_heads] tensor,
+            same order as `receiver_heads`.
+        """
         per_head = []
         for layer, head in receiver_heads:  # original query-head indexing for z / W_O
             z_slice = z_cache[utils.get_act_name("z", layer)][:, -1, head]  # [batch, d_head]
             head_out = z_slice @ model.W_O[layer, head]                     # [batch, d_model]
             per_head.append(task_vocab_prob_mass(head_out, model, task_token_ids).mean())
-        return t.stack(per_head).mean()
+        stacked = t.stack(per_head)  # [n_receiver_heads]
+        return stacked.mean() if collapse else stacked
 
     p_clean = _lth_vocab_mass(clean_z_cache)
     p_corrupt = _lth_vocab_mass(corrupt_z_cache)
     denom = (p_clean - p_corrupt).item()
 
-    results = t.full((max(receiver_layers), model.cfg.n_heads), float("nan"), device=device, dtype=t.float32)
+    if collapse_receivers:
+        results = t.full((max(receiver_layers), model.cfg.n_heads), float("nan"), device=device, dtype=t.float32)
+    else:
+        results = t.full((len(receiver_heads), max(receiver_layers), model.cfg.n_heads),
+                          float("nan"), device=device, dtype=t.float32)
+
     if abs(denom) < 1e-6:
         print(f"[LPRR] WARNING: P_clean ({p_clean.item():.4g}) and P_corrupt "
               f"({p_corrupt.item():.4g}) don't separate V_task; returning NaN.")
         return results
+
+    p_clean_per = p_corrupt_per = per_receiver_denom = None
+    if not collapse_receivers:
+        p_clean_per = _lth_vocab_mass(clean_z_cache, collapse=False)      # [n_receiver_heads]
+        p_corrupt_per = _lth_vocab_mass(corrupt_z_cache, collapse=False)  # [n_receiver_heads]
+        per_receiver_denom = p_clean_per - p_corrupt_per
+        unstable = [
+            receiver_heads[i] for i in range(len(receiver_heads))
+            if abs(per_receiver_denom[i].item()) < 1e-6
+        ]
+        if unstable:
+            print(f"[LPRR] NOTE: these receivers individually don't separate V_task "
+                  f"(will show as extreme/inf/NaN LPRR): {unstable}")
 
     for sender_layer, sender_head in tqdm(list(product(range(max(receiver_layers)), range(model.cfg.n_heads)))):
         # ---- Run B: isolate the sender -> LTH.{input} edge ----
@@ -320,8 +372,12 @@ def get_path_patch_head_to_LTH_vocab(
             corrupt_dataset.toks, names_filter=z_hook_filter, return_type=None
         )
 
-        p_patched = _lth_vocab_mass(run_c_cache)
-        results[sender_layer, sender_head] = (p_patched - p_corrupt) / (p_clean - p_corrupt)
+        if collapse_receivers:
+            p_patched = _lth_vocab_mass(run_c_cache)
+            results[sender_layer, sender_head] = (p_patched - p_corrupt) / denom
+        else:
+            p_patched_per = _lth_vocab_mass(run_c_cache, collapse=False)  # [n_receiver_heads]
+            results[:, sender_layer, sender_head] = (p_patched_per - p_corrupt_per) / per_receiver_denom
 
     model.reset_hooks()
     return results

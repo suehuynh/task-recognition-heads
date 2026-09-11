@@ -16,7 +16,6 @@ from plot import plot_sender_head_effect
 
 torch.set_grad_enabled(False)
 
-# .../src/pipeline/path_patching/pp_pipeline.py -> repo root is three levels up.
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(SCRIPT_DIR)))
 
@@ -174,6 +173,15 @@ if __name__ == "__main__":
     parser.add_argument("--exp_size", type=int, default=50,
         help="number of model-correct prompts to path-patch over")
     parser.add_argument("--batch_size", type=int, default=8)
+    parser.add_argument("--receiver_mode", type=str, default="aggregate",
+        choices=["aggregate", "per_receiver", "both"],
+        help="'aggregate' (default, unchanged): one score per sender, averaged "
+             "over all receiver LTH -- writes exactly the same files/paths as "
+             "before. 'per_receiver': one score per (receiver LTH, sender) -- "
+             "writes to a new per_receiver/ subfolder, does not touch the "
+             "aggregate paths. 'both': computes the per-receiver tensor once "
+             "(no extra cost) and derives+writes the aggregate from it too, "
+             "to the same paths 'aggregate' would use.")
 
     args = parser.parse_args()
 
@@ -259,9 +267,51 @@ if __name__ == "__main__":
 
     _L2_METRIC_FNS = {"l2_norm_rel": l2_norm_rel, "l2_norm_abs": l2_norm_abs}
 
+    want_per_receiver = args.receiver_mode in ("per_receiver", "both")
+    want_aggregate = args.receiver_mode in ("aggregate", "both")
+    # If we need per-receiver scores at all, compute the disaggregated tensor
+    # once -- the aggregate is then just its mean over the receiver axis, at
+    # no extra cost (same forward passes either way).
+    collapse_receivers = not want_per_receiver
+
+    def _save_one(save_root_dir, stem, scores2d, meta_extra):
+        """scores2d: [sender_layer, sender_head] tensor. Writes .pt, heatmap, ranked.json."""
+        os.makedirs(save_root_dir, exist_ok=True)
+        torch.save(scores2d, os.path.join(save_root_dir, f"{stem}.pt"))
+
+        plot_path = os.path.join(save_root_dir, f"{stem}_heatmap.html")
+        plot_sender_head_effect(
+            scores2d, receiver_list, receiver_input, save_path=plot_path, metric=metric
+        )
+
+        heads_ranked = rank_heads(scores2d.cpu().numpy(), threshold=None)
+        heads_ranked = [
+            (int(layer), int(head), float(score))
+            for layer, head, score in heads_ranked
+            if not np.isnan(score)
+        ]
+        ranked = {
+            "meta": {
+                "model_name": model_name_short, "d_name": args.d_name, "k": args.k,
+                "threshold": args.threshold,
+                "pp_prompt_type": args.pp_prompt_type, "pp_prompt_index": args.pp_prompt_index,
+                "receiver_input": receiver_input, "metric": metric,
+                "n_examples": len(clean_prompts),
+                "receiver_list": receiver_list,
+                **meta_extra,
+            },
+            "heads_ranked": heads_ranked,
+        }
+        print(f"Top 15 upstream heads ({stem}):")
+        for layer, head, score in heads_ranked[:15]:
+            print(f"  L{layer}H{head}: {score:.4f}")
+        with open(os.path.join(save_root_dir, f"{stem}_ranked.json"), "w") as f:
+            json.dump(ranked, f, indent=2)
+
     for receiver_input in args.receiver_input:
         for metric in args.metric:
-            print(f"\n=== path patching: sender -> LTH.{receiver_input}  |  metric={metric} ===")
+            print(f"\n=== path patching: sender -> LTH.{receiver_input}  |  metric={metric} "
+                  f"| receiver_mode={args.receiver_mode} ===")
             if metric in _L2_METRIC_FNS:
                 results = get_path_patch_head_to_heads(
                     receiver_heads=receiver_list,
@@ -272,7 +322,8 @@ if __name__ == "__main__":
                     orig_dataset=clean_dataset,
                     new_cache=corrupt_z_cache,
                     orig_cache=clean_z_cache,
-                )  # [layer, head]
+                    collapse_receivers=collapse_receivers,
+                )
             else:  # lprr
                 results = get_path_patch_head_to_LTH_vocab(
                     receiver_heads=receiver_list,
@@ -283,40 +334,44 @@ if __name__ == "__main__":
                     corrupt_dataset=corrupt_dataset,
                     clean_z_cache=clean_z_cache,
                     corrupt_z_cache=corrupt_z_cache,
-                )  # [layer, head]
+                    collapse_receivers=collapse_receivers,
+                )
+            # results is [layer, head] if collapse_receivers else [n_receivers, layer, head]
 
             stem = f"sender_to_shared_lexical_heads_{tag}_{receiver_input}_{metric}"
-            torch.save(results, os.path.join(save_dir, f"{stem}.pt"))
 
-            plot_path = os.path.join(save_dir, f"{stem}_heatmap.html")
-            plot_sender_head_effect(
-                results, receiver_list, receiver_input, save_path=plot_path, metric=metric
-            )
+            if collapse_receivers:
+                # args.receiver_mode == "aggregate": identical call, identical
+                # output shape, identical paths to before this feature existed.
+                _save_one(save_dir, stem, results, meta_extra={"receiver_mode": "aggregate"})
+            else:
+                per_receiver_dir = os.path.join(save_dir, "per_receiver", f"{tag}_{receiver_input}_{metric}")
+                os.makedirs(per_receiver_dir, exist_ok=True)
 
-            heads_ranked = rank_heads(results.cpu().numpy(), threshold=None)
-            heads_ranked = [
-                (int(layer), int(head), float(score))
-                for layer, head, score in heads_ranked
-                if not np.isnan(score)
-            ]
+                torch.save(results, os.path.join(per_receiver_dir, "scores.pt"))
+                receiver_index = [
+                    {"index": i, "layer": int(layer), "head": int(head)}
+                    for i, (layer, head) in enumerate(receiver_list)
+                ]
+                with open(os.path.join(per_receiver_dir, "receiver_index.json"), "w") as f:
+                    json.dump(receiver_index, f, indent=2)
 
-            ranked = {
-                "meta": {
-                    "model_name": model_name_short, "d_name": args.d_name, "k": args.k,
-                    "threshold": args.threshold,
-                    "pp_prompt_type": args.pp_prompt_type, "pp_prompt_index": args.pp_prompt_index,
-                    "receiver_input": receiver_input, "metric": metric,
-                    "n_examples": len(clean_prompts),
-                    "receiver_list": receiver_list,
-                },
-                "heads_ranked": heads_ranked,
-            }
-            print(f"Top 15 upstream heads (sender -> {receiver_input}, {metric}):")
-            for layer, head, score in heads_ranked[:15]:
-                print(f"  L{layer}H{head}: {score:.4f}")
+                for i, (layer, head) in enumerate(receiver_list):
+                    _save_one(
+                        per_receiver_dir, f"L{layer}H{head}", results[i],
+                        meta_extra={"receiver_mode": "per_receiver", "receiver": [layer, head]},
+                    )
 
-            ranked_path = os.path.join(save_dir, f"{stem}_ranked.json")
-            with open(ranked_path, "w") as f:
-                json.dump(ranked, f, indent=2)
+                if want_aggregate:
+                    # Derived from the same disaggregated tensor above -- the
+                    # aggregate is a nanmean over the receiver axis, not a
+                    # second computation, so it is exactly consistent with the
+                    # per-receiver files (and with the old aggregate-only
+                    # numbers, up to the receiver-count-weighted mean already
+                    # being how the old code combined receivers).
+                    aggregate_scores = results.nanmean(dim=0)
+                    _save_one(save_dir, stem, aggregate_scores, meta_extra={"receiver_mode": "both (derived aggregate)"})
 
     print("\nsaved to", save_dir)
+    if want_per_receiver:
+        print("per-receiver breakdowns saved under", os.path.join(save_dir, "per_receiver"))

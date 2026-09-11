@@ -1,4 +1,4 @@
-def l2_norm_abs(clean_receiver_input, patched_receiver_input):
+def l2_norm_abs(clean_receiver_input, patched_receiver_input, reduce: bool = True):
     """
     Absolute L2 magnitude of the change a single patched sender induces in the
     receiver heads' input vector (q/k/v) at the final query position.
@@ -7,23 +7,33 @@ def l2_norm_abs(clean_receiver_input, patched_receiver_input):
     slice produced by get_path_patch_head_to_heads._gather_receiver_vec).
 
     Computes ||q_patched - q_clean||_2 per (receiver head, prompt), then means
-    over both. This is the norm of the difference vector -- not the difference
-    of norms -- so it responds to *directional* changes in the receiver input
-    (which tokens the head attends to), not only to rescaling.
+    over prompts. This is the norm of the difference vector -- not the
+    difference of norms -- so it responds to *directional* changes in the
+    receiver input (which tokens the head attends to), not only to rescaling.
+
+    reduce=True (default, unchanged behaviour): also means over the receiver
+        axis and returns a python float, as before.
+    reduce=False: keeps the receiver axis and returns a [n_receiver_heads]
+        tensor (mean over prompts only) -- one score per receiver head, for
+        per-receiver path patching.
     """
     delta = (patched_receiver_input - clean_receiver_input).norm(p=2, dim=-1)  # [n_heads, batch]
-    return delta.mean().item()
+    per_head = delta.mean(dim=-1)  # [n_heads]
+    return per_head.mean().item() if reduce else per_head
 
-def l2_norm_rel(clean_receiver_input, patched_receiver_input):
+def l2_norm_rel(clean_receiver_input, patched_receiver_input, reduce: bool = True):
     """
     Same change as l2_norm_abs, but each (receiver head, prompt) delta is
     divided by that receiver's clean input norm before averaging -- a
     fractional change that is comparable across heads of different magnitude
     and not dominated by a few high-norm receivers/prompts.
+
+    reduce: see l2_norm_abs.
     """
     delta = (patched_receiver_input - clean_receiver_input).norm(p=2, dim=-1)   # [n_heads, batch]
     clean = clean_receiver_input.norm(p=2, dim=-1).clamp_min(1e-8)              # [n_heads, batch]
-    return (delta / clean).mean().item()
+    per_head = (delta / clean).mean(dim=-1)  # [n_heads]
+    return per_head.mean().item() if reduce else per_head
 
 def early_decode(head_output, model):
     """
