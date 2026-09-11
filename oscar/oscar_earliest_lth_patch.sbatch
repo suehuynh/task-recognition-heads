@@ -46,5 +46,5 @@ for TASK in "${TASKS[@]}"; do
         --receiver_input q k v \
         --direction "$DIRECTION" \
         --metric l2_norm_rel l2_norm_abs lprr \
-        --exp_size 25
+        --exp_size 100
 done

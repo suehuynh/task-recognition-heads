@@ -41,6 +41,6 @@ for TASK in "${TASKS[@]}"; do
         --receiver_input q \
         --receiver_key ep_heads \
         --metric lprr \
-        --exp_size 25 \
+        --exp_size 100 \
         --batch_size 16
 done
